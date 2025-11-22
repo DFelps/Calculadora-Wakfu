@@ -1,0 +1,461 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Calculadora de Dano Wakfu</title>
+<style>
+*{box-sizing:border-box}
+body{margin:0;padding:20px;font-family:system-ui,Arial,sans-serif;background:#0b1014;color:#e5f1ff}
+h1{margin-top:0;font-size:26px;color:#7feff7}
+h2{font-size:18px;margin:10px 0;color:#b2e6ff}
+label{font-size:13px}
+input[type="number"]{width:90px;padding:4px 6px;border-radius:4px;border:1px solid #2f3c4a;background:#080c10;color:#e5f1ff}
+input[type="text"]{width:140px;padding:4px 6px;border-radius:4px;border:1px solid #2f3c4a;background:#080c10;color:#e5f1ff}
+input[type="checkbox"],input[type="radio"]{transform:scale(0.9);margin-right:4px}
+select{padding:4px 6px;border-radius:4px;border:1px solid #2f3c4a;background:#080c10;color:#e5f1ff}
+button{padding:8px 14px;border-radius:6px;border:none;background:#1fb2ff;color:#021018;font-weight:600;cursor:pointer;margin-top:8px}
+button.secondary{background:#1f2933;color:#e5f1ff}
+button:active{transform:scale(.97)}
+.container{display:flex;gap:18px;flex-wrap:wrap}
+.panel{background:#111821;border-radius:10px;padding:14px;box-shadow:0 0 0 1px #1d2733}
+.panel.wide{flex:1 1 100%}
+.panel.half{flex:1 1 310px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:8px 14px}
+.small-label{font-size:11px;color:#9bb5cc;display:block;margin-bottom:2px}
+.result{margin-top:8px;padding:6px 8px;border-radius:6px;background:#05090f;font-size:13px}
+.result strong{color:#7feff7}
+.badge{display:inline-block;padding:2px 6px;border-radius:999px;font-size:10px;background:#1b2833;color:#c4e3ff;margin-left:4px}
+.skill-header{display:flex;align-items:center;justify-content:space-between;margin-bottom:6px}
+.skill-header span{font-size:11px;color:#7e96aa}
+.toggle-row{display:flex;flex-wrap:wrap;gap:10px;margin-top:4px}
+.footer{margin-top:10px;font-size:11px;color:#7e96aa}
+.highlight{outline:1px solid #32ffab}
+.formula{font-family:monospace;font-size:11px;margin-top:4px;color:#a1ffd7;white-space:pre-wrap}
+.switch-row{display:flex;align-items:center;gap:6px;font-size:12px;margin-top:4px}
+@media (max-width:860px){
+  .panel.half{flex:1 1 100%}
+}
+</style>
+</head>
+<body>
+
+<h1>Calculadora de Dano Wakfu</h1>
+
+<div class="container">
+
+  <div class="panel wide">
+    <h2>Stats Globais do Personagem</h2>
+    <div class="grid">
+      <div>
+        <span class="small-label">Resistência do inimigo (%)</span>
+        <input type="number" id="resist" value="50">
+      </div>
+      <div>
+        <span class="small-label">Danos causados (%)</span>
+        <input type="number" id="damageInflicted" value="-15">
+      </div>
+      <div>
+        <span class="small-label">Cura realizada (%)</span>
+        <input type="number" id="healInflicted" value="30">
+      </div>
+      <div>
+        <span class="small-label">Chance de crítico (%)</span>
+        <input type="number" id="critChance" value="22">
+      </div>
+      <div>
+        <span class="small-label">Bônus de base no crítico (%)</span>
+        <input type="number" id="critBaseBonus" value="25">
+      </div>
+      <div>
+        <span class="small-label">Domínio elemental (da skill)</span>
+        <input type="number" id="mElem" value="525">
+      </div>
+      <div>
+        <span class="small-label">Domínio de distância</span>
+        <input type="number" id="mDist" value="92">
+      </div>
+      <div>
+        <span class="small-label">Domínio de curta distância</span>
+        <input type="number" id="mMelee" value="0">
+      </div>
+      <div>
+        <span class="small-label">Domínio alvo único</span>
+        <input type="number" id="mST" value="0">
+      </div>
+      <div>
+        <span class="small-label">Domínio de área (AOE)</span>
+        <input type="number" id="mAOE" value="0">
+      </div>
+      <div>
+        <span class="small-label">Domínio de crítico</span>
+        <input type="number" id="mCrit" value="0">
+      </div>
+      <div>
+        <span class="small-label">Domínio de berserk</span>
+        <input type="number" id="mBerserk" value="0">
+      </div>
+      <div>
+        <span class="small-label">Domínio indireto</span>
+        <input type="number" id="mIndirect" value="0">
+      </div>
+      <div>
+        <span class="small-label">Domínio de costas (backstab)</span>
+        <input type="number" id="mBackstab" value="0">
+      </div>
+      <div>
+        <span class="small-label">Domínio de cura</span>
+        <input type="number" id="mHeal" value="170">
+      </div>
+    </div>
+    <div class="switch-row">
+      <input type="checkbox" id="useLocalStorage" checked>
+      <label for="useLocalStorage">Salvar valores automaticamente neste navegador</label>
+    </div>
+    <div style="margin-top:8px">
+      <button onclick="calculateAll()">Calcular tudo</button>
+      <button class="secondary" onclick="resetAll()">Resetar tudo</button>
+    </div>
+  </div>
+
+  <div class="panel half skill-card" data-id="1">
+    <div class="skill-header">
+      <div>
+        <h2>Skill A</h2>
+        <span>Use para sua skill principal</span>
+      </div>
+      <div>
+        <span class="small-label">Nome</span>
+        <input type="text" id="skill1Name" value="Skill A">
+      </div>
+    </div>
+    <div class="grid">
+      <div>
+        <span class="small-label">Base da skill</span>
+        <input type="number" id="skill1Base" value="30">
+      </div>
+      <div>
+        <span class="small-label">Tipo</span>
+        <select id="skill1Type">
+          <option value="damage">Dano</option>
+          <option value="heal">Cura</option>
+          <option value="indirect">Dano indireto</option>
+        </select>
+      </div>
+    </div>
+    <div class="toggle-row">
+      <label><input type="checkbox" id="skill1Dist" checked>Distância</label>
+      <label><input type="checkbox" id="skill1Melee">Corpo a corpo</label>
+      <label><input type="checkbox" id="skill1ST">Alvo único</label>
+      <label><input type="checkbox" id="skill1AOE">Área (AOE)</label>
+      <label><input type="checkbox" id="skill1Backstab">Backstab</label>
+      <label><input type="checkbox" id="skill1Berserk">Berserk</label>
+      <label><input type="checkbox" id="skill1IsCritOnly">Calcular só crítico</label>
+    </div>
+
+    <div class="result" id="skill1Result">
+      <div><strong>Dano normal:</strong> 0</div>
+      <div><strong>Dano crítico:</strong> 0</div>
+      <div><strong>Dano médio (crit chance):</strong> 0</div>
+    </div>
+    <button class="secondary" onclick="toggleFormula(1)">Ver fórmula</button>
+    <div class="formula" id="skill1Formula" style="display:none"></div>
+  </div>
+
+  <div class="panel half skill-card" data-id="2">
+    <div class="skill-header">
+      <div>
+        <h2>Skill B</h2>
+        <span>Use para comparar outra skill</span>
+      </div>
+      <div>
+        <span class="small-label">Nome</span>
+        <input type="text" id="skill2Name" value="Skill B">
+      </div>
+    </div>
+    <div class="grid">
+      <div>
+        <span class="small-label">Base da skill</span>
+        <input type="number" id="skill2Base" value="46">
+      </div>
+      <div>
+        <span class="small-label">Tipo</span>
+        <select id="skill2Type">
+          <option value="damage">Dano</option>
+          <option value="heal">Cura</option>
+          <option value="indirect">Dano indireto</option>
+        </select>
+      </div>
+    </div>
+    <div class="toggle-row">
+      <label><input type="checkbox" id="skill2Dist">Distância</label>
+      <label><input type="checkbox" id="skill2Melee">Corpo a corpo</label>
+      <label><input type="checkbox" id="skill2ST" checked>Alvo único</label>
+      <label><input type="checkbox" id="skill2AOE">Área (AOE)</label>
+      <label><input type="checkbox" id="skill2Backstab">Backstab</label>
+      <label><input type="checkbox" id="skill2Berserk">Berserk</label>
+      <label><input type="checkbox" id="skill2IsCritOnly">Calcular só crítico</label>
+    </div>
+
+    <div class="result" id="skill2Result">
+      <div><strong>Dano normal:</strong> 0</div>
+      <div><strong>Dano crítico:</strong> 0</div>
+      <div><strong>Dano médio (crit chance):</strong> 0</div>
+    </div>
+    <button class="secondary" onclick="toggleFormula(2)">Ver fórmula</button>
+    <div class="formula" id="skill2Formula" style="display:none"></div>
+  </div>
+</div>
+
+<div class="footer">
+  A fórmula usada é: Base × (1 + MasteryTotal/100) × (1 + DanosCausados/100) × (1 − Resist/100).<br>
+  Para crítico: o dano base é aumentado pelo bônus de crítico (%) e o Domínio de crítico é adicionado ao MasteryTotal.
+</div>
+
+<script>
+function getNumber(id){return parseFloat(document.getElementById(id).value)||0}
+
+function buildParams(){
+  return {
+    resist:getNumber("resist"),
+    damageInflicted:getNumber("damageInflicted"),
+    healInflicted:getNumber("healInflicted"),
+    critChance:getNumber("critChance"),
+    critBaseBonus:getNumber("critBaseBonus"),
+    mElem:getNumber("mElem"),
+    mDist:getNumber("mDist"),
+    mMelee:getNumber("mMelee"),
+    mST:getNumber("mST"),
+    mAOE:getNumber("mAOE"),
+    mCrit:getNumber("mCrit"),
+    mBerserk:getNumber("mBerserk"),
+    mIndirect:getNumber("mIndirect"),
+    mBackstab:getNumber("mBackstab"),
+    mHeal:getNumber("mHeal")
+  }
+}
+
+function computeSkillDamage(base,type,flags,globalParams,isCrit){
+  let mastery=0
+  if(type==="heal"){
+    mastery+=globalParams.mElem
+    if(flags.isST)mastery+=globalParams.mST
+    if(flags.isAOE)mastery+=globalParams.mAOE
+    mastery+=globalParams.mHeal
+  }else if(type==="indirect"){
+    mastery+=globalParams.mElem
+    mastery+=globalParams.mIndirect
+    if(flags.isST)mastery+=globalParams.mST
+    if(flags.isAOE)mastery+=globalParams.mAOE
+  }else{
+    mastery+=globalParams.mElem
+    if(flags.isDist)mastery+=globalParams.mDist
+    if(flags.isMelee)mastery+=globalParams.mMelee
+    if(flags.isST)mastery+=globalParams.mST
+    if(flags.isAOE)mastery+=globalParams.mAOE
+    if(flags.isBackstab)mastery+=globalParams.mBackstab
+    if(flags.isBerserk)mastery+=globalParams.mBerserk
+    if(isCrit)mastery+=globalParams.mCrit
+  }
+
+  let masteryMult=1+mastery/100
+  let diMult=1
+  let resMult=1
+
+  if(type==="heal"){
+    diMult=1+globalParams.healInflicted/100
+  }else if(type==="indirect"){
+    diMult=1+globalParams.damageInflicted/100
+    resMult=(100-globalParams.resist)/100
+  }else{
+    diMult=1+globalParams.damageInflicted/100
+    resMult=(100-globalParams.resist)/100
+  }
+
+  let baseCritMult=isCrit?1+globalParams.critBaseBonus/100:1
+  let raw=base*baseCritMult*masteryMult*diMult*resMult
+  return {value:Math.floor(raw),mastery:mastery,masteryMult:masteryMult,diMult:diMult,resMult:resMult,baseCritMult:baseCritMult}
+}
+
+function calculateSkill(id){
+  let globalParams=buildParams()
+  let base=getNumber("skill"+id+"Base")
+  let type=document.getElementById("skill"+id+"Type").value
+  let flags={
+    isDist:document.getElementById("skill"+id+"Dist").checked,
+    isMelee:document.getElementById("skill"+id+"Melee").checked,
+    isST:document.getElementById("skill"+id+"ST").checked,
+    isAOE:document.getElementById("skill"+id+"AOE").checked,
+    isBackstab:document.getElementById("skill"+id+"Backstab").checked,
+    isBerserk:document.getElementById("skill"+id+"Berserk").checked
+  }
+
+  let onlyCrit=document.getElementById("skill"+id+"IsCritOnly").checked
+  let normal=computeSkillDamage(base,type,flags,globalParams,false)
+  let crit=computeSkillDamage(base,type,flags,globalParams,true)
+  let critChance=Math.max(0,Math.min(100,globalParams.critChance))/100
+  let avg=onlyCrit?crit.value:Math.floor(normal.value*(1-critChance)+crit.value*critChance)
+
+  let resDiv=document.getElementById("skill"+id+"Result")
+  let labelNormal=type==="heal"?"Cura normal:":"Dano normal:"
+  let labelCrit=type==="heal"?"Cura crítica:":"Dano crítico:"
+  let labelAvg=type==="heal"?"Cura média (crit chance):":"Dano médio (crit chance):"
+
+  resDiv.innerHTML=
+    "<div><strong>"+labelNormal+"</strong> "+(onlyCrit?0:normal.value)+"</div>"+
+    "<div><strong>"+labelCrit+"</strong> "+crit.value+"</div>"+
+    "<div><strong>"+labelAvg+"</strong> "+avg+"</div>"
+
+  let formulaStr="Base="+base+"\n"
+  if(type==="heal")formulaStr+="Tipo: Cura\n"
+  else if(type==="indirect")formulaStr+="Tipo: Dano indireto\n"
+  else formulaStr+="Tipo: Dano\n"
+
+  formulaStr+="Mastery total="+normal.mastery.toFixed(2)+"  ⇒  (1 + M/100) = "+normal.masteryMult.toFixed(3)+"\n"
+  if(type==="heal")formulaStr+="Multiplicador de cura (1 + Heal%/100) = "+normal.diMult.toFixed(3)+"\n"
+  else formulaStr+="Multiplicador de danos causados (1 + DI%/100) = "+normal.diMult.toFixed(3)+"\n"
+  if(type!=="heal")formulaStr+="Multiplicador de resistência (1 - Res/100) = "+normal.resMult.toFixed(3)+"\n"
+  formulaStr+="Crítico: base × "+crit.baseCritMult.toFixed(3)+" e +Domínio de crítico\n"
+
+  formulaStr+="\nDano normal ≈ floor("+base+" × "+normal.baseCritMult.toFixed(3)+" × "+normal.masteryMult.toFixed(3)+" × "+normal.diMult.toFixed(3)+" × "+normal.resMult.toFixed(3)+") = "+normal.value+"\n"
+  formulaStr+="Dano crítico ≈ floor("+base+" × "+crit.baseCritMult.toFixed(3)+" × "+crit.masteryMult.toFixed(3)+" × "+crit.diMult.toFixed(3)+" × "+crit.resMult.toFixed(3)+") = "+crit.value
+
+  document.getElementById("skill"+id+"Formula").textContent=formulaStr
+}
+
+function calculateAll(){
+  calculateSkill(1)
+  calculateSkill(2)
+  highlightBetter()
+  if(document.getElementById("useLocalStorage").checked)saveState()
+}
+
+function highlightBetter(){
+  let r1=document.getElementById("skill1Result").innerText.match(/Dano médio .*: (\d+)/)||
+          document.getElementById("skill1Result").innerText.match(/Cura média .*: (\d+)/)
+  let r2=document.getElementById("skill2Result").innerText.match(/Dano médio .*: (\d+)/)||
+          document.getElementById("skill2Result").innerText.match(/Cura média .*: (\d+)/)
+  let v1=r1?parseInt(r1[1],10):0
+  let v2=r2?parseInt(r2[1],10):0
+  let c1=document.querySelector('.skill-card[data-id="1"]')
+  let c2=document.querySelector('.skill-card[data-id="2"]')
+  c1.classList.remove("highlight")
+  c2.classList.remove("highlight")
+  if(v1>v2)c1.classList.add("highlight")
+  else if(v2>v1)c2.classList.add("highlight")
+}
+
+function toggleFormula(id){
+  let el=document.getElementById("skill"+id+"Formula")
+  el.style.display=el.style.display==="none"?"block":"none"
+}
+
+function resetAll(){
+  if(localStorage && document.getElementById("useLocalStorage").checked)localStorage.removeItem("wakfuDamageCalcV1")
+  location.reload()
+}
+
+function saveState(){
+  if(!localStorage)return
+  let data={
+    resist:getNumber("resist"),
+    damageInflicted:getNumber("damageInflicted"),
+    healInflicted:getNumber("healInflicted"),
+    critChance:getNumber("critChance"),
+    critBaseBonus:getNumber("critBaseBonus"),
+    mElem:getNumber("mElem"),
+    mDist:getNumber("mDist"),
+    mMelee:getNumber("mMelee"),
+    mST:getNumber("mST"),
+    mAOE:getNumber("mAOE"),
+    mCrit:getNumber("mCrit"),
+    mBerserk:getNumber("mBerserk"),
+    mIndirect:getNumber("mIndirect"),
+    mBackstab:getNumber("mBackstab"),
+    mHeal:getNumber("mHeal"),
+    skills:{
+      s1:{
+        name:document.getElementById("skill1Name").value,
+        base:getNumber("skill1Base"),
+        type:document.getElementById("skill1Type").value,
+        dist:document.getElementById("skill1Dist").checked,
+        melee:document.getElementById("skill1Melee").checked,
+        st:document.getElementById("skill1ST").checked,
+        aoe:document.getElementById("skill1AOE").checked,
+        back:document.getElementById("skill1Backstab").checked,
+        bers:document.getElementById("skill1Berserk").checked,
+        critOnly:document.getElementById("skill1IsCritOnly").checked
+      },
+      s2:{
+        name:document.getElementById("skill2Name").value,
+        base:getNumber("skill2Base"),
+        type:document.getElementById("skill2Type").value,
+        dist:document.getElementById("skill2Dist").checked,
+        melee:document.getElementById("skill2Melee").checked,
+        st:document.getElementById("skill2ST").checked,
+        aoe:document.getElementById("skill2AOE").checked,
+        back:document.getElementById("skill2Backstab").checked,
+        bers:document.getElementById("skill2Berserk").checked,
+        critOnly:document.getElementById("skill2IsCritOnly").checked
+      }
+    }
+  }
+  localStorage.setItem("wakfuDamageCalcV1",JSON.stringify(data))
+}
+
+function loadState(){
+  if(!localStorage)return
+  let raw=localStorage.getItem("wakfuDamageCalcV1")
+  if(!raw)return
+  try{
+    let d=JSON.parse(raw)
+    document.getElementById("resist").value=d.resist
+    document.getElementById("damageInflicted").value=d.damageInflicted
+    document.getElementById("healInflicted").value=d.healInflicted
+    document.getElementById("critChance").value=d.critChance
+    document.getElementById("critBaseBonus").value=d.critBaseBonus
+    document.getElementById("mElem").value=d.mElem
+    document.getElementById("mDist").value=d.mDist
+    document.getElementById("mMelee").value=d.mMelee
+    document.getElementById("mST").value=d.mST
+    document.getElementById("mAOE").value=d.mAOE
+    document.getElementById("mCrit").value=d.mCrit
+    document.getElementById("mBerserk").value=d.mBerserk
+    document.getElementById("mIndirect").value=d.mIndirect
+    document.getElementById("mBackstab").value=d.mBackstab
+    document.getElementById("mHeal").value=d.mHeal
+    if(d.skills){
+      let s1=d.skills.s1,s2=d.skills.s2
+      if(s1){
+        document.getElementById("skill1Name").value=s1.name
+        document.getElementById("skill1Base").value=s1.base
+        document.getElementById("skill1Type").value=s1.type
+        document.getElementById("skill1Dist").checked=s1.dist
+        document.getElementById("skill1Melee").checked=s1.melee
+        document.getElementById("skill1ST").checked=s1.st
+        document.getElementById("skill1AOE").checked=s1.aoe
+        document.getElementById("skill1Backstab").checked=s1.back
+        document.getElementById("skill1Berserk").checked=s1.bers
+        document.getElementById("skill1IsCritOnly").checked=s1.critOnly
+      }
+      if(s2){
+        document.getElementById("skill2Name").value=s2.name
+        document.getElementById("skill2Base").value=s2.base
+        document.getElementById("skill2Type").value=s2.type
+        document.getElementById("skill2Dist").checked=s2.dist
+        document.getElementById("skill2Melee").checked=s2.melee
+        document.getElementById("skill2ST").checked=s2.st
+        document.getElementById("skill2AOE").checked=s2.aoe
+        document.getElementById("skill2Backstab").checked=s2.back
+        document.getElementById("skill2Berserk").checked=s2.bers
+        document.getElementById("skill2IsCritOnly").checked=s2.critOnly
+      }
+    }
+  }catch(e){}
+}
+
+loadState()
+calculateAll()
+</script>
+
+</body>
+</html>
