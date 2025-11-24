@@ -2,14 +2,14 @@
 <html lang="pt-BR">
 <head>
 <meta charset="UTF-8">
-<title>Calculadora de Dano Wakfu</title>
+<title>Calculadora de Dano Wakfu + Itens + Profiles</title>
 <style>
 *{box-sizing:border-box}
 body{margin:0;padding:20px;font-family:system-ui,Arial,sans-serif;background:#0b1014;color:#e5f1ff}
 h1{margin-top:0;font-size:26px;color:#7feff7}
 h2{font-size:18px;margin:10px 0;color:#b2e6ff}
 label{font-size:13px}
-input[type="number"]{width:90px;padding:4px 6px;border-radius:4px;border:1px solid #2f3c4a;background:#080c10;color:#e5f1ff}
+input[type="number"]{width:80px;padding:4px 6px;border-radius:4px;border:1px solid #2f3c4a;background:#080c10;color:#e5f1ff}
 input[type="text"]{width:140px;padding:4px 6px;border-radius:4px;border:1px solid #2f3c4a;background:#080c10;color:#e5f1ff}
 input[type="checkbox"],input[type="radio"]{transform:scale(0.9);margin-right:4px}
 select{padding:4px 6px;border-radius:4px;border:1px solid #2f3c4a;background:#080c10;color:#e5f1ff}
@@ -24,7 +24,6 @@ button:active{transform:scale(.97)}
 .small-label{font-size:11px;color:#9bb5cc;display:block;margin-bottom:2px}
 .result{margin-top:8px;padding:6px 8px;border-radius:6px;background:#05090f;font-size:13px}
 .result strong{color:#7feff7}
-.badge{display:inline-block;padding:2px 6px;border-radius:999px;font-size:10px;background:#1b2833;color:#c4e3ff;margin-left:4px}
 .skill-header{display:flex;align-items:center;justify-content:space-between;margin-bottom:6px}
 .skill-header span{font-size:11px;color:#7e96aa}
 .toggle-row{display:flex;flex-wrap:wrap;gap:10px;margin-top:4px}
@@ -32,6 +31,15 @@ button:active{transform:scale(.97)}
 .highlight{outline:1px solid #32ffab}
 .formula{font-family:monospace;font-size:11px;margin-top:4px;color:#a1ffd7;white-space:pre-wrap}
 .switch-row{display:flex;align-items:center;gap:6px;font-size:12px;margin-top:4px}
+.power-summary{display:flex;flex-wrap:wrap;gap:14px;margin-top:10px}
+.power-box{flex:1 1 150px;background:#05090f;border-radius:8px;padding:10px 12px}
+.power-box h3{margin:0 0 4px;font-size:13px;color:#9ddcff}
+.power-value{font-size:20px;font-weight:700;color:#7feff7}
+.items-table{overflow-x:auto;margin-top:10px}
+.items-table table{border-collapse:collapse;width:100%;min-width:900px;font-size:11px}
+.items-table th,.items-table td{border:1px solid #1f2933;padding:4px 6px;text-align:center}
+.items-table th{background:#161f29;color:#b2e6ff;position:sticky;top:0}
+.slot-name{font-weight:600;text-align:left}
 @media (max-width:860px){
   .panel.half{flex:1 1 100%}
 }
@@ -40,6 +48,36 @@ button:active{transform:scale(.97)}
 <body>
 
 <h1>Calculadora de Dano Wakfu</h1>
+
+<div class="panel wide" id="profilesPanel">
+  <h2>Profiles</h2>
+  <div class="grid" style="align-items:flex-end;">
+    <div>
+      <span class="small-label">Profile atual</span>
+      <select id="profileSelect"></select>
+    </div>
+    <div>
+      <span class="small-label">Ações</span><br>
+      <button id="btnNewProfile">Novo</button>
+      <button id="btnDuplicateProfile" class="secondary">Duplicar</button>
+      <button id="btnRenameProfile" class="secondary">Renomear</button>
+      <button id="btnDeleteProfile" class="secondary">Excluir</button>
+    </div>
+    <div>
+      <span class="small-label">Modo de cálculo</span><br>
+      <label><input type="radio" name="calcMode" value="character">Personagem</label>
+      <label><input type="radio" name="calcMode" value="items">Itens</label>
+      <label><input type="radio" name="calcMode" value="total" checked>Total</label>
+    </div>
+    <div>
+      <span class="small-label">Comparar profiles</span><br>
+      <select id="compareA"></select>
+      <select id="compareB"></select>
+      <button id="btnCompareProfiles" class="secondary">Comparar</button>
+    </div>
+  </div>
+  <div id="compareResult" style="margin-top:6px;font-size:11px;color:#9bb5cc"></div>
+</div>
 
 <div class="container">
 
@@ -206,16 +244,330 @@ button:active{transform:scale(.97)}
   </div>
 </div>
 
+<div class="panel wide">
+  <h2>Itens & Poder Total</h2>
+  <p style="font-size:12px;color:#9bb5cc;margin:0 0 6px">
+    Preencha os status de cada item. A soma gera um <b>poder de ataque</b>, <b>poder de defesa</b> e <b>poder de cura</b> para facilitar comparação de equipamentos.
+  </p>
+
+  <div class="items-table">
+    <table>
+      <thead>
+        <tr>
+          <th>Slot</th>
+          <th>Elem</th>
+          <th>Dist</th>
+          <th>Melee</th>
+          <th>ST</th>
+          <th>AOE</th>
+          <th>CritM</th>
+          <th>Bers</th>
+          <th>Indir</th>
+          <th>Costas</th>
+          <th>CuraM</th>
+          <th>Res%</th>
+          <th>DI%</th>
+          <th>Heal%</th>
+          <th>Crit%</th>
+          <th>BaseCrit%</th>
+        </tr>
+      </thead>
+      <tbody id="itemsBody">
+        <tr>
+          <td class="slot-name">Capacete</td>
+          <td><input type="number" id="head_elem" class="item-input" value="0"></td>
+          <td><input type="number" id="head_dist" class="item-input" value="0"></td>
+          <td><input type="number" id="head_melee" class="item-input" value="0"></td>
+          <td><input type="number" id="head_st" class="item-input" value="0"></td>
+          <td><input type="number" id="head_aoe" class="item-input" value="0"></td>
+          <td><input type="number" id="head_critm" class="item-input" value="0"></td>
+          <td><input type="number" id="head_bers" class="item-input" value="0"></td>
+          <td><input type="number" id="head_indir" class="item-input" value="0"></td>
+          <td><input type="number" id="head_back" class="item-input" value="0"></td>
+          <td><input type="number" id="head_healm" class="item-input" value="0"></td>
+          <td><input type="number" id="head_res" class="item-input" value="0"></td>
+          <td><input type="number" id="head_di" class="item-input" value="0"></td>
+          <td><input type="number" id="head_healinf" class="item-input" value="0"></td>
+          <td><input type="number" id="head_critch" class="item-input" value="0"></td>
+          <td><input type="number" id="head_critbase" class="item-input" value="0"></td>
+        </tr>
+        <tr>
+          <td class="slot-name">Amuleto</td>
+          <td><input type="number" id="amulet_elem" class="item-input" value="0"></td>
+          <td><input type="number" id="amulet_dist" class="item-input" value="0"></td>
+          <td><input type="number" id="amulet_melee" class="item-input" value="0"></td>
+          <td><input type="number" id="amulet_st" class="item-input" value="0"></td>
+          <td><input type="number" id="amulet_aoe" class="item-input" value="0"></td>
+          <td><input type="number" id="amulet_critm" class="item-input" value="0"></td>
+          <td><input type="number" id="amulet_bers" class="item-input" value="0"></td>
+          <td><input type="number" id="amulet_indir" class="item-input" value="0"></td>
+          <td><input type="number" id="amulet_back" class="item-input" value="0"></td>
+          <td><input type="number" id="amulet_healm" class="item-input" value="0"></td>
+          <td><input type="number" id="amulet_res" class="item-input" value="0"></td>
+          <td><input type="number" id="amulet_di" class="item-input" value="0"></td>
+          <td><input type="number" id="amulet_healinf" class="item-input" value="0"></td>
+          <td><input type="number" id="amulet_critch" class="item-input" value="0"></td>
+          <td><input type="number" id="amulet_critbase" class="item-input" value="0"></td>
+        </tr>
+        <tr>
+          <td class="slot-name">Armadura</td>
+          <td><input type="number" id="chest_elem" class="item-input" value="0"></td>
+          <td><input type="number" id="chest_dist" class="item-input" value="0"></td>
+          <td><input type="number" id="chest_melee" class="item-input" value="0"></td>
+          <td><input type="number" id="chest_st" class="item-input" value="0"></td>
+          <td><input type="number" id="chest_aoe" class="item-input" value="0"></td>
+          <td><input type="number" id="chest_critm" class="item-input" value="0"></td>
+          <td><input type="number" id="chest_bers" class="item-input" value="0"></td>
+          <td><input type="number" id="chest_indir" class="item-input" value="0"></td>
+          <td><input type="number" id="chest_back" class="item-input" value="0"></td>
+          <td><input type="number" id="chest_healm" class="item-input" value="0"></td>
+          <td><input type="number" id="chest_res" class="item-input" value="0"></td>
+          <td><input type="number" id="chest_di" class="item-input" value="0"></td>
+          <td><input type="number" id="chest_healinf" class="item-input" value="0"></td>
+          <td><input type="number" id="chest_critch" class="item-input" value="0"></td>
+          <td><input type="number" id="chest_critbase" class="item-input" value="0"></td>
+        </tr>
+        <tr>
+          <td class="slot-name">Anel 1</td>
+          <td><input type="number" id="ring1_elem" class="item-input" value="0"></td>
+          <td><input type="number" id="ring1_dist" class="item-input" value="0"></td>
+          <td><input type="number" id="ring1_melee" class="item-input" value="0"></td>
+          <td><input type="number" id="ring1_st" class="item-input" value="0"></td>
+          <td><input type="number" id="ring1_aoe" class="item-input" value="0"></td>
+          <td><input type="number" id="ring1_critm" class="item-input" value="0"></td>
+          <td><input type="number" id="ring1_bers" class="item-input" value="0"></td>
+          <td><input type="number" id="ring1_indir" class="item-input" value="0"></td>
+          <td><input type="number" id="ring1_back" class="item-input" value="0"></td>
+          <td><input type="number" id="ring1_healm" class="item-input" value="0"></td>
+          <td><input type="number" id="ring1_res" class="item-input" value="0"></td>
+          <td><input type="number" id="ring1_di" class="item-input" value="0"></td>
+          <td><input type="number" id="ring1_healinf" class="item-input" value="0"></td>
+          <td><input type="number" id="ring1_critch" class="item-input" value="0"></td>
+          <td><input type="number" id="ring1_critbase" class="item-input" value="0"></td>
+        </tr>
+        <tr>
+          <td class="slot-name">Botas</td>
+          <td><input type="number" id="boots_elem" class="item-input" value="0"></td>
+          <td><input type="number" id="boots_dist" class="item-input" value="0"></td>
+          <td><input type="number" id="boots_melee" class="item-input" value="0"></td>
+          <td><input type="number" id="boots_st" class="item-input" value="0"></td>
+          <td><input type="number" id="boots_aoe" class="item-input" value="0"></td>
+          <td><input type="number" id="boots_critm" class="item-input" value="0"></td>
+          <td><input type="number" id="boots_bers" class="item-input" value="0"></td>
+          <td><input type="number" id="boots_indir" class="item-input" value="0"></td>
+          <td><input type="number" id="boots_back" class="item-input" value="0"></td>
+          <td><input type="number" id="boots_healm" class="item-input" value="0"></td>
+          <td><input type="number" id="boots_res" class="item-input" value="0"></td>
+          <td><input type="number" id="boots_di" class="item-input" value="0"></td>
+          <td><input type="number" id="boots_healinf" class="item-input" value="0"></td>
+          <td><input type="number" id="boots_critch" class="item-input" value="0"></td>
+          <td><input type="number" id="boots_critbase" class="item-input" value="0"></td>
+        </tr>
+        <tr>
+          <td class="slot-name">Arma</td>
+          <td><input type="number" id="weapon_elem" class="item-input" value="0"></td>
+          <td><input type="number" id="weapon_dist" class="item-input" value="0"></td>
+          <td><input type="number" id="weapon_melee" class="item-input" value="0"></td>
+          <td><input type="number" id="weapon_st" class="item-input" value="0"></td>
+          <td><input type="number" id="weapon_aoe" class="item-input" value="0"></td>
+          <td><input type="number" id="weapon_critm" class="item-input" value="0"></td>
+          <td><input type="number" id="weapon_bers" class="item-input" value="0"></td>
+          <td><input type="number" id="weapon_indir" class="item-input" value="0"></td>
+          <td><input type="number" id="weapon_back" class="item-input" value="0"></td>
+          <td><input type="number" id="weapon_healm" class="item-input" value="0"></td>
+          <td><input type="number" id="weapon_res" class="item-input" value="0"></td>
+          <td><input type="number" id="weapon_di" class="item-input" value="0"></td>
+          <td><input type="number" id="weapon_healinf" class="item-input" value="0"></td>
+          <td><input type="number" id="weapon_critch" class="item-input" value="0"></td>
+          <td><input type="number" id="weapon_critbase" class="item-input" value="0"></td>
+        </tr>
+        <tr>
+          <td class="slot-name">Capa</td>
+          <td><input type="number" id="cloak_elem" class="item-input" value="0"></td>
+          <td><input type="number" id="cloak_dist" class="item-input" value="0"></td>
+          <td><input type="number" id="cloak_melee" class="item-input" value="0"></td>
+          <td><input type="number" id="cloak_st" class="item-input" value="0"></td>
+          <td><input type="number" id="cloak_aoe" class="item-input" value="0"></td>
+          <td><input type="number" id="cloak_critm" class="item-input" value="0"></td>
+          <td><input type="number" id="cloak_bers" class="item-input" value="0"></td>
+          <td><input type="number" id="cloak_indir" class="item-input" value="0"></td>
+          <td><input type="number" id="cloak_back" class="item-input" value="0"></td>
+          <td><input type="number" id="cloak_healm" class="item-input" value="0"></td>
+          <td><input type="number" id="cloak_res" class="item-input" value="0"></td>
+          <td><input type="number" id="cloak_di" class="item-input" value="0"></td>
+          <td><input type="number" id="cloak_healinf" class="item-input" value="0"></td>
+          <td><input type="number" id="cloak_critch" class="item-input" value="0"></td>
+          <td><input type="number" id="cloak_critbase" class="item-input" value="0"></td>
+        </tr>
+        <tr>
+          <td class="slot-name">Ombreiras</td>
+          <td><input type="number" id="shoulders_elem" class="item-input" value="0"></td>
+          <td><input type="number" id="shoulders_dist" class="item-input" value="0"></td>
+          <td><input type="number" id="shoulders_melee" class="item-input" value="0"></td>
+          <td><input type="number" id="shoulders_st" class="item-input" value="0"></td>
+          <td><input type="number" id="shoulders_aoe" class="item-input" value="0"></td>
+          <td><input type="number" id="shoulders_critm" class="item-input" value="0"></td>
+          <td><input type="number" id="shoulders_bers" class="item-input" value="0"></td>
+          <td><input type="number" id="shoulders_indir" class="item-input" value="0"></td>
+          <td><input type="number" id="shoulders_back" class="item-input" value="0"></td>
+          <td><input type="number" id="shoulders_healm" class="item-input" value="0"></td>
+          <td><input type="number" id="shoulders_res" class="item-input" value="0"></td>
+          <td><input type="number" id="shoulders_di" class="item-input" value="0"></td>
+          <td><input type="number" id="shoulders_healinf" class="item-input" value="0"></td>
+          <td><input type="number" id="shoulders_critch" class="item-input" value="0"></td>
+          <td><input type="number" id="shoulders_critbase" class="item-input" value="0"></td>
+        </tr>
+        <tr>
+          <td class="slot-name">Cinto</td>
+          <td><input type="number" id="belt_elem" class="item-input" value="0"></td>
+          <td><input type="number" id="belt_dist" class="item-input" value="0"></td>
+          <td><input type="number" id="belt_melee" class="item-input" value="0"></td>
+          <td><input type="number" id="belt_st" class="item-input" value="0"></td>
+          <td><input type="number" id="belt_aoe" class="item-input" value="0"></td>
+          <td><input type="number" id="belt_critm" class="item-input" value="0"></td>
+          <td><input type="number" id="belt_bers" class="item-input" value="0"></td>
+          <td><input type="number" id="belt_indir" class="item-input" value="0"></td>
+          <td><input type="number" id="belt_back" class="item-input" value="0"></td>
+          <td><input type="number" id="belt_healm" class="item-input" value="0"></td>
+          <td><input type="number" id="belt_res" class="item-input" value="0"></td>
+          <td><input type="number" id="belt_di" class="item-input" value="0"></td>
+          <td><input type="number" id="belt_healinf" class="item-input" value="0"></td>
+          <td><input type="number" id="belt_critch" class="item-input" value="0"></td>
+          <td><input type="number" id="belt_critbase" class="item-input" value="0"></td>
+        </tr>
+        <tr>
+          <td class="slot-name">Anel 2</td>
+          <td><input type="number" id="ring2_elem" class="item-input" value="0"></td>
+          <td><input type="number" id="ring2_dist" class="item-input" value="0"></td>
+          <td><input type="number" id="ring2_melee" class="item-input" value="0"></td>
+          <td><input type="number" id="ring2_st" class="item-input" value="0"></td>
+          <td><input type="number" id="ring2_aoe" class="item-input" value="0"></td>
+          <td><input type="number" id="ring2_critm" class="item-input" value="0"></td>
+          <td><input type="number" id="ring2_bers" class="item-input" value="0"></td>
+          <td><input type="number" id="ring2_indir" class="item-input" value="0"></td>
+          <td><input type="number" id="ring2_back" class="item-input" value="0"></td>
+          <td><input type="number" id="ring2_healm" class="item-input" value="0"></td>
+          <td><input type="number" id="ring2_res" class="item-input" value="0"></td>
+          <td><input type="number" id="ring2_di" class="item-input" value="0"></td>
+          <td><input type="number" id="ring2_healinf" class="item-input" value="0"></td>
+          <td><input type="number" id="ring2_critch" class="item-input" value="0"></td>
+          <td><input type="number" id="ring2_critbase" class="item-input" value="0"></td>
+        </tr>
+        <tr>
+          <td class="slot-name">Pet</td>
+          <td><input type="number" id="pet_elem" class="item-input" value="0"></td>
+          <td><input type="number" id="pet_dist" class="item-input" value="0"></td>
+          <td><input type="number" id="pet_melee" class="item-input" value="0"></td>
+          <td><input type="number" id="pet_st" class="item-input" value="0"></td>
+          <td><input type="number" id="pet_aoe" class="item-input" value="0"></td>
+          <td><input type="number" id="pet_critm" class="item-input" value="0"></td>
+          <td><input type="number" id="pet_bers" class="item-input" value="0"></td>
+          <td><input type="number" id="pet_indir" class="item-input" value="0"></td>
+          <td><input type="number" id="pet_back" class="item-input" value="0"></td>
+          <td><input type="number" id="pet_healm" class="item-input" value="0"></td>
+          <td><input type="number" id="pet_res" class="item-input" value="0"></td>
+          <td><input type="number" id="pet_di" class="item-input" value="0"></td>
+          <td><input type="number" id="pet_healinf" class="item-input" value="0"></td>
+          <td><input type="number" id="pet_critch" class="item-input" value="0"></td>
+          <td><input type="number" id="pet_critbase" class="item-input" value="0"></td>
+        </tr>
+        <tr>
+          <td class="slot-name">Montaria</td>
+          <td><input type="number" id="mount_elem" class="item-input" value="0"></td>
+          <td><input type="number" id="mount_dist" class="item-input" value="0"></td>
+          <td><input type="number" id="mount_melee" class="item-input" value="0"></td>
+          <td><input type="number" id="mount_st" class="item-input" value="0"></td>
+          <td><input type="number" id="mount_aoe" class="item-input" value="0"></td>
+          <td><input type="number" id="mount_critm" class="item-input" value="0"></td>
+          <td><input type="number" id="mount_bers" class="item-input" value="0"></td>
+          <td><input type="number" id="mount_indir" class="item-input" value="0"></td>
+          <td><input type="number" id="mount_back" class="item-input" value="0"></td>
+          <td><input type="number" id="mount_healm" class="item-input" value="0"></td>
+          <td><input type="number" id="mount_res" class="item-input" value="0"></td>
+          <td><input type="number" id="mount_di" class="item-input" value="0"></td>
+          <td><input type="number" id="mount_healinf" class="item-input" value="0"></td>
+          <td><input type="number" id="mount_critch" class="item-input" value="0"></td>
+          <td><input type="number" id="mount_critbase" class="item-input" value="0"></td>
+        </tr>
+        <tr>
+          <td class="slot-name">Emblema/Ferramenta</td>
+          <td><input type="number" id="emblem_elem" class="item-input" value="0"></td>
+          <td><input type="number" id="emblem_dist" class="item-input" value="0"></td>
+          <td><input type="number" id="emblem_melee" class="item-input" value="0"></td>
+          <td><input type="number" id="emblem_st" class="item-input" value="0"></td>
+          <td><input type="number" id="emblem_aoe" class="item-input" value="0"></td>
+          <td><input type="number" id="emblem_critm" class="item-input" value="0"></td>
+          <td><input type="number" id="emblem_bers" class="item-input" value="0"></td>
+          <td><input type="number" id="emblem_indir" class="item-input" value="0"></td>
+          <td><input type="number" id="emblem_back" class="item-input" value="0"></td>
+          <td><input type="number" id="emblem_healm" class="item-input" value="0"></td>
+          <td><input type="number" id="emblem_res" class="item-input" value="0"></td>
+          <td><input type="number" id="emblem_di" class="item-input" value="0"></td>
+          <td><input type="number" id="emblem_healinf" class="item-input" value="0"></td>
+          <td><input type="number" id="emblem_critch" class="item-input" value="0"></td>
+          <td><input type="number" id="emblem_critbase" class="item-input" value="0"></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="power-summary">
+    <div class="power-box">
+      <h3>Poder de Ataque</h3>
+      <div class="power-value" id="attackPower">0</div>
+      <div style="font-size:11px;color:#9bb5cc">Soma de domínios ofensivos + danos causados + crítico (itens).</div>
+    </div>
+    <div class="power-box">
+      <h3>Poder de Defesa</h3>
+      <div class="power-value" id="defensePower">0</div>
+      <div style="font-size:11px;color:#9bb5cc">Baseado em resistência total dos itens.</div>
+    </div>
+    <div class="power-box">
+      <h3>Poder de Cura</h3>
+      <div class="power-value" id="healPower">0</div>
+      <div style="font-size:11px;color:#9bb5cc">Domínio de cura + cura realizada + parte do domínio elemental (itens).</div>
+    </div>
+  </div>
+
+  <div style="margin-top:8px">
+    <button onclick="updateItemPower()">Atualizar poder dos itens</button>
+  </div>
+</div>
+
 <div class="footer">
-  A fórmula usada é: Base × (1 + MasteryTotal/100) × (1 + DanosCausados/100) × (1 − Resist/100).<br>
+  A fórmula de dano usada é: Base × (1 + MasteryTotal/100) × (1 + DanosCausados/100) × (1 − Resist/100).<br>
   Para crítico: o dano base é aumentado pelo bônus de crítico (%) e o Domínio de crítico é adicionado ao MasteryTotal.
 </div>
 
 <script>
-function getNumber(id){return parseFloat(document.getElementById(id).value)||0}
+const STORAGE_KEY="wakfuProfilesV1"
+const itemSlots=["head","amulet","chest","ring1","boots","weapon","cloak","shoulders","belt","ring2","pet","mount","emblem"]
+const itemFields=["elem","dist","melee","st","aoe","critm","bers","indir","back","healm","res","di","healinf","critch","critbase"]
+let profiles=[]
+let activeProfileId=null
+let isApplyingProfile=false
 
-function buildParams(){
-  return {
+function getNumber(id){return parseFloat(document.getElementById(id).value)||0}
+function shouldUseStorage(){let cb=document.getElementById("useLocalStorage");return !cb||cb.checked}
+
+function getCurrentMode(){
+  let radios=document.querySelectorAll('input[name="calcMode"]')
+  for(let r of radios){if(r.checked)return r.value}
+  return "total"
+}
+
+function setCurrentMode(mode){
+  let radios=document.querySelectorAll('input[name="calcMode"]')
+  let found=false
+  radios.forEach(r=>{if(r.value===mode){r.checked=true;found=true}})
+  if(!found){
+    radios.forEach(r=>{if(r.value==="total")r.checked=true})
+  }
+}
+
+function buildEffectiveParams(){
+  let mode=getCurrentMode()
+  let char={
     resist:getNumber("resist"),
     damageInflicted:getNumber("damageInflicted"),
     healInflicted:getNumber("healInflicted"),
@@ -232,6 +584,56 @@ function buildParams(){
     mBackstab:getNumber("mBackstab"),
     mHeal:getNumber("mHeal")
   }
+  let t=computeItemTotalsFromDOM()
+  let eff={}
+  eff.resist=char.resist
+  if(mode==="character"){
+    eff.damageInflicted=char.damageInflicted
+    eff.healInflicted=char.healInflicted
+    eff.critChance=char.critChance
+    eff.critBaseBonus=char.critBaseBonus
+    eff.mElem=char.mElem
+    eff.mDist=char.mDist
+    eff.mMelee=char.mMelee
+    eff.mST=char.mST
+    eff.mAOE=char.mAOE
+    eff.mCrit=char.mCrit
+    eff.mBerserk=char.mBerserk
+    eff.mIndirect=char.mIndirect
+    eff.mBackstab=char.mBackstab
+    eff.mHeal=char.mHeal
+  }else if(mode==="items"){
+    eff.damageInflicted=t.di
+    eff.healInflicted=t.healinf
+    eff.critChance=t.critch
+    eff.critBaseBonus=t.critbase
+    eff.mElem=t.elem
+    eff.mDist=t.dist
+    eff.mMelee=t.melee
+    eff.mST=t.st
+    eff.mAOE=t.aoe
+    eff.mCrit=t.critm
+    eff.mBerserk=t.bers
+    eff.mIndirect=t.indir
+    eff.mBackstab=t.back
+    eff.mHeal=t.healm
+  }else{
+    eff.damageInflicted=char.damageInflicted+t.di
+    eff.healInflicted=char.healInflicted+t.healinf
+    eff.critChance=char.critChance+t.critch
+    eff.critBaseBonus=char.critBaseBonus+t.critbase
+    eff.mElem=char.mElem+t.elem
+    eff.mDist=char.mDist+t.dist
+    eff.mMelee=char.mMelee+t.melee
+    eff.mST=char.mST+t.st
+    eff.mAOE=char.mAOE+t.aoe
+    eff.mCrit=char.mCrit+t.critm
+    eff.mBerserk=char.mBerserk+t.bers
+    eff.mIndirect=char.mIndirect+t.indir
+    eff.mBackstab=char.mBackstab+t.back
+    eff.mHeal=char.mHeal+t.healm
+  }
+  return eff
 }
 
 function computeSkillDamage(base,type,flags,globalParams,isCrit){
@@ -256,11 +658,9 @@ function computeSkillDamage(base,type,flags,globalParams,isCrit){
     if(flags.isBerserk)mastery+=globalParams.mBerserk
     if(isCrit)mastery+=globalParams.mCrit
   }
-
   let masteryMult=1+mastery/100
   let diMult=1
   let resMult=1
-
   if(type==="heal"){
     diMult=1+globalParams.healInflicted/100
   }else if(type==="indirect"){
@@ -270,14 +670,13 @@ function computeSkillDamage(base,type,flags,globalParams,isCrit){
     diMult=1+globalParams.damageInflicted/100
     resMult=(100-globalParams.resist)/100
   }
-
   let baseCritMult=isCrit?1+globalParams.critBaseBonus/100:1
   let raw=base*baseCritMult*masteryMult*diMult*resMult
   return {value:Math.floor(raw),mastery:mastery,masteryMult:masteryMult,diMult:diMult,resMult:resMult,baseCritMult:baseCritMult}
 }
 
 function calculateSkill(id){
-  let globalParams=buildParams()
+  let globalParams=buildEffectiveParams()
   let base=getNumber("skill"+id+"Base")
   let type=document.getElementById("skill"+id+"Type").value
   let flags={
@@ -288,37 +687,30 @@ function calculateSkill(id){
     isBackstab:document.getElementById("skill"+id+"Backstab").checked,
     isBerserk:document.getElementById("skill"+id+"Berserk").checked
   }
-
   let onlyCrit=document.getElementById("skill"+id+"IsCritOnly").checked
   let normal=computeSkillDamage(base,type,flags,globalParams,false)
   let crit=computeSkillDamage(base,type,flags,globalParams,true)
   let critChance=Math.max(0,Math.min(100,globalParams.critChance))/100
   let avg=onlyCrit?crit.value:Math.floor(normal.value*(1-critChance)+crit.value*critChance)
-
   let resDiv=document.getElementById("skill"+id+"Result")
   let labelNormal=type==="heal"?"Cura normal:":"Dano normal:"
   let labelCrit=type==="heal"?"Cura crítica:":"Dano crítico:"
   let labelAvg=type==="heal"?"Cura média (crit chance):":"Dano médio (crit chance):"
-
   resDiv.innerHTML=
     "<div><strong>"+labelNormal+"</strong> "+(onlyCrit?0:normal.value)+"</div>"+
     "<div><strong>"+labelCrit+"</strong> "+crit.value+"</div>"+
     "<div><strong>"+labelAvg+"</strong> "+avg+"</div>"
-
   let formulaStr="Base="+base+"\n"
   if(type==="heal")formulaStr+="Tipo: Cura\n"
   else if(type==="indirect")formulaStr+="Tipo: Dano indireto\n"
   else formulaStr+="Tipo: Dano\n"
-
   formulaStr+="Mastery total="+normal.mastery.toFixed(2)+"  ⇒  (1 + M/100) = "+normal.masteryMult.toFixed(3)+"\n"
   if(type==="heal")formulaStr+="Multiplicador de cura (1 + Heal%/100) = "+normal.diMult.toFixed(3)+"\n"
   else formulaStr+="Multiplicador de danos causados (1 + DI%/100) = "+normal.diMult.toFixed(3)+"\n"
   if(type!=="heal")formulaStr+="Multiplicador de resistência (1 - Res/100) = "+normal.resMult.toFixed(3)+"\n"
   formulaStr+="Crítico: base × "+crit.baseCritMult.toFixed(3)+" e +Domínio de crítico\n"
-
   formulaStr+="\nDano normal ≈ floor("+base+" × "+normal.baseCritMult.toFixed(3)+" × "+normal.masteryMult.toFixed(3)+" × "+normal.diMult.toFixed(3)+" × "+normal.resMult.toFixed(3)+") = "+normal.value+"\n"
   formulaStr+="Dano crítico ≈ floor("+base+" × "+crit.baseCritMult.toFixed(3)+" × "+crit.masteryMult.toFixed(3)+" × "+crit.diMult.toFixed(3)+" × "+crit.resMult.toFixed(3)+") = "+crit.value
-
   document.getElementById("skill"+id+"Formula").textContent=formulaStr
 }
 
@@ -326,7 +718,8 @@ function calculateAll(){
   calculateSkill(1)
   calculateSkill(2)
   highlightBetter()
-  if(document.getElementById("useLocalStorage").checked)saveState()
+  updateItemPower()
+  saveActiveProfileFromDOM()
 }
 
 function highlightBetter(){
@@ -350,13 +743,48 @@ function toggleFormula(id){
 }
 
 function resetAll(){
-  if(localStorage && document.getElementById("useLocalStorage").checked)localStorage.removeItem("wakfuDamageCalcV1")
+  if(localStorage)localStorage.removeItem(STORAGE_KEY)
   location.reload()
 }
 
-function saveState(){
-  if(!localStorage)return
+function computeItemTotalsFromDOM(){
+  let totals={}
+  itemFields.forEach(f=>totals[f]=0)
+  itemSlots.forEach(slot=>{
+    itemFields.forEach(f=>{
+      totals[f]+=getNumber(slot+"_"+f)
+    })
+  })
+  return totals
+}
+
+function computeItemTotalsFromData(data){
+  let totals={}
+  itemFields.forEach(f=>totals[f]=0)
+  if(!data.items)return totals
+  itemSlots.forEach(slot=>{
+    let slotData=data.items[slot]||{}
+    itemFields.forEach(f=>{
+      let v=parseFloat(slotData[f])
+      if(!isNaN(v))totals[f]+=v
+    })
+  })
+  return totals
+}
+
+function updateItemPower(){
+  let t=computeItemTotalsFromDOM()
+  let attack=t.elem+t.dist+t.melee+t.st+t.aoe+t.critm+t.bers+t.indir+t.back+(t.di*5)+(t.critch*2)+t.critbase
+  let defense=t.res
+  let heal=Math.floor(t.healm+(t.healinf*5)+t.elem*0.3)
+  document.getElementById("attackPower").textContent=Math.floor(attack)
+  document.getElementById("defensePower").textContent=Math.floor(defense)
+  document.getElementById("healPower").textContent=Math.floor(heal)
+}
+
+function readDataFromDOM(){
   let data={
+    mode:getCurrentMode(),
     resist:getNumber("resist"),
     damageInflicted:getNumber("damageInflicted"),
     healInflicted:getNumber("healInflicted"),
@@ -397,63 +825,283 @@ function saveState(){
         bers:document.getElementById("skill2Berserk").checked,
         critOnly:document.getElementById("skill2IsCritOnly").checked
       }
+    },
+    items:{}
+  }
+  itemSlots.forEach(slot=>{
+    data.items[slot]={}
+    itemFields.forEach(f=>{
+      data.items[slot][f]=getNumber(slot+"_"+f)
+    })
+  })
+  return data
+}
+
+function applyDataToDOM(data){
+  isApplyingProfile=true
+  document.getElementById("resist").value=data.resist||0
+  document.getElementById("damageInflicted").value=data.damageInflicted||0
+  document.getElementById("healInflicted").value=data.healInflicted||0
+  document.getElementById("critChance").value=data.critChance||0
+  document.getElementById("critBaseBonus").value=data.critBaseBonus||0
+  document.getElementById("mElem").value=data.mElem||0
+  document.getElementById("mDist").value=data.mDist||0
+  document.getElementById("mMelee").value=data.mMelee||0
+  document.getElementById("mST").value=data.mST||0
+  document.getElementById("mAOE").value=data.mAOE||0
+  document.getElementById("mCrit").value=data.mCrit||0
+  document.getElementById("mBerserk").value=data.mBerserk||0
+  document.getElementById("mIndirect").value=data.mIndirect||0
+  document.getElementById("mBackstab").value=data.mBackstab||0
+  document.getElementById("mHeal").value=data.mHeal||0
+  if(data.skills&&data.skills.s1){
+    let s1=data.skills.s1
+    document.getElementById("skill1Name").value=s1.name||""
+    document.getElementById("skill1Base").value=s1.base||0
+    document.getElementById("skill1Type").value=s1.type||"damage"
+    document.getElementById("skill1Dist").checked=!!s1.dist
+    document.getElementById("skill1Melee").checked=!!s1.melee
+    document.getElementById("skill1ST").checked=!!s1.st
+    document.getElementById("skill1AOE").checked=!!s1.aoe
+    document.getElementById("skill1Backstab").checked=!!s1.back
+    document.getElementById("skill1Berserk").checked=!!s1.bers
+    document.getElementById("skill1IsCritOnly").checked=!!s1.critOnly
+  }
+  if(data.skills&&data.skills.s2){
+    let s2=data.skills.s2
+    document.getElementById("skill2Name").value=s2.name||""
+    document.getElementById("skill2Base").value=s2.base||0
+    document.getElementById("skill2Type").value=s2.type||"damage"
+    document.getElementById("skill2Dist").checked=!!s2.dist
+    document.getElementById("skill2Melee").checked=!!s2.melee
+    document.getElementById("skill2ST").checked=!!s2.st
+    document.getElementById("skill2AOE").checked=!!s2.aoe
+    document.getElementById("skill2Backstab").checked=!!s2.back
+    document.getElementById("skill2Berserk").checked=!!s2.bers
+    document.getElementById("skill2IsCritOnly").checked=!!s2.critOnly
+  }
+  if(data.items){
+    itemSlots.forEach(slot=>{
+      let slotData=data.items[slot]||{}
+      itemFields.forEach(f=>{
+        let id=slot+"_"+f
+        document.getElementById(id).value=slotData[f]||0
+      })
+    })
+  }
+  setCurrentMode(data.mode||"total")
+  isApplyingProfile=false
+  updateItemPower()
+}
+
+function saveProfilesToStorage(){
+  if(!shouldUseStorage()||!localStorage)return
+  let payload={activeId:activeProfileId,profiles:profiles}
+  localStorage.setItem(STORAGE_KEY,JSON.stringify(payload))
+}
+
+function getActiveProfile(){
+  return profiles.find(p=>p.id===activeProfileId)||null
+}
+
+function saveActiveProfileFromDOM(){
+  let p=getActiveProfile()
+  if(!p)return
+  p.data=readDataFromDOM()
+  saveProfilesToStorage()
+  refreshProfileSelects()
+}
+
+function generateId(){
+  return "p_"+Math.random().toString(36).slice(2,10)
+}
+
+function loadProfilesFromStorage(){
+  if(localStorage){
+    let raw=localStorage.getItem(STORAGE_KEY)
+    if(raw){
+      try{
+        let parsed=JSON.parse(raw)
+        if(Array.isArray(parsed.profiles)){
+          profiles=parsed.profiles
+          activeProfileId=parsed.activeId||(profiles[0]&&profiles[0].id)
+          return
+        }else{
+          let legacyData=parsed
+          let id=generateId()
+          profiles=[{id:id,name:"Profile 1",data:legacyData}]
+          activeProfileId=id
+          saveProfilesToStorage()
+          return
+        }
+      }catch(e){}
     }
   }
-  localStorage.setItem("wakfuDamageCalcV1",JSON.stringify(data))
+  let id=generateId()
+  let initialData=readDataFromDOM()
+  profiles=[{id:id,name:"Profile 1",data:initialData}]
+  activeProfileId=id
+  saveProfilesToStorage()
 }
 
-function loadState(){
-  if(!localStorage)return
-  let raw=localStorage.getItem("wakfuDamageCalcV1")
-  if(!raw)return
-  try{
-    let d=JSON.parse(raw)
-    document.getElementById("resist").value=d.resist
-    document.getElementById("damageInflicted").value=d.damageInflicted
-    document.getElementById("healInflicted").value=d.healInflicted
-    document.getElementById("critChance").value=d.critChance
-    document.getElementById("critBaseBonus").value=d.critBaseBonus
-    document.getElementById("mElem").value=d.mElem
-    document.getElementById("mDist").value=d.mDist
-    document.getElementById("mMelee").value=d.mMelee
-    document.getElementById("mST").value=d.mST
-    document.getElementById("mAOE").value=d.mAOE
-    document.getElementById("mCrit").value=d.mCrit
-    document.getElementById("mBerserk").value=d.mBerserk
-    document.getElementById("mIndirect").value=d.mIndirect
-    document.getElementById("mBackstab").value=d.mBackstab
-    document.getElementById("mHeal").value=d.mHeal
-    if(d.skills){
-      let s1=d.skills.s1,s2=d.skills.s2
-      if(s1){
-        document.getElementById("skill1Name").value=s1.name
-        document.getElementById("skill1Base").value=s1.base
-        document.getElementById("skill1Type").value=s1.type
-        document.getElementById("skill1Dist").checked=s1.dist
-        document.getElementById("skill1Melee").checked=s1.melee
-        document.getElementById("skill1ST").checked=s1.st
-        document.getElementById("skill1AOE").checked=s1.aoe
-        document.getElementById("skill1Backstab").checked=s1.back
-        document.getElementById("skill1Berserk").checked=s1.bers
-        document.getElementById("skill1IsCritOnly").checked=s1.critOnly
-      }
-      if(s2){
-        document.getElementById("skill2Name").value=s2.name
-        document.getElementById("skill2Base").value=s2.base
-        document.getElementById("skill2Type").value=s2.type
-        document.getElementById("skill2Dist").checked=s2.dist
-        document.getElementById("skill2Melee").checked=s2.melee
-        document.getElementById("skill2ST").checked=s2.st
-        document.getElementById("skill2AOE").checked=s2.aoe
-        document.getElementById("skill2Backstab").checked=s2.back
-        document.getElementById("skill2Berserk").checked=s2.bers
-        document.getElementById("skill2IsCritOnly").checked=s2.critOnly
-      }
-    }
-  }catch(e){}
+function refreshProfileSelects(){
+  let select=document.getElementById("profileSelect")
+  let compA=document.getElementById("compareA")
+  let compB=document.getElementById("compareB")
+  if(!select||!compA||!compB)return
+  select.innerHTML=""
+  compA.innerHTML="<option value=\"\">A</option>"
+  compB.innerHTML="<option value=\"\">B</option>"
+  profiles.forEach(p=>{
+    let opt=document.createElement("option")
+    opt.value=p.id
+    opt.textContent=p.name
+    if(p.id===activeProfileId)opt.selected=true
+    select.appendChild(opt)
+    let optA=document.createElement("option")
+    optA.value=p.id
+    optA.textContent=p.name
+    compA.appendChild(optA)
+    let optB=document.createElement("option")
+    optB.value=p.id
+    optB.textContent=p.name
+    compB.appendChild(optB)
+  })
 }
 
-loadState()
+function computePowersFromData(data){
+  let t=computeItemTotalsFromData(data)
+  let attack=t.elem+t.dist+t.melee+t.st+t.aoe+t.critm+t.bers+t.indir+t.back+(t.di*5)+(t.critch*2)+t.critbase
+  let defense=t.res
+  let heal=Math.floor(t.healm+(t.healinf*5)+t.elem*0.3)
+  return {attack:Math.floor(attack),defense:Math.floor(defense),heal:heal}
+}
+
+function compareProfiles(){
+  let a=document.getElementById("compareA").value
+  let b=document.getElementById("compareB").value
+  let out=document.getElementById("compareResult")
+  if(!a||!b||a===b){
+    out.textContent="Escolha dois profiles diferentes para comparar."
+    return
+  }
+  let pA=profiles.find(p=>p.id===a)
+  let pB=profiles.find(p=>p.id===b)
+  if(!pA||!pB){
+    out.textContent="Profiles inválidos."
+    return
+  }
+  let powA=computePowersFromData(pA.data)
+  let powB=computePowersFromData(pB.data)
+  let dA=powB.attack-powA.attack
+  let dD=powB.defense-powA.defense
+  let dH=powB.heal-powA.heal
+  let s="A: "+pA.name+" → Atk "+powA.attack+" / Def "+powA.defense+" / Cura "+powA.heal+"\n"
+  s+="B: "+pB.name+" → Atk "+powB.attack+" / Def "+powB.defense+" / Cura "+powB.heal+"\n"
+  s+="Diferença (B - A): Atk "+(dA>=0?"+":"")+dA+" | Def "+(dD>=0?"+":"")+dD+" | Cura "+(dH>=0?"+":"")+dH
+  out.textContent=s
+}
+
+function initProfileEvents(){
+  let sel=document.getElementById("profileSelect")
+  let btnNew=document.getElementById("btnNewProfile")
+  let btnDup=document.getElementById("btnDuplicateProfile")
+  let btnRen=document.getElementById("btnRenameProfile")
+  let btnDel=document.getElementById("btnDeleteProfile")
+  let btnComp=document.getElementById("btnCompareProfiles")
+  if(sel){
+    sel.addEventListener("change",function(){
+      saveActiveProfileFromDOM()
+      activeProfileId=this.value
+      let p=getActiveProfile()
+      if(p){
+        applyDataToDOM(p.data)
+        calculateAll()
+      }
+    })
+  }
+  if(btnNew){
+    btnNew.addEventListener("click",function(){
+      saveActiveProfileFromDOM()
+      let baseData=readDataFromDOM()
+      let id=generateId()
+      let name=prompt("Nome do novo profile:","Profile "+(profiles.length+1))||("Profile "+(profiles.length+1))
+      profiles.push({id:id,name:name,data:baseData})
+      activeProfileId=id
+      refreshProfileSelects()
+      saveProfilesToStorage()
+      applyDataToDOM(baseData)
+      calculateAll()
+    })
+  }
+  if(btnDup){
+    btnDup.addEventListener("click",function(){
+      let p=getActiveProfile()
+      if(!p)return
+      saveActiveProfileFromDOM()
+      let copyData=JSON.parse(JSON.stringify(p.data))
+      let id=generateId()
+      let name=prompt("Nome da cópia:",p.name+" (cópia)")||(p.name+" (cópia)")
+      profiles.push({id:id,name:name,data:copyData})
+      activeProfileId=id
+      refreshProfileSelects()
+      saveProfilesToStorage()
+      applyDataToDOM(copyData)
+      calculateAll()
+    })
+  }
+  if(btnRen){
+    btnRen.addEventListener("click",function(){
+      let p=getActiveProfile()
+      if(!p)return
+      let name=prompt("Novo nome do profile:",p.name)
+      if(!name)return
+      p.name=name
+      refreshProfileSelects()
+      saveProfilesToStorage()
+    })
+  }
+  if(btnDel){
+    btnDel.addEventListener("click",function(){
+      if(profiles.length<=1){
+        alert("Você precisa ter pelo menos um profile.")
+        return
+      }
+      let p=getActiveProfile()
+      if(!p)return
+      if(!confirm("Excluir profile '"+p.name+"'?"))return
+      profiles=profiles.filter(x=>x.id!==p.id)
+      activeProfileId=profiles[0].id
+      refreshProfileSelects()
+      saveProfilesToStorage()
+      applyDataToDOM(profiles[0].data)
+      calculateAll()
+    })
+  }
+  if(btnComp){
+    btnComp.addEventListener("click",compareProfiles)
+  }
+  let modeRadios=document.querySelectorAll('input[name="calcMode"]')
+  modeRadios.forEach(r=>{
+    r.addEventListener("change",function(){
+      calculateAll()
+    })
+  })
+}
+
+document.addEventListener("input",function(e){
+  if(isApplyingProfile)return
+  if(e.target.classList.contains("item-input")){
+    updateItemPower()
+  }
+  saveActiveProfileFromDOM()
+})
+
+loadProfilesFromStorage()
+refreshProfileSelects()
+initProfileEvents()
+let pInit=getActiveProfile()
+if(pInit)applyDataToDOM(pInit.data)
 calculateAll()
 </script>
 
