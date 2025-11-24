@@ -11,6 +11,28 @@ Este projeto é totalmente open-source e roda direto no GitHub Pages.
 
 ------------------------------------------------------------------------
 
+## 🔧 Status do Projeto --- *Em Desenvolvimento*
+
+Este projeto ainda está em **desenvolvimento ativo**.\
+Diversas funcionalidades estão sendo adicionadas ou aprimoradas,
+incluindo:
+
+-   Aperfeiçoamento dos cálculos de dano\
+-   Criação de interface para seleção de itens\
+-   Sistema de inventário completo usando dados reais do jogo\
+-   Otimização do carregamento dos arquivos JSON\
+-   Melhorias visuais e responsividade\
+
+Por ser um projeto em construção, algumas partes ainda podem:
+
+-   Estar incompletas\
+-   Receber ajustes futuros\
+-   Sofrer mudanças estruturais\
+-   Conter dados em versão parcial ou não final\
+-   Ser redesenhadas para melhorar desempenho ou usabilidade
+
+------------------------------------------------------------------------
+
 ## 🌐 Acesse agora
 
 ### 🔗 **Calculadora completa**
@@ -69,9 +91,8 @@ Mostre previsões de dano baseadas em combinações reais
 
 ## 🧮 Como funciona a calculadora de dano?
 
-A calculadora usa: - Seus atributos escolhidos - Seus itens equipados
-(via JSON do inventário real) - As skills do jogo - As masterias (geral,
-corpo-a-corpo, distância, mono, área, etc.) - Backstab, crítico, danos
+A calculadora usa: - Seus atributos escolhidos - As masterias (geral,
+corpo-a-corpo, distância, etc.) - Backstab, crítico, danos
 indiretos e outros modificadores
 
 Ela então aplica a fórmula de dano do Wakfu para estimar **dano final**,
@@ -84,7 +105,7 @@ variando entre: - Golpe comum\
 
 ## 📜 Licença
 
-Este projeto é open-source sob a licença MIT.\
+Este projeto é open-source.\
 Os dados do jogo Wakfu pertencem à Ankama.\
 Esta ferramenta é um projeto da comunidade, sem fins lucrativos.
 
