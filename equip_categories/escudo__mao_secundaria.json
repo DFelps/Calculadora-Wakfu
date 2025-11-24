@@ -1,0 +1,2276 @@
+[
+  {
+    "id": 2057,
+    "name": "Papascudo",
+    "description": "Este escudo é tão leve que até pode se esquecer que ele protege você! Também pode ser porque ele não é tão bom assim...",
+    "level": 16,
+    "rarity": 2,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac TACKLE] 10 Bloqueio",
+      "[#charac RES_IN_PERCENT] 5 Resistência elementar",
+      "[#charac HP] 15 PV"
+    ]
+  },
+  {
+    "id": 2090,
+    "name": "Escudo de Tofu",
+    "description": "Ah, este escudo já derrubou pelo menos uma vítima...",
+    "level": 17,
+    "rarity": 2,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac HP] 17 PV",
+      "[#charac RES_IN_PERCENT] 5 Resistência elementar",
+      "[#charac DODGE] 4 Esquiva",
+      "[#charac TACKLE] 4 Bloqueio"
+    ]
+  },
+  {
+    "id": 3976,
+    "name": "Escudo Taberna",
+    "description": "Este escudo, feito com um anúncio de taberna, fará com que não tenha dor de cabeça, mas só isso.",
+    "level": 40,
+    "rarity": 2,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac HP] 40 PV",
+      "[#charac TACKLE] 8 Bloqueio",
+      "[#charac RES_WATER_PERCENT] 18 Resistência à água",
+      "[#charac RES_EARTH_PERCENT] 18 Resistência à terra"
+    ]
+  },
+  {
+    "id": 4192,
+    "name": "O Para-choque",
+    "description": "Não é para ser confundido com o sutiã, de mesmo nome, da coleção \"Chassis do Sucesso\", por No-Jean Trool. ",
+    "level": 32,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar",
+      "[#charac HP] 35 PV",
+      "[#charac BLOCK] 7% de Parada"
+    ]
+  },
+  {
+    "id": 5945,
+    "name": "Escudo Estrelado",
+    "description": "Olha só isso! Esta grande estrela já faz desse escudo o meu preferido!",
+    "level": 60,
+    "rarity": 2,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac HP] 52 PV",
+      "[#charac RES_FIRE_PERCENT] 12 Resistência ao fogo",
+      "[#charac RES_WATER_PERCENT] 12 Resistência à água",
+      "[#charac BLOCK] 5% de Parada",
+      "[#charac RES_IN_PERCENT] 18 Resistência a 2 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 9254,
+    "name": "Papascudo Real",
+    "description": "Já que não sabe lutar como um príncipe, defenda-se como um rei!",
+    "level": 17,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac HP] 25 PV",
+      "[#charac BLOCK] 6% de Parada"
+    ]
+  },
+  {
+    "id": 9927,
+    "name": "Escudo de Cuecas",
+    "description": "Ninguém nunca saberá que você não está de cueca!",
+    "level": 31,
+    "rarity": 2,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac HP] 25 PV",
+      "[#charac TACKLE] 10 Bloqueio",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar"
+    ]
+  },
+  {
+    "id": 9930,
+    "name": "O Absorvedor",
+    "description": "Este escudo consegue mastigar tudo o que morde.",
+    "level": 32,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac BLOCK] 7% de Parada",
+      "[#charac HP] 45 PV"
+    ]
+  },
+  {
+    "id": 9975,
+    "name": "Escudo Necropuhm",
+    "description": "O escudo Necropuhm — ele queria ser um trombone quando crescesse!",
+    "level": 30,
+    "rarity": 2,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac HP] 24 PV",
+      "[#charac TACKLE] 7 Bloqueio",
+      "[#charac BLOCK] 5% de Parada",
+      "[#charac RES_IN_PERCENT] 4 Resistência elementar"
+    ]
+  },
+  {
+    "id": 9976,
+    "name": "Escudo da Negação",
+    "description": "Este escudo frequentemente está errado, mas nunca admitirá.",
+    "level": 45,
+    "rarity": 2,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac TACKLE] 6 Bloqueio",
+      "[#charac DODGE] 6 Esquiva",
+      "[#charac HP] 47 PV",
+      "[#charac BLOCK] 5% de Parada"
+    ]
+  },
+  {
+    "id": 10100,
+    "name": "Meimun",
+    "description": "Este escudo foi impermeabilizado usando pelos de Milobo. Não é tão eficaz quanto o mítico Fulmun, mas protege bem contra respingos. ",
+    "level": 71,
+    "rarity": 2,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac HP] 95 PV",
+      "[#charac RES_IN_PERCENT] 8 Resistência elementar",
+      "[#charac BLOCK] 7% de Parada"
+    ]
+  },
+  {
+    "id": 10563,
+    "name": "Paralodo",
+    "description": "Este escudo ajudará você a manter a beleza, mesmo durante a mais dura das batalhas.",
+    "level": 45,
+    "rarity": 2,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac BLOCK] 4% de Parada",
+      "[#charac RES_IN_PERCENT] 7 Resistência elementar",
+      "[#charac HP] 44 PV",
+      "[#charac DODGE] 3 Esquiva",
+      "[#charac TACKLE] 3 Bloqueio"
+    ]
+  },
+  {
+    "id": 10817,
+    "name": "Escudo Elmo",
+    "description": "Com este escudo nas mãos, você sempre usará um elmo.",
+    "level": 13,
+    "rarity": 1,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac DODGE] 6 Esquiva",
+      "[#charac HP] 11 PV",
+      "[#charac RES_IN_PERCENT] 2 Resistência elementar"
+    ]
+  },
+  {
+    "id": 11030,
+    "name": "Valiliudo",
+    "description": "Pelo de Valili é extremamente resistente. Assim que os pelos são tecidos, até mesmo uma flecha Cra será repelida.",
+    "level": 28,
+    "rarity": 1,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac HP] 20 PV",
+      "[#charac TACKLE] 10 Bloqueio"
+    ]
+  },
+  {
+    "id": 11393,
+    "name": "Escudevorador",
+    "description": "Tão voraz quanto lindo.",
+    "level": 10,
+    "rarity": 1,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac HP] 5 PV",
+      "[#charac RES_EARTH_PERCENT] 3 Resistência à terra"
+    ]
+  },
+  {
+    "id": 12057,
+    "name": "O Bom e Velho Escudo",
+    "description": "Entre um chá da tarde e outro, uma partida de croque e alguns gracejos, o comediante local Girolamo Mexilhão teve tempo para criar este escudo. Diga qualquer coisa sobre ele e ele repelirá. ",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac HP] 55 PV",
+      "[#charac CRITICAL_RES] 15 Resistência crítica",
+      "[#charac BLOCK] 5% de Parada",
+      "[#charac TACKLE] 3 Bloqueio",
+      "[#charac DODGE] 3 Esquiva"
+    ]
+  },
+  {
+    "id": 12481,
+    "name": "Escudo Estrelazul",
+    "description": "Use este escudo para se defender e você deixará os adversários vendo estrelas!",
+    "level": 70,
+    "rarity": 2,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac HP] 68 PV",
+      "[#charac RES_IN_PERCENT] 13 Resistência elementar",
+      "[#charac BLOCK] 5% de Parada",
+      "[#charac DODGE] 6 Esquiva",
+      "[#charac TACKLE] 6 Bloqueio"
+    ]
+  },
+  {
+    "id": 12604,
+    "name": "A Paróquia",
+    "description": "Absolve instantaneamente os pecados dos seus inimigos.",
+    "level": 91,
+    "rarity": 2,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac TACKLE] 15 Bloqueio",
+      "[#charac HP] 110 PV",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar",
+      "[#charac BLOCK] 3% de Parada"
+    ]
+  },
+  {
+    "id": 14121,
+    "name": "O Magmático",
+    "description": "Com ele no braço, você pode ter certeza de uma coisa... Eles não passarão!",
+    "level": 110,
+    "rarity": 4,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac HP] 155 PV",
+      "[#charac RES_IN_PERCENT] 26 Resistência elementar",
+      "[#charac BLOCK] 10% de Parada",
+      "[#charac DODGE] 10 Esquiva",
+      "[#charac TACKLE] 10 Bloqueio"
+    ]
+  },
+  {
+    "id": 14631,
+    "name": "Escudo do Defensor Imperial ",
+    "description": "Este escudo se colocará triunfantemente entre você e todos os perigos do Mundo dos Doze.",
+    "level": 95,
+    "rarity": 4,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac TACKLE] 20 Bloqueio",
+      "[#charac HP] 154 PV",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac BLOCK] 8% de Parada"
+    ]
+  },
+  {
+    "id": 14736,
+    "name": "Proteção de Khil",
+    "description": "O escudo ancestral de um Feca há muito tempo perdido.",
+    "level": 107,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac RES_IN_PERCENT] 24 Resistência elementar",
+      "[#charac BLOCK] 5% de Parada",
+      "[#charac TACKLE] 20 Bloqueio",
+      "[#charac HP] 123 PV"
+    ]
+  },
+  {
+    "id": 14851,
+    "name": "Escudo de Arvraknídeo Ancestral",
+    "description": "Este escudo é feito com a madeira mais dura que existe. Por isso é tão resistente aos ataques.",
+    "level": 65,
+    "rarity": 2,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac HP] 74 PV",
+      "[#charac BLOCK] 5% de Parada",
+      "[#charac RES_IN_PERCENT] 7 Resistência elementar",
+      "[#charac TACKLE] 4 Bloqueio",
+      "[#charac DODGE] 4 Esquiva"
+    ]
+  },
+  {
+    "id": 15037,
+    "name": "Plasma Protetor",
+    "description": "Este escudo de alta tecnologia puxa sua resistência das inúmeras almas aprisionadas nele. Sua dureza só se compara à sua viscosidade!",
+    "level": 54,
+    "rarity": 2,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac HP] 51 PV",
+      "[#charac RES_IN_PERCENT] 8 Resistência elementar",
+      "[#charac BLOCK] 5% de Parada",
+      "[#charac DODGE] 8 Esquiva"
+    ]
+  },
+  {
+    "id": 15158,
+    "name": "Oblonga Vida",
+    "description": "Dois aventureiros foram atropelados e só um deles sobreviveu. Por quê? Porque ele tinha um Oblonga Vida!",
+    "level": 48,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac RES_BACKSTAB] 8 Resistência de costas",
+      "[#charac RES_IN_PERCENT] 8 Resistência elementar",
+      "[#charac BLOCK] 6% de Parada",
+      "[#charac HP] 60 PV"
+    ]
+  },
+  {
+    "id": 15404,
+    "name": "Escudo de Motim Ratical",
+    "description": "Este escudo é feito com todas as partes dos corpos que restaram de uma das festas turbulentas de Ratical. Se você consegue carregá-lo, provavelmente não sabe do que ele é feito.",
+    "level": 80,
+    "rarity": 4,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac TACKLE] 15 Bloqueio",
+      "[#charac HP] 106 PV",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar",
+      "[#charac BLOCK] 8% de Parada"
+    ]
+  },
+  {
+    "id": 15739,
+    "name": "O Levewapy",
+    "description": "Ainda se pode ler, no interior deste escudo extraordinário, uma pequena inscrição incompreensível: \"Recordação de um amor impossível... M... P.\"",
+    "level": 20,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac FEROCITY] -10% Golpe crítico",
+      "[#charac BLOCK] 6% de Parada",
+      "[#charac HP] 30 PV",
+      "[#charac DODGE] 10 Esquiva",
+      "[#charac RES_IN_PERCENT] 5 Resistência elementar"
+    ]
+  },
+  {
+    "id": 16026,
+    "name": "Escudo Congelado",
+    "description": "A dureza deste escudo é inversamente proporcional à temperatura externa. Quanto mais frio, mais duro ele fica.",
+    "level": 105,
+    "rarity": 2,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac BLOCK] 5% de Parada",
+      "[#charac HP] 171 PV",
+      "[#charac RES_BACKSTAB] 29 Resistência de costas",
+      "[#charac DODGE] 8 Esquiva",
+      "[#charac TACKLE] 8 Bloqueio"
+    ]
+  },
+  {
+    "id": 16049,
+    "name": "Escudo Chaferizado",
+    "description": "Forjamagia era o passatempo favorito de Missiz. No seu tempo livre, ela criava escudos para equipar os seus ajudantes, o que os fazia ainda mais durões.",
+    "level": 123,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac TACKLE] 28 Bloqueio",
+      "[#charac HP] 180 PV",
+      "[#charac CRITICAL_RES] 20 Resistência crítica",
+      "[#charac RES_IN_PERCENT] 25 Resistência elementar"
+    ]
+  },
+  {
+    "id": 16146,
+    "name": "Escudo do Conde Traspafrent",
+    "description": "Este escudo foi na verdade projetado para carregar o ponteiro do Conde Traspafrent, mas acabou se mostrando eficiente contra ataques. ",
+    "level": 125,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac RES_IN_PERCENT] 39 Resistência a 3 elementos aleatórios",
+      "[#charac BLOCK] 8% de Parada",
+      "[#charac HP] 200 PV"
+    ]
+  },
+  {
+    "id": 16767,
+    "name": "Limãozinha",
+    "description": "Deixa os inimigos com um gosto azedo na boca.",
+    "level": 106,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac BLOCK] 6% de Parada",
+      "[#charac HP] 161 PV",
+      "[#charac CRITICAL_RES] 15 Resistência crítica"
+    ]
+  },
+  {
+    "id": 16795,
+    "name": "Guarda-corpo",
+    "description": "Apesar de ser o favorito de Guel Canolargo, esta tábua é feita de espuma e não protegerá você de nada mais que areia.",
+    "level": 95,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac BLOCK] 6% de Parada",
+      "[#charac HP] 123 PV",
+      "[#charac CRITICAL_RES] 10 Resistência crítica",
+      "[#charac RES_IN_PERCENT] 46 Resistência a 2 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 16800,
+    "name": "Defesa da Concha",
+    "description": "Este escudo poderia servir como uma ótima paleta para pintores iniciantes, se não deixasse tanta água entrar.",
+    "level": 90,
+    "rarity": 2,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac RES_IN_PERCENT] 35 Resistência a 2 elementos aleatórios",
+      "[#charac HP] 112 PV",
+      "[#charac BLOCK] 3% de Parada",
+      "[#charac TACKLE] 7 Bloqueio",
+      "[#charac DODGE] 7 Esquiva"
+    ]
+  },
+  {
+    "id": 16827,
+    "name": "Escudo Inflável",
+    "description": "Oohhnnn... Você pediu uma girafa!",
+    "level": 105,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac BLOCK] 4% de Parada",
+      "[#charac DODGE] 30 Esquiva",
+      "[#charac HP] 116 PV",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar"
+    ]
+  },
+  {
+    "id": 16899,
+    "name": "Escudo Del Cabrónco",
+    "description": "Com grande resistência, vem grande densidade. Este escudo pesa metade de um Trool, então ele só protegerá você se já for bem forte.",
+    "level": 88,
+    "rarity": 2,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac HP] 97 PV",
+      "[#charac RES_IN_PERCENT] 14 Resistência elementar",
+      "[#charac BLOCK] 6% de Parada",
+      "[#charac DODGE] 7 Esquiva",
+      "[#charac TACKLE] 7 Bloqueio"
+    ]
+  },
+  {
+    "id": 17210,
+    "name": "Escudo Aprendiz",
+    "description": "A sabedoria ensinará você a fazer um melhor uso dele.",
+    "level": 94,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac BLOCK] 6% de Parada",
+      "[#charac DODGE] 6 Esquiva",
+      "[#charac TACKLE] 6 Bloqueio",
+      "[#charac HP] 121 PV",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar"
+    ]
+  },
+  {
+    "id": 17257,
+    "name": "O Escudelado",
+    "description": "Este escudo é meio estraga-prazeres, na verdade. Talvez você pudesse experimentar um tratamento de reavivamento da alegria de alto nível na casa do Armeiro.",
+    "level": 140,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac DODGE] 50 Esquiva",
+      "[#charac HP] 126 PV",
+      "[#charac RES_IN_PERCENT] 56 Resistência a 2 elementos aleatórios",
+      "[#charac BLOCK] 9% de Parada"
+    ]
+  },
+  {
+    "id": 17291,
+    "name": "Escudo de Pompom",
+    "description": "Almofadas se inflam, caso você caia.",
+    "level": 137,
+    "rarity": 2,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac BLOCK] 6% de Parada",
+      "[#charac TACKLE] 25 Bloqueio",
+      "[#charac HP] 154 PV",
+      "[#charac RES_IN_PERCENT] 25 Resistência elementar"
+    ]
+  },
+  {
+    "id": 17317,
+    "name": "Es Escudo",
+    "description": "Este escudo imenso protegerá você, claro, mas não conseguirá ver nada à sua frente.",
+    "level": 151,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac BLOCK] 6% de Parada",
+      "[#charac TACKLE] 40 Bloqueio",
+      "[#charac HP] 232 PV",
+      "[#charac RES_IN_PERCENT] 39 Resistência a 3 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 17744,
+    "name": "Escudo GG",
+    "description": "Não, este escudo não gritará \"GG!!!\" toda vez que você se proteger com ele... Encontrado na toca dos Wabbits, não dá para saber como ele foi parar lá embaixo.",
+    "level": 140,
+    "rarity": 4,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac HP] 280 PV",
+      "[#charac BLOCK] 13% de Parada",
+      "[#charac RES_IN_PERCENT] 30 Resistência elementar"
+    ]
+  },
+  {
+    "id": 17747,
+    "name": "Fulmun",
+    "description": "O Fulmun pesa mais ou menos o mesmo que um Mugrr morto, mas é à prova d'água e resistente a arranhões de Milobo. Às vezes, os Trools o usam como espelho.",
+    "level": 77,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac HP] 79 PV",
+      "[#charac CRITICAL_RES] 10 Resistência crítica",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar",
+      "[#charac BLOCK] 6% de Parada",
+      "[#charac DODGE] 7 Esquiva",
+      "[#charac TACKLE] 7 Bloqueio"
+    ]
+  },
+  {
+    "id": 17782,
+    "name": "Escudo do Iniciado",
+    "description": "Seu conhecimento transparece através da escolha das armas.",
+    "level": 124,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac DODGE] 12 Esquiva",
+      "[#charac TACKLE] 12 Bloqueio",
+      "[#charac HP] 179 PV",
+      "[#charac RES_IN_PERCENT] 25 Resistência elementar",
+      "[#charac BLOCK] 7% de Parada"
+    ]
+  },
+  {
+    "id": 17783,
+    "name": "Escudo Sábio",
+    "description": "Transforma suas feridas em sabedoria. Ou simplesmente use o escudo para evitar as feridas; com sabedoria.",
+    "level": 140,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac DODGE] 25 Esquiva",
+      "[#charac TACKLE] 25 Bloqueio",
+      "[#charac HP] 198 PV",
+      "[#charac RES_IN_PERCENT] 25 Resistência elementar",
+      "[#charac BLOCK] 7% de Parada"
+    ]
+  },
+  {
+    "id": 17794,
+    "name": "O Relógio",
+    "description": "Agora que tem O Relógio, você tem o tempo nas mãos! Você pode se atrasar o quanto quiser!",
+    "level": 60,
+    "rarity": 2,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac BLOCK] 5% de Parada",
+      "[#charac TACKLE] 18 Bloqueio",
+      "[#charac HP] 40 PV",
+      "[#charac RES_IN_PERCENT] 8 Resistência elementar"
+    ]
+  },
+  {
+    "id": 17819,
+    "name": "Escudo de Bwork",
+    "description": "Você vira de um lado e de outro e mesmo assim não consegue entender como eles colocam o ferro em volta do centro de madeira. Será que inseriram o centro no exterior de ferro? Nunca saberemos...",
+    "level": 56,
+    "rarity": 2,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac DODGE] 7 Esquiva",
+      "[#charac TACKLE] 7 Bloqueio",
+      "[#charac HP] 43 PV",
+      "[#charac RES_IN_PERCENT] 11 Resistência elementar",
+      "[#charac BLOCK] 5% de Parada"
+    ]
+  },
+  {
+    "id": 18175,
+    "name": "Escudo Pikpik",
+    "description": "As pessoas vão querer manter distancia quando você estiver carregando este escudo. É realmente raro alguém que goste de ser empalado por espinhos afiados.",
+    "level": 125,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac BLOCK] 8% de Parada",
+      "[#charac HP] 201 PV",
+      "[#charac RES_IN_PERCENT] 83 Resistência a 1 elemento aleatório"
+    ]
+  },
+  {
+    "id": 18285,
+    "name": "Escudo do Novato",
+    "description": "Este escudo não o protegerá de sua própria estupidez.",
+    "level": 1,
+    "rarity": 1,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac TACKLE] 2 Bloqueio",
+      "[#charac DODGE] 2 Esquiva",
+      "[#charac HP] 8 PV",
+      "[#charac BLOCK] 3% de Parada",
+      "[#charac RES_IN_PERCENT] 2 Resistência elementar"
+    ]
+  },
+  {
+    "id": 18388,
+    "name": "Escudo de Mota",
+    "description": "Este magnífico escudo contém algumas gotas do Mar Mota. Não apenas traz boa sorte, mas também pode ser usado como um frasco.",
+    "level": 140,
+    "rarity": 5,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac DODGE] 13 Esquiva",
+      "[#charac TACKLE] 13 Bloqueio",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac HP] 303 PV",
+      "[#charac RES_IN_PERCENT] 45 Resistência elementar",
+      "[#charac BLOCK] 18% de Parada",
+      "[#charac RES_BACKSTAB] 10 Resistência de costas",
+      "[#charac CRITICAL_RES] 10 Resistência crítica"
+    ]
+  },
+  {
+    "id": 18559,
+    "name": "Obscurescudo Caído",
+    "description": "Este escudo em forma de domo cobre completamente o braço. Seria ele uma lápide reciclada em uma arma defensiva?",
+    "level": 149,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac TACKLE] 30 Bloqueio",
+      "[#charac HP] 202 PV",
+      "[#charac RES_IN_PERCENT] 83 Resistência a 1 elemento aleatório",
+      "[#charac BLOCK] 10% de Parada"
+    ]
+  },
+  {
+    "id": 18564,
+    "name": "Escudo Blindado",
+    "description": "Nenhum ladrão jamais conseguiu fazer um buraco nesta blindagem usada para proteger os cofres de Enutropia.",
+    "level": 154,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac HP] 220 PV",
+      "[#charac RES_IN_PERCENT] 30 Resistência elementar",
+      "[#charac BLOCK] 10% de Parada",
+      "[#charac DODGE] 30 Esquiva"
+    ]
+  },
+  {
+    "id": 19121,
+    "name": "Escudo dimensional",
+    "description": "Este escudo o protegerá de ataques de frente, de costas e até de outras dimensões.",
+    "level": 160,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac BLOCK] 10% de Parada",
+      "[#charac RES_IN_PERCENT] 30 Resistência elementar",
+      "[#charac HP] 250 PV",
+      "[#charac TACKLE] 30 Bloqueio"
+    ]
+  },
+  {
+    "id": 19143,
+    "name": "Escudo durável",
+    "description": "Um escudo para uma proteção durável e melhores sensações durante o combate.",
+    "level": 170,
+    "rarity": 7,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac MP] 1 PM",
+      "[#charac HP] 299 PV",
+      "[#charac RES_IN_PERCENT] 35 Resistência elementar",
+      "[#charac TACKLE] 25 Bloqueio",
+      "[#charac BLOCK] 14% de Parada"
+    ]
+  },
+  {
+    "id": 19244,
+    "name": "Hextático",
+    "description": "Este escudo fica muito feliz de levar golpes no seu lugar, então não deixe de brandi-lo bastante.",
+    "level": 170,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac BLOCK] 10% de Parada",
+      "[#charac TACKLE] 30 Bloqueio",
+      "[#charac HP] 189 PV",
+      "[#charac CRITICAL_RES] 20 Resistência crítica",
+      "[#charac RES_IN_PERCENT] 76 Resistência a 2 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 19337,
+    "name": "Passerok",
+    "description": "Este escudo foi tocado pela bênção do Grande Orrok original. Ele deve ser capaz de protegê-lo durante um ataque frontal.",
+    "level": 80,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac RES_IN_PERCENT] 18 Resistência elementar",
+      "[#charac BLOCK] 5% de Parada",
+      "[#charac HP] 117 PV"
+    ]
+  },
+  {
+    "id": 19449,
+    "name": "Tampa não utilizada",
+    "description": "Uma simples tampa de barril. O Kabrok pensou em usá-la na fabricação de seu Korbot, mas pelo visto mudou de ideia. Não importa, um escudo dará pro gasto!",
+    "level": 85,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac BLOCK] 5% de Parada",
+      "[#charac RES_IN_PERCENT] 12 Resistência elementar",
+      "[#charac HP] 120 PV",
+      "[#charac TACKLE] 14 Bloqueio"
+    ]
+  },
+  {
+    "id": 19508,
+    "name": "Escudo morto",
+    "description": "Há muito tempo, uma jovem de cabelos dourados faleceu ao pular de uma janela. Ela deixou para trás seu lado impenetrável.",
+    "level": 93,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac RES_IN_PERCENT] 19 Resistência elementar",
+      "[#charac BLOCK] 6% de Parada",
+      "[#charac TACKLE] 10 Bloqueio",
+      "[#charac HP] 120 PV"
+    ]
+  },
+  {
+    "id": 19883,
+    "name": "Escudo Impermolhável",
+    "description": "Isto vai ajudar a proteger você do clima inclemente.",
+    "level": 185,
+    "rarity": 4,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac BLOCK] 19% de Parada",
+      "[#charac TACKLE] 30 Bloqueio",
+      "[#charac HP] 310 PV",
+      "[#charac RES_IN_PERCENT] 44 Resistência a 3 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 19898,
+    "name": "Escudo da indecisão",
+    "description": "O escudo perfeito para quando você está decidindo por qual lado vai lutar.",
+    "level": 185,
+    "rarity": 4,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac RES_IN_PERCENT] 69 Resistência a 2 elementos aleatórios",
+      "[#charac BLOCK] 17% de Parada",
+      "[#charac HP] 392 PV"
+    ]
+  },
+  {
+    "id": 20367,
+    "name": "Égide de Moon",
+    "description": "Um escudo surpreendentemente eficaz, não por sua resistência, mas sim por sua capacidade de aumentar a visão de quem o usa. Talvez por causa dos olhos de esmeralda...",
+    "level": 185,
+    "rarity": 4,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac BLOCK] 8% de Parada",
+      "[#charac FEROCITY] -10% Golpe crítico",
+      "[#charac HP] 250 PV",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac RES_IN_PERCENT] 30 Resistência elementar"
+    ]
+  },
+  {
+    "id": 20933,
+    "name": "Pequena Casca",
+    "description": "Inúmeros sábios tentaram confeccionar um material tão resistente quanto as cascas de Dragovo. A julgar por este escudo, parece que não foram bem-sucedidos.",
+    "level": 191,
+    "rarity": 2,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac BLOCK] 11% de Parada",
+      "[#charac DODGE] 20 Esquiva",
+      "[#charac HP] 240 PV",
+      "[#charac WP] 1 PW",
+      "[#charac RES_IN_PERCENT] 30 Resistência elementar"
+    ]
+  },
+  {
+    "id": 20957,
+    "name": "Escudo Ventilador",
+    "description": "Você as obteve durante o combate mais difícil da sua vida: a sua vida.",
+    "level": 200,
+    "rarity": 5,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac TACKLE] 50 Bloqueio",
+      "[#charac HP] 431 PV",
+      "[#charac AP] 1 PA",
+      "[#charac RES_IN_PERCENT] 40 Resistência elementar",
+      "[#charac BLOCK] 15% de Parada",
+      "[#charac DODGE] 50 Esquiva"
+    ]
+  },
+  {
+    "id": 21166,
+    "name": "Escubarão",
+    "description": "Um escudo feroz que protegerá você em qualquer circunstância. Finalmente um escudo que não tem medo de mostrar os dentes!",
+    "level": 59,
+    "rarity": 2,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac HP] 62 PV",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar",
+      "[#charac BLOCK] 5% de Parada",
+      "[#charac DODGE] 3 Esquiva",
+      "[#charac TACKLE] 3 Bloqueio"
+    ]
+  },
+  {
+    "id": 21170,
+    "name": "Escudo do Mar",
+    "description": "Este escudo pesaria duas vezes menos se não estivesse cheio de algas. Por outro lado, isso é o que dá a ele um certo charme.",
+    "level": 64,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac TACKLE] 10 Bloqueio",
+      "[#charac BLOCK] 5% de Parada",
+      "[#charac HP] 81 PV",
+      "[#charac RES_IN_PERCENT] 17 Resistência a 2 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 21245,
+    "name": "Escudo Prisioneiro",
+    "description": "Você merece um descanso, então por que não descansa atrás deste escudo?",
+    "level": 95,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac HP] 151 PV",
+      "[#charac TACKLE] 15 Bloqueio",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar"
+    ]
+  },
+  {
+    "id": 21444,
+    "name": "Escubarão",
+    "description": "Um escudo feroz que protegerá você em qualquer circunstância. Finalmente um escudo que não tem medo de mostrar os dentes!",
+    "level": 62,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac BLOCK] 6% de Parada",
+      "[#charac HP] 63 PV",
+      "[#charac RES_IN_PERCENT] 13 Resistência elementar",
+      "[#charac DODGE] 6 Esquiva",
+      "[#charac TACKLE] 6 Bloqueio"
+    ]
+  },
+  {
+    "id": 21831,
+    "name": "Pequena Casca",
+    "description": "Inúmeros sábios tentaram confeccionar um material tão resistente quanto as cascas de Dragovo. A julgar por este escudo, parece que não foram bem-sucedidos.",
+    "level": 199,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac DODGE] 35 Esquiva",
+      "[#charac HP] 279 PV",
+      "[#charac WP] 1 PW",
+      "[#charac RES_IN_PERCENT] 30 Resistência elementar",
+      "[#charac BLOCK] 15% de Parada"
+    ]
+  },
+  {
+    "id": 21849,
+    "name": "Pequena Casca",
+    "description": "Inúmeros sábios tentaram confeccionar um material tão resistente quanto as cascas de Dragovo. A julgar por este escudo, parece que não foram bem-sucedidos.",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac HP] 316 PV",
+      "[#charac WP] 1 PW",
+      "[#charac RES_IN_PERCENT] 30 Resistência elementar",
+      "[#charac BLOCK] 16% de Parada",
+      "[#charac DODGE] 40 Esquiva"
+    ]
+  },
+  {
+    "id": 21936,
+    "name": "Escudo de Freixo",
+    "description": "Após uma história sombria envolvendo dragões, Thiron tentou reconquistar Elbor. No fim das contas, ele só encontrou este escudo que, apesar do ambiente relativamente hostil, nunca se queimou. Essa nem os 12 deuses explicam.",
+    "level": 196,
+    "rarity": 2,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac HP] 507 PV",
+      "[#charac RES_IN_PERCENT] 44 Resistência a 3 elementos aleatórios",
+      "[#charac TACKLE] 40 Bloqueio",
+      "[#charac BLOCK] 6% de Parada"
+    ]
+  },
+  {
+    "id": 21937,
+    "name": "Escudo de Freixo",
+    "description": "Após uma história sombria envolvendo dragões, Thiron tentou reconquistar Elbor. No fim das contas, ele só encontrou este escudo que, apesar do ambiente relativamente hostil, nunca se queimou. Essa nem os 12 deuses explicam.",
+    "level": 199,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac HP] 521 PV",
+      "[#charac RES_IN_PERCENT] 56 Resistência a 3 elementos aleatórios",
+      "[#charac BLOCK] 8% de Parada",
+      "[#charac TACKLE] 40 Bloqueio"
+    ]
+  },
+  {
+    "id": 21938,
+    "name": "Escudo de Freixo",
+    "description": "Após uma história sombria envolvendo dragões, Thiron tentou reconquistar Elbor. No fim das contas, ele só encontrou este escudo que, apesar do ambiente relativamente hostil, nunca se queimou. Essa nem os 12 deuses explicam.",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac HP] 554 PV",
+      "[#charac RES_IN_PERCENT] 56 Resistência a 3 elementos aleatórios",
+      "[#charac BLOCK] 10% de Parada",
+      "[#charac TACKLE] 45 Bloqueio"
+    ]
+  },
+  {
+    "id": 22166,
+    "name": "Escudo Impermolhável",
+    "description": "Porque a água molha.",
+    "level": 185,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac BLOCK] 17% de Parada",
+      "[#charac TACKLE] 30 Bloqueio",
+      "[#charac HP] 298 PV",
+      "[#charac RES_IN_PERCENT] 39 Resistência a 3 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 22168,
+    "name": "Escudo da Indecisão",
+    "description": "O escudo perfeito para quando você está decidindo por qual lado vai lutar.",
+    "level": 183,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac RES_IN_PERCENT] 63 Resistência a 2 elementos aleatórios",
+      "[#charac BLOCK] 15% de Parada",
+      "[#charac HP] 371 PV"
+    ]
+  },
+  {
+    "id": 22453,
+    "name": "Égide de Moon",
+    "description": "Um escudo surpreendentemente eficaz, não por sua resistência, mas sim por sua capacidade de aumentar a visão de quem o usa. Talvez por causa dos olhos de esmeralda...",
+    "level": 185,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac FEROCITY] -10% Golpe crítico",
+      "[#charac HP] 250 PV",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac BLOCK] 8% de Parada"
+    ]
+  },
+  {
+    "id": 22591,
+    "name": "Obscurescudo Caído",
+    "description": "Este escudo em forma de domo cobre completamente o braço. Seria ele uma lápide transformada em arma defensiva?",
+    "level": 155,
+    "rarity": 4,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac TACKLE] 40 Bloqueio",
+      "[#charac HP] 235 PV",
+      "[#charac RES_IN_PERCENT] 108 Resistência a 1 elemento aleatório",
+      "[#charac BLOCK] 11% de Parada"
+    ]
+  },
+  {
+    "id": 22665,
+    "name": "Escudo Blindado",
+    "description": "Nenhum ladrão jamais conseguiu fazer um buraco nesta blindagem usada para proteger os cofres de Enutropia.",
+    "level": 155,
+    "rarity": 4,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac HP] 265 PV",
+      "[#charac RES_IN_PERCENT] 30 Resistência elementar",
+      "[#charac BLOCK] 13% de Parada",
+      "[#charac DODGE] 40 Esquiva"
+    ]
+  },
+  {
+    "id": 22765,
+    "name": "Escudo Gowdo",
+    "description": "Este escudo imenso protegerá você, claro, mas não conseguirá ver nada à sua frente.",
+    "level": 155,
+    "rarity": 4,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac BLOCK] 8% de Parada",
+      "[#charac TACKLE] 50 Bloqueio",
+      "[#charac HP] 283 PV",
+      "[#charac RES_IN_PERCENT] 44 Resistência a 3 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 22843,
+    "name": "Escudo GG",
+    "description": "Não, este escudo não gritará \"GG!!!\" toda vez que você se proteger com ele... Encontrado na toca dos Wabbits, não dá para saber como ele foi parar lá embaixo.",
+    "level": 140,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac HP] 244 PV",
+      "[#charac RES_IN_PERCENT] 30 Resistência elementar",
+      "[#charac BLOCK] 9% de Parada"
+    ]
+  },
+  {
+    "id": 22877,
+    "name": "Escudo de Pompom",
+    "description": "Absorve o choque em caso de queda ou salto.",
+    "level": 140,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac BLOCK] 8% de Parada",
+      "[#charac TACKLE] 30 Bloqueio",
+      "[#charac HP] 207 PV",
+      "[#charac RES_IN_PERCENT] 25 Resistência elementar"
+    ]
+  },
+  {
+    "id": 22878,
+    "name": "Escudo de Pompom",
+    "description": "Absorve o choque em caso de queda ou salto.",
+    "level": 140,
+    "rarity": 4,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac BLOCK] 8% de Parada",
+      "[#charac TACKLE] 40 Bloqueio",
+      "[#charac HP] 276 PV",
+      "[#charac RES_IN_PERCENT] 25 Resistência elementar"
+    ]
+  },
+  {
+    "id": 22933,
+    "name": "O Estwagafesta",
+    "description": "Este escudo é meio estraga-prazeres, na verdade. Talvez seja melhor você procurar algo mais alegre na loja de armas.",
+    "level": 140,
+    "rarity": 4,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac DODGE] 60 Esquiva",
+      "[#charac HP] 137 PV",
+      "[#charac RES_IN_PERCENT] 69 Resistência a 2 elementos aleatórios",
+      "[#charac BLOCK] 10% de Parada"
+    ]
+  },
+  {
+    "id": 22934,
+    "name": "O Estwagafesta",
+    "description": "Este escudo é meio estraga-prazeres, na verdade. Talvez seja melhor você procurar algo mais alegre na loja de armas.",
+    "level": 132,
+    "rarity": 2,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac HP] 114 PV",
+      "[#charac RES_IN_PERCENT] 49 Resistência a 2 elementos aleatórios",
+      "[#charac BLOCK] 6% de Parada",
+      "[#charac DODGE] 35 Esquiva"
+    ]
+  },
+  {
+    "id": 22977,
+    "name": "Escudo do Sábio",
+    "description": "Transforma suas feridas em sabedoria. Ou simplesmente use o escudo para evitar as feridas; com sabedoria.",
+    "level": 140,
+    "rarity": 4,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac TACKLE] 30 Bloqueio",
+      "[#charac HP] 206 PV",
+      "[#charac RES_IN_PERCENT] 30 Resistência elementar",
+      "[#charac BLOCK] 10% de Parada",
+      "[#charac DODGE] 30 Esquiva"
+    ]
+  },
+  {
+    "id": 23052,
+    "name": "Escudo Chaferizado",
+    "description": "A Forjamagia era o passatempo favorito de Missiz Frizz. Ela criou esses escudos para equipar alguns de seus lacaios e torná-los mais resistentes.",
+    "level": 125,
+    "rarity": 4,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac TACKLE] 33 Bloqueio",
+      "[#charac HP] 257 PV",
+      "[#charac CRITICAL_RES] 20 Resistência crítica",
+      "[#charac RES_IN_PERCENT] 25 Resistência elementar"
+    ]
+  },
+  {
+    "id": 23053,
+    "name": "Escudo Chaferizado",
+    "description": "A Forjamagia era o passatempo favorito de Missiz Frizz. Ela criou esses escudos para equipar alguns de seus lacaios e torná-los mais resistentes.",
+    "level": 115,
+    "rarity": 2,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac TACKLE] 23 Bloqueio",
+      "[#charac HP] 163 PV",
+      "[#charac CRITICAL_RES] 20 Resistência crítica",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar"
+    ]
+  },
+  {
+    "id": 23073,
+    "name": "Escudo do Iniciado",
+    "description": "Seu conhecimento transparece através da escolha das armas.",
+    "level": 125,
+    "rarity": 4,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac TACKLE] 15 Bloqueio",
+      "[#charac HP] 217 PV",
+      "[#charac RES_IN_PERCENT] 25 Resistência elementar",
+      "[#charac BLOCK] 10% de Parada",
+      "[#charac DODGE] 15 Esquiva"
+    ]
+  },
+  {
+    "id": 23148,
+    "name": "Escudo Pikpik",
+    "description": "Todos vão querer manter distância quando você estiver carregando este escudo. É raro encontrar alguém que goste de ser empalado por espinhos afiados.",
+    "level": 125,
+    "rarity": 4,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac RES_IN_PERCENT] 83 Resistência a 1 elemento aleatório",
+      "[#charac BLOCK] 10% de Parada",
+      "[#charac HP] 251 PV"
+    ]
+  },
+  {
+    "id": 23170,
+    "name": "Escudo do Conde Traspafrent",
+    "description": "Este escudo foi na verdade projetado para carregar o ponteiro do Conde Traspafrent, mas acabou se mostrando eficiente contra ataques. ",
+    "level": 125,
+    "rarity": 4,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac RES_IN_PERCENT] 42 Resistência a 3 elementos aleatórios",
+      "[#charac BLOCK] 10% de Parada",
+      "[#charac HP] 235 PV"
+    ]
+  },
+  {
+    "id": 23191,
+    "name": "O Magmático",
+    "description": "Com ele no braço, você pode ter certeza de uma coisa: eles não passarão!",
+    "level": 109,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac TACKLE] 7 Bloqueio",
+      "[#charac HP] 149 PV",
+      "[#charac RES_IN_PERCENT] 24 Resistência elementar",
+      "[#charac BLOCK] 6% de Parada",
+      "[#charac DODGE] 7 Esquiva"
+    ]
+  },
+  {
+    "id": 23274,
+    "name": "Escudo Congelado",
+    "description": "A resistência deste escudo é proporcional à temperatura externa. Quanto mais frio faz, mais resistente ele fica.",
+    "level": 108,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac BLOCK] 8% de Parada",
+      "[#charac HP] 175 PV",
+      "[#charac RES_BACKSTAB] 33 Resistência de costas",
+      "[#charac TACKLE] 10 Bloqueio",
+      "[#charac DODGE] 10 Esquiva"
+    ]
+  },
+  {
+    "id": 23275,
+    "name": "Escudo Congelado",
+    "description": "A resistência deste escudo é proporcional à temperatura externa. Quanto mais frio faz, mais resistente ele fica.",
+    "level": 97,
+    "rarity": 1,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac BLOCK] 5% de Parada",
+      "[#charac HP] 133 PV",
+      "[#charac RES_BACKSTAB] 23 Resistência de costas",
+      "[#charac TACKLE] 6 Bloqueio",
+      "[#charac DODGE] 6 Esquiva"
+    ]
+  },
+  {
+    "id": 23317,
+    "name": "Rodela de Limão",
+    "description": "Deixa os inimigos com um gosto azedo na boca.",
+    "level": 101,
+    "rarity": 2,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac RES_IN_PERCENT] 18 Resistência elementar",
+      "[#charac BLOCK] 6% de Parada",
+      "[#charac HP] 138 PV",
+      "[#charac CRITICAL_RES] 10 Resistência crítica"
+    ]
+  },
+  {
+    "id": 23343,
+    "name": "A Paróquia",
+    "description": "Absolve instantaneamente os pecados dos seus inimigos.",
+    "level": 94,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac TACKLE] 15 Bloqueio",
+      "[#charac HP] 120 PV",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac BLOCK] 4% de Parada"
+    ]
+  },
+  {
+    "id": 23344,
+    "name": "A Paróquia",
+    "description": "Absolve instantaneamente os pecados dos seus inimigos.",
+    "level": 83,
+    "rarity": 1,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac TACKLE] 10 Bloqueio",
+      "[#charac HP] 88 PV",
+      "[#charac RES_IN_PERCENT] 12 Resistência elementar",
+      "[#charac BLOCK] 3% de Parada"
+    ]
+  },
+  {
+    "id": 23406,
+    "name": "Escudo Del Cabrónco",
+    "description": "Com grande resistência, vem grande densidade. Este escudo pesa metade de um Trool, então ele só protegerá você se já for bem forte.",
+    "level": 93,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac DODGE] 9 Esquiva",
+      "[#charac TACKLE] 9 Bloqueio",
+      "[#charac HP] 122 PV",
+      "[#charac RES_IN_PERCENT] 14 Resistência elementar",
+      "[#charac BLOCK] 7% de Parada"
+    ]
+  },
+  {
+    "id": 23422,
+    "name": "Guarda-corpo",
+    "description": "Apesar de ser o favorito de Guel Canolargo, esta tábua é feita de espuma e não protegerá você de nada mais que areia.",
+    "level": 87,
+    "rarity": 2,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac BLOCK] 6% de Parada",
+      "[#charac HP] 100 PV",
+      "[#charac CRITICAL_RES] 8 Resistência crítica",
+      "[#charac RES_IN_PERCENT] 38 Resistência a 2 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 23425,
+    "name": "Defesa da Concha",
+    "description": "Este escudo poderia servir como uma ótima paleta para pintores iniciantes, se não deixasse tanta água entrar.",
+    "level": 95,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac HP] 139 PV",
+      "[#charac BLOCK] 5% de Parada",
+      "[#charac RES_IN_PERCENT] 35 Resistência a 2 elementos aleatórios",
+      "[#charac DODGE] 7 Esquiva",
+      "[#charac TACKLE] 7 Bloqueio"
+    ]
+  },
+  {
+    "id": 23492,
+    "name": "Portaestrela Azul ",
+    "description": "Use este escudo para se defender e você deixará os adversários vendo estrelas!",
+    "level": 78,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac HP] 91 PV",
+      "[#charac RES_IN_PERCENT] 17 Resistência elementar",
+      "[#charac BLOCK] 5% de Parada",
+      "[#charac DODGE] 7 Esquiva",
+      "[#charac TACKLE] 7 Bloqueio"
+    ]
+  },
+  {
+    "id": 23535,
+    "name": "Escudo de Motim Ratical",
+    "description": "Este escudo é feito com todas as partes dos corpos que restaram de uma das festas turbulentas de Ratical. Se você consegue carregá-lo, provavelmente não sabe do que ele é feito.",
+    "level": 77,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac BLOCK] 6% de Parada",
+      "[#charac TACKLE] 10 Bloqueio",
+      "[#charac HP] 90 PV",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar"
+    ]
+  },
+  {
+    "id": 23548,
+    "name": "Meimun",
+    "description": "Este escudo foi impermeabilizado com pelos de Milobo. Não é tão eficaz quanto o mítico Fulmun, mas protege bem contra respingos. ",
+    "level": 79,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac BLOCK] 7% de Parada",
+      "[#charac HP] 122 PV",
+      "[#charac RES_IN_PERCENT] 12 Resistência elementar"
+    ]
+  },
+  {
+    "id": 23627,
+    "name": "Escudo de Bwork",
+    "description": "Por mais que você analise este escudo, não consegue entender como eles colocaram esse anel de ferro em volta da base de madeira. A menos que tenham colocado a base de madeira dentro do anel de ferro... Vai saber...",
+    "level": 64,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac TACKLE] 7 Bloqueio",
+      "[#charac HP] 66 PV",
+      "[#charac RES_IN_PERCENT] 14 Resistência elementar",
+      "[#charac BLOCK] 5% de Parada",
+      "[#charac DODGE] 7 Esquiva"
+    ]
+  },
+  {
+    "id": 23633,
+    "name": "O Relógio",
+    "description": "Com o relógio, você não tem mais desculpas para chegar atrasado. Já era hora!",
+    "level": 63,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac TACKLE] 21 Bloqueio",
+      "[#charac HP] 49 PV",
+      "[#charac RES_IN_PERCENT] 11 Resistência elementar",
+      "[#charac BLOCK] 5% de Parada"
+    ]
+  },
+  {
+    "id": 23665,
+    "name": "Plasma Protetor",
+    "description": "Este escudo de alta tecnologia puxa sua resistência das inúmeras almas aprisionadas nele. Sua dureza só se compara à sua viscosidade!",
+    "level": 62,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac HP] 69 PV",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar",
+      "[#charac BLOCK] 6% de Parada",
+      "[#charac DODGE] 10 Esquiva"
+    ]
+  },
+  {
+    "id": 24004,
+    "name": "Escudo de Feca",
+    "description": "Governos caem, heróis enfraquecem-se, a justiça desmorona e o caos reina. Mas resta uma última esperança como proteção: este escudo.",
+    "level": 200,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac WP] -1 PW máx.",
+      "[#charac RES_IN_PERCENT] 40 Resistência elementar",
+      "[#charac BLOCK] 12% de Parada",
+      "[#charac TACKLE] 50 Bloqueio",
+      "[#charac HP] 500 PV"
+    ]
+  },
+  {
+    "id": 24018,
+    "name": "Escudo de Feca",
+    "description": "Governos caem, heróis enfraquecem-se, a justiça desmorona e o caos reina. Mas resta uma última esperança como proteção: este escudo.",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac TACKLE] 50 Bloqueio",
+      "[#charac HP] 540 PV",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac WP] -1 PW máx.",
+      "[#charac RES_IN_PERCENT] 40 Resistência elementar",
+      "[#charac BLOCK] 14% de Parada"
+    ]
+  },
+  {
+    "id": 24160,
+    "name": "Escudo Eliotrope",
+    "description": "Esse escudo protegerá você por um tempo da destruição que nos espera a todos.",
+    "level": 35,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac BLOCK] 5% de Parada",
+      "[#charac DODGE] 8 Esquiva",
+      "[#charac HP] 30 PV",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar"
+    ]
+  },
+  {
+    "id": 24308,
+    "name": "O Duuuro!!",
+    "description": "Dizem que este escudo pertencia a um cavaleiro sem cabeça que não podia morrer.",
+    "level": 45,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac TACKLE] 9 Bloqueio",
+      "[#charac HP] 63 PV",
+      "[#charac RES_BACKSTAB] 10 Resistência de costas",
+      "[#charac CRITICAL_RES] 10 Resistência crítica"
+    ]
+  },
+  {
+    "id": 24639,
+    "name": "O Ryfê",
+    "description": "Um escudo que garante uma proteção nos momentos de calmaria, mas também nos momentos mais difíceis.",
+    "level": 80,
+    "rarity": 2,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac RES_IN_PERCENT] 16 Resistência elementar",
+      "[#charac BLOCK] 6% de Parada",
+      "[#charac HP] 100 PV"
+    ]
+  },
+  {
+    "id": 24640,
+    "name": "O Ryfê",
+    "description": "Um escudo que garante uma proteção nos momentos de calmaria, mas também nos momentos mais difíceis.",
+    "level": 80,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac HP] 112 PV",
+      "[#charac RES_IN_PERCENT] 18 Resistência elementar",
+      "[#charac BLOCK] 6% de Parada"
+    ]
+  },
+  {
+    "id": 24657,
+    "name": "O Azailê",
+    "description": "Descanse sobre esse escudo quando se sentir sem forças em uma batalha.",
+    "level": 110,
+    "rarity": 2,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac BLOCK] 6% de Parada",
+      "[#charac TACKLE] 20 Bloqueio",
+      "[#charac HP] 128 PV",
+      "[#charac RES_IN_PERCENT] 67 Resistência a 1 elemento aleatório"
+    ]
+  },
+  {
+    "id": 24658,
+    "name": "O Azailê",
+    "description": "Descanse sobre esse escudo quando se sentir sem forças em uma batalha.",
+    "level": 110,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac BLOCK] 6% de Parada",
+      "[#charac TACKLE] 20 Bloqueio",
+      "[#charac HP] 151 PV",
+      "[#charac RES_IN_PERCENT] 75 Resistência a 1 elemento aleatório"
+    ]
+  },
+  {
+    "id": 24675,
+    "name": "O Relatório",
+    "description": "Esse escudo fará o relatório de todas as batalhas. Você só terá que admirar as numerosas marcas de desgaste.",
+    "level": 140,
+    "rarity": 2,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac TACKLE] 15 Bloqueio",
+      "[#charac HP] 218 PV",
+      "[#charac RES_IN_PERCENT] 83 Resistência a 1 elemento aleatório",
+      "[#charac BLOCK] 6% de Parada"
+    ]
+  },
+  {
+    "id": 24676,
+    "name": "O Relatório",
+    "description": "Esse escudo fará o relatório de todas as batalhas. Você só terá que admirar as numerosas marcas de desgaste.",
+    "level": 140,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac TACKLE] 20 Bloqueio",
+      "[#charac HP] 222 PV",
+      "[#charac RES_IN_PERCENT] 100 Resistência a 1 elemento aleatório",
+      "[#charac BLOCK] 9% de Parada"
+    ]
+  },
+  {
+    "id": 24677,
+    "name": "O Relatório",
+    "description": "Esse escudo fará o relatório de todas as batalhas. Você só terá que admirar as numerosas marcas de desgaste.",
+    "level": 140,
+    "rarity": 4,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac TACKLE] 20 Bloqueio",
+      "[#charac HP] 251 PV",
+      "[#charac RES_IN_PERCENT] 108 Resistência a 1 elemento aleatório",
+      "[#charac BLOCK] 13% de Parada"
+    ]
+  },
+  {
+    "id": 24687,
+    "name": "Hextático",
+    "description": "Este escudo fica muito feliz de levar golpes no seu lugar, então não deixe de brandi-lo bastante.",
+    "level": 170,
+    "rarity": 4,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac TACKLE] 40 Bloqueio",
+      "[#charac HP] 215 PV",
+      "[#charac CRITICAL_RES] 20 Resistência crítica",
+      "[#charac RES_IN_PERCENT] 76 Resistência a 2 elementos aleatórios",
+      "[#charac BLOCK] 13% de Parada"
+    ]
+  },
+  {
+    "id": 24703,
+    "name": "Escudida",
+    "description": "Você poderá ficar sossegado com este escudo, que impede qualquer forma de agressão física à sua pessoa.",
+    "level": 200,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac RES_IN_PERCENT] 125 Resistência a 1 elemento aleatório",
+      "[#charac BLOCK] 15% de Parada",
+      "[#charac TACKLE] 40 Bloqueio",
+      "[#charac HP] 504 PV"
+    ]
+  },
+  {
+    "id": 24704,
+    "name": "Escudida",
+    "description": "Você poderá ficar sossegado com este escudo, que impede qualquer forma de agressão física à sua pessoa.",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac RES_IN_PERCENT] 125 Resistência a 1 elemento aleatório",
+      "[#charac BLOCK] 15% de Parada",
+      "[#charac TACKLE] 60 Bloqueio",
+      "[#charac HP] 541 PV"
+    ]
+  },
+  {
+    "id": 24719,
+    "name": "Macabrescudo",
+    "description": "É feio usar o corpo dos aliados de escudo, mas ninguém falou nada de inimigos.",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac DODGE] 70 Esquiva",
+      "[#charac TACKLE] 70 Bloqueio",
+      "[#charac HP] 743 PV",
+      "[#charac RES_BACKSTAB] 35 Resistência de costas",
+      "[#charac CRITICAL_RES] 35 Resistência crítica"
+    ]
+  },
+  {
+    "id": 24800,
+    "name": "Escudo do Conde Traspafrent",
+    "description": "Este escudo foi na verdade projetado para carregar o ponteiro do Conde Traspafrent, mas acabou se mostrando eficiente contra ataques. ",
+    "level": 200,
+    "rarity": 6,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac HP] 511 PV",
+      "[#charac RANGE] -1 Alcance",
+      "[#charac RES_IN_PERCENT] 158 Resistência a 1 elemento aleatório",
+      "[#charac BLOCK] 18% de Parada",
+      "[#charac DODGE] 70 Esquiva",
+      "[#charac TACKLE] 70 Bloqueio"
+    ]
+  },
+  {
+    "id": 25165,
+    "name": "Escudo do Monte Kifed",
+    "description": "Embora esteja esverdeado e fedorento, este escudo continua sendo a melhor proteção na hora de enfrentar as criaturas do Monte Kifed.",
+    "level": 44,
+    "rarity": 2,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac TACKLE] 8 Bloqueio",
+      "[#charac RES_IN_PERCENT] 14 Resistência a 2 elementos aleatórios",
+      "[#charac HP] 50 PV"
+    ]
+  },
+  {
+    "id": 25166,
+    "name": "Escudo do Monte Kifed",
+    "description": "Embora esteja esverdeado e fedorento, este escudo continua sendo a melhor proteção na hora de enfrentar as criaturas do Monte Kifed.",
+    "level": 47,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac HP] 59 PV",
+      "[#charac TACKLE] 10 Bloqueio",
+      "[#charac RES_IN_PERCENT] 21 Resistência a 2 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 25344,
+    "name": "Escudo Adesivo",
+    "description": "Este escudo é ideal para os oponentes escorregadios.",
+    "level": 66,
+    "rarity": 1,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac HP] 68 PV",
+      "[#charac TACKLE] 9 Bloqueio",
+      "[#charac RES_IN_PERCENT] 11 Resistência elementar"
+    ]
+  },
+  {
+    "id": 25345,
+    "name": "Escudo Adesivo",
+    "description": "Este escudo é ideal para os oponentes escorregadios.",
+    "level": 74,
+    "rarity": 2,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac HP] 88 PV",
+      "[#charac TACKLE] 12 Bloqueio",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar"
+    ]
+  },
+  {
+    "id": 25346,
+    "name": "Escudo Adesivo",
+    "description": "Este escudo é ideal para os oponentes escorregadios.",
+    "level": 77,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac HP] 107 PV",
+      "[#charac TACKLE] 14 Bloqueio",
+      "[#charac RES_IN_PERCENT] 17 Resistência elementar"
+    ]
+  },
+  {
+    "id": 25393,
+    "name": "Escudo Truzgulador",
+    "description": "Os Trools simplesmente adoram pescoços de Truz recém-fatiados na gema deste escudo. Se pedirem para você, dê a eles sem pensar duas vezes.",
+    "level": 70,
+    "rarity": 2,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac TACKLE] 50 Bloqueio",
+      "[#charac DODGE] -100 Esquiva",
+      "[#charac BLOCK] 8% de Parada",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar",
+      "[#charac HP] 83 PV"
+    ]
+  },
+  {
+    "id": 25394,
+    "name": "Escudo Truzgulador",
+    "description": "Os Trools simplesmente adoram pescoços de Truz recém-fatiados na gema deste escudo. Se pedirem para você, dê a eles sem pensar duas vezes.",
+    "level": 78,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar",
+      "[#charac HP] 105 PV",
+      "[#charac TACKLE] 50 Bloqueio",
+      "[#charac DODGE] -100 Esquiva",
+      "[#charac BLOCK] 8% de Parada"
+    ]
+  },
+  {
+    "id": 25446,
+    "name": "Valiliudo",
+    "description": "Pelo de Valili é extremamente resistente. Com a trama de pelos, este escudo para até uma flecha Cra disparada a 3 metros de distância.",
+    "level": 75,
+    "rarity": 2,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac WP] 1 PW",
+      "[#charac HP] 86 PV"
+    ]
+  },
+  {
+    "id": 25447,
+    "name": "Valiliudo",
+    "description": "Pelo de Valili é extremamente resistente. Com a trama de pelos, este escudo para até uma flecha Cra disparada a 3 metros de distância.",
+    "level": 78,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac WP] 1 PW",
+      "[#charac HP] 112 PV"
+    ]
+  },
+  {
+    "id": 25475,
+    "name": "Escudo Chafer",
+    "description": "Não é surpresa que este escudo seja tão frágil, dada sua idade. Já não protege tanto. Seu ponto principal é o aspecto hostil.",
+    "level": 87,
+    "rarity": 2,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac HP] 94 PV",
+      "[#charac TACKLE] 11 Bloqueio",
+      "[#charac DODGE] 11 Esquiva",
+      "[#charac RES_IN_PERCENT] 50 Resistência a 1 elemento aleatório"
+    ]
+  },
+  {
+    "id": 25476,
+    "name": "Escudo Chafer",
+    "description": "Não é surpresa que este escudo seja tão frágil, dada sua idade. Já não protege tanto. Seu ponto principal é o aspecto hostil.",
+    "level": 95,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac RES_IN_PERCENT] 67 Resistência a 1 elemento aleatório",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac HP] 118 PV",
+      "[#charac TACKLE] 14 Bloqueio",
+      "[#charac DODGE] 14 Esquiva"
+    ]
+  },
+  {
+    "id": 25550,
+    "name": "Escudo Riktus",
+    "description": "O sorriso assustador neste escudo distrairá seu adversário.",
+    "level": 99,
+    "rarity": 1,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac WP] 1 PW",
+      "[#charac HP] 84 PV",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar"
+    ]
+  },
+  {
+    "id": 25551,
+    "name": "Escudo Riktus",
+    "description": "O sorriso assustador neste escudo distrairá seu adversário.",
+    "level": 107,
+    "rarity": 2,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac HP] 106 PV",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac WP] 1 PW"
+    ]
+  },
+  {
+    "id": 25552,
+    "name": "Escudo Riktus",
+    "description": "O sorriso assustador neste escudo distrairá seu adversário.",
+    "level": 110,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac WP] 1 PW",
+      "[#charac HP] 140 PV",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar"
+    ]
+  },
+  {
+    "id": 25920,
+    "name": "Escudevorador",
+    "description": "Tão voraz quanto lindo.",
+    "level": 150,
+    "rarity": 2,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac HP] 306 PV",
+      "[#charac BLOCK] 10% de Parada",
+      "[#charac CRITICAL_RES] 20 Resistência crítica",
+      "[#charac RES_BACKSTAB] 20 Resistência de costas"
+    ]
+  },
+  {
+    "id": 25921,
+    "name": "Escudevorador",
+    "description": "Tão voraz quanto lindo.",
+    "level": 153,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac RES_BACKSTAB] 23 Resistência de costas",
+      "[#charac HP] 326 PV",
+      "[#charac BLOCK] 15% de Parada",
+      "[#charac CRITICAL_RES] 23 Resistência crítica"
+    ]
+  },
+  {
+    "id": 25922,
+    "name": "Escudevorador",
+    "description": "Tão voraz quanto lindo.",
+    "level": 155,
+    "rarity": 4,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac HP] 364 PV",
+      "[#charac BLOCK] 19% de Parada",
+      "[#charac CRITICAL_RES] 23 Resistência crítica",
+      "[#charac RES_BACKSTAB] 23 Resistência de costas"
+    ]
+  },
+  {
+    "id": 26055,
+    "name": "Escudo Riktus de Elite",
+    "description": "Este escudo é melhor para bater e golpear que para proteger.",
+    "level": 165,
+    "rarity": 2,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac TACKLE] 30 Bloqueio",
+      "[#charac DODGE] 30 Esquiva",
+      "[#charac BLOCK] 9% de Parada",
+      "[#charac RES_FIRE_PERCENT] 22 Resistência ao fogo",
+      "[#charac HP] 248 PV",
+      "[#charac RES_WATER_PERCENT] 22 Resistência à água",
+      "[#charac RES_AIR_PERCENT] 22 Resistência ao ar"
+    ]
+  },
+  {
+    "id": 26056,
+    "name": "Escudo Riktus de Elite",
+    "description": "Este escudo é melhor para bater e golpear que para proteger.",
+    "level": 168,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac HP] 295 PV",
+      "[#charac TACKLE] 40 Bloqueio",
+      "[#charac DODGE] 40 Esquiva",
+      "[#charac BLOCK] 12% de Parada",
+      "[#charac RES_FIRE_PERCENT] 22 Resistência ao fogo",
+      "[#charac RES_WATER_PERCENT] 22 Resistência à água",
+      "[#charac RES_AIR_PERCENT] 22 Resistência ao ar"
+    ]
+  },
+  {
+    "id": 26057,
+    "name": "Escudo Riktus de Elite",
+    "description": "Este escudo é melhor para bater e golpear que para proteger.",
+    "level": 170,
+    "rarity": 4,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac HP] 351 PV",
+      "[#charac TACKLE] 50 Bloqueio",
+      "[#charac DODGE] 50 Esquiva",
+      "[#charac BLOCK] 15% de Parada",
+      "[#charac RES_FIRE_PERCENT] 22 Resistência ao fogo",
+      "[#charac RES_WATER_PERCENT] 22 Resistência à água",
+      "[#charac RES_AIR_PERCENT] 22 Resistência ao ar"
+    ]
+  },
+  {
+    "id": 26864,
+    "name": "Escudo Huro",
+    "description": "Este escudo protege dos ataques, mas não da pobreza.",
+    "level": 183,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac HP] 364 PV",
+      "[#charac RES_BACKSTAB] 10 Resistência de costas",
+      "[#charac TACKLE] 50 Bloqueio",
+      "[#charac DODGE] 50 Esquiva",
+      "[#charac RES_IN_PERCENT] 30 Resistência elementar",
+      "[#charac CRITICAL_RES] 10 Resistência crítica"
+    ]
+  },
+  {
+    "id": 26865,
+    "name": "Escudo Huro",
+    "description": "Este escudo protege dos ataques, mas não da pobreza.",
+    "level": 185,
+    "rarity": 4,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac HP] 395 PV",
+      "[#charac TACKLE] 60 Bloqueio",
+      "[#charac DODGE] 60 Esquiva",
+      "[#charac RES_IN_PERCENT] 30 Resistência elementar",
+      "[#charac CRITICAL_RES] 15 Resistência crítica",
+      "[#charac RES_BACKSTAB] 15 Resistência de costas"
+    ]
+  },
+  {
+    "id": 27036,
+    "name": "Escudo da Tartaruga Negra",
+    "description": "O que é que tem dentes grandes, bigode e rabo comprido? A Tartaruga Negra que não é.",
+    "level": 200,
+    "rarity": 7,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac MP] 1 PM",
+      "[#charac TACKLE] 100 Bloqueio",
+      "[#charac DODGE] 100 Esquiva",
+      "[#charac BLOCK] 20% de Parada",
+      "[#charac RES_IN_PERCENT] 50 Resistência elementar"
+    ]
+  },
+  {
+    "id": 27629,
+    "name": "Carapancia",
+    "description": "Sob sua aparência sólida e robusta esconde-se um líquido delicioso e bem docinho. Cuidado com as sementes!",
+    "level": 215,
+    "rarity": 4,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac HP] 470 PV",
+      "[#charac TACKLE] 114 Bloqueio",
+      "[#charac BLOCK] 15% de Parada",
+      "[#charac RES_FIRE_PERCENT] 52 Resistência ao fogo",
+      "[#charac RES_WATER_PERCENT] 52 Resistência à água",
+      "[#charac RES_AIR_PERCENT] 52 Resistência ao ar"
+    ]
+  },
+  {
+    "id": 27738,
+    "name": "Égide dos Bons Tempos",
+    "description": "“Como nos bons e velhos tempos”? Os bons e velhos tempos nunca existiram.",
+    "level": 209,
+    "rarity": 2,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac DODGE] 57 Esquiva",
+      "[#charac RES_AIR_PERCENT] 79 Resistência ao ar",
+      "[#charac RES_EARTH_PERCENT] 79 Resistência à terra",
+      "[#charac HP] 406 PV",
+      "[#charac TACKLE] 57 Bloqueio",
+      "[#charac ARMOR_RECEIVED] 10% de armadura recebida"
+    ]
+  },
+  {
+    "id": 27739,
+    "name": "Égide dos Bons Tempos",
+    "description": "“Como nos bons e velhos tempos”? Os bons e velhos tempos nunca existiram.",
+    "level": 212,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac HP] 496 PV",
+      "[#charac TACKLE] 76 Bloqueio",
+      "[#charac DODGE] 76 Esquiva",
+      "[#charac RES_AIR_PERCENT] 79 Resistência ao ar",
+      "[#charac RES_EARTH_PERCENT] 79 Resistência à terra",
+      "[#charac ARMOR_RECEIVED] 10% de armadura recebida"
+    ]
+  },
+  {
+    "id": 27740,
+    "name": "Égide dos Bons Tempos",
+    "description": "“Como nos bons e velhos tempos”? Os bons e velhos tempos nunca existiram.",
+    "level": 215,
+    "rarity": 4,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac RES_EARTH_PERCENT] 79 Resistência à terra",
+      "[#charac HP] 558 PV",
+      "[#charac TACKLE] 85 Bloqueio",
+      "[#charac DODGE] 85 Esquiva",
+      "[#charac RES_AIR_PERCENT] 79 Resistência ao ar",
+      "[#charac ARMOR_RECEIVED] 10% de armadura recebida"
+    ]
+  },
+  {
+    "id": 27816,
+    "name": "Escudo do Capitão Amakna",
+    "description": "Se você for suficientemente pequeno, ele será suficientemente grande para protegê-lo dos olhares fulminantes.",
+    "level": 215,
+    "rarity": 5,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac MP] 1 PM",
+      "[#charac WP] 1 PW",
+      "[#charac HP] 574 PV",
+      "[#charac BLOCK] 20% de Parada",
+      "[#charac RES_IN_PERCENT] 40 Resistência elementar"
+    ]
+  },
+  {
+    "id": 29489,
+    "name": "Égide do Fim dos Tempos",
+    "description": "Seja avançando ou recuando o Krosmoz segue seu caminho em direção ao fim inexorável de todas as coisas.",
+    "level": 230,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac BLOCK] 10% de Parada",
+      "[#charac RES_IN_PERCENT] 40 Resistência elementar",
+      "[#charac HP] 523 PV",
+      "[#charac TACKLE] 140 Bloqueio",
+      "[#charac DODGE] 140 Esquiva"
+    ]
+  },
+  {
+    "id": 29490,
+    "name": "Égide do Fim dos Tempos",
+    "description": "Seja avançando ou recuando o Krosmoz segue seu caminho em direção ao fim inexorável de todas as coisas.",
+    "level": 230,
+    "rarity": 4,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac TACKLE] 100 Bloqueio",
+      "[#charac BLOCK] 10% de Parada",
+      "[#charac RES_IN_PERCENT] 40 Resistência elementar",
+      "[#charac WP] 1 PW",
+      "[#charac HP] 484 PV"
+    ]
+  },
+  {
+    "id": 29589,
+    "name": "O Constante",
+    "description": "Uma constante matemática não é, por definição, levada à mudança. Nem por isso a vida é menos interessante, pois, apesar de suas regras rígidas, é possível observar coisas novas a cada momento que passa. A expressão \"Há coisas que nunca mudam\" deve ser então questionada perpetuamente.",
+    "level": 230,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac HP] 605 PV",
+      "[#charac TACKLE] 114 Bloqueio",
+      "[#charac BLOCK] 20% de Parada",
+      "[#charac RES_IN_PERCENT] 97 Resistência a 2 elementos aleatórios",
+      "[#charac RANGE] -1 Alcance",
+      "[#charac ARMOR_RECEIVED] 15% de armadura recebida"
+    ]
+  },
+  {
+    "id": 29590,
+    "name": "O Constante",
+    "description": "Uma constante matemática não é, por definição, levada à mudança. Nem por isso a vida é menos interessante, pois, apesar de suas regras rígidas, é possível observar coisas novas a cada momento que passa. A expressão \"Há coisas que nunca mudam\" deve ser então questionada perpetuamente.",
+    "level": 230,
+    "rarity": 4,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac BLOCK] 20% de Parada",
+      "[#charac RES_IN_PERCENT] 97 Resistência a 2 elementos aleatórios",
+      "[#charac ARMOR_RECEIVED] 15% de armadura recebida",
+      "[#charac RANGE] -1 Alcance",
+      "[#charac HP] 617 PV",
+      "[#charac TACKLE] 136 Bloqueio"
+    ]
+  },
+  {
+    "id": 30275,
+    "name": "Escudo do Gigante de Aço",
+    "description": "Um pedaço de ferragem que teria caído de um grande indivíduo feito de metal quando ele se emaranhou em fios elétricos.",
+    "level": 230,
+    "rarity": 7,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac TACKLE] 85 Bloqueio",
+      "[#charac ARMOR_GIVEN] 10% de armadura concedida",
+      "[#charac BLOCK] 28% de Parada",
+      "[#charac DODGE] 85 Esquiva",
+      "[#charac MP] 1 PM",
+      "[#charac RES_IN_PERCENT] 55 Resistência elementar"
+    ]
+  },
+  {
+    "id": 30438,
+    "name": "Escudo de Jim",
+    "description": "Robusto, resistente e elegante, este escudo emite sons peculiares quando é golpeado. Sem dúvidas, seu artesão era um profissional admirável.",
+    "level": 55,
+    "rarity": 2,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac HP] 62 PV",
+      "[#charac RES_IN_PERCENT] 12 Resistência elementar",
+      "[#charac BLOCK] 4% de Parada"
+    ]
+  },
+  {
+    "id": 30439,
+    "name": "Escudo de Jim",
+    "description": "Robusto, resistente e elegante, este escudo emite sons peculiares quando é golpeado. Sem dúvidas, seu artesão era um profissional admirável.",
+    "level": 63,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac RES_IN_PERCENT] 12 Resistência elementar",
+      "[#charac BLOCK] 5% de Parada",
+      "[#charac HP] 80 PV"
+    ]
+  },
+  {
+    "id": 30923,
+    "name": "Pelta Embaraçada",
+    "description": "Dizem que as ligas mais fortes são aquelas formadas por uma mistura de cabelo e faixa de múmia. Ainda bem que ninguém tem tanto mau gosto a ponto de criar essa mistura para valer...",
+    "level": 65,
+    "rarity": 4,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac HP] 50 PV",
+      "[#charac WP] 1 PW",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar",
+      "[#charac BLOCK] 4% de Parada"
+    ]
+  },
+  {
+    "id": 31113,
+    "name": "Broquel dos Sonhos",
+    "description": "Um escudo para afastar tudo. Com este escudo, você vai se sentir capaz de proteger seus amigos contra as trevas. Ele tem um símbolo estranho que faz você se sentir um pouco nostálgico.",
+    "level": 130,
+    "rarity": 2,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac TACKLE] 20 Bloqueio",
+      "[#charac HP] 160 PV",
+      "[#charac RES_IN_PERCENT] 30 Resistência a 3 elementos aleatórios",
+      "[#charac BLOCK] 6% de Parada"
+    ]
+  },
+  {
+    "id": 31114,
+    "name": "Broquel dos Sonhos",
+    "description": "Um escudo para afastar tudo. Com este escudo, você vai se sentir capaz de proteger seus amigos contra as trevas. Ele tem um símbolo estranho que faz você se sentir um pouco nostálgico.",
+    "level": 135,
+    "rarity": 3,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac TACKLE] 25 Bloqueio",
+      "[#charac HP] 180 PV",
+      "[#charac RES_IN_PERCENT] 35 Resistência a 3 elementos aleatórios",
+      "[#charac BLOCK] 9% de Parada"
+    ]
+  },
+  {
+    "id": 31115,
+    "name": "Broquel dos Sonhos",
+    "description": "Um escudo para afastar tudo. Com este escudo, você vai se sentir capaz de proteger seus amigos contra as trevas. Ele tem um símbolo estranho que faz você se sentir um pouco nostálgico.",
+    "level": 140,
+    "rarity": 4,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac TACKLE] 30 Bloqueio",
+      "[#charac HP] 195 PV",
+      "[#charac RES_IN_PERCENT] 40 Resistência a 3 elementos aleatórios",
+      "[#charac BLOCK] 14% de Parada"
+    ]
+  },
+  {
+    "id": 31459,
+    "name": "Escudo de Pompom",
+    "description": "Absorve o choque em caso de queda ou salto.",
+    "level": 230,
+    "rarity": 6,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac DODGE] 70 Esquiva",
+      "[#charac TACKLE] 70 Bloqueio",
+      "[#charac RES_IN_PERCENT] 50 Resistência a 3 elementos aleatórios",
+      "[#charac BLOCK] 22% de Parada",
+      "[#charac HP] 520 PV"
+    ]
+  },
+  {
+    "id": 31559,
+    "name": "Muralhadoxo",
+    "description": "Quanto mais Wakfu, mais Necromos. Ou quanto mais Necromos, menos Wakfu. Então, quanto mais Wakfu, menos Wakfu.",
+    "level": 230,
+    "rarity": 4,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac RES_IN_PERCENT] 40 Resistência elementar",
+      "[#charac ARMOR_RECEIVED] 10% de armadura recebida",
+      "[#charac TACKLE] 55 Bloqueio",
+      "[#charac HP] 573 PV",
+      "[#charac BLOCK] 10% de Parada",
+      "[#charac DODGE] 55 Esquiva"
+    ]
+  },
+  {
+    "id": 32339,
+    "name": "O Relógio",
+    "description": "Com o relógio, você não tem mais desculpas para chegar atrasado. Já era hora!",
+    "level": 245,
+    "rarity": 6,
+    "slot": "Escudo (mão secundária)",
+    "effects": [
+      "[#charac HP] 570 PV",
+      "[#charac DODGE] 200 Esquiva",
+      "[#charac TACKLE] 200 Bloqueio",
+      "[#charac RES_IN_PERCENT] 40 Resistência elementar",
+      "[#charac BLOCK] 10% de Parada"
+    ]
+  }
+]

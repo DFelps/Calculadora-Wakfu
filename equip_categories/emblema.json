@@ -1,0 +1,1678 @@
+[
+  {
+    "id": 15257,
+    "name": "Emblema Iop",
+    "description": "Este emblema vem com apetrechos que embelezarão e serão muito úteis para seu Iop.",
+    "level": 60,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac HP] 50 PV",
+      "[#charac FEROCITY] 1% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 9 Domínio elementar",
+      "[#charac RES_IN_PERCENT] 6 Resistência elementar",
+      "Emblema de Iop "
+    ]
+  },
+  {
+    "id": 15258,
+    "name": "Emblema Cra",
+    "description": "Este emblema vem com apetrechos que embelezarão e serão muito úteis para seu Cra.",
+    "level": 60,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac HP] 50 PV",
+      "[#charac FEROCITY] 1% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 9 Domínio elementar",
+      "[#charac RES_IN_PERCENT] 6 Resistência elementar",
+      "Emblema de Cra "
+    ]
+  },
+  {
+    "id": 15260,
+    "name": "Emblema Sacrier",
+    "description": "Este emblema vem com apetrechos que embelezarão e serão muito úteis para seu Sacrier.",
+    "level": 60,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac HP] 50 PV",
+      "[#charac FEROCITY] 1% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 9 Domínio elementar",
+      "[#charac RES_IN_PERCENT] 6 Resistência elementar",
+      "Emblema de Sacrier "
+    ]
+  },
+  {
+    "id": 15261,
+    "name": "Emblema Ecaflip",
+    "description": "Este emblema vem com apetrechos que embelezarão e serão muito úteis para seu Ecaflip.",
+    "level": 60,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac HP] 50 PV",
+      "[#charac FEROCITY] 1% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 9 Domínio elementar",
+      "[#charac RES_IN_PERCENT] 6 Resistência elementar",
+      "Emblema de Ecaflip "
+    ]
+  },
+  {
+    "id": 15262,
+    "name": "Emblema Eniripsa",
+    "description": "Este emblema vem com apetrechos que embelezarão e serão muito úteis para seu Eniripsa.",
+    "level": 60,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac HP] 50 PV",
+      "[#charac FEROCITY] 1% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 9 Domínio elementar",
+      "[#charac RES_IN_PERCENT] 6 Resistência elementar",
+      "Emblema de Eniripsa "
+    ]
+  },
+  {
+    "id": 15263,
+    "name": "Emblema Sadida",
+    "description": "Este emblema vem com apetrechos que embelezarão e serão muito úteis para seu Sadida.",
+    "level": 60,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac HP] 50 PV",
+      "[#charac FEROCITY] 1% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 9 Domínio elementar",
+      "[#charac RES_IN_PERCENT] 6 Resistência elementar",
+      "Emblema de Sadida "
+    ]
+  },
+  {
+    "id": 15264,
+    "name": "Emblema Xelor",
+    "description": "Este emblema vem com apetrechos que embelezarão e serão muito úteis para seu Xelor.",
+    "level": 60,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac HP] 50 PV",
+      "[#charac FEROCITY] 1% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 9 Domínio elementar",
+      "[#charac RES_IN_PERCENT] 6 Resistência elementar",
+      "Emblema de Xelor "
+    ]
+  },
+  {
+    "id": 15265,
+    "name": "Emblema Enutrof",
+    "description": "Este emblema vem com apetrechos que embelezarão e serão muito úteis para seu Enutrof.",
+    "level": 60,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac HP] 50 PV",
+      "[#charac FEROCITY] 1% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 9 Domínio elementar",
+      "[#charac RES_IN_PERCENT] 6 Resistência elementar",
+      "Emblema de Enutrof "
+    ]
+  },
+  {
+    "id": 15266,
+    "name": "Emblema Ladino",
+    "description": "Este emblema vem com apetrechos que embelezarão e serão muito úteis para seu Ladino.",
+    "level": 60,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac HP] 50 PV",
+      "[#charac FEROCITY] 1% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 9 Domínio elementar",
+      "[#charac RES_IN_PERCENT] 6 Resistência elementar",
+      "Emblema de Ladino "
+    ]
+  },
+  {
+    "id": 15267,
+    "name": "Emblema Pandawa",
+    "description": "Este emblema vem com apetrechos que embelezarão e serão muito úteis para seu Pandawa.",
+    "level": 60,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac HP] 50 PV",
+      "[#charac FEROCITY] 1% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 9 Domínio elementar",
+      "[#charac RES_IN_PERCENT] 6 Resistência elementar",
+      "Emblema de Pandawa "
+    ]
+  },
+  {
+    "id": 15268,
+    "name": "Emblema Feca",
+    "description": "Este emblema vem com apetrechos que embelezarão e serão muito úteis para seu Feca.",
+    "level": 60,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac HP] 50 PV",
+      "[#charac FEROCITY] 1% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 9 Domínio elementar",
+      "[#charac RES_IN_PERCENT] 6 Resistência elementar",
+      "Emblema de Feca "
+    ]
+  },
+  {
+    "id": 15269,
+    "name": "Emblema Osamodas",
+    "description": "Este emblema vem com apetrechos que embelezarão e serão muito úteis para seu Osamodas.",
+    "level": 60,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac HP] 50 PV",
+      "[#charac FEROCITY] 1% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 9 Domínio elementar",
+      "[#charac RES_IN_PERCENT] 6 Resistência elementar",
+      "Emblema de Osamodas "
+    ]
+  },
+  {
+    "id": 15270,
+    "name": "Emblema do Steamer",
+    "description": "Este emblema vem com apetrechos que embelezarão e serão muito úteis para seu Steamer.",
+    "level": 60,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac HP] 50 PV",
+      "[#charac FEROCITY] 1% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 9 Domínio elementar",
+      "[#charac RES_IN_PERCENT] 6 Resistência elementar",
+      "Emblema de Steamer "
+    ]
+  },
+  {
+    "id": 15271,
+    "name": "Emblema Sram",
+    "description": "Este emblema vem com apetrechos que embelezarão e serão muito úteis para seu Sram.",
+    "level": 60,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac HP] 50 PV",
+      "[#charac FEROCITY] 1% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 9 Domínio elementar",
+      "[#charac RES_IN_PERCENT] 6 Resistência elementar",
+      "Emblema de Sram "
+    ]
+  },
+  {
+    "id": 17498,
+    "name": "Insígnia de Merida",
+    "description": "Esta insígnia pode ser difícil de conseguir, mas o prestígio e a eficiência que ela traz fazem a espera valer a pena! ",
+    "level": 95,
+    "rarity": 5,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac TACKLE] 17 Bloqueio",
+      "[#charac DODGE] 17 Esquiva",
+      "[#charac HP] 158 PV",
+      "[#charac BLOCK] 6% de Parada",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac DMG_IN_PERCENT] 88 Domínio sobre 3 elementos aleatórios",
+      "Insígnia dos Meridas "
+    ]
+  },
+  {
+    "id": 18306,
+    "name": "Emblema Shushu",
+    "description": "Se usado por muito tempo, este pequeno item cria uma sensação engraçada  de calor que pode, eventualmente, levar à desintegração de seu portador em uma nuvem de Stasis.",
+    "level": 140,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac TACKLE] 10 Bloqueio",
+      "[#charac HP] 171 PV",
+      "[#charac DMG_IN_PERCENT] 30 Domínio elementar",
+      "[#charac DODGE] 10 Esquiva",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar",
+      "[#charac FEROCITY] 2% de golpe crítico"
+    ]
+  },
+  {
+    "id": 18432,
+    "name": "Emblema do Zobal",
+    "description": "Este emblema transporta um traje exclusivo que ficaria solene em seu Zobal.",
+    "level": 60,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac HP] 50 PV",
+      "[#charac FEROCITY] 1% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 9 Domínio elementar",
+      "[#charac RES_IN_PERCENT] 6 Resistência elementar",
+      "Emblema do Zobal "
+    ]
+  },
+  {
+    "id": 18670,
+    "name": "Emblema Shushu",
+    "description": "Se usado por muito tempo, este pequeno item cria uma sensação engraçada  de calor que pode, eventualmente, levar à desintegração de seu portador em uma nuvem de Stasis.",
+    "level": 140,
+    "rarity": 0,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 30 Domínio elementar",
+      "[#charac HP] 171 PV",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar",
+      "[#charac TACKLE] 10 Bloqueio",
+      "[#charac DODGE] 10 Esquiva"
+    ]
+  },
+  {
+    "id": 18671,
+    "name": "Emblema Shushu",
+    "description": "Se usado por muito tempo, este pequeno item cria uma sensação engraçada  de calor que pode, eventualmente, levar à desintegração de seu portador em uma nuvem de Stasis.",
+    "level": 140,
+    "rarity": 0,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac HP] 171 PV",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 30 Domínio elementar",
+      "[#charac TACKLE] 10 Bloqueio",
+      "[#charac DODGE] 10 Esquiva"
+    ]
+  },
+  {
+    "id": 18672,
+    "name": "Emblema Shushu",
+    "description": "Se usado por muito tempo, este pequeno item cria uma sensação engraçada  de calor que pode, eventualmente, levar à desintegração de seu portador em uma nuvem de Stasis.",
+    "level": 140,
+    "rarity": 0,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 30 Domínio elementar",
+      "[#charac HP] 171 PV",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar",
+      "[#charac TACKLE] 10 Bloqueio",
+      "[#charac DODGE] 10 Esquiva"
+    ]
+  },
+  {
+    "id": 18673,
+    "name": "Emblema Shushu",
+    "description": "Se usado por muito tempo, este pequeno item cria uma sensação engraçada  de calor que pode, eventualmente, levar à desintegração de seu portador em uma nuvem de Stasis.",
+    "level": 140,
+    "rarity": 0,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac HP] 171 PV",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 30 Domínio elementar",
+      "[#charac DODGE] 10 Esquiva",
+      "[#charac TACKLE] 10 Bloqueio"
+    ]
+  },
+  {
+    "id": 18674,
+    "name": "Emblema Shushu",
+    "description": "Se usado por muito tempo, este pequeno item cria uma sensação engraçada  de calor que pode, eventualmente, levar à desintegração de seu portador em uma nuvem de Stasis.",
+    "level": 140,
+    "rarity": 0,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 30 Domínio elementar",
+      "[#charac HP] 171 PV",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar",
+      "[#charac TACKLE] 10 Bloqueio",
+      "[#charac DODGE] 10 Esquiva"
+    ]
+  },
+  {
+    "id": 18675,
+    "name": "Emblema Shushu",
+    "description": "Se usado por muito tempo, este pequeno item cria uma sensação engraçada  de calor que pode, eventualmente, levar à desintegração de seu portador em uma nuvem de Stasis.",
+    "level": 140,
+    "rarity": 0,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac HP] 171 PV",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 30 Domínio elementar",
+      "[#charac DODGE] 10 Esquiva",
+      "[#charac TACKLE] 10 Bloqueio"
+    ]
+  },
+  {
+    "id": 18676,
+    "name": "Emblema Shushu",
+    "description": "Se usado por muito tempo, este pequeno item cria uma sensação engraçada  de calor que pode, eventualmente, levar à desintegração de seu portador em uma nuvem de Stasis.",
+    "level": 140,
+    "rarity": 0,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 30 Domínio elementar",
+      "[#charac HP] 171 PV",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar",
+      "[#charac TACKLE] 10 Bloqueio",
+      "[#charac DODGE] 10 Esquiva"
+    ]
+  },
+  {
+    "id": 18677,
+    "name": "Emblema Shushu",
+    "description": "Se usado por muito tempo, este pequeno item cria uma sensação engraçada  de calor que pode, eventualmente, levar à desintegração de seu portador em uma nuvem de Stasis.",
+    "level": 140,
+    "rarity": 0,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac HP] 171 PV",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 30 Domínio elementar",
+      "[#charac TACKLE] 10 Bloqueio",
+      "[#charac DODGE] 10 Esquiva"
+    ]
+  },
+  {
+    "id": 18678,
+    "name": "Emblema Shushu",
+    "description": "Se usado por muito tempo, este pequeno item cria uma sensação engraçada  de calor que pode, eventualmente, levar à desintegração de seu portador em uma nuvem de Stasis.",
+    "level": 140,
+    "rarity": 0,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 30 Domínio elementar",
+      "[#charac HP] 171 PV",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar",
+      "[#charac TACKLE] 10 Bloqueio",
+      "[#charac DODGE] 10 Esquiva"
+    ]
+  },
+  {
+    "id": 18679,
+    "name": "Emblema Shushu",
+    "description": "Se usado por muito tempo, este pequeno item cria uma sensação engraçada  de calor que pode, eventualmente, levar à desintegração de seu portador em uma nuvem de Stasis.",
+    "level": 140,
+    "rarity": 0,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac HP] 171 PV",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 30 Domínio elementar",
+      "[#charac DODGE] 10 Esquiva",
+      "[#charac TACKLE] 10 Bloqueio"
+    ]
+  },
+  {
+    "id": 18680,
+    "name": "Emblema Shushu",
+    "description": "Se usado por muito tempo, este pequeno item cria uma sensação engraçada  de calor que pode, eventualmente, levar à desintegração de seu portador em uma nuvem de Stasis.",
+    "level": 140,
+    "rarity": 0,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 30 Domínio elementar",
+      "[#charac HP] 171 PV",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar",
+      "[#charac TACKLE] 10 Bloqueio",
+      "[#charac DODGE] 10 Esquiva"
+    ]
+  },
+  {
+    "id": 18681,
+    "name": "Emblema Shushu",
+    "description": "Se usado por muito tempo, este pequeno item cria uma sensação engraçada  de calor que pode, eventualmente, levar à desintegração de seu portador em uma nuvem de Stasis.",
+    "level": 140,
+    "rarity": 0,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac HP] 171 PV",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 30 Domínio elementar",
+      "[#charac DODGE] 10 Esquiva",
+      "[#charac TACKLE] 10 Bloqueio"
+    ]
+  },
+  {
+    "id": 18776,
+    "name": "Emblema de Poder",
+    "description": "O poder de defender os fracos é uma grande força em si, mas também é uma fraqueza.",
+    "level": 100,
+    "rarity": 3,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac FEROCITY] 1% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 18 Domínio elementar",
+      "[#charac HP] 100 PV",
+      "[#charac RES_IN_PERCENT] 12 Resistência elementar",
+      "[#charac DODGE] 7 Esquiva",
+      "[#charac TACKLE] 7 Bloqueio"
+    ]
+  },
+  {
+    "id": 19210,
+    "name": "Emblema de Eliotrope",
+    "description": "Este emblema reforçará ligeiramente o seu Eliotrope.",
+    "level": 60,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac HP] 50 PV",
+      "[#charac FEROCITY] 1% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 9 Domínio elementar",
+      "[#charac RES_IN_PERCENT] 6 Resistência elementar"
+    ]
+  },
+  {
+    "id": 19420,
+    "name": "Emblema do Corvo Negro",
+    "description": "Ao carregar o emblema do Corvo Negro, você provará a sua resistência no combate.",
+    "level": 170,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac TACKLE] 35 Bloqueio",
+      "[#charac BLOCK] 3% de Parada",
+      "[#charac HP] 230 PV",
+      "[#charac RES_BACKSTAB] 10 Resistência de costas",
+      "[#charac DMG_IN_PERCENT] 24 Domínio elementar",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar"
+    ]
+  },
+  {
+    "id": 19421,
+    "name": "Emblema do Corvo Branco",
+    "description": "Ao carregar o emblema do Corvo Branco, você mostrará a todos que as suas habilidades não se limitam a brigar como um Iop.",
+    "level": 170,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac HP] 160 PV",
+      "[#charac DMG_IN_PERCENT] 29 Domínio elementar",
+      "[#charac HEAL_IN_PERCENT] 34 Domínio de cura",
+      "[#charac DODGE] 35 Esquiva",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar"
+    ]
+  },
+  {
+    "id": 19457,
+    "name": "I.A.",
+    "description": "Insígnia artificial de versão inferior à implementada no Korbot. Permite tornar autônomo um sistema e lhe dá um aspecto inteligente.",
+    "level": 90,
+    "rarity": 3,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac DODGE] 10 Esquiva",
+      "[#charac DMG_IN_PERCENT] 16 Domínio sobre 3 elementos aleatórios",
+      "[#charac HP] 80 PV",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar"
+    ]
+  },
+  {
+    "id": 20051,
+    "name": "Emblema Sombrios-Esquecidos",
+    "description": "Embora você tenha conseguido este emblema após sua luta contra a Vilanya, ele não fará de você um herói aos olhos dos Huppermagos.",
+    "level": 130,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac HP] 120 PV",
+      "[#charac DODGE] 20 Esquiva",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar",
+      "[#charac CRITICAL_BONUS] 7 Domínio de crítico",
+      "[#charac FEROCITY] 1% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 21 Domínio elementar"
+    ]
+  },
+  {
+    "id": 20281,
+    "name": "Fu Moon de Precisão",
+    "description": "Uma insígnia que especializa nos domínios elementares.",
+    "level": 185,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac HP] 275 PV",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar",
+      "[#charac DMG_IN_PERCENT] 53 Domínio sobre 3 elementos aleatórios",
+      "[#charac TACKLE] 20 Bloqueio",
+      "[#charac DODGE] 20 Esquiva"
+    ]
+  },
+  {
+    "id": 20362,
+    "name": "Fu Moon de Destruição",
+    "description": "Uma insígnia que especializa nos domínios elementares.",
+    "level": 185,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac HP] 269 PV",
+      "[#charac DMG_IN_PERCENT] 56 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar",
+      "[#charac TACKLE] 20 Bloqueio",
+      "[#charac DODGE] 20 Esquiva"
+    ]
+  },
+  {
+    "id": 20363,
+    "name": "Fu Moon de Curta Distância",
+    "description": "Uma insígnia que especializa no domínio de curta distância.",
+    "level": 185,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac HP] 269 PV",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar",
+      "[#charac DMG_IN_PERCENT] 35 Domínio sobre 3 elementos aleatórios",
+      "[#charac MELEE_DMG] 24 Domínio de curta distância",
+      "[#charac DODGE] 20 Esquiva",
+      "[#charac TACKLE] 20 Bloqueio"
+    ]
+  },
+  {
+    "id": 20364,
+    "name": "Fu Moon de Distância",
+    "description": "Uma insígnia que especializa no domínio de distância.",
+    "level": 185,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac HP] 269 PV",
+      "[#charac DMG_IN_PERCENT] 35 Domínio sobre 3 elementos aleatórios",
+      "[#charac RANGED_DMG] 24 Domínio de distância",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar",
+      "[#charac TACKLE] 20 Bloqueio",
+      "[#charac DODGE] 20 Esquiva"
+    ]
+  },
+  {
+    "id": 20365,
+    "name": "Fu Moon de Persistência",
+    "description": "Uma insígnia adequada a qualquer situação e útil a todos.",
+    "level": 185,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac TACKLE] 53 Bloqueio",
+      "[#charac DODGE] 53 Esquiva",
+      "[#charac HP] 284 PV",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar",
+      "[#charac DMG_IN_PERCENT] 47 Domínio sobre 3 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 20368,
+    "name": "Fu Moon de Violência",
+    "description": "Uma insígnia que especializa no domínio de Berserk.",
+    "level": 185,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac HP] 265 PV",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar",
+      "[#charac DMG_IN_PERCENT] 35 Domínio sobre 3 elementos aleatórios",
+      "[#charac BERSERK_DMG] 25 Domínio de Berserk",
+      "[#charac TACKLE] 20 Bloqueio",
+      "[#charac DODGE] 20 Esquiva"
+    ]
+  },
+  {
+    "id": 20369,
+    "name": "Fu Moon de Perfídia",
+    "description": "Uma insígnia que especializa no domínio de costas.",
+    "level": 185,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac HP] 265 PV",
+      "[#charac DMG_IN_PERCENT] 35 Domínio sobre 3 elementos aleatórios",
+      "[#charac BACKSTAB_BONUS] 25 Domínio de costas",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar",
+      "[#charac TACKLE] 20 Bloqueio",
+      "[#charac DODGE] 20 Esquiva"
+    ]
+  },
+  {
+    "id": 20720,
+    "name": "Dofus Prismático",
+    "description": "O precioso Dofus Prismático de Nogord, o Lagartalado, dragão inferior do passado.",
+    "level": 200,
+    "rarity": 5,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac HP] 180 PV",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 141 Domínio sobre 3 elementos aleatórios",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "Dofus Prismático "
+    ]
+  },
+  {
+    "id": 23994,
+    "name": "Fragmento de Dofus Ébano",
+    "description": "Você ainda vai esperar quanto tempo para saciar sua vontade de reunir os seis Dofus Primordiais?",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac RANGE] -1 Alcance",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac DODGE] 50 Esquiva",
+      "[#charac TACKLE] 50 Bloqueio",
+      "[#charac HP] 250 PV",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac MELEE_DMG] 90 Domínio de curta distância",
+      "[#charac DMG_IN_PERCENT] 88 Domínio sobre 3 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 23995,
+    "name": "Fragmento de Dofus Esmeralda",
+    "description": "Você ainda vai esperar quanto tempo para saciar sua vontade de reunir os seis Dofus Primordiais?",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac HP] 318 PV",
+      "[#charac CRITICAL_RES] 10 Resistência crítica",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac DMG_IN_PERCENT] 88 Domínio sobre 3 elementos aleatórios",
+      "[#charac BLOCK] 3% de Parada",
+      "[#charac RES_BACKSTAB] 10 Resistência de costas"
+    ]
+  },
+  {
+    "id": 23996,
+    "name": "Fragmento de Dofus Marfim",
+    "description": "Você ainda vai esperar quanto tempo para saciar sua vontade de reunir os seis Dofus Primordiais?",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac DODGE] 50 Esquiva",
+      "[#charac HP] 291 PV",
+      "[#charac RANGED_DMG] 70 Domínio de distância",
+      "[#charac DMG_IN_PERCENT] 70 Domínio sobre 3 elementos aleatórios",
+      "[#charac WP] -1 PW máx.",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac FEROCITY] 3% de golpe crítico"
+    ]
+  },
+  {
+    "id": 23997,
+    "name": "Fragmento de Dofus Ocre",
+    "description": "Você ainda vai esperar quanto tempo para saciar sua vontade de reunir os seis Dofus Primordiais?",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac DODGE] 67 Esquiva",
+      "[#charac TACKLE] 67 Bloqueio",
+      "[#charac HP] 252 PV",
+      "[#charac RES_AIR_PERCENT] 28 Resistência ao ar",
+      "[#charac RES_WATER_PERCENT] 28 Resistência à água",
+      "[#charac RES_FIRE_PERCENT] 28 Resistência ao fogo",
+      "[#charac DMG_IN_PERCENT] 100 Domínio sobre 3 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 23998,
+    "name": "Fragmento de Dofus Turquesa",
+    "description": "Você ainda vai esperar quanto tempo para saciar sua vontade de reunir os seis Dofus Primordiais?",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac CRITICAL_RES] 20 Resistência crítica",
+      "[#charac CRITICAL_BONUS] 113 Domínio de crítico",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac HP] 324 PV"
+    ]
+  },
+  {
+    "id": 23999,
+    "name": "Fragmento de Dofus Púrpura",
+    "description": "Você ainda vai esperar quanto tempo para saciar sua vontade de reunir os seis Dofus Primordiais?",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac DODGE] 20 Esquiva",
+      "[#charac TACKLE] 20 Bloqueio",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac DMG_IN_PERCENT] 118 Domínio sobre 3 elementos aleatórios",
+      "[#charac HP] 349 PV"
+    ]
+  },
+  {
+    "id": 24312,
+    "name": "Emblema das Raízes",
+    "description": "Um emblema para manter o pé no chão.",
+    "level": 50,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 19 Domínio sobre 1 elemento aleatório",
+      "[#charac DODGE] 9 Esquiva",
+      "[#charac HP] 57 PV"
+    ]
+  },
+  {
+    "id": 24313,
+    "name": "Emblema dos Nós",
+    "description": "Um emblema para unir.",
+    "level": 50,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 12 Domínio sobre 3 elementos aleatórios",
+      "[#charac BLOCK] 1% de Parada",
+      "[#charac TACKLE] 6 Bloqueio",
+      "[#charac HP] 46 PV",
+      "[#charac RES_EARTH_PERCENT] 9 Resistência à terra",
+      "[#charac RES_WATER_PERCENT] 9 Resistência à água",
+      "[#charac RES_FIRE_PERCENT] 9 Resistência ao fogo"
+    ]
+  },
+  {
+    "id": 24314,
+    "name": "Emblema da Seiva",
+    "description": "Um emblema para insuflar vida.",
+    "level": 50,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac HP] 56 PV",
+      "[#charac RES_AIR_PERCENT] 13 Resistência ao ar",
+      "[#charac RES_WATER_PERCENT] 13 Resistência à água",
+      "[#charac CRITICAL_BONUS] 8 Domínio de crítico",
+      "[#charac FEROCITY] 2% de golpe crítico"
+    ]
+  },
+  {
+    "id": 24315,
+    "name": "Emblema do Dossel",
+    "description": "Um emblema para chegar até o topo.",
+    "level": 50,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 15 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] -5% Golpe crítico",
+      "[#charac HP] 23 PV",
+      "[#charac WP] 1 PW",
+      "[#charac RES_AIR_PERCENT] 7 Resistência ao ar",
+      "[#charac RES_WATER_PERCENT] 7 Resistência à água"
+    ]
+  },
+  {
+    "id": 24332,
+    "name": "Emblema da Torre",
+    "description": "Só quem chegou lá no alto é digno de carregar este emblema.",
+    "level": 125,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac HEAL_IN_PERCENT] 7 Domínio de cura",
+      "[#charac DMG_IN_PERCENT] 29 Domínio sobre 3 elementos aleatórios",
+      "[#charac DODGE] 15 Esquiva",
+      "[#charac HP] 164 PV",
+      "[#charac RES_EARTH_PERCENT] 13 Resistência à terra",
+      "[#charac RES_AIR_PERCENT] 13 Resistência ao ar",
+      "[#charac RES_FIRE_PERCENT] 13 Resistência ao fogo"
+    ]
+  },
+  {
+    "id": 24333,
+    "name": "Emblema de Esmeraldim",
+    "description": "Um emblema que brilha com uma luz verde ofuscante e sobrenatural.",
+    "level": 140,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac RES_BACKSTAB] 5 Resistência de costas",
+      "[#charac CRITICAL_RES] 5 Resistência crítica",
+      "[#charac RES_EARTH_PERCENT] 28 Resistência à terra",
+      "[#charac RES_WATER_PERCENT] 28 Resistência à água",
+      "[#charac TACKLE] 20 Bloqueio",
+      "[#charac HP] 153 PV",
+      "[#charac DMG_IN_PERCENT] 30 Domínio sobre 3 elementos aleatórios",
+      "[#charac BLOCK] 3% de Parada"
+    ]
+  },
+  {
+    "id": 24722,
+    "name": "Emblema Terrestre",
+    "description": "Um emblema com cheiro de terra molhada.",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac HP] 205 PV",
+      "[#charac WP] 1 PW",
+      "[#charac RES_EARTH_PERCENT] 42 Resistência à terra",
+      "[#charac RES_AIR_PERCENT] 42 Resistência ao ar",
+      "[#charac DMG_IN_PERCENT] 94 Domínio sobre 3 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 24723,
+    "name": "Emblema dos Necromantes",
+    "description": "Este emblema acompanhará o dono até depois da morte.",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac HP] 240 PV",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac RES_WATER_PERCENT] 42 Resistência à água",
+      "[#charac RES_FIRE_PERCENT] 42 Resistência ao fogo",
+      "[#charac DMG_IN_PERCENT] 109 Domínio sobre 3 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 25075,
+    "name": "Emblema do Caçador de Arquimonstros",
+    "description": "Um emblema obtido com o suor do seu rosto, depois de ter caçado monstros raros em todas as regiões do mundo.",
+    "level": 155,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac FEROCITY] -5% Golpe crítico",
+      "[#charac TACKLE] 13 Bloqueio",
+      "[#charac HP] 160 PV",
+      "[#charac BLOCK] 3% de Parada",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar",
+      "[#charac DMG_IN_PERCENT] 38 Domínio sobre 3 elementos aleatórios",
+      "[#charac DMG_IN_PERCENT] 41 Domínio elementar"
+    ]
+  },
+  {
+    "id": 26356,
+    "name": "Emblema de Huppermago",
+    "description": "Este emblema reforçará ligeiramente o seu Huppermago.",
+    "level": 60,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac RES_IN_PERCENT] 6 Resistência elementar",
+      "[#charac HP] 50 PV",
+      "[#charac FEROCITY] 1% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 9 Domínio elementar"
+    ]
+  },
+  {
+    "id": 26357,
+    "name": "Emblema de Kilorf",
+    "description": "Este emblema reforçará ligeiramente o seu Kilorf.",
+    "level": 60,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac HP] 50 PV",
+      "[#charac FEROCITY] 1% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 9 Domínio elementar",
+      "[#charac RES_IN_PERCENT] 6 Resistência elementar"
+    ]
+  },
+  {
+    "id": 26560,
+    "name": "Emblema dos Smagador Mineiros",
+    "description": "Com este emblema, você sempre estará meio sombrio, como uma mina.",
+    "level": 50,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac FEROCITY] 1% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 13 Domínio sobre 1 elemento aleatório",
+      "[#charac RES_BACKSTAB] 8 Resistência de costas",
+      "[#charac HP] 44 PV",
+      "[#charac TACKLE] 3 Bloqueio",
+      "[#charac DODGE] 3 Esquiva"
+    ]
+  },
+  {
+    "id": 26561,
+    "name": "Emblema dos Chaferes Mineiros",
+    "description": "Com este emblema, você sempre estará meio sombrio, como uma mina.",
+    "level": 95,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac HP] 96 PV",
+      "[#charac MELEE_DMG] 13 Domínio de curta distância",
+      "[#charac FEROCITY] 1% de golpe crítico",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar"
+    ]
+  },
+  {
+    "id": 26562,
+    "name": "Emblema de Ken, o Lich",
+    "description": "Com este emblema, você sempre estará meio otimista.",
+    "level": 95,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac HP] 96 PV",
+      "[#charac FEROCITY] 1% de golpe crítico",
+      "[#charac RANGED_DMG] 13 Domínio de distância",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar"
+    ]
+  },
+  {
+    "id": 26563,
+    "name": "Emblema de Leviatum",
+    "description": "Com este emblema, você sempre estará meio úmido.",
+    "level": 125,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac BLOCK] 1% de Parada",
+      "[#charac DMG_IN_PERCENT] 18 Domínio sobre 3 elementos aleatórios",
+      "[#charac RES_WATER_PERCENT] 45 Resistência à água",
+      "[#charac HP] 146 PV",
+      "[#charac FEROCITY] 2% de golpe crítico"
+    ]
+  },
+  {
+    "id": 26564,
+    "name": "Emblema de Tauro",
+    "description": "Com este emblema, você sempre se sentirá meio forte.",
+    "level": 125,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac HP] 121 PV",
+      "[#charac DMG_IN_PERCENT] 18 Domínio sobre 2 elementos aleatórios",
+      "[#charac MELEE_DMG] 17 Domínio de curta distância",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar",
+      "[#charac TACKLE] 14 Bloqueio"
+    ]
+  },
+  {
+    "id": 26565,
+    "name": "Emblema dos Riktus",
+    "description": "Com este emblema, você sempre estará meio mágico, como um Riktus Mágikus.",
+    "level": 110,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac HP] 113 PV",
+      "[#charac TACKLE] -50 Bloqueio",
+      "[#charac WP] 1 PW",
+      "[#charac DMG_IN_PERCENT] 18 Domínio sobre 3 elementos aleatórios",
+      "[#charac RES_FIRE_PERCENT] 11 Resistência ao fogo",
+      "[#charac RES_WATER_PERCENT] 11 Resistência à água",
+      "[#charac RES_AIR_PERCENT] 11 Resistência ao ar"
+    ]
+  },
+  {
+    "id": 26566,
+    "name": "Emblema do Fogo das Trevas",
+    "description": "Com este emblema, você sempre estará meio sombrio, como o Corvo Negro.",
+    "level": 110,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac HP] 114 PV",
+      "[#charac DODGE] 10 Esquiva",
+      "[#charac DMG_IN_PERCENT] 12 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac WP] -1 PW máx.",
+      "[#charac CRITICAL_BONUS] 6 Domínio de crítico",
+      "[#charac RES_AIR_PERCENT] 33 Resistência ao ar"
+    ]
+  },
+  {
+    "id": 26567,
+    "name": "Emblema do Fogo Vulcânico",
+    "description": "Com este emblema, você sempre estará meio quente, como Magmog, o Paparog.",
+    "level": 110,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac TACKLE] 10 Bloqueio",
+      "[#charac FEROCITY] -5% Golpe crítico",
+      "[#charac DMG_IN_PERCENT] 24 Domínio sobre 2 elementos aleatórios",
+      "[#charac HP] 122 PV",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar"
+    ]
+  },
+  {
+    "id": 26568,
+    "name": "Emblema das Almas Etéreas",
+    "description": "Com este emblema, você sempre estará meio desencarnado, como Excarnus.",
+    "level": 80,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac HEAL_IN_PERCENT] 7 Domínio de cura",
+      "[#charac RES_IN_PERCENT] 19 Resistência a 2 elementos aleatórios",
+      "[#charac HP] 81 PV"
+    ]
+  },
+  {
+    "id": 26569,
+    "name": "Emblema da Selvageria",
+    "description": "Com este emblema, você sempre estará meio peludo, como Amilkar, o Mulobo.",
+    "level": 95,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac RES_IN_PERCENT] 11 Resistência a 3 elementos aleatórios",
+      "[#charac HP] 89 PV",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac BERSERK_DMG] 11 Domínio de Berserk"
+    ]
+  },
+  {
+    "id": 26570,
+    "name": "Emblema de Frigost I",
+    "description": "Com este emblema, você vai viver com frio, como se estivesse em Frigost.",
+    "level": 110,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac HP] 151 PV",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 16 Domínio sobre 2 elementos aleatórios",
+      "[#charac DODGE] 10 Esquiva"
+    ]
+  },
+  {
+    "id": 26571,
+    "name": "Emblema de Frigost II",
+    "description": "Com este emblema, você vai viver com frio, como se estivesse em Frigost.",
+    "level": 125,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 18 Domínio sobre 2 elementos aleatórios",
+      "[#charac RANGED_DMG] 8 Domínio de distância",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar",
+      "[#charac HP] 118 PV",
+      "[#charac DODGE] 10 Esquiva",
+      "[#charac FEROCITY] 2% de golpe crítico"
+    ]
+  },
+  {
+    "id": 26572,
+    "name": "Emblema do Toucinho da Batalha",
+    "description": "Com este emblema, você sempre estará meio gordo, como o Dragão-Porco.",
+    "level": 125,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac HP] 89 PV",
+      "[#charac BLOCK] 1% de Parada",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 15 Domínio sobre 2 elementos aleatórios",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar",
+      "[#charac MELEE_DMG] 13 Domínio de curta distância",
+      "[#charac DODGE] 3 Esquiva",
+      "[#charac TACKLE] 3 Bloqueio"
+    ]
+  },
+  {
+    "id": 26573,
+    "name": "Emblema de Bonta",
+    "description": "Com este emblema, você sempre ficará meio mexido quando tiver que ir embora de Bonta.",
+    "level": 80,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac FEROCITY] 1% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 10 Domínio sobre 3 elementos aleatórios",
+      "[#charac RES_IN_PERCENT] 9 Resistência elementar",
+      "[#charac TACKLE] 8 Bloqueio",
+      "[#charac HP] 97 PV"
+    ]
+  },
+  {
+    "id": 27089,
+    "name": "Emblema dos Sussurradores",
+    "description": "Graças a este emblema, você passará a falar com uma voz baixinha, quase sussurrando.",
+    "level": 110,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac RANGED_DMG] 32 Domínio de distância",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac HP] 98 PV",
+      "[#charac BACKSTAB_BONUS] -18 Domínio de costas",
+      "[#charac RES_IN_PERCENT] 17 Resistência a 3 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 27090,
+    "name": "Emblema dos Smagadores Sussurrados",
+    "description": "Graças a este emblema, você passará a falar com uma voz baixinha, quase sussurrando.",
+    "level": 110,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac MELEE_DMG] 36 Domínio de curta distância",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac RANGE] -1 Alcance",
+      "[#charac HP] 78 PV",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 24 Domínio sobre 3 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 27923,
+    "name": "Emblema do Monte Zinit I",
+    "description": "Este emblema é tão cortante quanto as garras dos Texox.",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac TACKLE] 40 Bloqueio",
+      "[#charac DMG_IN_PERCENT] 146 Domínio sobre 2 elementos aleatórios",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac HP] 415 PV",
+      "[#charac DODGE] 40 Esquiva"
+    ]
+  },
+  {
+    "id": 27924,
+    "name": "Emblema do Monte Zinit II",
+    "description": "Este emblema veio das chamas do Dor'Mor.",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac CRITICAL_BONUS] 146 Domínio de crítico",
+      "[#charac MELEE_DMG] 75 Domínio de curta distância",
+      "[#charac RES_IN_PERCENT] 42 Resistência a 2 elementos aleatórios",
+      "[#charac HP] 258 PV",
+      "[#charac DODGE] 40 Esquiva",
+      "[#charac FEROCITY] 3% de golpe crítico"
+    ]
+  },
+  {
+    "id": 27925,
+    "name": "Emblema do Monte Zinit III",
+    "description": "Este emblema é tão resistente quanto a carapaça de um Dragovo.",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac CRITICAL_RES] -20 Resistência crítica",
+      "[#charac RES_WATER_PERCENT] 22 Resistência à água",
+      "[#charac RES_EARTH_PERCENT] 22 Resistência à terra",
+      "[#charac HP] 316 PV",
+      "[#charac RES_FIRE_PERCENT] 22 Resistência ao fogo",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac RANGED_DMG] 232 Domínio de distância"
+    ]
+  },
+  {
+    "id": 27926,
+    "name": "Emblema do Monte Zinit IV",
+    "description": "Este é o único emblema tão elusivo quanto um Éter-No.",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac HP] 562 PV",
+      "[#charac HEAL_IN_PERCENT] 226 Domínio de cura",
+      "[#charac DODGE] 40 Esquiva"
+    ]
+  },
+  {
+    "id": 28091,
+    "name": "Emblema de Marfim",
+    "description": "Um emblema que não tem fim.",
+    "level": 215,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac HP] 377 PV",
+      "[#charac TACKLE] 60 Bloqueio",
+      "[#charac BERSERK_DMG] 216 Domínio de Berserk",
+      "[#charac RES_WATER_PERCENT] 22 Resistência à água",
+      "[#charac RES_AIR_PERCENT] 22 Resistência ao ar",
+      "[#charac RES_EARTH_PERCENT] 22 Resistência à terra"
+    ]
+  },
+  {
+    "id": 28092,
+    "name": "Emblema de Bronze",
+    "description": "Este emblema ficou muito tempo pegando cor no sol.",
+    "level": 215,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac TACKLE] 45 Bloqueio",
+      "[#charac DODGE] 45 Esquiva",
+      "[#charac DMG_IN_PERCENT] 177 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac HP] 567 PV",
+      "[#charac CRITICAL_RES] -20 Resistência crítica"
+    ]
+  },
+  {
+    "id": 28093,
+    "name": "Emblema de Aço",
+    "description": "Um emblema não para palhaço ou João-sem-braço, mas sim para quem tem nervos de aço.",
+    "level": 215,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac CRITICAL_BONUS] 122 Domínio de crítico",
+      "[#charac MELEE_DMG] 143 Domínio de curta distância",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac RES_FIRE_PERCENT] 42 Resistência ao fogo",
+      "[#charac HP] 280 PV",
+      "[#charac DODGE] -80 Esquiva",
+      "[#charac BLOCK] 3% de Parada",
+      "[#charac RES_WATER_PERCENT] 42 Resistência à água"
+    ]
+  },
+  {
+    "id": 28094,
+    "name": "Emblema de Mithril",
+    "description": "Este emblema foi gravado com uma mensagem muito discreta. Parece que se trata de um trocadilho. Você não entendeu a piada, mas se recusa categoricamente a pedir para alguém explicá-la.",
+    "level": 215,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac RANGED_DMG] 120 Domínio de distância",
+      "[#charac RES_FIRE_PERCENT] 22 Resistência ao fogo",
+      "[#charac RES_AIR_PERCENT] 22 Resistência ao ar",
+      "[#charac HP] 443 PV",
+      "[#charac DODGE] 60 Esquiva",
+      "[#charac DMG_IN_PERCENT] 59 Domínio sobre 3 elementos aleatórios",
+      "[#charac RES_EARTH_PERCENT] 22 Resistência à terra"
+    ]
+  },
+  {
+    "id": 28417,
+    "name": "Dofus Turquesa",
+    "description": "Um Dofus Turquesa dado por Aguabrial. Se ele eclodisse, poderia trazer de volta ao Mundo dos Doze uma ameaça tão terrível quanto Bolgrot? Ou será que se trata de um símbolo da resiliência do mundo?",
+    "level": 215,
+    "rarity": 5,
+    "slot": "Emblema",
+    "effects": [
+      "Dofus Turquesa ",
+      "[#charac AP] 1 PA",
+      "[#charac HP] 216 PV",
+      "[#charac DMG_IN_PERCENT] 200 Domínio sobre 3 elementos aleatórios",
+      "[#charac RES_WATER_PERCENT] 108 Resistência à água"
+    ]
+  },
+  {
+    "id": 29418,
+    "name": "Emblema do Esperto I",
+    "description": "Você queria ver o que tem de tão esperto, mas...",
+    "level": 230,
+    "rarity": 3,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac DODGE] 60 Esquiva",
+      "[#charac DMG_IN_PERCENT] 165 Domínio sobre 3 elementos aleatórios",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac HP] 450 PV",
+      "[#charac TACKLE] 60 Bloqueio"
+    ]
+  },
+  {
+    "id": 29419,
+    "name": "Emblema do Perverso I",
+    "description": "Como este emblema pertencia a Anathar, fica difícil dizer se ele tem alguma utilidade.",
+    "level": 230,
+    "rarity": 3,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac HP] 401 PV",
+      "[#charac DODGE] 60 Esquiva",
+      "[#charac DMG_IN_PERCENT] 171 Domínio sobre 2 elementos aleatórios",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac LEADERSHIP] 2 Controle"
+    ]
+  },
+  {
+    "id": 29420,
+    "name": "Emblema do Impuro I",
+    "description": "Agora, ele está em suas mãos.",
+    "level": 230,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac TACKLE] 50 Bloqueio",
+      "[#charac DODGE] 50 Esquiva",
+      "[#charac DMG_IN_PERCENT] 141 Domínio sobre 3 elementos aleatórios",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac HP] 402 PV",
+      "Pacto de Anathar I "
+    ]
+  },
+  {
+    "id": 29437,
+    "name": "Emblema do Esperto II",
+    "description": "Você queria ver o que tem de tão esperto, mas...",
+    "level": 230,
+    "rarity": 3,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac HP] 464 PV",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac TACKLE] 55 Bloqueio",
+      "[#charac DODGE] 55 Esquiva",
+      "[#charac DMG_IN_PERCENT] 146 Domínio sobre 2 elementos aleatórios",
+      "[#charac MELEE_DMG] 120 Domínio de curta distância"
+    ]
+  },
+  {
+    "id": 29438,
+    "name": "Emblema do Esperto III",
+    "description": "Você queria ver o que tem de tão esperto, mas...",
+    "level": 230,
+    "rarity": 3,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac RANGED_DMG] 120 Domínio de distância",
+      "[#charac DMG_IN_PERCENT] 120 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac DODGE] 80 Esquiva",
+      "[#charac HP] 519 PV"
+    ]
+  },
+  {
+    "id": 29439,
+    "name": "Emblema do Esperto IV",
+    "description": "Você queria ver o que tem de tão esperto, mas...",
+    "level": 230,
+    "rarity": 3,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac HP] 415 PV",
+      "[#charac CRITICAL_BONUS] 233 Domínio de crítico",
+      "[#charac RES_EARTH_PERCENT] 17 Resistência à terra",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac RES_WATER_PERCENT] 17 Resistência à água",
+      "[#charac RES_AIR_PERCENT] 17 Resistência ao ar"
+    ]
+  },
+  {
+    "id": 29440,
+    "name": "Emblema do Esperto V",
+    "description": "Você queria ver o que tem de tão esperto, mas...",
+    "level": 230,
+    "rarity": 3,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac HP] 325 PV",
+      "[#charac TACKLE] 60 Bloqueio",
+      "[#charac DODGE] 60 Esquiva",
+      "[#charac DMG_IN_PERCENT] 212 Domínio sobre 3 elementos aleatórios",
+      "[#charac RES_FIRE_PERCENT] 42 Resistência ao fogo",
+      "[#charac RES_EARTH_PERCENT] 42 Resistência à terra"
+    ]
+  },
+  {
+    "id": 29441,
+    "name": "Emblema do Perverso II",
+    "description": "Como este emblema pertencia a Anathar, fica difícil dizer se ele tem alguma utilidade.",
+    "level": 230,
+    "rarity": 3,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac RANGE] -1 Alcance",
+      "[#charac HP] 445 PV",
+      "[#charac CRITICAL_BONUS] 283 Domínio de crítico",
+      "[#charac FEROCITY] 3% de golpe crítico"
+    ]
+  },
+  {
+    "id": 29442,
+    "name": "Emblema do Perverso III",
+    "description": "Como este emblema pertencia a Anathar, fica difícil dizer se ele tem alguma utilidade.",
+    "level": 230,
+    "rarity": 3,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac HP] 401 PV",
+      "[#charac BERSERK_DMG] 356 Domínio de Berserk",
+      "[#charac FEROCITY] -10% Golpe crítico",
+      "[#charac RES_WATER_PERCENT] 28 Resistência à água",
+      "[#charac RES_EARTH_PERCENT] 28 Resistência à terra"
+    ]
+  },
+  {
+    "id": 29443,
+    "name": "Emblema do Perverso IV",
+    "description": "Como este emblema pertencia a Anathar, fica difícil dizer se ele tem alguma utilidade.",
+    "level": 230,
+    "rarity": 3,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 151 Domínio sobre 3 elementos aleatórios",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac DODGE] 80 Esquiva"
+    ]
+  },
+  {
+    "id": 29444,
+    "name": "Emblema do Perverso V",
+    "description": "Como este emblema pertencia a Anathar, fica difícil dizer se ele tem alguma utilidade.",
+    "level": 230,
+    "rarity": 3,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac WP] 1 PW",
+      "[#charac HP] 470 PV",
+      "[#charac TACKLE] 60 Bloqueio",
+      "[#charac DODGE] 60 Esquiva",
+      "[#charac DMG_IN_PERCENT] 177 Domínio sobre 2 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 29445,
+    "name": "Emblema do Impuro II",
+    "description": "Agora, ele está em suas mãos.",
+    "level": 230,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac HP] 402 PV",
+      "[#charac TACKLE] 50 Bloqueio",
+      "[#charac DODGE] 50 Esquiva",
+      "[#charac DMG_IN_PERCENT] 141 Domínio sobre 3 elementos aleatórios",
+      "Pacto de Anathar II "
+    ]
+  },
+  {
+    "id": 29446,
+    "name": "Emblema do Impuro III",
+    "description": "Agora, ele está em suas mãos.",
+    "level": 230,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac HP] 490 PV",
+      "[#charac TACKLE] 60 Bloqueio",
+      "[#charac DODGE] 60 Esquiva",
+      "[#charac BLOCK] 3% de Parada",
+      "[#charac DMG_IN_PERCENT] 146 Domínio sobre 2 elementos aleatórios",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "Pacto de Anathar III "
+    ]
+  },
+  {
+    "id": 29447,
+    "name": "Emblema do Impuro IV",
+    "description": "Agora, ele está em suas mãos.",
+    "level": 230,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac HP] 364 PV",
+      "[#charac DMG_IN_PERCENT] 110 Domínio sobre 3 elementos aleatórios",
+      "[#charac DODGE] 80 Esquiva",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac RANGED_DMG] 110 Domínio de distância",
+      "Pacto de Anathar IV "
+    ]
+  },
+  {
+    "id": 29448,
+    "name": "Emblema do Impuro V",
+    "description": "Agora, ele está em suas mãos.",
+    "level": 230,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac CRITICAL_BONUS] 57 Domínio de crítico",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac HP] 354 PV",
+      "[#charac TACKLE] 40 Bloqueio",
+      "[#charac DODGE] 40 Esquiva",
+      "[#charac DMG_IN_PERCENT] 146 Domínio sobre 2 elementos aleatórios",
+      "Pacto de Anathar V "
+    ]
+  },
+  {
+    "id": 29456,
+    "name": "Dofushu",
+    "description": "Pelo aspecto rústico e imperfeições, dá para ver que esse falso Dofus certamente veio de um Shushu. Embora não saibamos como isso aconteceu, a alma de um desses demônios está trancada dentro dele e escruta tudo o que está do lado de fora. Seus olhos, implantados na casca do ovo, permite tudo ver e espiar. Você pode até ouvir os sussurros que o Shushu preso emite.",
+    "level": 230,
+    "rarity": 5,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac HP] 444 PV",
+      "[#charac DMG_IN_PERCENT] 306 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "Dofushu ",
+      "[#charac AP] 1 PA"
+    ]
+  },
+  {
+    "id": 31361,
+    "name": "Dofus Marfim",
+    "description": "Se sua brancura é inigualável, é porque Dardondakal, o Dragão Branco, clareia o Dofus Marfim com sua respiração todas as manhãs (um velho truque que sua avó Dragona ensinou).",
+    "level": 155,
+    "rarity": 5,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "Dofus Marfim ",
+      "[#charac WP] 2 PW"
+    ]
+  },
+  {
+    "id": 31362,
+    "name": "Emblema Malcial",
+    "description": "Se você achou que a Wainha teria apenas um truque na manga, você se enganou redondamente.",
+    "level": 140,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac HP] 139 PV",
+      "[#charac DODGE] 20 Esquiva",
+      "[#charac TACKLE] 20 Bloqueio",
+      "[#charac MELEE_DMG] 25 Domínio de curta distância",
+      "[#charac DMG_IN_PERCENT] 20 Domínio sobre 2 elementos aleatórios",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar",
+      "[#charac FEROCITY] 2% de golpe crítico"
+    ]
+  },
+  {
+    "id": 31363,
+    "name": "Emblema Frutado",
+    "description": "Se você achou que a Wainha teria apenas um truque na manga, você se enganou redondamente.",
+    "level": 140,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac DODGE] 30 Esquiva",
+      "[#charac HP] 132 PV",
+      "[#charac RANGED_DMG] 30 Domínio de distância",
+      "[#charac DMG_IN_PERCENT] 25 Domínio sobre 3 elementos aleatórios",
+      "[#charac RES_WATER_PERCENT] 15 Resistência à água",
+      "[#charac RES_FIRE_PERCENT] 15 Resistência ao fogo",
+      "[#charac RES_EARTH_PERCENT] 15 Resistência à terra"
+    ]
+  },
+  {
+    "id": 31364,
+    "name": "Emblema Beligewante",
+    "description": "Se você achou que a Wainha teria apenas um truque na manga, você se enganou redondamente.",
+    "level": 140,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar",
+      "[#charac DMG_IN_PERCENT] 35 Domínio sobre 3 elementos aleatórios",
+      "[#charac RES_BACKSTAB] 10 Resistência de costas",
+      "[#charac CRITICAL_RES] 10 Resistência crítica",
+      "[#charac TACKLE] 20 Bloqueio",
+      "[#charac HP] 123 PV",
+      "[#charac BLOCK] 2% de Parada",
+      "[#charac DODGE] 20 Esquiva"
+    ]
+  },
+  {
+    "id": 31365,
+    "name": "Emblema Arenoso",
+    "description": "Se você achou que a Wainha teria apenas um truque na manga, você se enganou redondamente.",
+    "level": 155,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac WP] 1 PW",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar",
+      "[#charac TACKLE] 10 Bloqueio",
+      "[#charac HP] 127 PV",
+      "[#charac DMG_IN_PERCENT] 40 Domínio sobre 3 elementos aleatórios",
+      "[#charac DODGE] 10 Esquiva"
+    ]
+  },
+  {
+    "id": 31366,
+    "name": "Emblema Cancewígeno",
+    "description": "Se você achou que a Wainha teria apenas um truque na manga, você se enganou redondamente.",
+    "level": 155,
+    "rarity": 4,
+    "slot": "Emblema",
+    "effects": [
+      "[#charac DODGE] 45 Esquiva",
+      "[#charac TACKLE] 45 Bloqueio",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar",
+      "[#charac DMG_IN_PERCENT] 35 Domínio sobre 3 elementos aleatórios",
+      "[#charac HP] 149 PV"
+    ]
+  }
+]

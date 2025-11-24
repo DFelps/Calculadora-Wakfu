@@ -1,0 +1,1330 @@
+[
+  {
+    "id": 2198,
+    "name": "Ponteiro Tofuzinho",
+    "description": "Esse ponteiro pequeno e afiado foi entalhado de um osso de Tofu. Não o confunda com Tofu no Osso, que é uma comida típica.",
+    "level": 9,
+    "rarity": 1,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac HP] 5 PV",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 6 Domínio elementar"
+    ]
+  },
+  {
+    "id": 4615,
+    "name": "Ponteiro Ferraio",
+    "description": "Esse ponteiro consegue vasculhar o caminho até os orifícios dos seus inimigos.",
+    "level": 45,
+    "rarity": 2,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac HP] 16 PV",
+      "[#charac DODGE] 6 Esquiva",
+      "[#charac DMG_EARTH_PERCENT] 15 Domínio de terra",
+      "[#charac RES_IN_PERCENT] 4 Resistência elementar",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DMG_WATER_PERCENT] 15 Domínio de água"
+    ]
+  },
+  {
+    "id": 7056,
+    "name": "Ponteiro Piu",
+    "description": "Esse ponteiro dará a corda para os seus inimigos se enforcarem...  ",
+    "level": 31,
+    "rarity": 2,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 15 Domínio sobre 3 elementos aleatórios",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac HP] 14 PV"
+    ]
+  },
+  {
+    "id": 11632,
+    "name": "Espeto Esperto",
+    "description": "Apontado por um profissional para que penetre seus inimigos.",
+    "level": 55,
+    "rarity": 2,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac HP] 21 PV",
+      "[#charac DMG_IN_PERCENT] 15 Domínio sobre 1 elemento aleatório",
+      "[#charac HEAL_IN_PERCENT] 2 Domínio de cura",
+      "[#charac DODGE] 9 Esquiva",
+      "[#charac BLOCK] 2% de Parada",
+      "[#charac RES_IN_PERCENT] 5 Resistência elementar"
+    ]
+  },
+  {
+    "id": 12184,
+    "name": "Lança Makabra",
+    "description": "Esta arma antiga e amaldiçoada se separou da alma de seu antigo mestre quando ele foi morto em combate. Será que você tem o que é preciso para libertar todo o poder que ela contém?",
+    "level": 100,
+    "rarity": 3,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac HP] 75 PV",
+      "[#charac AP] 1 PA",
+      "[#charac DODGE] 0 Esquiva",
+      "[#charac TACKLE] 0 Bloqueio"
+    ]
+  },
+  {
+    "id": 14361,
+    "name": "Ponteiro Sussurrado",
+    "description": "Esse ponteiro foi treinado para golpear pessoas em áreas sensíveis.",
+    "level": 107,
+    "rarity": 2,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 15 Domínio elementar",
+      "[#charac HP] 51 PV",
+      "[#charac AP] 1 PA",
+      "[#charac RES_IN_PERCENT] 7 Resistência elementar",
+      "[#charac DMG_IN_PERCENT] 27 Domínio sobre 3 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 14485,
+    "name": "Ponteiro do Sussurro",
+    "description": "Aparentemente, esse ponteiro abriu milhares de cadeados sem dizer uma só palavra.",
+    "level": 102,
+    "rarity": 2,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac RANGE] 1 Alcance",
+      "[#charac DMG_IN_PERCENT] 50 Domínio sobre 1 elemento aleatório",
+      "[#charac HP] 72 PV",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac MELEE_DMG] 16 Domínio de curta distância",
+      "[#charac TACKLE] 13 Bloqueio",
+      "[#charac DODGE] 13 Esquiva"
+    ]
+  },
+  {
+    "id": 14642,
+    "name": "Ponteiro Escarlate",
+    "description": "O estrago que ele faz pode parecer desprezível, mas um combo respeitável com esse ponteiro pode ser fatal. Água mole em pedra dura, tanto bate até que mata.",
+    "level": 85,
+    "rarity": 3,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac DODGE] 27 Esquiva",
+      "[#charac HP] 81 PV",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 56 Domínio sobre 2 elementos aleatórios",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar"
+    ]
+  },
+  {
+    "id": 14644,
+    "name": "Ponteiro de Kaã",
+    "description": "Essa arma pertencia a um dos Xelores mais poderosos do Mundo. Dizem que ele alongou a própria vida por tanto tempo que tudo que sobrou embaixo das ataduras foi um frágil esqueleto.",
+    "level": 95,
+    "rarity": 4,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac DODGE] 13 Esquiva",
+      "[#charac TACKLE] 13 Bloqueio",
+      "[#charac AP] 1 PA",
+      "[#charac HP] 65 PV",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac DMG_IN_PERCENT] 35 Domínio sobre 3 elementos aleatórios",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar",
+      "[#charac RANGED_DMG] 12 Domínio de distância"
+    ]
+  },
+  {
+    "id": 14716,
+    "name": "Ponteiro Barbora",
+    "description": "Barbora é um pirata pontual que nunca perde um comboio de Kamas.",
+    "level": 45,
+    "rarity": 3,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac HP] 23 PV",
+      "[#charac DMG_IN_PERCENT] 23 Domínio sobre 1 elemento aleatório",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DODGE] 12 Esquiva"
+    ]
+  },
+  {
+    "id": 14889,
+    "name": "Ponteiro de Plumas",
+    "description": "Levará um tempo até você conseguir lançar esse ponteiro a mais de um metro, especialmente se o vento não estiver ao seu favor.",
+    "level": 61,
+    "rarity": 2,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac HP] 45 PV",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 26 Domínio sobre 1 elemento aleatório",
+      "[#charac DODGE] 27 Esquiva",
+      "[#charac CRITICAL_BONUS] 4 Domínio de crítico",
+      "[#charac RES_IN_PERCENT] 12 Resistência elementar"
+    ]
+  },
+  {
+    "id": 15215,
+    "name": "O Espetóxico",
+    "description": "A Viúva Negra enganou uma Arakne Bordadeira e roubou uma de suas mãos para os planos covardes dela.",
+    "level": 80,
+    "rarity": 4,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar",
+      "[#charac DMG_IN_PERCENT] 35 Domínio sobre 3 elementos aleatórios",
+      "[#charac HP] 50 PV",
+      "[#charac AP] 1 PA"
+    ]
+  },
+  {
+    "id": 16139,
+    "name": "Ponteiro do Conde Traspafrent",
+    "description": "Com ele, o Conde Traspafrent pode dizer as horas com precisão.",
+    "level": 125,
+    "rarity": 3,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac FEROCITY] -5% Golpe crítico",
+      "[#charac HP] 56 PV",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 62 Domínio sobre 3 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 16764,
+    "name": "Palito de Dente",
+    "description": "Não há jeito melhor de tirar aquele urubu da cerca.",
+    "level": 110,
+    "rarity": 3,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac HP] 79 PV",
+      "[#charac AP] 1 PA",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar",
+      "[#charac DMG_IN_PERCENT] 51 Domínio sobre 1 elemento aleatório",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac TACKLE] 7 Bloqueio",
+      "[#charac DODGE] 7 Esquiva"
+    ]
+  },
+  {
+    "id": 17350,
+    "name": "Cenouwa Tlidente",
+    "description": "Perfeito para cortar triângulos de pescoços de Zwombbits (que permitirão que você complete sua coleção de carnes de Zwombbits moldadas geometricamente)!",
+    "level": 155,
+    "rarity": 3,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac DODGE] 25 Esquiva",
+      "[#charac TACKLE] 25 Bloqueio",
+      "[#charac HP] 79 PV",
+      "[#charac RES_EARTH_PERCENT] 28 Resistência à terra",
+      "[#charac RES_FIRE_PERCENT] 28 Resistência ao fogo",
+      "[#charac DMG_IN_PERCENT] 70 Domínio sobre 2 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 17488,
+    "name": "A Lança Moltiça",
+    "description": "Pertencia aos Wabbits antes de ter sido pega \"emprestada\" pelos Laposas... Meio desconfiada, mas muito afiada. É fatal, isso que estamos querendo dizer.",
+    "level": 125,
+    "rarity": 2,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac HP] 55 PV",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac DODGE] 23 Esquiva",
+      "[#charac TACKLE] 23 Bloqueio",
+      "[#charac DMG_IN_PERCENT] 30 Domínio sobre 2 elementos aleatórios",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar",
+      "[#charac BACKSTAB_BONUS] 6 Domínio de costas"
+    ]
+  },
+  {
+    "id": 17533,
+    "name": "A Wança Moltiça",
+    "description": "Foi totalmente redesenhada pelos Laposas! Meio desconfiada, mas muito afiada. É fatal, isso que estamos querendo dizer.",
+    "level": 137,
+    "rarity": 3,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac HP] 119 PV",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac BERSERK_DMG] 49 Domínio de Berserk",
+      "[#charac DMG_IN_PERCENT] 49 Domínio sobre 2 elementos aleatórios",
+      "[#charac TACKLE] 23 Bloqueio",
+      "[#charac DODGE] 23 Esquiva"
+    ]
+  },
+  {
+    "id": 17792,
+    "name": "Ponteiro Morto-Vivo",
+    "description": "Ao contrário do que você pensa, esse ponteiro não está realmente morto. Ele só gosta de matar os outros.",
+    "level": 30,
+    "rarity": 2,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac HP] 10 PV",
+      "[#charac DMG_FIRE_PERCENT] 15 Domínio de fogo",
+      "[#charac DMG_WATER_PERCENT] 15 Domínio de água",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac BLOCK] 2% de Parada",
+      "[#charac RES_IN_PERCENT] 5 Resistência elementar"
+    ]
+  },
+  {
+    "id": 18445,
+    "name": "Picus Shushu",
+    "description": "Apesar de suas qualidades mortais, um simples floreio desta agulha é tudo o que preciso para assustar inimigo. Apenas o dono é imune ao seu portal.",
+    "level": 155,
+    "rarity": 4,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 88 Domínio sobre 3 elementos aleatórios",
+      "[#charac HP] 110 PV",
+      "[#charac DODGE] 50 Esquiva",
+      "[#charac RANGED_DMG] 36 Domínio de distância",
+      "[#charac RES_IN_PERCENT] 14 Resistência elementar"
+    ]
+  },
+  {
+    "id": 18563,
+    "name": "Ponteiro de Retirada",
+    "description": "As penalidades causadas por esse ponteiro não são sempre as mesmas, dependendo se a retirada é feita de um oponente ao invés de você.",
+    "level": 154,
+    "rarity": 3,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac HP] 81 PV",
+      "[#charac AP] 1 PA",
+      "[#charac RES_WATER_PERCENT] 28 Resistência à água",
+      "[#charac BACKSTAB_BONUS] 15 Domínio de costas",
+      "[#charac DMG_IN_PERCENT] 61 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac RES_AIR_PERCENT] 28 Resistência ao ar",
+      "[#charac TACKLE] 17 Bloqueio",
+      "[#charac DODGE] 17 Esquiva"
+    ]
+  },
+  {
+    "id": 19130,
+    "name": "A Efêmera",
+    "description": "Mais eficaz do que nunca, esta agulha infelizmente nunca será eterna.",
+    "level": 170,
+    "rarity": 3,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 98 Domínio sobre 2 elementos aleatórios",
+      "[#charac DODGE] 36 Esquiva",
+      "[#charac HP] 174 PV",
+      "[#charac AP] 1 PA",
+      "[#charac RANGED_DMG] 48 Domínio de distância"
+    ]
+  },
+  {
+    "id": 19146,
+    "name": "Ponteiro de outros tempos",
+    "description": "Este ponteiro é respeitado em todas as eras. Alguns enlouqueceram tentando obtê-lo.",
+    "level": 170,
+    "rarity": 5,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac DODGE] 50 Esquiva",
+      "[#charac AP] 1 PA",
+      "[#charac HP] 178 PV",
+      "[#charac RANGED_DMG] 87 Domínio de distância",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac FEROCITY] 9% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 213 Domínio sobre 2 elementos aleatórios",
+      "[#charac CRITICAL_BONUS] 60 Domínio de crítico"
+    ]
+  },
+  {
+    "id": 19453,
+    "name": "Ponteiro de calibragem",
+    "description": "O Kabrok usou este ponteiro para calibrar o Korbot com precisão. Está bastante desgastado, mas ainda funciona.",
+    "level": 90,
+    "rarity": 3,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 29 Domínio sobre 3 elementos aleatórios",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar",
+      "[#charac HP] 60 PV",
+      "[#charac FEROCITY] 2% de golpe crítico"
+    ]
+  },
+  {
+    "id": 20199,
+    "name": "A Agulhosa",
+    "description": "Segure-a com força, senão ela pode escapulir das suas mãos.",
+    "level": 185,
+    "rarity": 4,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac DODGE] 50 Esquiva",
+      "[#charac TACKLE] 50 Bloqueio",
+      "[#charac DMG_IN_PERCENT] 161 Domínio sobre 3 elementos aleatórios",
+      "[#charac HP] 259 PV",
+      "[#charac AP] 1 PA"
+    ]
+  },
+  {
+    "id": 20223,
+    "name": "A Agulhosa",
+    "description": "Uma agulha muito eficaz. Ideal para ataques à distância.",
+    "level": 185,
+    "rarity": 4,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 71 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 5% de golpe crítico",
+      "[#charac HP] 76 PV",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac RANGED_DMG] 48 Domínio de distância"
+    ]
+  },
+  {
+    "id": 20790,
+    "name": "Arpão do Nemótilus",
+    "description": "Este arpão é muito eficaz contra os tentáculos de Nekark, mas não adianta grande coisa contra um estridente, mesmo imaturo.",
+    "level": 45,
+    "rarity": 2,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac HP] 20 PV",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 25 Domínio elementar"
+    ]
+  },
+  {
+    "id": 21539,
+    "name": "Presa de Patife",
+    "description": "O ferreiro de armas precisou de muito tempo e habilidade para criar esta agulha a partir de uma presa de Patife.",
+    "level": 138,
+    "rarity": 3,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac HP] 84 PV",
+      "[#charac RANGED_DMG] 72 Domínio de distância",
+      "[#charac RES_IN_PERCENT] 28 Resistência a 2 elementos aleatórios",
+      "[#charac DODGE] 23 Esquiva"
+    ]
+  },
+  {
+    "id": 21588,
+    "name": "Presa de Patife",
+    "description": "O ferreiro de armas precisou de muito tempo e habilidade para criar esta agulha a partir de uma presa de Patife.",
+    "level": 140,
+    "rarity": 4,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac DODGE] 50 Esquiva",
+      "[#charac AP] 1 PA",
+      "[#charac HP] 98 PV",
+      "[#charac RANGED_DMG] 88 Domínio de distância",
+      "[#charac RES_IN_PERCENT] 28 Resistência a 2 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 21727,
+    "name": "Agulha para Destricotar",
+    "description": "Feita especialmente para aqueles que não dão ponto sem nó.",
+    "level": 196,
+    "rarity": 3,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac RANGE] 1 Alcance",
+      "[#charac HP] 111 PV",
+      "[#charac AP] 1 PA",
+      "[#charac RANGED_DMG] 56 Domínio de distância",
+      "[#charac FEROCITY] 5% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 82 Domínio sobre 3 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 21761,
+    "name": "Agulha para Destricotar",
+    "description": "Feita especialmente para aqueles que não dão ponto sem nó.",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 100 Domínio sobre 3 elementos aleatórios",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac HP] 120 PV",
+      "[#charac RANGED_DMG] 80 Domínio de distância"
+    ]
+  },
+  {
+    "id": 22242,
+    "name": "A Agulhosa",
+    "description": "Segure-a com força, senão ela pode escapulir das suas mãos.",
+    "level": 182,
+    "rarity": 3,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 125 Domínio sobre 3 elementos aleatórios",
+      "[#charac HP] 215 PV",
+      "[#charac AP] 1 PA",
+      "[#charac DODGE] 40 Esquiva",
+      "[#charac TACKLE] 40 Bloqueio"
+    ]
+  },
+  {
+    "id": 22245,
+    "name": "A Agulhosa",
+    "description": "Uma agulha muito eficaz. Ideal para ataques à distância.",
+    "level": 185,
+    "rarity": 3,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac HP] 76 PV",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac AP] 1 PA",
+      "[#charac RANGED_DMG] 36 Domínio de distância",
+      "[#charac DMG_IN_PERCENT] 54 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 4% de golpe crítico"
+    ]
+  },
+  {
+    "id": 22407,
+    "name": "A Efêmera",
+    "description": "Mais eficaz do que nunca, esta agulha infelizmente nunca será eterna.",
+    "level": 170,
+    "rarity": 4,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac RANGED_DMG] 60 Domínio de distância",
+      "[#charac DMG_IN_PERCENT] 122 Domínio sobre 2 elementos aleatórios",
+      "[#charac DODGE] 50 Esquiva",
+      "[#charac HP] 209 PV"
+    ]
+  },
+  {
+    "id": 22408,
+    "name": "A Efêmera",
+    "description": "Mais eficaz do que nunca, esta agulha infelizmente nunca será eterna.",
+    "level": 167,
+    "rarity": 2,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac DODGE] 30 Esquiva",
+      "[#charac HP] 150 PV",
+      "[#charac AP] 1 PA",
+      "[#charac RANGED_DMG] 34 Domínio de distância",
+      "[#charac DMG_IN_PERCENT] 67 Domínio sobre 2 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 22409,
+    "name": "A Efêmera",
+    "description": "Mais eficaz do que nunca, esta agulha infelizmente nunca será eterna.",
+    "level": 159,
+    "rarity": 1,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac HP] 119 PV",
+      "[#charac AP] 1 PA",
+      "[#charac RANGED_DMG] 30 Domínio de distância",
+      "[#charac DMG_IN_PERCENT] 37 Domínio sobre 2 elementos aleatórios",
+      "[#charac DODGE] 20 Esquiva"
+    ]
+  },
+  {
+    "id": 22647,
+    "name": "Ponteiro de Retirada",
+    "description": "As penalidades causadas por esse ponteiro não são sempre as mesmas, dependendo se a retirada é feita de um oponente ao invés de você.",
+    "level": 155,
+    "rarity": 4,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac HP] 91 PV",
+      "[#charac AP] 1 PA",
+      "[#charac RES_WATER_PERCENT] 42 Resistência à água",
+      "[#charac BACKSTAB_BONUS] 27 Domínio de costas",
+      "[#charac DMG_IN_PERCENT] 61 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac RES_AIR_PERCENT] 42 Resistência ao ar",
+      "[#charac DODGE] 27 Esquiva",
+      "[#charac TACKLE] 27 Bloqueio"
+    ]
+  },
+  {
+    "id": 22648,
+    "name": "Ponteiro de Retirada",
+    "description": "As penalidades causadas por esse ponteiro não são sempre as mesmas, dependendo se a retirada é feita de um oponente ao invés de você.",
+    "level": 146,
+    "rarity": 2,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac HP] 73 PV",
+      "[#charac AP] 1 PA",
+      "[#charac RES_WATER_PERCENT] 21 Resistência à água",
+      "[#charac BACKSTAB_BONUS] 12 Domínio de costas",
+      "[#charac DMG_IN_PERCENT] 37 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac RES_AIR_PERCENT] 21 Resistência ao ar",
+      "[#charac DODGE] 13 Esquiva",
+      "[#charac TACKLE] 13 Bloqueio"
+    ]
+  },
+  {
+    "id": 22736,
+    "name": "Cenouwa de Duas Pontas",
+    "description": "Perfeita para fazer um corte triangular no pescoço do Zwombbit!",
+    "level": 155,
+    "rarity": 4,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac FEROCITY] 5% de golpe crítico",
+      "[#charac DODGE] 25 Esquiva",
+      "[#charac TACKLE] 25 Bloqueio",
+      "[#charac HP] 84 PV",
+      "[#charac RES_EARTH_PERCENT] 42 Resistência à terra",
+      "[#charac RES_FIRE_PERCENT] 42 Resistência ao fogo",
+      "[#charac DMG_IN_PERCENT] 85 Domínio sobre 2 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 22916,
+    "name": "A Lança Moltiça",
+    "description": "Esta lança foi totalmente reinventada pelos Laposas. Ela consegue pôr o combate em ponto morto!",
+    "level": 140,
+    "rarity": 4,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac HP] 152 PV",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac BERSERK_DMG] 75 Domínio de Berserk",
+      "[#charac DMG_IN_PERCENT] 61 Domínio sobre 2 elementos aleatórios",
+      "[#charac DODGE] 27 Esquiva",
+      "[#charac TACKLE] 27 Bloqueio"
+    ]
+  },
+  {
+    "id": 23171,
+    "name": "Ponteiro do Conde Traspafrent",
+    "description": "Com ele, o Conde Traspafrent pode dizer as horas com precisão.",
+    "level": 125,
+    "rarity": 4,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 82 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] -5% Golpe crítico",
+      "[#charac HP] 80 PV",
+      "[#charac RANGE] 1 Alcance"
+    ]
+  },
+  {
+    "id": 23241,
+    "name": "Ponteiro Sussurrado",
+    "description": "Este ponteiro foi treinado para espetar as áreas sensíveis.",
+    "level": 110,
+    "rarity": 3,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac HP] 56 PV",
+      "[#charac AP] 1 PA",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar",
+      "[#charac DMG_IN_PERCENT] 32 Domínio sobre 3 elementos aleatórios",
+      "[#charac DMG_IN_PERCENT] 24 Domínio elementar"
+    ]
+  },
+  {
+    "id": 23242,
+    "name": "Ponteiro Sussurrado",
+    "description": "Este ponteiro foi treinado para espetar as áreas sensíveis.",
+    "level": 99,
+    "rarity": 1,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 13 Domínio sobre 3 elementos aleatórios",
+      "[#charac DMG_IN_PERCENT] 14 Domínio elementar",
+      "[#charac HP] 46 PV",
+      "[#charac AP] 1 PA",
+      "[#charac RES_IN_PERCENT] 5 Resistência elementar"
+    ]
+  },
+  {
+    "id": 23254,
+    "name": "Ponteiro Sussurrinho",
+    "description": "Aparentemente, esse ponteiro abriu milhares de cadeados sem dizer uma só palavra.",
+    "level": 107,
+    "rarity": 3,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 64 Domínio sobre 1 elemento aleatório",
+      "[#charac HP] 78 PV",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac MELEE_DMG] 23 Domínio de curta distância",
+      "[#charac DODGE] 20 Esquiva",
+      "[#charac TACKLE] 20 Bloqueio"
+    ]
+  },
+  {
+    "id": 23316,
+    "name": "Palito de Dente",
+    "description": "Não há jeito melhor de tirar aquele urubu da cerca.",
+    "level": 102,
+    "rarity": 2,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 38 Domínio sobre 1 elemento aleatório",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac HP] 50 PV",
+      "[#charac RES_IN_PERCENT] 8 Resistência elementar",
+      "[#charac DODGE] 5 Esquiva",
+      "[#charac TACKLE] 5 Bloqueio"
+    ]
+  },
+  {
+    "id": 23572,
+    "name": "O Espetóxico",
+    "description": "A Viúva Negra enganou uma Arakne Bordadeira e roubou uma de suas mãos para os planos covardes dela.",
+    "level": 75,
+    "rarity": 3,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac DODGE] 27 Esquiva",
+      "[#charac TACKLE] 27 Bloqueio",
+      "[#charac HP] 49 PV",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar",
+      "[#charac DMG_IN_PERCENT] 31 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 3% de golpe crítico"
+    ]
+  },
+  {
+    "id": 24011,
+    "name": "Ponteiro de Xelor",
+    "description": "Acertar os ponteiros nem sempre é fácil para o grande relojoeiro, e este ponteiro virá sempre lembrar você disso.",
+    "level": 200,
+    "rarity": 3,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac DODGE] 40 Esquiva",
+      "[#charac HP] 126 PV",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar",
+      "[#charac RANGED_DMG] 280 Domínio de distância"
+    ]
+  },
+  {
+    "id": 24025,
+    "name": "Ponteiro de Xelor",
+    "description": "Acertar os ponteiros nem sempre é fácil para o grande relojoeiro, e este ponteiro virá sempre lembrar você disso.",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac RANGED_DMG] 345 Domínio de distância",
+      "[#charac DODGE] 40 Esquiva",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar",
+      "[#charac HP] 148 PV",
+      "[#charac AP] 1 PA"
+    ]
+  },
+  {
+    "id": 24301,
+    "name": "Agulha Enxerida",
+    "description": "Esta agulha pode se intrometer em qualquer lugar, até nos menores interstícios. Muito prática para consertar meias!",
+    "level": 44,
+    "rarity": 2,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac RANGED_DMG] 14 Domínio de distância",
+      "[#charac CRITICAL_BONUS] 5 Domínio de crítico",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac HP] 22 PV",
+      "[#charac RES_IN_PERCENT] 13 Resistência a 1 elemento aleatório"
+    ]
+  },
+  {
+    "id": 24339,
+    "name": "Agulha Enxerida",
+    "description": "Esta agulha pode se intrometer em qualquer lugar, até nos menores interstícios. Muito prática para consertar meias!",
+    "level": 47,
+    "rarity": 3,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac CRITICAL_BONUS] 7 Domínio de crítico",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac HP] 24 PV",
+      "[#charac RES_IN_PERCENT] 17 Resistência a 1 elemento aleatório",
+      "[#charac RANGED_DMG] 18 Domínio de distância"
+    ]
+  },
+  {
+    "id": 24666,
+    "name": "Incisa",
+    "description": "Depois de fincá-la, não é aconselhável tentar tirar esta agulha.",
+    "level": 140,
+    "rarity": 3,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac WP] 1 PW",
+      "[#charac AP] 1 PA",
+      "[#charac RANGED_DMG] 120 Domínio de distância",
+      "[#charac FEROCITY] -5% Golpe crítico"
+    ]
+  },
+  {
+    "id": 24667,
+    "name": "Incisa",
+    "description": "Depois de fincá-la, não é aconselhável tentar tirar esta agulha.",
+    "level": 140,
+    "rarity": 4,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac WP] 1 PW",
+      "[#charac AP] 1 PA",
+      "[#charac RANGED_DMG] 162 Domínio de distância",
+      "[#charac FEROCITY] -5% Golpe crítico"
+    ]
+  },
+  {
+    "id": 24688,
+    "name": "Planetária",
+    "description": "Uma agulha para controlar o ciclo dos planetas, inclusive de Plutão.",
+    "level": 200,
+    "rarity": 3,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac RANGE] 1 Alcance",
+      "[#charac AP] 1 PA",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar",
+      "[#charac HEAL_IN_PERCENT] 42 Domínio de cura",
+      "[#charac DMG_IN_PERCENT] 141 Domínio sobre 3 elementos aleatórios",
+      "[#charac HP] 54 PV"
+    ]
+  },
+  {
+    "id": 24689,
+    "name": "Planetária",
+    "description": "Uma agulha para controlar o ciclo dos planetas, inclusive de Plutão.",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 165 Domínio sobre 3 elementos aleatórios",
+      "[#charac HP] 84 PV",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac AP] 1 PA",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar",
+      "[#charac HEAL_IN_PERCENT] 57 Domínio de cura"
+    ]
+  },
+  {
+    "id": 24690,
+    "name": "Piratina",
+    "description": "Esta agulha foi forjada pelo mar, como prova seu brinco de pirata.",
+    "level": 200,
+    "rarity": 3,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac BERSERK_DMG] 165 Domínio de Berserk",
+      "[#charac HP] 142 PV",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac AP] 1 PA",
+      "[#charac RES_EARTH_PERCENT] 17 Resistência à terra",
+      "[#charac RES_AIR_PERCENT] 17 Resistência ao ar",
+      "[#charac RES_WATER_PERCENT] 17 Resistência à água"
+    ]
+  },
+  {
+    "id": 24691,
+    "name": "Piratina",
+    "description": "Esta agulha foi forjada pelo mar, como prova seu brinco de pirata.",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac RES_WATER_PERCENT] 17 Resistência à água",
+      "[#charac BERSERK_DMG] 210 Domínio de Berserk",
+      "[#charac HP] 154 PV",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac RES_EARTH_PERCENT] 17 Resistência à terra",
+      "[#charac RES_AIR_PERCENT] 17 Resistência ao ar"
+    ]
+  },
+  {
+    "id": 24718,
+    "name": "Necro-Espeto",
+    "description": "Se for bem usado, este espeto pode reduzir qualquer um ao estado de morto-vivo. Ou de morto, simplesmente.",
+    "level": 198,
+    "rarity": 3,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac DODGE] 75 Esquiva",
+      "[#charac HP] 336 PV",
+      "[#charac RANGED_DMG] 155 Domínio de distância",
+      "[#charac DMG_IN_PERCENT] 150 Domínio elementar",
+      "[#charac RES_IN_PERCENT] 133 Resistência a 1 elemento aleatório",
+      "[#charac FEROCITY] 5% de golpe crítico"
+    ]
+  },
+  {
+    "id": 24799,
+    "name": "Ponteiro do Conde Traspafrent",
+    "description": "Com ele, o Conde Traspafrent pode dizer as horas com precisão.",
+    "level": 200,
+    "rarity": 6,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac RANGE] 1 Alcance",
+      "[#charac MP] 1 PM",
+      "[#charac RES_WATER_PERCENT] 17 Resistência à água",
+      "[#charac DMG_IN_PERCENT] 171 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac HP] 191 PV",
+      "[#charac RES_EARTH_PERCENT] 17 Resistência à terra",
+      "[#charac RES_AIR_PERCENT] 17 Resistência ao ar"
+    ]
+  },
+  {
+    "id": 24822,
+    "name": "Necro-Espeto",
+    "description": "Se for bem usado, este espeto pode reduzir qualquer um ao estado de morto-vivo. Ou de morto, simplesmente.",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac RANGED_DMG] 160 Domínio de distância",
+      "[#charac DMG_IN_PERCENT] 200 Domínio elementar",
+      "[#charac RES_IN_PERCENT] 133 Resistência a 1 elemento aleatório",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac DODGE] 75 Esquiva",
+      "[#charac HP] 409 PV"
+    ]
+  },
+  {
+    "id": 25275,
+    "name": "Espeto do Cawanguejo Real",
+    "description": "Essa coisinha pontuda fura tudo o que aparece pela frente. Cuidado para não deixá-lo virado para você.",
+    "level": 58,
+    "rarity": 2,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac HP] 30 PV",
+      "[#charac BERSERK_DMG] -21 Domínio de Berserk",
+      "[#charac AP] 1 PA"
+    ]
+  },
+  {
+    "id": 25276,
+    "name": "Espeto do Cawanguejo Real",
+    "description": "Essa coisinha pontuda fura tudo o que aparece pela frente. Cuidado para não deixá-lo virado para você.",
+    "level": 63,
+    "rarity": 3,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac HP] 50 PV",
+      "[#charac BERSERK_DMG] -16 Domínio de Berserk"
+    ]
+  },
+  {
+    "id": 25663,
+    "name": "Mandardo",
+    "description": "Este espeto foi a arma oficial usada em um evento específico das Olimpíadas Amaknianas.",
+    "level": 122,
+    "rarity": 3,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac HP] 63 PV",
+      "[#charac FEROCITY] -8% Golpe crítico",
+      "[#charac DMG_IN_PERCENT] 49 Domínio sobre 2 elementos aleatórios",
+      "[#charac RANGED_DMG] 60 Domínio de distância",
+      "[#charac AP] 1 PA",
+      "[#charac RES_FIRE_PERCENT] 11 Resistência ao fogo",
+      "[#charac RES_WATER_PERCENT] 11 Resistência à água",
+      "[#charac RES_AIR_PERCENT] 11 Resistência ao ar"
+    ]
+  },
+  {
+    "id": 25664,
+    "name": "Mandardo",
+    "description": "Este espeto foi a arma oficial usada em um evento específico das Olimpíadas Amaknianas.",
+    "level": 125,
+    "rarity": 4,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac HP] 88 PV",
+      "[#charac FEROCITY] -8% Golpe crítico",
+      "[#charac DMG_IN_PERCENT] 73 Domínio sobre 2 elementos aleatórios",
+      "[#charac RANGED_DMG] 72 Domínio de distância",
+      "[#charac AP] 1 PA",
+      "[#charac RES_FIRE_PERCENT] 11 Resistência ao fogo",
+      "[#charac RES_WATER_PERCENT] 11 Resistência à água",
+      "[#charac RES_AIR_PERCENT] 11 Resistência ao ar"
+    ]
+  },
+  {
+    "id": 25902,
+    "name": "Agulhitarra",
+    "description": "Ninguém sabe por que o nome remete a uma agulha se é um instrumento musical, mas, mesmo assim, é uma agulha.",
+    "level": 145,
+    "rarity": 2,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac HP] 31 PV",
+      "[#charac RANGED_DMG] 48 Domínio de distância",
+      "[#charac RES_FIRE_PERCENT] 28 Resistência ao fogo",
+      "[#charac AP] 1 PA",
+      "[#charac WP] 1 PW",
+      "[#charac RES_EARTH_PERCENT] 28 Resistência à terra"
+    ]
+  },
+  {
+    "id": 25903,
+    "name": "Agulhitarra",
+    "description": "Ninguém sabe por que o nome remete a uma agulha se é um instrumento musical, mas, mesmo assim, é uma agulha.",
+    "level": 153,
+    "rarity": 3,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac RANGED_DMG] 80 Domínio de distância",
+      "[#charac RES_FIRE_PERCENT] 28 Resistência ao fogo",
+      "[#charac RES_EARTH_PERCENT] 28 Resistência à terra",
+      "[#charac AP] 1 PA",
+      "[#charac WP] 1 PW",
+      "[#charac HP] 58 PV"
+    ]
+  },
+  {
+    "id": 25904,
+    "name": "Agulhitarra",
+    "description": "Ninguém sabe por que o nome remete a uma agulha se é um instrumento musical, mas, mesmo assim, é uma agulha.",
+    "level": 155,
+    "rarity": 4,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac RANGED_DMG] 119 Domínio de distância",
+      "[#charac RES_FIRE_PERCENT] 28 Resistência ao fogo",
+      "[#charac RES_EARTH_PERCENT] 28 Resistência à terra",
+      "[#charac AP] 1 PA",
+      "[#charac WP] 1 PW",
+      "[#charac HP] 71 PV"
+    ]
+  },
+  {
+    "id": 25995,
+    "name": "Espada Quebrada",
+    "description": "A espada que se quebrou nunca foi reforjada.",
+    "level": 170,
+    "rarity": 3,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 73 Domínio sobre 2 elementos aleatórios",
+      "[#charac RES_IN_PERCENT]-40 Resistência elementar",
+      "[#charac AP] 1 PA",
+      "[#charac RANGE] 2 Alcance",
+      "[#charac HP] 59 PV"
+    ]
+  },
+  {
+    "id": 25996,
+    "name": "Espada Quebrada",
+    "description": "A espada que se quebrou nunca foi reforjada.",
+    "level": 170,
+    "rarity": 4,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac RANGE] 2 Alcance",
+      "[#charac HP] 104 PV",
+      "[#charac DMG_IN_PERCENT] 98 Domínio sobre 2 elementos aleatórios",
+      "[#charac RES_IN_PERCENT]-40 Resistência elementar"
+    ]
+  },
+  {
+    "id": 26635,
+    "name": "Ponteiro da Meia-Noite",
+    "description": "Diz a lenda que esse ponteiro também tem o poder de transformar os Dragoperus em abóboras se o portador sentar em um depois da décima segunda badalada da meia-noite.",
+    "level": 165,
+    "rarity": 2,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac RANGED_DMG] 80 Domínio de distância",
+      "[#charac AP] 1 PA",
+      "[#charac HP] 130 PV",
+      "[#charac DODGE] 50 Esquiva"
+    ]
+  },
+  {
+    "id": 26636,
+    "name": "Ponteiro da Meia-Noite",
+    "description": "Diz a lenda que esse ponteiro também tem o poder de transformar os Dragoperus em abóboras se o portador sentar em um depois da décima segunda badalada da meia-noite.",
+    "level": 168,
+    "rarity": 3,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac HP] 173 PV",
+      "[#charac DODGE] 60 Esquiva",
+      "[#charac RANGED_DMG] 112 Domínio de distância",
+      "[#charac AP] 1 PA"
+    ]
+  },
+  {
+    "id": 26637,
+    "name": "Ponteiro da Meia-Noite",
+    "description": "Diz a lenda que esse ponteiro também tem o poder de transformar os Dragoperus em abóboras se o portador sentar em um depois da décima segunda badalada da meia-noite.",
+    "level": 170,
+    "rarity": 4,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac HP] 217 PV",
+      "[#charac DODGE] 70 Esquiva",
+      "[#charac RANGED_DMG] 152 Domínio de distância"
+    ]
+  },
+  {
+    "id": 26957,
+    "name": "Espinha Kolada",
+    "description": "Esta grande agulha parece adequada para dar pontos em uma ferida aberta, desde que antes seja embebida em álcool ou, caso prefira cheiro de carne na grelha, seja bem tostada.",
+    "level": 199,
+    "rarity": 3,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac DODGE] 35 Esquiva",
+      "[#charac HP] 152 PV",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar",
+      "[#charac RANGED_DMG] 270 Domínio de distância",
+      "[#charac AP] 1 PA"
+    ]
+  },
+  {
+    "id": 26958,
+    "name": "Espinha Kolada",
+    "description": "Esta grande agulha parece adequada para dar pontos em uma ferida aberta, desde que antes seja embebida em álcool ou, caso prefira cheiro de carne na grelha, seja bem tostada.",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar",
+      "[#charac HP] 141 PV",
+      "[#charac AP] 1 PA",
+      "[#charac RANGED_DMG] 340 Domínio de distância",
+      "[#charac DODGE] 50 Esquiva"
+    ]
+  },
+  {
+    "id": 27799,
+    "name": "Ponteiro Divino",
+    "description": "O triunfo do mal? Você prefere rir: com este ponteiro entre as mãos, esta é uma possibilidade real.",
+    "level": 213,
+    "rarity": 3,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac HP] 221 PV",
+      "[#charac RANGED_DMG] 208 Domínio de distância",
+      "[#charac RES_IN_PERCENT] 9 Resistência elementar"
+    ]
+  },
+  {
+    "id": 27800,
+    "name": "Ponteiro Divino",
+    "description": "O triunfo do mal? Você prefere rir: com este ponteiro entre as mãos, esta é uma possibilidade real.",
+    "level": 215,
+    "rarity": 4,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac HP] 228 PV",
+      "[#charac RANGED_DMG] 267 Domínio de distância",
+      "[#charac RES_IN_PERCENT] 9 Resistência elementar",
+      "[#charac AP] 1 PA",
+      "[#charac RANGE] 1 Alcance"
+    ]
+  },
+  {
+    "id": 28240,
+    "name": "Ponteiro do Corajurso",
+    "description": "Uma arma gelada que fará seus adversários suarem frio.",
+    "level": 210,
+    "rarity": 3,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac RANGE] 1 Alcance",
+      "[#charac HP] 205 PV",
+      "[#charac RANGED_DMG] 226 Domínio de distância",
+      "[#charac AP] 1 PA",
+      "[#charac RES_FIRE_PERCENT] 21 Resistência ao fogo",
+      "[#charac RES_WATER_PERCENT] 21 Resistência à água"
+    ]
+  },
+  {
+    "id": 28241,
+    "name": "Ponteiro do Corajurso",
+    "description": "Uma arma gelada que fará seus adversários suarem frio.",
+    "level": 215,
+    "rarity": 4,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac HP] 227 PV",
+      "[#charac RANGED_DMG] 280 Domínio de distância",
+      "[#charac RES_FIRE_PERCENT] 21 Resistência ao fogo",
+      "[#charac RES_WATER_PERCENT] 21 Resistência à água"
+    ]
+  },
+  {
+    "id": 29487,
+    "name": "Kraivus Shushu",
+    "description": "Um véu de mistério espesso cerca o que resta de uma das criaturas mais enigmáticas do Mundo dos Doze, que era vista na ilha de Moon e no Xelorium durante alguns anos.\nAlguns dizem que Kraive foi uma guerreira envolvida em torneios épicos, seja na organização, seja na performance. Outros lhe atribuem ainda pinturas indescritíveis, verdadeiras obras de arte. Uma última teoria, a mais surpreendente, sugere que ela não passa de uma simples cadeira.\nA única certeza que se tem é a de que quem vai a Ecafliperama às vezes ouve um eco dizendo \"Eu quero meu título no fórum\"...",
+    "level": 230,
+    "rarity": 3,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac RES_AIR_PERCENT] 21 Resistência ao ar",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac HP] 241 PV",
+      "[#charac DMG_IN_PERCENT] 372 Domínio sobre 2 elementos aleatórios",
+      "[#charac RES_WATER_PERCENT] 21 Resistência à água"
+    ]
+  },
+  {
+    "id": 29488,
+    "name": "Kraivus Shushu",
+    "description": "Um véu de mistério espesso cerca o que resta de uma das criaturas mais enigmáticas do Mundo dos Doze, que era vista na ilha de Moon e no Xelorium durante alguns anos.\nAlguns dizem que Kraive foi uma guerreira envolvida em torneios épicos, seja na organização, seja na performance. Outros lhe atribuem ainda pinturas indescritíveis, verdadeiras obras de arte. Uma última teoria, a mais surpreendente, sugere que ela não passa de uma simples cadeira.\nA única certeza que se tem é a de que quem vai a Ecafliperama às vezes ouve um eco dizendo \"Eu quero meu título no fórum\"...",
+    "level": 230,
+    "rarity": 4,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac HP] 263 PV",
+      "[#charac DMG_IN_PERCENT] 439 Domínio sobre 2 elementos aleatórios",
+      "[#charac RES_WATER_PERCENT] 21 Resistência à água",
+      "[#charac RES_AIR_PERCENT] 21 Resistência ao ar"
+    ]
+  },
+  {
+    "id": 29642,
+    "name": "Agulha Ancestral",
+    "description": "Esta agulha foi concebida para coser roupas feitas de pelo de ogro. Quem ousar experimentar estará na vanguarda da moda.",
+    "level": 230,
+    "rarity": 3,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 212 Domínio sobre 3 elementos aleatórios",
+      "[#charac HP] 234 PV",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac AP] 1 PA"
+    ]
+  },
+  {
+    "id": 29643,
+    "name": "Agulha Ancestral",
+    "description": "Esta agulha foi concebida para coser roupas feitas de pelo de ogro. Quem ousar experimentar estará na vanguarda da moda.",
+    "level": 230,
+    "rarity": 4,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 259 Domínio sobre 3 elementos aleatórios",
+      "[#charac HP] 248 PV"
+    ]
+  },
+  {
+    "id": 29828,
+    "name": "Picus Shushu",
+    "description": "Apesar de suas qualidades mortais, basta encostar de leve nesta agulha para que o alvo fique paralisado de medo. Apenas o dono pode escapar.",
+    "level": 150,
+    "rarity": 3,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac HP] 71 PV",
+      "[#charac AP] 1 PA",
+      "[#charac RES_IN_PERCENT] 14 Resistência elementar",
+      "[#charac DMG_IN_PERCENT] 67 Domínio sobre 3 elementos aleatórios",
+      "[#charac DODGE] 40 Esquiva",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac RANGED_DMG] 26 Domínio de distância"
+    ]
+  },
+  {
+    "id": 30328,
+    "name": "Lança de Izana",
+    "description": "Em boas mãos, ela poderia cortar ventos e marés. Você terá que se contentar com talhar seus inimigos.",
+    "level": 220,
+    "rarity": 2,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 248 Domínio sobre 2 elementos aleatórios",
+      "[#charac RES_FIRE_PERCENT] 35 Resistência ao fogo",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac AP] 1 PA",
+      "[#charac TACKLE] 85 Bloqueio",
+      "[#charac HP] 190 PV",
+      "[#charac RES_AIR_PERCENT] 35 Resistência ao ar"
+    ]
+  },
+  {
+    "id": 30329,
+    "name": "Lança de Izana",
+    "description": "Em boas mãos, ela poderia cortar ventos e marés. Você terá que se contentar com talhar seus inimigos.",
+    "level": 227,
+    "rarity": 3,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 337 Domínio sobre 2 elementos aleatórios",
+      "[#charac RES_FIRE_PERCENT] 35 Resistência ao fogo",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac AP] 1 PA",
+      "[#charac TACKLE] 100 Bloqueio",
+      "[#charac HP] 220 PV",
+      "[#charac RES_AIR_PERCENT] 35 Resistência ao ar"
+    ]
+  },
+  {
+    "id": 30330,
+    "name": "Lança de Izana",
+    "description": "Em boas mãos, ela poderia cortar ventos e marés. Você terá que se contentar com talhar seus inimigos.",
+    "level": 230,
+    "rarity": 4,
+    "slot": "Ponteiro (uma mão)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 421 Domínio sobre 2 elementos aleatórios",
+      "[#charac RES_FIRE_PERCENT] 35 Resistência ao fogo",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac AP] 1 PA",
+      "[#charac TACKLE] 120 Bloqueio",
+      "[#charac HP] 255 PV",
+      "[#charac RES_AIR_PERCENT] 35 Resistência ao ar"
+    ]
+  }
+]

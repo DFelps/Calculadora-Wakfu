@@ -1,0 +1,1902 @@
+[
+  {
+    "id": 7030,
+    "name": "Adaga Piu",
+    "description": "Este é o tipo de lâmina que você quer a seu lado para sempre ou só por um dia?",
+    "level": 30,
+    "rarity": 2,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac HP] 12 PV",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 13 Domínio sobre 3 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 9430,
+    "name": "Adagas de graveto",
+    "description": "Uma adaga simples que não transformará seu herói em uma lenda.",
+    "level": 8,
+    "rarity": 2,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 12 Domínio elementar",
+      "[#charac HP] 5 PV",
+      "[#charac DODGE] 5 Esquiva"
+    ]
+  },
+  {
+    "id": 9434,
+    "name": "Facas de Talhes",
+    "description": "Estas adagas magníficas pertenceram a Talhes, o escriba Amakniano. Ele as usava para gravar seus cadernos de pedra.",
+    "level": 45,
+    "rarity": 2,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac MP] 1 PM",
+      "[#charac HP] 20 PV",
+      "[#charac AP] -1 PA máx.",
+      "[#charac BACKSTAB_BONUS] 8 Domínio de costas"
+    ]
+  },
+  {
+    "id": 9435,
+    "name": "Adagas ‘Ngurduratta",
+    "description": "Não se preocupe com a procedência destas adagas ou com o fato de que o cabo é um pouco \"escorregadio\"!",
+    "level": 55,
+    "rarity": 2,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac FEROCITY] 1% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 15 Domínio sobre 1 elemento aleatório",
+      "[#charac HP] 21 PV",
+      "[#charac BACKSTAB_BONUS] 3 Domínio de costas",
+      "[#charac DODGE] 5 Esquiva",
+      "[#charac TACKLE] 5 Bloqueio"
+    ]
+  },
+  {
+    "id": 9967,
+    "name": "Cuecortante",
+    "description": "Estas lâminas sorrateiras sempre encontram o momento certo para atacar por trás.",
+    "level": 55,
+    "rarity": 2,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac HP] 14 PV",
+      "[#charac DODGE] 14 Esquiva",
+      "[#charac BACKSTAB_BONUS] 3 Domínio de costas",
+      "[#charac DMG_IN_PERCENT] 12 Domínio sobre 2 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 10278,
+    "name": "Facas de Mesa",
+    "description": "Estas facas eram usadas em um restaurante. Dada a sua estranha aparência, o dono achou melhor vendê-las para um atirador de facas.",
+    "level": 18,
+    "rarity": 3,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 18 Domínio elementar",
+      "[#charac HP] 10 PV",
+      "[#charac DODGE] 3 Esquiva",
+      "[#charac TACKLE] 3 Bloqueio"
+    ]
+  },
+  {
+    "id": 12188,
+    "name": "Makabradaga",
+    "description": "Esta arma antiga e amaldiçoada se separou da alma de seu antigo mestre quando ele foi morto em combate. Será que você tem o que é preciso para libertar todo o poder que ela contém?",
+    "level": 100,
+    "rarity": 3,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac HP] 75 PV",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac BACKSTAB_BONUS] 20 Domínio de costas",
+      "[#charac TACKLE] 0 Bloqueio",
+      "[#charac DODGE] 0 Esquiva"
+    ]
+  },
+  {
+    "id": 12450,
+    "name": "Pedra-pomes",
+    "description": "Esta pedra é ótima para tirar pele morta dos pés. Você pode até usá-la na batalha, se quiser!",
+    "level": 48,
+    "rarity": 3,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac CRITICAL_BONUS] 11 Domínio de crítico",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac HP] 31 PV",
+      "[#charac TACKLE] 5 Bloqueio",
+      "[#charac DODGE] 5 Esquiva"
+    ]
+  },
+  {
+    "id": 14138,
+    "name": "A Sanguinária",
+    "description": "Não dê esta adaga para qualquer um. Ela se alimenta do sangue das vítimas, ou do seu dono, durante uma semana por mês.",
+    "level": 95,
+    "rarity": 4,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac HP] 51 PV",
+      "[#charac CRITICAL_BONUS] 8 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 24 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac BERSERK_DMG] 9 Domínio de Berserk",
+      "[#charac DODGE] 10 Esquiva",
+      "[#charac TACKLE] 10 Bloqueio"
+    ]
+  },
+  {
+    "id": 14284,
+    "name": "Adaga de Djaul",
+    "description": "Esta adaga simboliza todo o poder de Djaul, demônio infame e discípulo, aluno e olho leal de seu mestre, Rushu.",
+    "level": 95,
+    "rarity": 4,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac DODGE] 7 Esquiva",
+      "[#charac TACKLE] 7 Bloqueio",
+      "[#charac HP] 40 PV",
+      "[#charac WP] 1 PW",
+      "[#charac DMG_IN_PERCENT] 35 Domínio sobre 3 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 14660,
+    "name": "Adagas do Assassino 1337 ",
+    "description": "Estas adagas lendárias pertenceram a um assassino que nunca revelou seu nome. A única marca que o distinguia era uma tatuagem com o número 1337, no pescoço.",
+    "level": 108,
+    "rarity": 3,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac BACKSTAB_BONUS] 23 Domínio de costas",
+      "[#charac DMG_IN_PERCENT] 26 Domínio sobre 1 elemento aleatório",
+      "[#charac HP] 62 PV",
+      "[#charac DODGE] 10 Esquiva",
+      "[#charac TACKLE] 10 Bloqueio"
+    ]
+  },
+  {
+    "id": 14812,
+    "name": "Segunda Adaga Gêmea de Azael",
+    "description": "Se você sempre sonhou em ter um par de gêmeos nos braços, já está meio caminho andado. Cuidado, é afiado!",
+    "level": 95,
+    "rarity": 4,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac DODGE] 25 Esquiva",
+      "[#charac HP] 50 PV",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac CRITICAL_BONUS] 6 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 35 Domínio sobre 3 elementos aleatórios",
+      "[#charac RES_IN_PERCENT] 5 Resistência elementar"
+    ]
+  },
+  {
+    "id": 15039,
+    "name": "As Revindas",
+    "description": "Como assim você as viu ontem mesmo? Elas estão mortas há vinte anos!",
+    "level": 57,
+    "rarity": 2,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 14 Domínio sobre 1 elemento aleatório",
+      "[#charac FEROCITY] 1% de golpe crítico",
+      "[#charac TACKLE] 7 Bloqueio",
+      "[#charac HP] 19 PV",
+      "[#charac MELEE_DMG] 5 Domínio de curta distância",
+      "[#charac BACKSTAB_BONUS] 2 Domínio de costas"
+    ]
+  },
+  {
+    "id": 16042,
+    "name": "KiAdagas",
+    "description": "Feitas com Gelo Eterno, estas adagas furam qualquer material, exceto o Sol, ou qualquer réplica de aula de ciências do Sol, ou qualquer coisa vagamente aquecida, tipo um pão fresco.",
+    "level": 123,
+    "rarity": 3,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac FEROCITY] 1% de golpe crítico",
+      "[#charac HP] 54 PV",
+      "[#charac CRITICAL_BONUS] 17 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 31 Domínio sobre 3 elementos aleatórios",
+      "[#charac DODGE] 11 Esquiva",
+      "[#charac TACKLE] 11 Bloqueio"
+    ]
+  },
+  {
+    "id": 16051,
+    "name": "Osso de Pescada",
+    "description": "Pescada é um peixe famoso pelas espinhas afiadas e resistentes. Perfeitas para palitar os dentes ou furar as capas dos outros.",
+    "level": 116,
+    "rarity": 2,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac HP] 38 PV",
+      "[#charac MELEE_DMG] 8 Domínio de curta distância",
+      "[#charac DMG_IN_PERCENT] 29 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 1% de golpe crítico",
+      "[#charac DODGE] 10 Esquiva",
+      "[#charac TACKLE] 10 Bloqueio"
+    ]
+  },
+  {
+    "id": 16792,
+    "name": "Gancho do Capitão",
+    "description": "Isso é gancho do capitão? Bem legal!",
+    "level": 95,
+    "rarity": 3,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac HP] 40 PV",
+      "[#charac HEAL_IN_PERCENT] 8 Domínio de cura",
+      "[#charac DMG_IN_PERCENT] 26 Domínio sobre 2 elementos aleatórios",
+      "[#charac DODGE] 21 Esquiva"
+    ]
+  },
+  {
+    "id": 16900,
+    "name": "Adagas Del Cabrónco",
+    "description": "Esta arma era o amuleto da sorte do campeão da Academia Trool. Quando ele ficou famoso, o mercado foi inundado por imitações baratas.",
+    "level": 92,
+    "rarity": 2,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac TACKLE] 8 Bloqueio",
+      "[#charac DODGE] 8 Esquiva",
+      "[#charac HP] 43 PV",
+      "[#charac CRITICAL_BONUS] 5 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 19 Domínio sobre 1 elemento aleatório",
+      "[#charac FEROCITY] 1% de golpe crítico"
+    ]
+  },
+  {
+    "id": 17258,
+    "name": "Punhal de Cenouwa Pweta",
+    "description": "Pode não parecer, mas machuca bastante quando é espetado no seu traseiro.",
+    "level": 132,
+    "rarity": 2,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac DODGE] 25 Esquiva",
+      "[#charac HP] 60 PV",
+      "[#charac RANGED_DMG] 12 Domínio de distância",
+      "[#charac DMG_IN_PERCENT] 24 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 1% de golpe crítico"
+    ]
+  },
+  {
+    "id": 17287,
+    "name": "Punhal de Cenouwa",
+    "description": "Pode não parecer, mas machuca bastante quando é espetado no seu traseiro.",
+    "level": 139,
+    "rarity": 3,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DODGE] 28 Esquiva",
+      "[#charac HP] 61 PV",
+      "[#charac CRITICAL_BONUS] 14 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 43 Domínio sobre 2 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 17735,
+    "name": "Adaga Corvoc",
+    "description": "Esta pena de Corvoc é afiada como um corisco e muito útil para apunhalar pelas costas.",
+    "level": 74,
+    "rarity": 3,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac HP] 32 PV",
+      "[#charac DMG_IN_PERCENT] 26 Domínio sobre 1 elemento aleatório",
+      "[#charac BACKSTAB_BONUS] 5 Domínio de costas",
+      "[#charac FEROCITY] 1% de golpe crítico",
+      "[#charac HEAL_IN_PERCENT] 5 Domínio de cura",
+      "[#charac DODGE] 5 Esquiva",
+      "[#charac TACKLE] 5 Bloqueio"
+    ]
+  },
+  {
+    "id": 17776,
+    "name": "Adoula Podre",
+    "description": "Uma adaga feita de Cenouwa apodrecida encontrada no território Zwombbit... Vai servir.",
+    "level": 153,
+    "rarity": 3,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac HP] 90 PV",
+      "[#charac HEAL_IN_PERCENT] 20 Domínio de cura",
+      "[#charac DMG_IN_PERCENT] 46 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DODGE] 30 Esquiva"
+    ]
+  },
+  {
+    "id": 18169,
+    "name": "O Estripador",
+    "description": "Ele vai arrancar seus dentes antes de que você possa piscar!",
+    "level": 124,
+    "rarity": 3,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac HP] 73 PV",
+      "[#charac CRITICAL_BONUS] 13 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 39 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 1% de golpe crítico",
+      "[#charac DODGE] 10 Esquiva",
+      "[#charac TACKLE] 10 Bloqueio"
+    ]
+  },
+  {
+    "id": 18387,
+    "name": "Adaga do Espírito Ancestral",
+    "description": "Leve e fria ao toque, esta adaga espectral parece convidá-lo a deslizar por trás de  seus inimigos e então ajudá-los a desaparecer.",
+    "level": 137,
+    "rarity": 3,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 44 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 1% de golpe crítico",
+      "[#charac DODGE] 30 Esquiva",
+      "[#charac HP] 74 PV",
+      "[#charac BACKSTAB_BONUS] 14 Domínio de costas"
+    ]
+  },
+  {
+    "id": 18556,
+    "name": "Adaga de Laminalonga",
+    "description": "Dizem que esta adaga foi forjada de duas espadas longas que pertenciam ao deus Sram, mas isso é apenas alguma lenda inventada pelo ferreiro para promover sua arma.",
+    "level": 154,
+    "rarity": 3,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac HP] 82 PV",
+      "[#charac BACKSTAB_BONUS] 19 Domínio de costas",
+      "[#charac DMG_IN_PERCENT] 55 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DODGE] 20 Esquiva",
+      "[#charac TACKLE] 20 Bloqueio"
+    ]
+  },
+  {
+    "id": 18557,
+    "name": "Adaga de Nataraja",
+    "description": "Nataraja é uma das raças preferidas de sua Eminência. Seus quatro braços lhe dão uma força e velocidade que não devem ser subestimadas.",
+    "level": 155,
+    "rarity": 3,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac DODGE] 35 Esquiva",
+      "[#charac HP] 80 PV",
+      "[#charac CRITICAL_BONUS] 20 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 49 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 2% de golpe crítico"
+    ]
+  },
+  {
+    "id": 18645,
+    "name": "Adaga da Visão",
+    "description": "O Grande Viziw Wabbit sempre pode ver alguns passos no futuro, e esta adaga o ajuda a usar essa habilidade com pewfeição.",
+    "level": 140,
+    "rarity": 7,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac MP] 1 PM",
+      "[#charac HP] 67 PV",
+      "[#charac DMG_IN_PERCENT] 59 Domínio sobre 3 elementos aleatórios",
+      "[#charac BACKSTAB_BONUS] 17 Domínio de costas",
+      "[#charac DODGE] 20 Esquiva",
+      "[#charac FEROCITY] 3% de golpe crítico"
+    ]
+  },
+  {
+    "id": 18770,
+    "name": "Chacoupe",
+    "description": "A Noune Chacoupe é a arma favorita de Donallangelo. Sem essa arma unificada, ele não pode lutar como se deve e fazer a justiça reinar nos esgotos!",
+    "level": 8,
+    "rarity": 1,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac DODGE] 5 Esquiva",
+      "[#charac HP] 5 PV",
+      "[#charac BACKSTAB_BONUS] 8 Domínio de costas"
+    ]
+  },
+  {
+    "id": 19064,
+    "name": "As Ventovidas",
+    "description": "Mais vivas que o vento, as Ventovidas atravessam o tempo para acabar com a vida dos vivos.",
+    "level": 170,
+    "rarity": 4,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac DODGE] 30 Esquiva",
+      "[#charac TACKLE] 30 Bloqueio",
+      "[#charac HP] 68 PV",
+      "[#charac CRITICAL_BONUS] 30 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 76 Domínio sobre 3 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 19122,
+    "name": "Adaga atemporal",
+    "description": "Uma adaga eficaz para dar golpes a partir de outras dimensões... Ou simplesmente para cravá-las nas costas.",
+    "level": 169,
+    "rarity": 3,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac DODGE] 45 Esquiva",
+      "[#charac HP] 70 PV",
+      "[#charac BACKSTAB_BONUS] 21 Domínio de costas",
+      "[#charac DMG_IN_PERCENT] 73 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 2% de golpe crítico"
+    ]
+  },
+  {
+    "id": 19144,
+    "name": "Adaga dos novos antigos",
+    "description": "Uma adaga para selar a autoproclamação dos novos antigos.",
+    "level": 170,
+    "rarity": 4,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac DODGE] 40 Esquiva",
+      "[#charac HP] 102 PV",
+      "[#charac HEAL_IN_PERCENT] 25 Domínio de cura",
+      "[#charac DMG_IN_PERCENT] 91 Domínio sobre 2 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 19247,
+    "name": "Vitorina",
+    "description": "Esta adaga determina quem venceu quando é cravada no perdedor.",
+    "level": 170,
+    "rarity": 4,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac DODGE] 25 Esquiva",
+      "[#charac HP] 159 PV",
+      "[#charac BACKSTAB_BONUS] 134 Domínio de costas"
+    ]
+  },
+  {
+    "id": 19357,
+    "name": "O Krupo",
+    "description": "Esta adaga é feita de tudo e nada, a partir de trocas e empréstimos. Ela desliza facilmente sob a plumagem dos jovens Krupos intrépidos.",
+    "level": 80,
+    "rarity": 3,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac HP] 31 PV",
+      "[#charac CRITICAL_BONUS] 5 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 22 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac TACKLE] 7 Bloqueio",
+      "[#charac DODGE] 7 Esquiva"
+    ]
+  },
+  {
+    "id": 19448,
+    "name": "Abridor de cartas",
+    "description": "A ponta deste abridor de cartas está meio torta. O Kabrok deve ter aberto muitas correspondências com ele. Instruções para a fabricação de seu Korbot, talvez?",
+    "level": 80,
+    "rarity": 4,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac HP] 40 PV",
+      "[#charac DMG_IN_PERCENT] 29 Domínio sobre 3 elementos aleatórios",
+      "[#charac CRITICAL_BONUS] 5 Domínio de crítico",
+      "[#charac DODGE] 15 Esquiva",
+      "[#charac FEROCITY] 1% de golpe crítico"
+    ]
+  },
+  {
+    "id": 19521,
+    "name": "Cutelo de bolso",
+    "description": "Apesar de ser pesada e grande demais para o seu bolso, esta adaga é indispensável para cortar ossos.",
+    "level": 95,
+    "rarity": 3,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac HP] 45 PV",
+      "[#charac DMG_IN_PERCENT] 35 Domínio sobre 2 elementos aleatórios",
+      "[#charac DODGE] 20 Esquiva"
+    ]
+  },
+  {
+    "id": 19522,
+    "name": "Desmandibulador",
+    "description": "Esta arma é usada para desmantelar as cobaias das experiências da madame Kenstein. Ela é usada principalmente em trabalhos minuciosos.",
+    "level": 89,
+    "rarity": 2,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 18 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 1% de golpe crítico",
+      "[#charac HP] 38 PV",
+      "[#charac TACKLE] 7 Bloqueio",
+      "[#charac DODGE] 7 Esquiva"
+    ]
+  },
+  {
+    "id": 19885,
+    "name": "Adaga sinuosa",
+    "description": "Cuidado para não sentar em cima dela.",
+    "level": 185,
+    "rarity": 4,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac HP] 120 PV",
+      "[#charac BACKSTAB_BONUS] 41 Domínio de costas",
+      "[#charac DMG_IN_PERCENT] 100 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac DODGE] 25 Esquiva"
+    ]
+  },
+  {
+    "id": 19900,
+    "name": "Adaga da alma",
+    "description": "Esta adaga esmaga a alma.",
+    "level": 185,
+    "rarity": 4,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac TACKLE] 50 Bloqueio",
+      "[#charac HP] 142 PV",
+      "[#charac DMG_IN_PERCENT] 124 Domínio sobre 3 elementos aleatórios",
+      "[#charac DODGE] 50 Esquiva"
+    ]
+  },
+  {
+    "id": 20151,
+    "name": "Adagas Crivas",
+    "description": "Chamadas assim porque atacam o dono à noite. Essas adagas são amoladas uma vez por década. É mais prudente adquirir um par usado para observar o comportamento dessas armas antigas impregnadas de magia obscura.",
+    "level": 185,
+    "rarity": 5,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac MP] 1 PM",
+      "[#charac HP] 76 PV",
+      "[#charac DMG_IN_PERCENT] 187 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac TACKLE] 23 Bloqueio",
+      "[#charac DODGE] 23 Esquiva"
+    ]
+  },
+  {
+    "id": 20405,
+    "name": "Faca Dumar",
+    "description": "Uma faca muito útil para abrir todo tipo de conchas e couraçados.",
+    "level": 20,
+    "rarity": 1,
+    "slot": "Adaga (mão secundária)",
+    "effects": []
+  },
+  {
+    "id": 20977,
+    "name": "Hélices",
+    "description": "Mesmo depois de enfiadas no corpo, estas adagas continuam girando, só para dilacerarem cada vez mais a vítima.",
+    "level": 112,
+    "rarity": 1,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac DODGE] 15 Esquiva",
+      "[#charac HP] 58 PV",
+      "[#charac MELEE_DMG] 19 Domínio de curta distância"
+    ]
+  },
+  {
+    "id": 21227,
+    "name": "A Sanguinolenta",
+    "description": "Vermelha de sangue, mas acima de qualquer suspeita, Redith Splaf via a vida cor-de-rosa graças a esta adaga maldita.",
+    "level": 167,
+    "rarity": 3,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac DODGE] 20 Esquiva",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac HP] 94 PV",
+      "[#charac TACKLE] 20 Bloqueio",
+      "[#charac DMG_IN_PERCENT] 53 Domínio sobre 3 elementos aleatórios",
+      "[#charac BERSERK_DMG] 28 Domínio de Berserk"
+    ]
+  },
+  {
+    "id": 21242,
+    "name": "Adaga Stura",
+    "description": "Que gastura!",
+    "level": 92,
+    "rarity": 2,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac HP] 61 PV",
+      "[#charac FEROCITY] 1% de golpe crítico",
+      "[#charac BERSERK_DMG] 15 Domínio de Berserk",
+      "[#charac DODGE] 7 Esquiva",
+      "[#charac TACKLE] 7 Bloqueio"
+    ]
+  },
+  {
+    "id": 21286,
+    "name": "A Sanguinolenta",
+    "description": "Vermelha de sangue, mas acima de qualquer suspeita, Redith Splaf via a vida cor-de-rosa graças a esta adaga maldita.",
+    "level": 170,
+    "rarity": 4,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac HP] 110 PV",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 71 Domínio sobre 3 elementos aleatórios",
+      "[#charac TACKLE] 15 Bloqueio",
+      "[#charac DODGE] 15 Esquiva",
+      "[#charac BERSERK_DMG] 43 Domínio de Berserk"
+    ]
+  },
+  {
+    "id": 21343,
+    "name": "Adaga Stura",
+    "description": "Que gastura!",
+    "level": 95,
+    "rarity": 3,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac DODGE] 14 Esquiva",
+      "[#charac DMG_IN_PERCENT] 12 Domínio sobre 3 elementos aleatórios",
+      "[#charac HP] 50 PV",
+      "[#charac TACKLE] 14 Bloqueio",
+      "[#charac BERSERK_DMG] 16 Domínio de Berserk"
+    ]
+  },
+  {
+    "id": 21474,
+    "name": "Hélices",
+    "description": "Mesmo depois de enfiadas no corpo, estas adagas continuam girando, só para dilacerarem cada vez mais a vítima.",
+    "level": 120,
+    "rarity": 2,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac TACKLE] 15 Bloqueio",
+      "[#charac DODGE] 15 Esquiva",
+      "[#charac HP] 58 PV",
+      "[#charac MELEE_DMG] 32 Domínio de curta distância"
+    ]
+  },
+  {
+    "id": 21479,
+    "name": "Hélices",
+    "description": "Mesmo depois de enfiadas no corpo, estas adagas continuam girando, só para dilacerarem cada vez mais a vítima.",
+    "level": 123,
+    "rarity": 3,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac DODGE] 20 Esquiva",
+      "[#charac FEROCITY] 1% de golpe crítico",
+      "[#charac HP] 63 PV",
+      "[#charac TACKLE] 20 Bloqueio",
+      "[#charac MELEE_DMG] 40 Domínio de curta distância"
+    ]
+  },
+  {
+    "id": 21496,
+    "name": "Hélices",
+    "description": "Mesmo depois de enfiadas no corpo, estas adagas continuam girando, só para dilacerarem cada vez mais a vítima.",
+    "level": 125,
+    "rarity": 4,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac HP] 116 PV",
+      "[#charac MELEE_DMG] 48 Domínio de curta distância",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac TACKLE] 17 Bloqueio",
+      "[#charac DODGE] 17 Esquiva"
+    ]
+  },
+  {
+    "id": 21722,
+    "name": "Adaga Sutura",
+    "description": "Uma adaga com uma ponta afiadíssima que, quando bem utilizada, permite realizar suturas bastante eficazes... ",
+    "level": 192,
+    "rarity": 2,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac DODGE] 20 Esquiva",
+      "[#charac FEROCITY] 1% de golpe crítico",
+      "[#charac HP] 105 PV",
+      "[#charac DMG_IN_PERCENT] 88 Domínio sobre 3 elementos aleatórios",
+      "[#charac HEAL_IN_PERCENT] 64 Domínio de cura"
+    ]
+  },
+  {
+    "id": 21724,
+    "name": "Crox",
+    "description": "Atenção: apesar de terem o mesmo nome daquelas sandálias de gosto duvidoso, é melhor não usar estas adagas nos pés.",
+    "level": 197,
+    "rarity": 3,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac HP] 166 PV",
+      "[#charac CRITICAL_BONUS] 49 Domínio de crítico",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 135 Domínio sobre 3 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 21749,
+    "name": "Adaga Sutura",
+    "description": "Uma adaga com uma ponta afiadíssima que, quando bem utilizada, permite realizar suturas bastante eficazes... ",
+    "level": 200,
+    "rarity": 3,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac HP] 121 PV",
+      "[#charac DODGE] 25 Esquiva",
+      "[#charac HEAL_IN_PERCENT] 85 Domínio de cura",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 106 Domínio sobre 3 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 21750,
+    "name": "Adaga Sutura",
+    "description": "Uma adaga com uma ponta afiadíssima que, quando bem utilizada, permite realizar suturas bastante eficazes... ",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac HP] 134 PV",
+      "[#charac DMG_IN_PERCENT] 129 Domínio sobre 3 elementos aleatórios",
+      "[#charac HEAL_IN_PERCENT] 106 Domínio de cura",
+      "[#charac DODGE] 30 Esquiva",
+      "[#charac FEROCITY] 3% de golpe crítico"
+    ]
+  },
+  {
+    "id": 21771,
+    "name": "Crox",
+    "description": "Atenção: apesar de terem o mesmo nome daquelas sandálias de gosto duvidoso, é melhor não usar estas adagas nos pés.",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac HP] 173 PV",
+      "[#charac CRITICAL_BONUS] 78 Domínio de crítico",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 165 Domínio sobre 3 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 21810,
+    "name": "Adaga Zoza",
+    "description": "Rápida como o vento e fugaz como um raio, esta adaga fulmina seu adversário num piscar de olhos.",
+    "level": 195,
+    "rarity": 3,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac TACKLE] 63 Bloqueio",
+      "[#charac HP] 161 PV",
+      "[#charac DMG_IN_PERCENT] 183 Domínio sobre 2 elementos aleatórios",
+      "[#charac DODGE] 63 Esquiva"
+    ]
+  },
+  {
+    "id": 22010,
+    "name": "Adaga Zoza",
+    "description": "Rápida como o vento e fugaz como um raio, esta adaga fulmina seu adversário num piscar de olhos.",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac HP] 161 PV",
+      "[#charac DMG_IN_PERCENT] 244 Domínio sobre 2 elementos aleatórios",
+      "[#charac DODGE] 85 Esquiva",
+      "[#charac TACKLE] 85 Bloqueio"
+    ]
+  },
+  {
+    "id": 22204,
+    "name": "Adaga Sinuosa",
+    "description": "Cuidado para não sentar em cima dela.",
+    "level": 182,
+    "rarity": 3,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 71 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac DODGE] 25 Esquiva",
+      "[#charac HP] 116 PV",
+      "[#charac BACKSTAB_BONUS] 26 Domínio de costas"
+    ]
+  },
+  {
+    "id": 22206,
+    "name": "Adaga da Alma",
+    "description": "Esta adaga esmaga a alma.",
+    "level": 185,
+    "rarity": 3,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac TACKLE] 50 Bloqueio",
+      "[#charac HP] 98 PV",
+      "[#charac DMG_IN_PERCENT] 97 Domínio sobre 3 elementos aleatórios",
+      "[#charac DODGE] 50 Esquiva"
+    ]
+  },
+  {
+    "id": 22361,
+    "name": "Ventovidas",
+    "description": "Mais vivas que o vento, as Ventovidas atravessam o tempo para acabar com a vida dos vivos.",
+    "level": 170,
+    "rarity": 3,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac TACKLE] 30 Bloqueio",
+      "[#charac HP] 58 PV",
+      "[#charac CRITICAL_BONUS] 18 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 65 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DODGE] 30 Esquiva"
+    ]
+  },
+  {
+    "id": 22392,
+    "name": "Adaga dos Novos Antigos",
+    "description": "Uma adaga para selar a autoproclamação dos novos Antigos.",
+    "level": 170,
+    "rarity": 3,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac DODGE] 35 Esquiva",
+      "[#charac HP] 102 PV",
+      "[#charac HEAL_IN_PERCENT] 18 Domínio de cura",
+      "[#charac DMG_IN_PERCENT] 73 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 2% de golpe crítico"
+    ]
+  },
+  {
+    "id": 22439,
+    "name": "Adaga Atemporal",
+    "description": "Uma adaga eficaz para dar golpes a partir de outras dimensões... Ou simplesmente para cravá-las nas costas.",
+    "level": 170,
+    "rarity": 4,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac HP] 70 PV",
+      "[#charac DMG_IN_PERCENT] 98 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac DODGE] 50 Esquiva",
+      "[#charac BACKSTAB_BONUS] 27 Domínio de costas"
+    ]
+  },
+  {
+    "id": 22590,
+    "name": "Adaga de Laminalonga",
+    "description": "Dizem que esta adaga foi forjada de duas espadas longas que pertenciam ao deus Sram, mas isso é apenas alguma lenda inventada pelo ferreiro para promover sua arma.",
+    "level": 155,
+    "rarity": 4,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac HP] 93 PV",
+      "[#charac BACKSTAB_BONUS] 36 Domínio de costas",
+      "[#charac DMG_IN_PERCENT] 61 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac TACKLE] 20 Bloqueio",
+      "[#charac DODGE] 20 Esquiva"
+    ]
+  },
+  {
+    "id": 22608,
+    "name": "Adaga de Laminalonga",
+    "description": "Dizem que esta adaga foi forjada de duas espadas longas que pertenciam ao deus Sram, mas isso é apenas alguma lenda inventada pelo ferreiro para promover sua arma.",
+    "level": 146,
+    "rarity": 2,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 37 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac HP] 74 PV",
+      "[#charac BACKSTAB_BONUS] 9 Domínio de costas",
+      "[#charac DODGE] 13 Esquiva",
+      "[#charac TACKLE] 13 Bloqueio"
+    ]
+  },
+  {
+    "id": 22609,
+    "name": "Adaga de Nataraja",
+    "description": "Nataraja é uma das raças preferidas de Sua Eminência. Os quatro braços dão a ela uma força e velocidade impressionantes.",
+    "level": 155,
+    "rarity": 4,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac HP] 81 PV",
+      "[#charac CRITICAL_BONUS] 32 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 61 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac DODGE] 35 Esquiva"
+    ]
+  },
+  {
+    "id": 22610,
+    "name": "Adaga de Nataraja",
+    "description": "Nataraja é uma das raças preferidas de Sua Eminência. Os quatro braços dão a ela uma força e velocidade impressionantes.",
+    "level": 147,
+    "rarity": 2,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DODGE] 25 Esquiva",
+      "[#charac HP] 64 PV",
+      "[#charac CRITICAL_BONUS] 8 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 37 Domínio sobre 2 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 22732,
+    "name": "Cenouwadaga Mofada",
+    "description": "Uma adaga feita de Cenouwa mofada encontrada no território dos Zwombbits... Sim, sim, ela pode servir para alguma coisa!",
+    "level": 155,
+    "rarity": 4,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 61 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac DODGE] 35 Esquiva",
+      "[#charac HP] 108 PV",
+      "[#charac HEAL_IN_PERCENT] 24 Domínio de cura"
+    ]
+  },
+  {
+    "id": 22733,
+    "name": "Cenouwadaga Mofada",
+    "description": "Uma adaga feita de Cenouwa mofada encontrada no território dos Zwombbits... Sim, sim, ela pode servir para alguma coisa!",
+    "level": 150,
+    "rarity": 2,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac DODGE] 20 Esquiva",
+      "[#charac HP] 79 PV",
+      "[#charac HEAL_IN_PERCENT] 11 Domínio de cura",
+      "[#charac DMG_IN_PERCENT] 37 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 2% de golpe crítico"
+    ]
+  },
+  {
+    "id": 22806,
+    "name": "Adaga do Espírito Ancestral",
+    "description": "Leve e fria ao toque, esta adaga espectral parece convidá-lo a deslizar por trás de  seus inimigos e então ajudá-los a desaparecer.",
+    "level": 140,
+    "rarity": 4,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DODGE] 35 Esquiva",
+      "[#charac HP] 79 PV",
+      "[#charac BACKSTAB_BONUS] 25 Domínio de costas",
+      "[#charac DMG_IN_PERCENT] 54 Domínio sobre 2 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 22858,
+    "name": "Cenouwadaga",
+    "description": "Pode não parecer, mas machuca bastante quando é espetado no seu traseiro.",
+    "level": 140,
+    "rarity": 4,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac DODGE] 30 Esquiva",
+      "[#charac HP] 76 PV",
+      "[#charac CRITICAL_BONUS] 21 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 61 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 2% de golpe crítico"
+    ]
+  },
+  {
+    "id": 22859,
+    "name": "Cenouwadaga",
+    "description": "Pode não parecer, mas machuca bastante quando é espetado no seu traseiro.",
+    "level": 131,
+    "rarity": 2,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac DODGE] 25 Esquiva",
+      "[#charac HP] 52 PV",
+      "[#charac CRITICAL_BONUS] 7 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 30 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 1% de golpe crítico"
+    ]
+  },
+  {
+    "id": 22951,
+    "name": "Cenouwadaga Pweta",
+    "description": "Pode não parecer, mas machuca bastante quando é espetado no seu traseiro.",
+    "level": 137,
+    "rarity": 3,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac FEROCITY] 1% de golpe crítico",
+      "[#charac DODGE] 30 Esquiva",
+      "[#charac HP] 63 PV",
+      "[#charac BACKSTAB_BONUS] 14 Domínio de costas",
+      "[#charac DMG_IN_PERCENT] 37 Domínio sobre 2 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 22952,
+    "name": "Cenouwadaga Pweta",
+    "description": "Pode não parecer, mas machuca bastante quando é espetado no seu traseiro.",
+    "level": 140,
+    "rarity": 4,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac DODGE] 40 Esquiva",
+      "[#charac HP] 71 PV",
+      "[#charac BACKSTAB_BONUS] 25 Domínio de costas",
+      "[#charac DMG_IN_PERCENT] 49 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 1% de golpe crítico"
+    ]
+  },
+  {
+    "id": 23026,
+    "name": "KiAdagas ",
+    "description": "Feitas com Gelo Eterno, estas adagas furam qualquer material, exceto o Sol, ou qualquer réplica de aula de ciências do Sol, ou qualquer coisa vagamente aquecida, tipo um pão fresco.",
+    "level": 125,
+    "rarity": 4,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac HP] 81 PV",
+      "[#charac CRITICAL_BONUS] 23 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 33 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DODGE] 13 Esquiva",
+      "[#charac TACKLE] 13 Bloqueio"
+    ]
+  },
+  {
+    "id": 23056,
+    "name": "Osso de Pescada",
+    "description": "Pescada é um peixe famoso por suas espinhas afiadas e resistentes. São perfeitas para palitar os dentes ou furar as capas dos outros.",
+    "level": 125,
+    "rarity": 4,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 49 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac HP] 63 PV",
+      "[#charac MELEE_DMG] 24 Domínio de curta distância",
+      "[#charac TACKLE] 13 Bloqueio",
+      "[#charac DODGE] 13 Esquiva"
+    ]
+  },
+  {
+    "id": 23057,
+    "name": "Osso de Pescada",
+    "description": "Pescada é um peixe famoso por suas espinhas afiadas e resistentes. São perfeitas para palitar os dentes ou furar as capas dos outros.",
+    "level": 124,
+    "rarity": 3,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac HP] 56 PV",
+      "[#charac MELEE_DMG] 18 Domínio de curta distância",
+      "[#charac DMG_IN_PERCENT] 37 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 1% de golpe crítico",
+      "[#charac DODGE] 13 Esquiva",
+      "[#charac TACKLE] 13 Bloqueio"
+    ]
+  },
+  {
+    "id": 23145,
+    "name": "O Estripador",
+    "description": "Ele vai arrancar seus dentes antes de que você possa piscar!",
+    "level": 125,
+    "rarity": 4,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 49 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 1% de golpe crítico",
+      "[#charac HP] 90 PV",
+      "[#charac CRITICAL_BONUS] 24 Domínio de crítico",
+      "[#charac DODGE] 10 Esquiva",
+      "[#charac TACKLE] 10 Bloqueio"
+    ]
+  },
+  {
+    "id": 23146,
+    "name": "O Estripador",
+    "description": "Ele vai arrancar seus dentes antes de que você possa piscar!",
+    "level": 121,
+    "rarity": 2,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 24 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 1% de golpe crítico",
+      "[#charac HP] 62 PV",
+      "[#charac CRITICAL_BONUS] 10 Domínio de crítico",
+      "[#charac TACKLE] 9 Bloqueio",
+      "[#charac DODGE] 9 Esquiva"
+    ]
+  },
+  {
+    "id": 23260,
+    "name": "Adagas do Assassino 1337 ",
+    "description": "Estas adagas lendárias pertenceram a um assassino que nunca revelou seu nome. A única marca que o distinguia era uma tatuagem com o número 1337, no pescoço.",
+    "level": 105,
+    "rarity": 2,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 18 Domínio sobre 1 elemento aleatório",
+      "[#charac HP] 61 PV",
+      "[#charac BACKSTAB_BONUS] 16 Domínio de costas",
+      "[#charac DODGE] 7 Esquiva",
+      "[#charac TACKLE] 7 Bloqueio"
+    ]
+  },
+  {
+    "id": 23383,
+    "name": "Cutelo de bolso",
+    "description": "Apesar de ser pesada e grande demais para o seu bolso, esta adaga é indispensável para cortar ossos.",
+    "level": 87,
+    "rarity": 2,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac DODGE] 8 Esquiva",
+      "[#charac HP] 30 PV",
+      "[#charac DMG_IN_PERCENT] 30 Domínio sobre 2 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 23387,
+    "name": "Desmandibulador",
+    "description": "Esta arma é usada para desmantelar as cobaias das experiências da madame Kenstein. Ela é usada principalmente em trabalhos minuciosos.",
+    "level": 94,
+    "rarity": 3,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac DODGE] 9 Esquiva",
+      "[#charac TACKLE] 9 Bloqueio",
+      "[#charac DMG_IN_PERCENT] 27 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 1% de golpe crítico",
+      "[#charac HP] 47 PV"
+    ]
+  },
+  {
+    "id": 23408,
+    "name": "Adagas Del Cabrónco",
+    "description": "Esta arma era o amuleto da sorte do campeão da Academia Trool. Quando ele ficou famoso, o mercado foi inundado por imitações baratas.",
+    "level": 95,
+    "rarity": 3,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac HP] 45 PV",
+      "[#charac CRITICAL_BONUS] 8 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 26 Domínio sobre 1 elemento aleatório",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DODGE] 9 Esquiva",
+      "[#charac TACKLE] 9 Bloqueio"
+    ]
+  },
+  {
+    "id": 23508,
+    "name": "O Krupo",
+    "description": "Esta adaga é feita de tudo e nada, a partir de trocas e empréstimos. Ela desliza facilmente sob a plumagem dos jovens Krupos intrépidos.",
+    "level": 72,
+    "rarity": 2,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac FEROCITY] 1% de golpe crítico",
+      "[#charac HP] 27 PV",
+      "[#charac CRITICAL_BONUS] 2 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 17 Domínio sobre 2 elementos aleatórios",
+      "[#charac DODGE] 5 Esquiva",
+      "[#charac TACKLE] 5 Bloqueio"
+    ]
+  },
+  {
+    "id": 23660,
+    "name": "As Revindas",
+    "description": "Como assim você as viu ontem mesmo? Elas estão mortas há vinte anos!",
+    "level": 65,
+    "rarity": 3,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac TACKLE] 12 Bloqueio",
+      "[#charac HP] 28 PV",
+      "[#charac MELEE_DMG] 6 Domínio de curta distância",
+      "[#charac BACKSTAB_BONUS] 3 Domínio de costas",
+      "[#charac DMG_IN_PERCENT] 19 Domínio sobre 1 elemento aleatório",
+      "[#charac FEROCITY] 1% de golpe crítico"
+    ]
+  },
+  {
+    "id": 24003,
+    "name": "Adaga de Sram",
+    "description": "Esta adaga pérfida sempre acha o caminho mais curto até as costelas de seus inimigos... e as costas de seus aliados.",
+    "level": 200,
+    "rarity": 3,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac DODGE] 20 Esquiva",
+      "[#charac TACKLE] 20 Bloqueio",
+      "[#charac HP] 133 PV",
+      "[#charac MELEE_DMG] 147 Domínio de curta distância",
+      "[#charac BACKSTAB_BONUS] 112 Domínio de costas"
+    ]
+  },
+  {
+    "id": 24017,
+    "name": "Adaga de Sram",
+    "description": "Esta adaga pérfida sempre acha o caminho mais curto até as costelas de seus inimigos... e as costas de seus aliados.",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac TACKLE] 30 Bloqueio",
+      "[#charac HP] 144 PV",
+      "[#charac MELEE_DMG] 165 Domínio de curta distância",
+      "[#charac BACKSTAB_BONUS] 148 Domínio de costas",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac DODGE] 30 Esquiva"
+    ]
+  },
+  {
+    "id": 24256,
+    "name": "As Revindas",
+    "description": "Estas adagas estão de volta para deixar você às voltas com seu retorno.",
+    "level": 200,
+    "rarity": 6,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac HP] 170 PV",
+      "[#charac DMG_IN_PERCENT] 150 Domínio sobre 2 elementos aleatórios",
+      "[#charac DODGE] 80 Esquiva",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac RANGED_DMG] 75 Domínio de distância"
+    ]
+  },
+  {
+    "id": 24641,
+    "name": "A Voga",
+    "description": "Essa adaga é popular nos campos de batalha por sua estética e maneabilidade.",
+    "level": 80,
+    "rarity": 2,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac HP] 14 PV",
+      "[#charac CRITICAL_BONUS] 4 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 12 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DODGE] 13 Esquiva"
+    ]
+  },
+  {
+    "id": 24642,
+    "name": "A Voga",
+    "description": "Essa adaga é popular nos campos de batalha por sua estética e maneabilidade.",
+    "level": 80,
+    "rarity": 3,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac DODGE] 15 Esquiva",
+      "[#charac HP] 19 PV",
+      "[#charac CRITICAL_BONUS] 5 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 18 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 2% de golpe crítico"
+    ]
+  },
+  {
+    "id": 24659,
+    "name": "A Bolseira",
+    "description": "Essa adaga escorrega pra todo lado, seja em um bolso ou dentro do corpo do inimigo.",
+    "level": 110,
+    "rarity": 3,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DODGE] 15 Esquiva",
+      "[#charac HP] 51 PV",
+      "[#charac BACKSTAB_BONUS] 6 Domínio de costas",
+      "[#charac CRITICAL_BONUS] 5 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 24 Domínio sobre 3 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 24673,
+    "name": "A Atenciosa",
+    "description": "Essa adaga cuida da sua retaguarda e do que vem à frente.",
+    "level": 140,
+    "rarity": 3,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DODGE] 20 Esquiva",
+      "[#charac TACKLE] 20 Bloqueio",
+      "[#charac HP] 68 PV",
+      "[#charac MELEE_DMG] 53 Domínio de curta distância"
+    ]
+  },
+  {
+    "id": 24674,
+    "name": "A Atenciosa",
+    "description": "Essa adaga cuida da sua retaguarda e do que vem à frente.",
+    "level": 140,
+    "rarity": 4,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac TACKLE] 25 Bloqueio",
+      "[#charac HP] 84 PV",
+      "[#charac MELEE_DMG] 71 Domínio de curta distância",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DODGE] 25 Esquiva"
+    ]
+  },
+  {
+    "id": 24701,
+    "name": "Erreótipo",
+    "description": "Esta adaga registra tudo o que mata. Um belo troféu!",
+    "level": 200,
+    "rarity": 3,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 124 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac HP] 135 PV",
+      "[#charac WP] 1 PW"
+    ]
+  },
+  {
+    "id": 24702,
+    "name": "Erreótipo",
+    "description": "Esta adaga registra tudo o que mata. Um belo troféu!",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 159 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac HP] 145 PV",
+      "[#charac WP] 1 PW"
+    ]
+  },
+  {
+    "id": 24707,
+    "name": "Erreótipo",
+    "description": "Esta adaga registra tudo o que mata. Um belo troféu!",
+    "level": 200,
+    "rarity": 2,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 106 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac HP] 111 PV",
+      "[#charac WP] 1 PW"
+    ]
+  },
+  {
+    "id": 25123,
+    "name": "Adaga Polvogajosa",
+    "description": "Esta adaga é meio pegajosa e tem tendência a se enrolar na sua mão, mas isso só lhe permitirá segurá-la melhor.",
+    "level": 47,
+    "rarity": 3,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac HP] 24 PV",
+      "[#charac DODGE] 7 Esquiva",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac CRITICAL_BONUS] 11 Domínio de crítico"
+    ]
+  },
+  {
+    "id": 25134,
+    "name": "Adaga de Xingu",
+    "description": "Aparentemente, Xingu usava esta adaga estrelada como faca de atirar. Hoje em dia, há leis contra esse tipo de coisa.",
+    "level": 47,
+    "rarity": 3,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac BACKSTAB_BONUS] 3 Domínio de costas",
+      "[#charac HP] 14 PV",
+      "[#charac DODGE] 5 Esquiva",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 20 Domínio elementar"
+    ]
+  },
+  {
+    "id": 25247,
+    "name": "Esmagadoras",
+    "description": "As Esmagadoras são temíveis adagas de assassino. Quem as possuir poderá rivalizar até mesmo com os guerreiros mais sanguinários.",
+    "level": 61,
+    "rarity": 3,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac TACKLE] 6 Bloqueio",
+      "[#charac DODGE] 6 Esquiva",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac HP] 20 PV",
+      "[#charac MELEE_DMG] 20 Domínio de curta distância"
+    ]
+  },
+  {
+    "id": 25757,
+    "name": "Adaga de Arvraknídeo",
+    "description": "Tudo o que tem que fazer para transformar esta arma em uma companheira de batalha assustadora é encontrar um apontador decente.",
+    "level": 131,
+    "rarity": 2,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac WP] 1 PW",
+      "[#charac HP] 32 PV",
+      "[#charac MELEE_DMG] 34 Domínio de curta distância"
+    ]
+  },
+  {
+    "id": 25758,
+    "name": "Adaga de Arvraknídeo",
+    "description": "Tudo o que tem que fazer para transformar esta arma em uma companheira de batalha assustadora é encontrar um apontador decente.",
+    "level": 139,
+    "rarity": 3,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac WP] 1 PW",
+      "[#charac HP] 57 PV",
+      "[#charac MELEE_DMG] 52 Domínio de curta distância"
+    ]
+  },
+  {
+    "id": 25759,
+    "name": "Adaga de Arvraknídeo",
+    "description": "Tudo o que tem que fazer para transformar esta arma em uma companheira de batalha assustadora é encontrar um apontador decente.",
+    "level": 140,
+    "rarity": 4,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac WP] 1 PW",
+      "[#charac HP] 69 PV",
+      "[#charac MELEE_DMG] 72 Domínio de curta distância"
+    ]
+  },
+  {
+    "id": 25865,
+    "name": "Adagas do Despeito",
+    "description": "Este pequeno número não machucará tanto quando uma clava Trool, mas é um estilo de ataque mais sutil e de bom gosto.",
+    "level": 169,
+    "rarity": 3,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac HP] 86 PV",
+      "[#charac DODGE] 50 Esquiva",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac MELEE_DMG] 78 Domínio de curta distância"
+    ]
+  },
+  {
+    "id": 25866,
+    "name": "Adagas do Despeito",
+    "description": "Este pequeno número não machucará tanto quando uma clava Trool, mas é um estilo de ataque mais sutil e de bom gosto.",
+    "level": 170,
+    "rarity": 4,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac DODGE] 50 Esquiva",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac MELEE_DMG] 96 Domínio de curta distância",
+      "[#charac HP] 124 PV"
+    ]
+  },
+  {
+    "id": 25968,
+    "name": "Adaga NaKarne",
+    "description": "Esta adaga é excepcionalmente leve e pode não ser muito afiada, mas os golpes dela são muito rápidos.",
+    "level": 162,
+    "rarity": 2,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac RANGED_DMG] 53 Domínio de distância",
+      "[#charac WP] 1 PW",
+      "[#charac HP] 65 PV"
+    ]
+  },
+  {
+    "id": 25969,
+    "name": "Adaga NaKarne",
+    "description": "Esta adaga é excepcionalmente leve e pode não ser muito afiada, mas os golpes dela são muito rápidos.",
+    "level": 170,
+    "rarity": 3,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac WP] 1 PW",
+      "[#charac HP] 82 PV",
+      "[#charac RANGED_DMG] 84 Domínio de distância"
+    ]
+  },
+  {
+    "id": 25970,
+    "name": "Adaga NaKarne",
+    "description": "Esta adaga é excepcionalmente leve e pode não ser muito afiada, mas os golpes dela são muito rápidos.",
+    "level": 170,
+    "rarity": 4,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac RANGED_DMG] 114 Domínio de distância",
+      "[#charac WP] 1 PW",
+      "[#charac HP] 89 PV"
+    ]
+  },
+  {
+    "id": 25984,
+    "name": "Adaga Duplâmina",
+    "description": "Forjada pelo célebre barbeiro e assassino Will Killson, esta adaga contém um Shushu Menor que equilibra a lâmina no ar para que ela sempre atinja seu alvo. ",
+    "level": 167,
+    "rarity": 3,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac HP] 80 PV",
+      "[#charac DMG_IN_PERCENT] 69 Domínio sobre 3 elementos aleatórios",
+      "[#charac DODGE] 48 Esquiva",
+      "[#charac FEROCITY] 2% de golpe crítico"
+    ]
+  },
+  {
+    "id": 25985,
+    "name": "Adaga Duplâmina",
+    "description": "Forjada pelo célebre barbeiro e assassino Will Killson, esta adaga contém um Shushu Menor que equilibra a lâmina no ar para que ela sempre atinja seu alvo. ",
+    "level": 170,
+    "rarity": 4,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac HP] 80 PV",
+      "[#charac DODGE] 30 Esquiva",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 113 Domínio sobre 3 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 26287,
+    "name": "Penteadora Mortal",
+    "description": "Não há outra igual para cuidar das suas longas madeixas. Mas, para a sua sorte, esta adaga ainda tem outras utilidades.",
+    "level": 200,
+    "rarity": 7,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac HP] 112 PV",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 377 Domínio sobre 3 elementos aleatórios",
+      "[#charac BACKSTAB_BONUS] -430 Domínio de costas"
+    ]
+  },
+  {
+    "id": 26542,
+    "name": "Lança Fritney",
+    "description": "Esta adaga é letal como a geleira que Fritney Spíers escolheu para morar!",
+    "level": 104,
+    "rarity": 2,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac HP] 44 PV",
+      "[#charac DODGE] 16 Esquiva",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 27 Domínio sobre 1 elemento aleatório"
+    ]
+  },
+  {
+    "id": 26543,
+    "name": "Lança Fritney",
+    "description": "Esta adaga é letal como a geleira que Fritney Spíers escolheu para morar!",
+    "level": 109,
+    "rarity": 3,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac DODGE] 24 Esquiva",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 38 Domínio sobre 1 elemento aleatório",
+      "[#charac HP] 52 PV"
+    ]
+  },
+  {
+    "id": 26728,
+    "name": "Adagas do Despeito",
+    "description": "Este pequeno número não machucará tanto quando uma clava Trool, mas é um estilo de ataque mais sutil e de bom gosto.",
+    "level": 200,
+    "rarity": 6,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac HP] 134 PV",
+      "[#charac WP] 1 PW",
+      "[#charac DMG_IN_PERCENT] 183 Domínio sobre 2 elementos aleatórios",
+      "[#charac MELEE_DMG] 60 Domínio de curta distância"
+    ]
+  },
+  {
+    "id": 26821,
+    "name": "Adaga Orafobia",
+    "description": "Pertencia a um Pandissidente que não gostava muito de companhia.",
+    "level": 181,
+    "rarity": 3,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac DODGE] 50 Esquiva",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac CRITICAL_BONUS] 83 Domínio de crítico",
+      "[#charac HP] 115 PV"
+    ]
+  },
+  {
+    "id": 26822,
+    "name": "Adaga Orafobia",
+    "description": "Pertencia a um Pandissidente que não gostava muito de companhia.",
+    "level": 185,
+    "rarity": 4,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac HP] 115 PV",
+      "[#charac DODGE] 50 Esquiva",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac CRITICAL_BONUS] 117 Domínio de crítico"
+    ]
+  },
+  {
+    "id": 26886,
+    "name": "Punhal Lado",
+    "description": "Quando lançado, este punhal atinge uma velocidade tão grande que parece voar.",
+    "level": 197,
+    "rarity": 3,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 216 Domínio sobre 2 elementos aleatórios",
+      "[#charac HP] 134 PV",
+      "[#charac TACKLE] 20 Bloqueio",
+      "[#charac DODGE] 20 Esquiva"
+    ]
+  },
+  {
+    "id": 26887,
+    "name": "Punhal Lado",
+    "description": "Quando lançado, este punhal atinge uma velocidade tão grande que parece voar.",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac TACKLE] 25 Bloqueio",
+      "[#charac DODGE] 25 Esquiva",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 279 Domínio sobre 2 elementos aleatórios",
+      "[#charac HP] 147 PV"
+    ]
+  },
+  {
+    "id": 27625,
+    "name": "Desértica",
+    "description": "Ela pode matar alguém, mesmo quando não há mais ninguém.",
+    "level": 213,
+    "rarity": 3,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac CRITICAL_BONUS] 107 Domínio de crítico",
+      "[#charac HP] 160 PV",
+      "[#charac DODGE] 19 Esquiva",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 173 Domínio sobre 2 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 27626,
+    "name": "Desértica",
+    "description": "Ela pode matar alguém, mesmo quando não há mais ninguém.",
+    "level": 215,
+    "rarity": 4,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac HP] 175 PV",
+      "[#charac DODGE] 23 Esquiva",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 196 Domínio sobre 2 elementos aleatórios",
+      "[#charac CRITICAL_BONUS] 147 Domínio de crítico"
+    ]
+  },
+  {
+    "id": 27687,
+    "name": "Resfriadaga",
+    "description": "Um discreto fio de muco escorre constantemente desta adaga. Talvez você não consiga usá-la para matar seu adversário de verdade, mas ele certamente morrerá de nojo.",
+    "level": 215,
+    "rarity": 4,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac HP] 171 PV",
+      "[#charac DODGE] 28 Esquiva",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac BACKSTAB_BONUS] 345 Domínio de costas"
+    ]
+  },
+  {
+    "id": 29491,
+    "name": "Adaga Bruxa",
+    "description": "Se esta adaga for empunhada junto com as Sombras das Almas Veladas, ela pode vencer qualquer Pandawa em um duelo.",
+    "level": 230,
+    "rarity": 3,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 263 Domínio sobre 2 elementos aleatórios",
+      "[#charac DODGE] 230 Esquiva",
+      "[#charac HP] 201 PV"
+    ]
+  },
+  {
+    "id": 29492,
+    "name": "Adaga Bruxa",
+    "description": "Se esta adaga for empunhada junto com as Sombras das Almas Veladas, ela pode vencer qualquer Pandawa em um duelo.",
+    "level": 230,
+    "rarity": 4,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac DODGE] 250 Esquiva",
+      "[#charac HP] 252 PV",
+      "[#charac DMG_IN_PERCENT] 315 Domínio sobre 2 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 29645,
+    "name": "Adaga Ancestral",
+    "description": "Apesar da idade deste artefato, os únicos que vão virar pó são os inimigos que você encontrará pelo caminho.",
+    "level": 230,
+    "rarity": 3,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac CRITICAL_BONUS] 85 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 235 Domínio sobre 3 elementos aleatórios",
+      "[#charac DODGE] 100 Esquiva",
+      "[#charac HP] 156 PV"
+    ]
+  },
+  {
+    "id": 29646,
+    "name": "Adaga Ancestral",
+    "description": "Apesar da idade deste artefato, os únicos que vão virar pó são os inimigos que você encontrará pelo caminho.",
+    "level": 230,
+    "rarity": 4,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac DODGE] 130 Esquiva",
+      "[#charac HP] 172 PV",
+      "[#charac CRITICAL_BONUS] 113 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 259 Domínio sobre 3 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 30148,
+    "name": "Adágora",
+    "description": "Os Homens-Peixes se reúnem ao redor desta adaga para tomarem decisões democráticas.",
+    "level": 227,
+    "rarity": 3,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 104 Domínio sobre 2 elementos aleatórios",
+      "[#charac DODGE] 100 Esquiva",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac HEAL_IN_PERCENT] 170 Domínio de cura",
+      "[#charac HP] 189 PV"
+    ]
+  },
+  {
+    "id": 30149,
+    "name": "Adágora",
+    "description": "Os Homens-Peixes se reúnem ao redor desta adaga para tomarem decisões democráticas.",
+    "level": 230,
+    "rarity": 4,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac DODGE] 120 Esquiva",
+      "[#charac HP] 220 PV",
+      "[#charac HEAL_IN_PERCENT] 212 Domínio de cura",
+      "[#charac DMG_IN_PERCENT] 122 Domínio sobre 2 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 30791,
+    "name": "Adagario",
+    "description": "Ela parece aumentar de tamanho toda vez que corta um inimigo, então é melhor limitar o número de vítimas.",
+    "level": 230,
+    "rarity": 3,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac WP] 1 PW",
+      "[#charac DMG_IN_PERCENT] 271 Domínio sobre 3 elementos aleatórios",
+      "[#charac HP] 191 PV"
+    ]
+  },
+  {
+    "id": 30792,
+    "name": "Adagario",
+    "description": "Ela parece aumentar de tamanho toda vez que corta um inimigo, então é melhor limitar o número de vítimas.",
+    "level": 230,
+    "rarity": 4,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac HP] 220 PV",
+      "[#charac WP] 1 PW",
+      "[#charac DMG_IN_PERCENT] 318 Domínio sobre 3 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 30922,
+    "name": "Punhal Redondado",
+    "description": "Para manusear corretamente esta adaga, é preciso girar o punho em 360 graus.",
+    "level": 65,
+    "rarity": 4,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 39 Domínio sobre 2 elementos aleatórios",
+      "[#charac DODGE] 6 Esquiva",
+      "[#charac FEROCITY] 1% de golpe crítico",
+      "[#charac TACKLE] 6 Bloqueio",
+      "[#charac HP] 28 PV"
+    ]
+  },
+  {
+    "id": 31334,
+    "name": "Parasicauda",
+    "description": "Ela fura de tudo, menos o coração de um Legumutante. ",
+    "level": 138,
+    "rarity": 3,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 40 Domínio sobre 3 elementos aleatórios",
+      "[#charac HP] 84 PV",
+      "[#charac DODGE] 20 Esquiva",
+      "[#charac TACKLE] 20 Bloqueio"
+    ]
+  },
+  {
+    "id": 31335,
+    "name": "Parasicauda",
+    "description": "Ela fura de tudo, menos o coração de um Legumutante. ",
+    "level": 140,
+    "rarity": 4,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac TACKLE] 23 Bloqueio",
+      "[#charac HP] 98 PV",
+      "[#charac DMG_IN_PERCENT] 60 Domínio sobre 3 elementos aleatórios",
+      "[#charac DODGE] 23 Esquiva",
+      "[#charac FEROCITY] 2% de golpe crítico"
+    ]
+  },
+  {
+    "id": 31561,
+    "name": "Adaga Belê",
+    "description": "E aí, beleza?",
+    "level": 230,
+    "rarity": 4,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac TACKLE] 45 Bloqueio",
+      "[#charac HP] 200 PV",
+      "[#charac BACKSTAB_BONUS] 400 Domínio de costas",
+      "[#charac DODGE] 45 Esquiva",
+      "[#charac FEROCITY] 3% de golpe crítico"
+    ]
+  },
+  {
+    "id": 32340,
+    "name": "Facas de Talhes",
+    "description": "Estas adagas magníficas pertenceram a Talhes, o escriba Amakniano. Ele as usava para gravar seus cadernos de pedra.",
+    "level": 245,
+    "rarity": 6,
+    "slot": "Adaga (mão secundária)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 350 Domínio sobre 2 elementos aleatórios",
+      "[#charac DODGE] 85 Esquiva",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac HP] 202 PV",
+      "[#charac WP] 1 PW"
+    ]
+  }
+]

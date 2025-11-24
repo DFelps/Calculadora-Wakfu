@@ -1,0 +1,1430 @@
+[
+  {
+    "id": 3959,
+    "name": "Bastão do Pastor",
+    "description": "Este cajado impõe respeito com seu castão em forma de Papatudo. Ao usá-lo para atacar, você ouve só um \"ai\"!",
+    "level": 30,
+    "rarity": 2,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac HP] 10 PV",
+      "[#charac FEROCITY] 1% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 24 Domínio elementar"
+    ]
+  },
+  {
+    "id": 6570,
+    "name": "Bastão de Tofu",
+    "description": "Foi sábio ter certeza de que o ovo estava vazio antes de fazer esta arma...  ",
+    "level": 14,
+    "rarity": 2,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 12 Domínio elementar",
+      "[#charac HP] 5 PV",
+      "[#charac FEROCITY] 4% de golpe crítico"
+    ]
+  },
+  {
+    "id": 9370,
+    "name": "Bastão Kanibola",
+    "description": "Este bastão exótico sente muita saudade quando está longe de seu canibal. É por isso que é melhor lutar de frente para o mar, debaixo de uma palmeira, para aproveitá-lo ao máximo.",
+    "level": 40,
+    "rarity": 2,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac HP] 14 PV",
+      "[#charac DMG_IN_PERCENT] 24 Domínio elementar",
+      "[#charac RES_IN_PERCENT] 4 Resistência elementar"
+    ]
+  },
+  {
+    "id": 9376,
+    "name": "Bastão do Rei",
+    "description": "Não se engane pela aparência simples: este bastão já pastoreou vários rebanhos de Paparneiros.",
+    "level": 64,
+    "rarity": 3,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac RES_IN_PERCENT] 7 Resistência elementar",
+      "[#charac DMG_IN_PERCENT] 24 Domínio sobre 2 elementos aleatórios",
+      "[#charac HP] 28 PV",
+      "[#charac TACKLE] 5 Bloqueio",
+      "[#charac DODGE] 5 Esquiva"
+    ]
+  },
+  {
+    "id": 9971,
+    "name": "Bastão do Habitante-Abissal",
+    "description": "Um bastão atrevido.",
+    "level": 40,
+    "rarity": 2,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac HP] 14 PV",
+      "[#charac TACKLE] 8 Bloqueio",
+      "[#charac DMG_FIRE_PERCENT] 15 Domínio de fogo",
+      "[#charac DMG_EARTH_PERCENT] 15 Domínio de terra",
+      "[#charac BLOCK] 2% de Parada",
+      "[#charac BACKSTAB_BONUS] 2 Domínio de costas"
+    ]
+  },
+  {
+    "id": 10274,
+    "name": "Bastão Carnívoro",
+    "description": "Estranhamente esculpido, este bastão não é daqui. Ele tem cheiro de escuridão e umidade, associado com os fantasmas de Brakmar.",
+    "level": 44,
+    "rarity": 3,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac BLOCK] 2% de Parada",
+      "[#charac FEROCITY] 1% de golpe crítico",
+      "[#charac DODGE] 9 Esquiva",
+      "[#charac HP] 16 PV",
+      "[#charac RES_IN_PERCENT] 3 Resistência elementar",
+      "[#charac DMG_IN_PERCENT] 22 Domínio sobre 2 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 12186,
+    "name": "Bastão Makabro",
+    "description": "Esta arma antiga e amaldiçoada se separou da alma de seu antigo mestre quando ele foi morto em combate. Será que você tem o que é preciso para libertar todo o poder que ela contém?",
+    "level": 1,
+    "rarity": 3,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac HP] 1 PV",
+      "[#charac RES_IN_PERCENT] 0 Resistência elementar",
+      "[#charac AP] 0 PA",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac LEADERSHIP] 0 Controle",
+      "[#charac DODGE] 0 Esquiva",
+      "[#charac TACKLE] 0 Bloqueio"
+    ]
+  },
+  {
+    "id": 12576,
+    "name": "Bastão do Pastor Maluco",
+    "description": "Boa sorte ao usar esse bastão em um rebanho de Papatudos Selvagens...",
+    "level": 56,
+    "rarity": 2,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac FEROCITY] 1% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 15 Domínio sobre 2 elementos aleatórios",
+      "[#charac HP] 20 PV",
+      "[#charac RES_IN_PERCENT] 4 Resistência elementar",
+      "[#charac DODGE] 3 Esquiva",
+      "[#charac TACKLE] 3 Bloqueio"
+    ]
+  },
+  {
+    "id": 12601,
+    "name": "Bengala Antiga",
+    "description": "Esta bengala é boa tanto para ajudar você a andar, quanto para fazer os outros tropeçarem.",
+    "level": 92,
+    "rarity": 3,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac HP] 168 PV",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac BERSERK_DMG] 23 Domínio de Berserk",
+      "[#charac DMG_IN_PERCENT] 57 Domínio sobre 1 elemento aleatório",
+      "[#charac DODGE] 20 Esquiva",
+      "[#charac TACKLE] 20 Bloqueio"
+    ]
+  },
+  {
+    "id": 14039,
+    "name": "Bastão Ardente",
+    "description": "Quando você estiver lá, apanhando para valer, precisará deste bastão.",
+    "level": 44,
+    "rarity": 2,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac BLOCK] 2% de Parada",
+      "[#charac HP] 15 PV",
+      "[#charac TACKLE] 12 Bloqueio",
+      "[#charac DMG_WATER_PERCENT] 15 Domínio de água"
+    ]
+  },
+  {
+    "id": 14282,
+    "name": "Bastão Manco",
+    "description": "Porque nunca se sabe, pois no ninho de mafagafos tem sete mafagafinhos, quando a mafagafa grande guinfa, guinfam os sete mafagafinhos. Agora diga isso mais rápido.",
+    "level": 95,
+    "rarity": 3,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac HP] 46 PV",
+      "[#charac BACKSTAB_BONUS] 11 Domínio de costas",
+      "[#charac DMG_IN_PERCENT] 51 Domínio sobre 1 elemento aleatório",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar",
+      "[#charac BERSERK_DMG] 11 Domínio de Berserk"
+    ]
+  },
+  {
+    "id": 14283,
+    "name": "Cetro Raval",
+    "description": "O guardião sinistro colocou o crânio de Menandro neste bastão e um calafrio arrepiou o mundo, como se todas as almas adormecidas tivessem deixado escapar um grito.",
+    "level": 95,
+    "rarity": 3,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac HP] 80 PV",
+      "[#charac CRITICAL_BONUS] 6 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 57 Domínio sobre 1 elemento aleatório",
+      "[#charac RANGED_DMG] 15 Domínio de distância"
+    ]
+  },
+  {
+    "id": 14429,
+    "name": "Estandarte Sussurrado",
+    "description": "Um aventureiro versátil pode fazer cabeças rolarem com qualquer pedaço de lixo, inclusive bandeiras.",
+    "level": 106,
+    "rarity": 2,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac RANGE] 1 Alcance",
+      "[#charac MP] 1 PM",
+      "[#charac RANGED_DMG] 10 Domínio de distância",
+      "[#charac DMG_IN_PERCENT] 19 Domínio sobre 1 elemento aleatório",
+      "[#charac FEROCITY] 1% de golpe crítico",
+      "[#charac HP] 42 PV",
+      "[#charac RES_IN_PERCENT] 5 Resistência elementar"
+    ]
+  },
+  {
+    "id": 14437,
+    "name": "Cetro Silenciado",
+    "description": "Dizem que este cetro contém os suspiros e sussurros de antigos reis.",
+    "level": 110,
+    "rarity": 4,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac DODGE] -30 Esquiva",
+      "[#charac HP] 87 PV",
+      "[#charac AP] 1 PA",
+      "[#charac RES_IN_PERCENT] 12 Resistência elementar",
+      "[#charac DMG_IN_PERCENT] 55 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 3% de golpe crítico"
+    ]
+  },
+  {
+    "id": 14650,
+    "name": "Porrete Gontex",
+    "description": "Um porrete muito rígido que representa o poder, a virilidade e a grandeza.",
+    "level": 110,
+    "rarity": 3,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac RANGE] 1 Alcance",
+      "[#charac DMG_IN_PERCENT] 82 Domínio sobre 1 elemento aleatório",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac DODGE] 30 Esquiva",
+      "[#charac HP] 109 PV",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar",
+      "[#charac DMG_FIRE_PERCENT] -13 Domínio de fogo",
+      "[#charac BACKSTAB_BONUS] 7 Domínio de costas"
+    ]
+  },
+  {
+    "id": 14651,
+    "name": "Cajadinho de Fráio",
+    "description": "Você sabe o que dizem: não é o tamanho da ferramenta que importa, mas como você a usa.",
+    "level": 95,
+    "rarity": 4,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac TACKLE] 10 Bloqueio",
+      "[#charac DODGE] 10 Esquiva",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac AP] 1 PA",
+      "[#charac HP] 53 PV",
+      "[#charac DMG_IN_PERCENT] 35 Domínio sobre 3 elementos aleatórios",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar",
+      "[#charac RANGED_DMG] 24 Domínio de distância"
+    ]
+  },
+  {
+    "id": 15161,
+    "name": "O Detártaro",
+    "description": "Este bastão bate tão forte que fará sair toda a placa bacteriana dos dentes do seu inimigo. Aprovado pela Associação de Dentistas Brakmarianos.",
+    "level": 47,
+    "rarity": 3,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac CRITICAL_BONUS] 4 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 11 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac BACKSTAB_BONUS] 5 Domínio de costas",
+      "[#charac HP] 23 PV",
+      "[#charac RES_IN_PERCENT] 5 Resistência elementar"
+    ]
+  },
+  {
+    "id": 15405,
+    "name": "O Crakatata",
+    "description": "Este bastão faz uma variedades de sons, dependendo da parte do corpo que atinge. Crek a spank a poink a tata!",
+    "level": 76,
+    "rarity": 3,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac HP] 74 PV",
+      "[#charac TACKLE] 26 Bloqueio",
+      "[#charac RES_IN_PERCENT] 18 Resistência elementar",
+      "[#charac CRITICAL_BONUS] 5 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 36 Domínio sobre 1 elemento aleatório",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac BACKSTAB_BONUS] 5 Domínio de costas"
+    ]
+  },
+  {
+    "id": 16085,
+    "name": "Sorva o Sorvete",
+    "description": "Cai dentro!",
+    "level": 121,
+    "rarity": 2,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac HP] 38 PV",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac AP] 1 PA",
+      "[#charac RES_IN_PERCENT] 10 Resistência a 3 elementos aleatórios",
+      "[#charac MELEE_DMG] 43 Domínio de curta distância"
+    ]
+  },
+  {
+    "id": 17236,
+    "name": "Bastão das Altes Malciais",
+    "description": "Feito seguindo a tradição das Altes Malciais de Laposa. A única coisa que resta saber é se você conseguirá manuseá-lo.",
+    "level": 140,
+    "rarity": 3,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac HP] 89 PV",
+      "[#charac AP] 1 PA",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar",
+      "[#charac HEAL_IN_PERCENT] 16 Domínio de cura",
+      "[#charac DMG_IN_PERCENT] 49 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 4% de golpe crítico"
+    ]
+  },
+  {
+    "id": 17314,
+    "name": "Lança de Pesca de Guawda",
+    "description": "Um dia, os Wabbits tiveram uma ideia. Por que não pescar usando uma lança? Foi uma ideia incrível! Agora elas podem comer peixe com suas Cenouwas.",
+    "level": 152,
+    "rarity": 2,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DODGE] 40 Esquiva",
+      "[#charac HP] 112 PV",
+      "[#charac MP] 1 PM",
+      "[#charac RES_IN_PERCENT] 12 Resistência elementar",
+      "[#charac CRITICAL_BONUS] 8 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 77 Domínio sobre 1 elemento aleatório"
+    ]
+  },
+  {
+    "id": 17732,
+    "name": "Maça de Principado",
+    "description": "Este bastão foi feito pensando nas classes mais altas. Equipe-o para se sentir nobre, mesmo no meio de uma batalha sangrenta.",
+    "level": 62,
+    "rarity": 2,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac HP] 55 PV",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac DMG_IN_PERCENT] 23 Domínio sobre 1 elemento aleatório",
+      "[#charac BLOCK] 2% de Parada",
+      "[#charac FEROCITY] 1% de golpe crítico",
+      "[#charac RES_IN_PERCENT] 18 Resistência elementar",
+      "[#charac HEAL_IN_PERCENT] 6 Domínio de cura",
+      "[#charac TACKLE] 7 Bloqueio",
+      "[#charac DODGE] 7 Esquiva"
+    ]
+  },
+  {
+    "id": 18447,
+    "name": "Frappus Shushu",
+    "description": "Quando você espeta este bastão violentamente no chão, todas as criaturas ao redor caem no sono. Entretanto, não aconselhamos seu uso perto de crianças.",
+    "level": 155,
+    "rarity": 4,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac HP] 130 PV",
+      "[#charac AP] 1 PA",
+      "[#charac BLOCK] 4% de Parada",
+      "[#charac DMG_IN_PERCENT] 71 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac MELEE_DMG] 36 Domínio de curta distância",
+      "[#charac RES_IN_PERCENT] 18 Resistência elementar",
+      "[#charac TACKLE] 13 Bloqueio",
+      "[#charac DODGE] 13 Esquiva"
+    ]
+  },
+  {
+    "id": 19037,
+    "name": "O Prodigioso",
+    "description": "É incrível tudo o que se pode fazer com um bastão.",
+    "level": 166,
+    "rarity": 3,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac HP] 166 PV",
+      "[#charac AP] 1 PA",
+      "[#charac CRITICAL_BONUS] 45 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 79 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DODGE] 14 Esquiva",
+      "[#charac TACKLE] 14 Bloqueio"
+    ]
+  },
+  {
+    "id": 19243,
+    "name": "Tarbasdo",
+    "description": "Um bastão muito conveniente para jogar na cara das pessoas de provocação.",
+    "level": 170,
+    "rarity": 2,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac BLOCK] 3% de Parada",
+      "[#charac HP] 65 PV",
+      "[#charac AP] 1 PA",
+      "[#charac RES_WATER_PERCENT] 22 Resistência à água",
+      "[#charac RES_FIRE_PERCENT] 22 Resistência ao fogo",
+      "[#charac MELEE_DMG] 24 Domínio de curta distância",
+      "[#charac DMG_IN_PERCENT] 71 Domínio sobre 3 elementos aleatórios",
+      "[#charac RES_AIR_PERCENT] 22 Resistência ao ar"
+    ]
+  },
+  {
+    "id": 19520,
+    "name": "Descadaverizador",
+    "description": "Prático para acordar os mortos-vivos de um sono profundo.",
+    "level": 92,
+    "rarity": 2,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DODGE] 20 Esquiva",
+      "[#charac HP] 56 PV",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac RANGED_DMG] 60 Domínio de distância"
+    ]
+  },
+  {
+    "id": 20402,
+    "name": "Bästão Táculo",
+    "description": "Este bastão, recém-cortado de um bebê Katulu, pode servir para muitas coisas. Deixe sua imaginação \"tentacular\".",
+    "level": 7,
+    "rarity": 1,
+    "slot": "Bast (uma mão)",
+    "effects": []
+  },
+  {
+    "id": 22364,
+    "name": "O Protigioso",
+    "description": "É incrível tudo o que se pode fazer com um bastão.",
+    "level": 170,
+    "rarity": 4,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac HP] 187 PV",
+      "[#charac AP] 1 PA",
+      "[#charac CRITICAL_BONUS] 58 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 98 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac TACKLE] 20 Bloqueio",
+      "[#charac DODGE] 20 Esquiva"
+    ]
+  },
+  {
+    "id": 22779,
+    "name": "Lança de Pesca de Guawda",
+    "description": "Um dia, os Wabbits tiveram uma ideia. Por que não pescar usando uma lança? Foi uma ótima ideia, pois agora eles podem comer Cenouwas com peixe.",
+    "level": 155,
+    "rarity": 3,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac MP] 1 PM",
+      "[#charac DMG_IN_PERCENT] 83 Domínio sobre 1 elemento aleatório",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac DODGE] 50 Esquiva",
+      "[#charac HP] 126 PV",
+      "[#charac RES_IN_PERCENT] 14 Resistência elementar",
+      "[#charac CRITICAL_BONUS] 24 Domínio de crítico"
+    ]
+  },
+  {
+    "id": 22780,
+    "name": "Lança de Pesca de Guawda",
+    "description": "Um dia, os Wabbits tiveram uma ideia. Por que não pescar usando uma lança? Foi uma ótima ideia, pois agora eles podem comer Cenouwas com peixe.",
+    "level": 155,
+    "rarity": 4,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac HP] 131 PV",
+      "[#charac MP] 1 PM",
+      "[#charac CRITICAL_BONUS] 32 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 102 Domínio sobre 1 elemento aleatório",
+      "[#charac FEROCITY] 5% de golpe crítico",
+      "[#charac DODGE] 55 Esquiva",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar"
+    ]
+  },
+  {
+    "id": 22893,
+    "name": "Bastão das Altes Malciais",
+    "description": "Este bastão foi confeccionado de acordo com a tradição das Altes Malciais Laposas. Só lhe resta descobrir como manuseá-lo.",
+    "level": 140,
+    "rarity": 4,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 61 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac HP] 106 PV",
+      "[#charac AP] 1 PA",
+      "[#charac RES_IN_PERCENT] 16 Resistência elementar",
+      "[#charac HEAL_IN_PERCENT] 30 Domínio de cura"
+    ]
+  },
+  {
+    "id": 22894,
+    "name": "Bastão das Altes Malciais",
+    "description": "Este bastão foi confeccionado de acordo com a tradição das Altes Malciais Laposas. Só lhe resta descobrir como manuseá-lo.",
+    "level": 137,
+    "rarity": 2,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 37 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac HP] 81 PV",
+      "[#charac AP] 1 PA",
+      "[#charac RES_IN_PERCENT] 14 Resistência elementar",
+      "[#charac HEAL_IN_PERCENT] 8 Domínio de cura"
+    ]
+  },
+  {
+    "id": 22895,
+    "name": "Bastão das Altes Malciais",
+    "description": "Este bastão foi confeccionado de acordo com a tradição das Altes Malciais Laposas. Só lhe resta descobrir como manuseá-lo.",
+    "level": 129,
+    "rarity": 1,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac HP] 69 PV",
+      "[#charac AP] 1 PA",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar",
+      "[#charac HEAL_IN_PERCENT] 5 Domínio de cura",
+      "[#charac DMG_IN_PERCENT] 24 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 3% de golpe crítico"
+    ]
+  },
+  {
+    "id": 22990,
+    "name": "Cetro Silenciado",
+    "description": "Dizem que este cetro contém os suspiros e sussurros de antigos reis.",
+    "level": 107,
+    "rarity": 3,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac HP] 81 PV",
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 41 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac DODGE] -35 Esquiva",
+      "[#charac RES_IN_PERCENT] 8 Resistência elementar"
+    ]
+  },
+  {
+    "id": 23031,
+    "name": "Sorva o Sorvete",
+    "description": "Cai dentro!",
+    "level": 125,
+    "rarity": 4,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac AP] 1 PA",
+      "[#charac MELEE_DMG] 80 Domínio de curta distância",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac HP] 46 PV",
+      "[#charac RES_IN_PERCENT] 22 Resistência a 3 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 23032,
+    "name": "Sorva o Sorvete",
+    "description": "Cai dentro!",
+    "level": 124,
+    "rarity": 3,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac HP] 43 PV",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac AP] 1 PA",
+      "[#charac RES_IN_PERCENT] 14 Resistência a 3 elementos aleatórios",
+      "[#charac MELEE_DMG] 61 Domínio de curta distância",
+      "[#charac FEROCITY] 2% de golpe crítico"
+    ]
+  },
+  {
+    "id": 23259,
+    "name": "Estandarte Sussurrado",
+    "description": "Um aventureiro versátil pode fazer cabeças rolarem com qualquer pedaço de lixo, inclusive bandeiras.",
+    "level": 109,
+    "rarity": 3,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac HP] 47 PV",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac MP] 1 PM",
+      "[#charac RES_IN_PERCENT] 7 Resistência elementar",
+      "[#charac RANGED_DMG] 12 Domínio de distância",
+      "[#charac DMG_IN_PERCENT] 26 Domínio sobre 1 elemento aleatório",
+      "[#charac FEROCITY] 2% de golpe crítico"
+    ]
+  },
+  {
+    "id": 23380,
+    "name": "Descadaverizador",
+    "description": "Prático para acordar os mortos-vivos de um sono profundo.",
+    "level": 95,
+    "rarity": 3,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac DODGE] 25 Esquiva",
+      "[#charac HP] 64 PV",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac RANGED_DMG] 78 Domínio de distância",
+      "[#charac FEROCITY] 2% de golpe crítico"
+    ]
+  },
+  {
+    "id": 23381,
+    "name": "Descadaverizador",
+    "description": "Prático para acordar os mortos-vivos de um sono profundo.",
+    "level": 84,
+    "rarity": 1,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac RANGE] 1 Alcance",
+      "[#charac RANGED_DMG] 18 Domínio de distância",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DODGE] 7 Esquiva",
+      "[#charac HP] 28 PV"
+    ]
+  },
+  {
+    "id": 23653,
+    "name": "Maça de Principado",
+    "description": "Este bastão foi feito pensando nas classes mais altas. Equipe-o para se sentir nobre, mesmo no meio de uma batalha sangrenta.",
+    "level": 65,
+    "rarity": 3,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac HP] 61 PV",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac DMG_IN_PERCENT] 32 Domínio sobre 1 elemento aleatório",
+      "[#charac BLOCK] 2% de Parada",
+      "[#charac FEROCITY] 1% de golpe crítico",
+      "[#charac RES_IN_PERCENT] 18 Resistência elementar",
+      "[#charac HEAL_IN_PERCENT] 8 Domínio de cura",
+      "[#charac TACKLE] 10 Bloqueio",
+      "[#charac DODGE] 10 Esquiva"
+    ]
+  },
+  {
+    "id": 24006,
+    "name": "Bastão de Sadida",
+    "description": "Ao tocar o chão, este cajado pode fazer emergir uma quantidade impressionante de vegetação, enchendo o mundo de verde a cada passo de quem o carrega.",
+    "level": 200,
+    "rarity": 3,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac AP] 1 PA",
+      "[#charac CRITICAL_BONUS] 185 Domínio de crítico",
+      "[#charac FEROCITY] 5% de golpe crítico",
+      "[#charac HP] 132 PV",
+      "[#charac RES_EARTH_PERCENT] 22 Resistência à terra",
+      "[#charac RES_WATER_PERCENT] 22 Resistência à água",
+      "[#charac RES_FIRE_PERCENT] 22 Resistência ao fogo"
+    ]
+  },
+  {
+    "id": 24020,
+    "name": "Bastão de Sadida",
+    "description": "Ao tocar o chão, este cajado pode fazer emergir uma quantidade impressionante de vegetação, enchendo o mundo de verde a cada passo de quem o carrega.",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac CRITICAL_BONUS] 223 Domínio de crítico",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac HP] 142 PV",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac RES_EARTH_PERCENT] 22 Resistência à terra",
+      "[#charac RES_WATER_PERCENT] 22 Resistência à água",
+      "[#charac RES_FIRE_PERCENT] 22 Resistência ao fogo"
+    ]
+  },
+  {
+    "id": 24628,
+    "name": "O Tiralhures",
+    "description": "\"Atire pra outro lado!\", e eu lançava meu porrete com todas as minhas forças em um alvo desconhecido.",
+    "level": 80,
+    "rarity": 2,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac HP] 55 PV",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar",
+      "[#charac MELEE_DMG] 48 Domínio de curta distância",
+      "[#charac BLOCK] 2% de Parada",
+      "[#charac TACKLE] 15 Bloqueio"
+    ]
+  },
+  {
+    "id": 24629,
+    "name": "O Tiralhures",
+    "description": "\"Atire pra outro lado!\", e eu lançava meu porrete com todas as minhas forças em um alvo desconhecido.",
+    "level": 80,
+    "rarity": 3,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac MELEE_DMG] 54 Domínio de curta distância",
+      "[#charac BLOCK] 3% de Parada",
+      "[#charac TACKLE] 20 Bloqueio",
+      "[#charac HP] 64 PV",
+      "[#charac RES_IN_PERCENT] 13 Resistência elementar"
+    ]
+  },
+  {
+    "id": 24646,
+    "name": "A Deldebarda",
+    "description": "Uma arma que vai em frente, pela frente e através do inimigo.",
+    "level": 110,
+    "rarity": 3,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac RES_FIRE_PERCENT] 67 Resistência ao fogo",
+      "[#charac DMG_IN_PERCENT] 51 Domínio sobre 1 elemento aleatório",
+      "[#charac BLOCK] 2% de Parada",
+      "[#charac HP] 95 PV"
+    ]
+  },
+  {
+    "id": 24662,
+    "name": "A Dysith",
+    "description": "Uma arma impressionante, sobretudo quando é enfiada em suas entranhas.",
+    "level": 140,
+    "rarity": 4,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 59 Domínio sobre 3 elementos aleatórios",
+      "[#charac DODGE] 17 Esquiva",
+      "[#charac TACKLE] 17 Bloqueio",
+      "[#charac HP] 117 PV",
+      "[#charac RES_FIRE_PERCENT] 33 Resistência ao fogo",
+      "[#charac MELEE_DMG] 30 Domínio de curta distância"
+    ]
+  },
+  {
+    "id": 24678,
+    "name": "Tarbasdo",
+    "description": "Um bastão muito conveniente para jogar na cara das pessoas de provocação.",
+    "level": 170,
+    "rarity": 3,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac BLOCK] 4% de Parada",
+      "[#charac HP] 68 PV",
+      "[#charac AP] 1 PA",
+      "[#charac RES_WATER_PERCENT] 28 Resistência à água",
+      "[#charac RES_FIRE_PERCENT] 28 Resistência ao fogo",
+      "[#charac MELEE_DMG] 24 Domínio de curta distância",
+      "[#charac DMG_IN_PERCENT] 94 Domínio sobre 3 elementos aleatórios",
+      "[#charac RES_AIR_PERCENT] 28 Resistência ao ar"
+    ]
+  },
+  {
+    "id": 24679,
+    "name": "Tarbasdo",
+    "description": "Um bastão muito conveniente para jogar na cara das pessoas de provocação.",
+    "level": 170,
+    "rarity": 4,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac BLOCK] 5% de Parada",
+      "[#charac HP] 83 PV",
+      "[#charac AP] 1 PA",
+      "[#charac RES_WATER_PERCENT] 33 Resistência à água",
+      "[#charac RES_FIRE_PERCENT] 33 Resistência ao fogo",
+      "[#charac MELEE_DMG] 24 Domínio de curta distância",
+      "[#charac DMG_IN_PERCENT] 118 Domínio sobre 3 elementos aleatórios",
+      "[#charac RES_AIR_PERCENT] 33 Resistência ao ar"
+    ]
+  },
+  {
+    "id": 25307,
+    "name": "O Cajakoko",
+    "description": "Feito com ramos de Koko, este bastão não é tão firme como deveria. Mas ele pode ser dobrado para caber no bolso!",
+    "level": 57,
+    "rarity": 2,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac TACKLE] 7 Bloqueio",
+      "[#charac RES_IN_PERCENT] 6 Resistência elementar",
+      "[#charac DODGE] 7 Esquiva",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac BLOCK] 2% de Parada",
+      "[#charac DMG_IN_PERCENT] 14 Domínio sobre 3 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 25308,
+    "name": "O Cajakoko",
+    "description": "Feito com ramos de Koko, este bastão não é tão firme como deveria. Mas ele pode ser dobrado para caber no bolso!",
+    "level": 65,
+    "rarity": 3,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac BLOCK] 3% de Parada",
+      "[#charac DMG_IN_PERCENT] 41 Domínio sobre 3 elementos aleatórios",
+      "[#charac RES_IN_PERCENT] 14 Resistência elementar",
+      "[#charac TACKLE] 15 Bloqueio",
+      "[#charac DODGE] 15 Esquiva",
+      "[#charac FEROCITY] 4% de golpe crítico"
+    ]
+  },
+  {
+    "id": 25359,
+    "name": "Bastão Bola",
+    "description": "O Bastão Bola era uma arma capaz de roubar fragmentos das alma dos Shushus. Infelizmente, este aqui é só uma imitação barata...",
+    "level": 75,
+    "rarity": 2,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac RANGED_DMG] 30 Domínio de distância",
+      "[#charac AP] 1 PA",
+      "[#charac CRITICAL_BONUS] -57 Domínio de crítico"
+    ]
+  },
+  {
+    "id": 25360,
+    "name": "Bastão Bola",
+    "description": "O Bastão Bola era uma arma capaz de roubar fragmentos das alma dos Shushus. Infelizmente, este aqui é só uma imitação barata...",
+    "level": 80,
+    "rarity": 3,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac CRITICAL_BONUS] -29 Domínio de crítico",
+      "[#charac RANGED_DMG] 30 Domínio de distância"
+    ]
+  },
+  {
+    "id": 25455,
+    "name": "Clava Primitiva",
+    "description": "Quem disse que fazer armas é complicado? Pegue alguns pedaços de madeira, um pouco de corda... e pronto!",
+    "level": 94,
+    "rarity": 3,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac HP] 36 PV",
+      "[#charac TACKLE] 20 Bloqueio",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac AP] 1 PA",
+      "[#charac MELEE_DMG] 24 Domínio de curta distância",
+      "[#charac RES_EARTH_PERCENT] 50 Resistência à terra"
+    ]
+  },
+  {
+    "id": 25457,
+    "name": "Bastão Craniosso",
+    "description": "Saque este bastão firme e robusto para impressionar os aliados. Ele também é bastante útil em combate.",
+    "level": 92,
+    "rarity": 3,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac MP] 1 PM",
+      "[#charac RES_WATER_PERCENT] 14 Resistência à água",
+      "[#charac RES_AIR_PERCENT] 14 Resistência ao ar",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac HP] 35 PV",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac RANGED_DMG] 20 Domínio de distância"
+    ]
+  },
+  {
+    "id": 25784,
+    "name": "Arvraknidus Vivitus",
+    "description": "Este bastão é feito de raízes vivas de Arvraknídeo. Tenha cuidado, pois elas têm uma mania irritante de se virar contra os próprios mestres.",
+    "level": 136,
+    "rarity": 2,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac HP] 63 PV",
+      "[#charac DODGE] 20 Esquiva",
+      "[#charac DMG_IN_PERCENT] 49 Domínio sobre 2 elementos aleatórios",
+      "[#charac RANGED_DMG] 24 Domínio de distância",
+      "[#charac AP] 1 PA",
+      "[#charac WP] -1 PW máx.",
+      "[#charac RES_IN_PERCENT] 12 Resistência elementar"
+    ]
+  },
+  {
+    "id": 25785,
+    "name": "Arvraknidus Vivitus",
+    "description": "Este bastão é feito de raízes vivas de Arvraknídeo. Tenha cuidado, pois elas têm uma mania irritante de se virar contra os próprios mestres.",
+    "level": 139,
+    "rarity": 3,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac DODGE] 30 Esquiva",
+      "[#charac DMG_IN_PERCENT] 49 Domínio sobre 2 elementos aleatórios",
+      "[#charac RANGED_DMG] 48 Domínio de distância",
+      "[#charac RES_IN_PERCENT] 12 Resistência elementar",
+      "[#charac AP] 1 PA",
+      "[#charac WP] -1 PW máx.",
+      "[#charac HP] 84 PV"
+    ]
+  },
+  {
+    "id": 25786,
+    "name": "Arvraknidus Vivitus",
+    "description": "Este bastão é feito de raízes vivas de Arvraknídeo. Tenha cuidado, pois essas últimas têm uma mania irritante de se virar contra os próprios mestres.",
+    "level": 140,
+    "rarity": 4,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 73 Domínio sobre 2 elementos aleatórios",
+      "[#charac RANGED_DMG] 60 Domínio de distância",
+      "[#charac RES_IN_PERCENT] 12 Resistência elementar",
+      "[#charac AP] 1 PA",
+      "[#charac WP] -1 PW máx.",
+      "[#charac HP] 92 PV",
+      "[#charac DODGE] 40 Esquiva"
+    ]
+  },
+  {
+    "id": 25929,
+    "name": "Glutobastão",
+    "description": "A aparência elegante deste bastão disfarça sua gula brutal.",
+    "level": 155,
+    "rarity": 3,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 79 Domínio sobre 2 elementos aleatórios",
+      "[#charac MELEE_DMG] 30 Domínio de curta distância",
+      "[#charac CRITICAL_RES] 30 Resistência crítica",
+      "[#charac AP] 1 PA",
+      "[#charac HP] 75 PV",
+      "[#charac FEROCITY] 4% de golpe crítico"
+    ]
+  },
+  {
+    "id": 25930,
+    "name": "Glutobastão",
+    "description": "A aparência elegante deste bastão disfarça sua gula brutal.",
+    "level": 155,
+    "rarity": 4,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac HP] 100 PV",
+      "[#charac FEROCITY] 5% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 104 Domínio sobre 2 elementos aleatórios",
+      "[#charac MELEE_DMG] 30 Domínio de curta distância",
+      "[#charac AP] 1 PA",
+      "[#charac CRITICAL_RES] 30 Resistência crítica"
+    ]
+  },
+  {
+    "id": 26609,
+    "name": "Bastão Braider",
+    "description": "Um bastão sólido e resistente.",
+    "level": 65,
+    "rarity": 7,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac AP] 2 PA"
+    ]
+  },
+  {
+    "id": 26815,
+    "name": "A Régua",
+    "description": "Muito usada em tempos idos para castigar os pequenos Pandissidentes, ela era deixada no chão e os insolentezinhos eram obrigados a se ajoelhar durante horas até escorrerem lágrimas. Infelizmente, essas boas práticas se perdem e a juventude perde o rumo.",
+    "level": 182,
+    "rarity": 3,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 98 Domínio sobre 2 elementos aleatórios",
+      "[#charac CRITICAL_BONUS] 38 Domínio de crítico",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar",
+      "[#charac AP] 1 PA",
+      "[#charac HP] 154 PV",
+      "[#charac FEROCITY] 5% de golpe crítico"
+    ]
+  },
+  {
+    "id": 26816,
+    "name": "A Régua",
+    "description": "Muito usada em tempos idos para castigar os pequenos Pandissidentes, ela era deixada no chão e os insolentezinhos eram obrigados a se ajoelhar durante horas até escorrerem lágrimas. Infelizmente, essas boas práticas se perdem e a juventude perde o rumo.",
+    "level": 185,
+    "rarity": 4,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac HP] 158 PV",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 122 Domínio sobre 2 elementos aleatórios",
+      "[#charac CRITICAL_BONUS] 58 Domínio de crítico",
+      "[#charac AP] 1 PA",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar"
+    ]
+  },
+  {
+    "id": 26913,
+    "name": "Madeira de Tigre",
+    "description": "Mais prático para acertar os buracos.",
+    "level": 189,
+    "rarity": 2,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac HP] 123 PV",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac MELEE_DMG] 168 Domínio de curta distância",
+      "[#charac RES_WATER_PERCENT] 17 Resistência à água",
+      "[#charac RES_AIR_PERCENT] 17 Resistência ao ar",
+      "[#charac RES_EARTH_PERCENT] 17 Resistência à terra"
+    ]
+  },
+  {
+    "id": 26914,
+    "name": "Madeira de Tigre",
+    "description": "Mais prático para acertar os buracos.",
+    "level": 197,
+    "rarity": 3,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac HP] 170 PV",
+      "[#charac FEROCITY] 5% de golpe crítico",
+      "[#charac MELEE_DMG] 228 Domínio de curta distância",
+      "[#charac RES_WATER_PERCENT] 17 Resistência à água",
+      "[#charac AP] 1 PA",
+      "[#charac RES_AIR_PERCENT] 17 Resistência ao ar",
+      "[#charac RES_EARTH_PERCENT] 17 Resistência à terra"
+    ]
+  },
+  {
+    "id": 26915,
+    "name": "Madeira de Tigre",
+    "description": "Mais prático para acertar os buracos.",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac MELEE_DMG] 276 Domínio de curta distância",
+      "[#charac RES_WATER_PERCENT] 17 Resistência à água",
+      "[#charac RES_AIR_PERCENT] 17 Resistência ao ar",
+      "[#charac AP] 1 PA",
+      "[#charac HP] 204 PV",
+      "[#charac RES_EARTH_PERCENT] 17 Resistência à terra"
+    ]
+  },
+  {
+    "id": 26978,
+    "name": "Bastão Tarctica",
+    "description": "Este bastão tem fama de causar danos irreversíveis às papilas gustativas e ao intestino.",
+    "level": 189,
+    "rarity": 1,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac MP] 1 PM",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac HP] 161 PV",
+      "[#charac RANGED_DMG] 128 Domínio de distância"
+    ]
+  },
+  {
+    "id": 26979,
+    "name": "Bastão Tarctica",
+    "description": "Este bastão tem fama de causar danos irreversíveis às papilas gustativas e ao intestino.",
+    "level": 197,
+    "rarity": 2,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac HP] 203 PV",
+      "[#charac RANGED_DMG] 192 Domínio de distância",
+      "[#charac MP] 1 PM",
+      "[#charac RANGE] 1 Alcance"
+    ]
+  },
+  {
+    "id": 26980,
+    "name": "Bastão Tarctica",
+    "description": "Este bastão tem fama de causar danos irreversíveis às papilas gustativas e ao intestino.",
+    "level": 200,
+    "rarity": 3,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac MP] 1 PM",
+      "[#charac HP] 293 PV",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac RANGED_DMG] 235 Domínio de distância"
+    ]
+  },
+  {
+    "id": 26981,
+    "name": "Bastão Tarctica",
+    "description": "Este bastão tem fama de causar danos irreversíveis às papilas gustativas e ao intestino.",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac RANGED_DMG] 290 Domínio de distância",
+      "[#charac MP] 1 PM",
+      "[#charac HP] 317 PV",
+      "[#charac RANGE] 1 Alcance"
+    ]
+  },
+  {
+    "id": 27622,
+    "name": "Cetro da Areia",
+    "description": "Melhor ter apenas um grão que um deserto inteiro.",
+    "level": 209,
+    "rarity": 2,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac HP] 148 PV",
+      "[#charac DMG_IN_PERCENT] 156 Domínio sobre 3 elementos aleatórios",
+      "[#charac RES_IN_PERCENT] 14 Resistência elementar",
+      "[#charac AP] 1 PA",
+      "[#charac WP] 1 PW"
+    ]
+  },
+  {
+    "id": 27623,
+    "name": "Cetro da Areia",
+    "description": "Melhor ter apenas um grão que um deserto inteiro.",
+    "level": 212,
+    "rarity": 3,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac WP] 1 PW",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac HP] 157 PV",
+      "[#charac DMG_IN_PERCENT] 218 Domínio sobre 3 elementos aleatórios",
+      "[#charac RES_IN_PERCENT] 14 Resistência elementar"
+    ]
+  },
+  {
+    "id": 27624,
+    "name": "Cetro da Areia",
+    "description": "Melhor ter apenas um grão que um deserto inteiro.",
+    "level": 215,
+    "rarity": 4,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac WP] 1 PW",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac HP] 163 PV",
+      "[#charac DMG_IN_PERCENT] 279 Domínio sobre 3 elementos aleatórios",
+      "[#charac RES_IN_PERCENT] 14 Resistência elementar"
+    ]
+  },
+  {
+    "id": 28078,
+    "name": "Gravetinho",
+    "description": "Você não sabe se as guloseimas presas a este gravetinho são comestíveis.",
+    "level": 211,
+    "rarity": 3,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac DODGE] -95 Esquiva",
+      "[#charac DMG_IN_PERCENT] 173 Domínio sobre 2 elementos aleatórios",
+      "[#charac CRITICAL_BONUS] 147 Domínio de crítico",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac AP] 1 PA",
+      "[#charac HP] 220 PV",
+      "[#charac RES_IN_PERCENT] 9 Resistência elementar"
+    ]
+  },
+  {
+    "id": 28079,
+    "name": "Gravetinho",
+    "description": "Você não sabe se as guloseimas presas a este gravetinho são comestíveis.",
+    "level": 215,
+    "rarity": 4,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 209 Domínio sobre 2 elementos aleatórios",
+      "[#charac CRITICAL_BONUS] 188 Domínio de crítico",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac RES_IN_PERCENT] 9 Resistência elementar",
+      "[#charac AP] 1 PA",
+      "[#charac HP] 249 PV",
+      "[#charac DODGE] -95 Esquiva"
+    ]
+  },
+  {
+    "id": 28088,
+    "name": "Quidikarus",
+    "description": "A criança alada que tinha esse arco perdeu todas as flechas e então decidiu transformá-lo em bastão.",
+    "level": 215,
+    "rarity": 7,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 118 Domínio sobre 3 elementos aleatórios",
+      "[#charac RANGED_DMG] 200 Domínio de distância",
+      "[#charac RES_FIRE_PERCENT] 28 Resistência ao fogo",
+      "[#charac AP] 2 PA",
+      "[#charac HP] 171 PV",
+      "[#charac FEROCITY] 7% de golpe crítico",
+      "[#charac RES_WATER_PERCENT] 28 Resistência à água"
+    ]
+  },
+  {
+    "id": 28194,
+    "name": "Raiz Túpida",
+    "description": "As inscrições gravadas nesta raiz não fazem o menor sentido para você.",
+    "level": 212,
+    "rarity": 3,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 213 Domínio sobre 2 elementos aleatórios",
+      "[#charac HP] 290 PV",
+      "[#charac FEROCITY] 5% de golpe crítico",
+      "[#charac RANGED_DMG] 65 Domínio de distância",
+      "[#charac AP] 1 PA",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar"
+    ]
+  },
+  {
+    "id": 28195,
+    "name": "Raiz Túpida",
+    "description": "As inscrições gravadas nesta raiz não fazem o menor sentido para você.",
+    "level": 215,
+    "rarity": 4,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac RANGED_DMG] 100 Domínio de distância",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar",
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 244 Domínio sobre 2 elementos aleatórios",
+      "[#charac HP] 279 PV"
+    ]
+  },
+  {
+    "id": 28202,
+    "name": "Bastão de Cachinhos Dourados",
+    "description": "Nem pequeno nem grande demais.",
+    "level": 212,
+    "rarity": 3,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 153 Domínio sobre 3 elementos aleatórios",
+      "[#charac RES_IN_PERCENT] 12 Resistência elementar",
+      "[#charac AP] 1 PA",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac HP] 231 PV",
+      "[#charac ARMOR_GIVEN] 5% de armadura concedida"
+    ]
+  },
+  {
+    "id": 28203,
+    "name": "Bastão de Cachinhos Dourados",
+    "description": "Nem pequeno nem grande demais.",
+    "level": 215,
+    "rarity": 4,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac RES_IN_PERCENT] 12 Resistência elementar",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac HP] 266 PV",
+      "[#charac DMG_IN_PERCENT] 188 Domínio sobre 3 elementos aleatórios",
+      "[#charac ARMOR_GIVEN] 5% de armadura concedida"
+    ]
+  },
+  {
+    "id": 29483,
+    "name": "Augaromaça",
+    "description": "Esta maça tem uma reputação lendária. Ela foi empunhada por uma das guerreiras mais valentes que já existiu: Augaroma. Ela foi uma Laposa conhecida por torturar as olelhas dos inimigos, mas também por ser uma ilustradora de mão cheia que trouxe alívio para os olhos de muito aventureiro.",
+    "level": 230,
+    "rarity": 3,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac RANGE] 1 Alcance",
+      "[#charac HP] 286 PV",
+      "[#charac RANGED_DMG] 320 Domínio de distância",
+      "[#charac AP] 1 PA",
+      "[#charac RES_WATER_PERCENT] 21 Resistência à água",
+      "[#charac RES_EARTH_PERCENT] 21 Resistência à terra"
+    ]
+  },
+  {
+    "id": 29484,
+    "name": "Augaromaça",
+    "description": "Esta maça tem uma reputação lendária. Ela foi empunhada por uma das guerreiras mais valentes que já existiu: Augaroma. Ela foi uma Laposa conhecida por torturar as olelhas dos inimigos, mas também por ser uma ilustradora de mão cheia que trouxe alívio para os olhos de muito aventureiro.",
+    "level": 230,
+    "rarity": 4,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac HP] 326 PV",
+      "[#charac RANGED_DMG] 370 Domínio de distância",
+      "[#charac RES_WATER_PERCENT] 21 Resistência à água",
+      "[#charac AP] 1 PA",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac RES_EARTH_PERCENT] 21 Resistência à terra"
+    ]
+  },
+  {
+    "id": 29630,
+    "name": "Cetro Ancestral",
+    "description": "Ele brilha mais durante a noite, iluminando o seu caminho e atraindo todos os monstros da região na sua direção.",
+    "level": 230,
+    "rarity": 3,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac WP] 1 PW",
+      "[#charac AP] 1 PA",
+      "[#charac RES_AIR_PERCENT] 22 Resistência ao ar",
+      "[#charac RES_WATER_PERCENT] 22 Resistência à água",
+      "[#charac DMG_IN_PERCENT] 224 Domínio sobre 3 elementos aleatórios",
+      "[#charac HP] 326 PV",
+      "[#charac RES_FIRE_PERCENT] 22 Resistência ao fogo",
+      "[#charac ARMOR_GIVEN] 10% de armadura concedida"
+    ]
+  },
+  {
+    "id": 29631,
+    "name": "Cetro Ancestral",
+    "description": "Ele brilha mais durante a noite, iluminando o seu caminho e atraindo todos os monstros da região na sua direção.",
+    "level": 230,
+    "rarity": 4,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac WP] 1 PW",
+      "[#charac AP] 1 PA",
+      "[#charac RES_AIR_PERCENT] 22 Resistência ao ar",
+      "[#charac RES_WATER_PERCENT] 22 Resistência à água",
+      "[#charac DMG_IN_PERCENT] 259 Domínio sobre 3 elementos aleatórios",
+      "[#charac HP] 365 PV",
+      "[#charac RES_FIRE_PERCENT] 22 Resistência ao fogo",
+      "[#charac ARMOR_GIVEN] 10% de armadura concedida"
+    ]
+  },
+  {
+    "id": 29825,
+    "name": "Golpus Shushu",
+    "description": "Quando a gente bate violentamente esse bastão no chão, todas as criaturas ao redor adormecem. No entanto, não é aconselhável usar perto de crianças.",
+    "level": 150,
+    "rarity": 3,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac AP] 1 PA",
+      "[#charac HP] 80 PV",
+      "[#charac RES_IN_PERCENT] 18 Resistência elementar",
+      "[#charac DMG_IN_PERCENT] 60 Domínio sobre 3 elementos aleatórios",
+      "[#charac BLOCK] 3% de Parada",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac MELEE_DMG] 26 Domínio de curta distância",
+      "[#charac DODGE] 11 Esquiva",
+      "[#charac TACKLE] 11 Bloqueio"
+    ]
+  },
+  {
+    "id": 30146,
+    "name": "Tridente de Lava",
+    "description": "Uma arma de haste como não se faz mais hoje em dia! Ela teria pertencido a um rei que fazia questão de acumular inutilmente todas as suas riquezas. Dizem que este tridente seria a única lembrança que o tempo guardou dele.",
+    "level": 230,
+    "rarity": 7,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac AP] 2 PA",
+      "[#charac RES_EARTH_PERCENT] 11 Resistência à terra",
+      "[#charac RES_AIR_PERCENT] 11 Resistência ao ar",
+      "[#charac HP] 253 PV",
+      "[#charac RES_WATER_PERCENT] 11 Resistência à água",
+      "[#charac DMG_IN_PERCENT] 472 Domínio sobre 2 elementos aleatórios",
+      "[#charac RANGE] 1 Alcance"
+    ]
+  },
+  {
+    "id": 31068,
+    "name": "Raiz de Floramor",
+    "description": "Se você é supersticioso e sempre precisa bater na madeira, escolha esta Raiz Floramor! Por outro lado, você também pode tentar ser cuidadoso, não serrar o galho em que está sentado e, principalmente, não ser cara de pau.",
+    "level": 140,
+    "rarity": 5,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac HEAL_IN_PERCENT] 75 Domínio de cura",
+      "[#charac CRITICAL_BONUS] 75 Domínio de crítico",
+      "[#charac RES_FIRE_PERCENT] 45 Resistência ao fogo",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac HP] 94 PV",
+      "[#charac AP] 2 PA",
+      "[#charac RES_WATER_PERCENT] 45 Resistência à água"
+    ]
+  },
+  {
+    "id": 31221,
+    "name": "Cetro dos Sonhos",
+    "description": "Um cetro poderoso e mágico. Com este cetro, você sentirá uma força interna queimando dentro de você, como se o destino de seus amigos dependesse exclusivamente de suas ações. Ele tem um formato estranho que faz você se sentir um pouco nostálgico.",
+    "level": 138,
+    "rarity": 3,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac HEAL_IN_PERCENT] 68 Domínio de cura",
+      "[#charac HP] 121 PV",
+      "[#charac RES_FIRE_PERCENT] 10 Resistência ao fogo",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac AP] 1 PA",
+      "[#charac RES_EARTH_PERCENT] 10 Resistência à terra",
+      "[#charac RES_AIR_PERCENT] 10 Resistência ao ar"
+    ]
+  },
+  {
+    "id": 31222,
+    "name": "Cetro dos Sonhos",
+    "description": "Um cetro poderoso e mágico. Com este cetro, você sentirá uma força interna queimando dentro de você, como se o destino de seus amigos dependesse exclusivamente de suas ações. Ele tem um formato estranho que faz você se sentir um pouco nostálgico.",
+    "level": 140,
+    "rarity": 4,
+    "slot": "Bast (uma mão)",
+    "effects": [
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac HEAL_IN_PERCENT] 85 Domínio de cura",
+      "[#charac RES_AIR_PERCENT] 10 Resistência ao ar",
+      "[#charac RES_FIRE_PERCENT] 10 Resistência ao fogo",
+      "[#charac HP] 140 PV",
+      "[#charac AP] 1 PA",
+      "[#charac RES_EARTH_PERCENT] 10 Resistência à terra"
+    ]
+  }
+]

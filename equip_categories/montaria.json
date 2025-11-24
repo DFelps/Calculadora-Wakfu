@@ -1,0 +1,446 @@
+[
+  {
+    "id": 14422,
+    "name": "Milobo FeroXP",
+    "description": "Somente um Escolhido dos Meridas pode tentar cavalgar esta imponente montaria de Destruição. Sua musculatura faz com ela seja uma montaria impressionante.",
+    "level": 50,
+    "rarity": 4,
+    "slot": "Montaria",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 40 Domínio elementar",
+      "+50% de velocidade de movimento"
+    ]
+  },
+  {
+    "id": 18682,
+    "name": "Dragoperu",
+    "description": "Um Dragoperu treinado para os combates.",
+    "level": 50,
+    "rarity": 1,
+    "slot": "Montaria",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 40 Domínio elementar",
+      "+50% de velocidade de deslocamento"
+    ]
+  },
+  {
+    "id": 18704,
+    "name": "Dragoperu",
+    "description": "Um Dragoperu treinado para os combates.",
+    "level": 50,
+    "rarity": 1,
+    "slot": "Montaria",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 40 Domínio elementar",
+      "+50% de velocidade de deslocamento"
+    ]
+  },
+  {
+    "id": 18705,
+    "name": "Dragoperu",
+    "description": "Um Dragoperu especializado em combates.",
+    "level": 50,
+    "rarity": 1,
+    "slot": "Montaria",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 40 Domínio elementar",
+      "+50% de velocidade de deslocamento"
+    ]
+  },
+  {
+    "id": 18706,
+    "name": "Dragoperu",
+    "description": "Um Dragoperu treinado para os combates.",
+    "level": 50,
+    "rarity": 1,
+    "slot": "Montaria",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 40 Domínio elementar",
+      "+50% de velocidade de deslocamento"
+    ]
+  },
+  {
+    "id": 18709,
+    "name": "Dragocorcel",
+    "description": "Um Dragocorcel especializado em combates contra alvos individuais.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Montaria",
+    "effects": [
+      "+50% de velocidade de movimento",
+      "[#charac DMG_IN_PERCENT] 40 Domínio elementar"
+    ]
+  },
+  {
+    "id": 18710,
+    "name": "Dragocorcel da Destruição",
+    "description": "Um Dragocorcel treinado contra grupos de inimigos.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Montaria",
+    "effects": [
+      "+50% de velocidade de movimento",
+      "[#charac DMG_IN_PERCENT] 40 Domínio elementar"
+    ]
+  },
+  {
+    "id": 18711,
+    "name": "Dragocorcel",
+    "description": "Um Dragocorcel especializado em combates a curta distância.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Montaria",
+    "effects": [
+      "+50% de velocidade de movimento",
+      "[#charac DMG_IN_PERCENT] 40 Domínio elementar"
+    ]
+  },
+  {
+    "id": 18712,
+    "name": "Dragocorcel",
+    "description": "Um Dragocorcel treinado para combates a distância.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Montaria",
+    "effects": [
+      "+50% de velocidade de movimento",
+      "[#charac DMG_IN_PERCENT] 40 Domínio elementar"
+    ]
+  },
+  {
+    "id": 19274,
+    "name": "Papatudo de Guerra",
+    "description": "Um Papatudo de Guerra treinado para enfrentar inimigos agrupados.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Montaria",
+    "effects": [
+      "+50% de velocidade de movimento",
+      "[#charac DMG_IN_PERCENT] 40 Domínio elementar"
+    ]
+  },
+  {
+    "id": 19275,
+    "name": "Papatudo de Guerra",
+    "description": "Um Papatudo de Guerra treinado para combates a distância.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Montaria",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 40 Domínio elementar",
+      "+50% de velocidade de movimento"
+    ]
+  },
+  {
+    "id": 19276,
+    "name": "Papatudo de Guerra",
+    "description": "Um Papatudo de Guerra especializado em combates a curta distância.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Montaria",
+    "effects": [
+      "+50% de velocidade de movimento",
+      "[#charac DMG_IN_PERCENT] 40 Domínio elementar"
+    ]
+  },
+  {
+    "id": 19277,
+    "name": "Papatudo de Guerra",
+    "description": "Um Papatudo de Guerra especializado em combates contra alvos individuais.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Montaria",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 40 Domínio elementar",
+      "+50% de velocidade de movimento"
+    ]
+  },
+  {
+    "id": 19555,
+    "name": "Milobo",
+    "description": "Um Milobo treinado para enfrentar grupos de inimigos.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Montaria",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 40 Domínio elementar",
+      "+50% de velocidade de movimento"
+    ]
+  },
+  {
+    "id": 19556,
+    "name": "Milobo",
+    "description": "Um Milobo treinado para combates a distância.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Montaria",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 40 Domínio elementar",
+      "+50% de velocidade de movimento"
+    ]
+  },
+  {
+    "id": 19557,
+    "name": "Milobo",
+    "description": "Um Milobo especializado em combates a curta distância.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Montaria",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 40 Domínio elementar",
+      "+50% de velocidade de movimento"
+    ]
+  },
+  {
+    "id": 19558,
+    "name": "Milobo",
+    "description": "Um Milobo especializado em combates contra alvos individuais.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Montaria",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 40 Domínio elementar",
+      "+50% de velocidade de movimento"
+    ]
+  },
+  {
+    "id": 19724,
+    "name": "Milobo FeroXP",
+    "description": "Somente um Escolhido dos Meridas pode tentar cavalgar esta imponente montaria de Distância. Sua musculatura faz com ela seja uma montaria impressionante.",
+    "level": 50,
+    "rarity": 4,
+    "slot": "Montaria",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 40 Domínio elementar",
+      "+50% de velocidade de movimento"
+    ]
+  },
+  {
+    "id": 19725,
+    "name": "Milobo FeroXP",
+    "description": "Somente um Escolhido dos Meridas pode tentar cavalgar esta imponente montaria de Curta Distância. Sua musculatura faz com ela seja uma montaria impressionante.",
+    "level": 50,
+    "rarity": 4,
+    "slot": "Montaria",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 40 Domínio elementar",
+      "+50% de velocidade de movimento"
+    ]
+  },
+  {
+    "id": 19726,
+    "name": "Milobo FeroXP",
+    "description": "Somente um Escolhido dos Meridas pode tentar cavalgar esta imponente montaria. Sua musculatura faz com ela seja uma montaria impressionante.",
+    "level": 50,
+    "rarity": 4,
+    "slot": "Montaria",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 40 Domínio elementar",
+      "+50% de velocidade de movimento"
+    ]
+  },
+  {
+    "id": 20741,
+    "name": "Perfuratroz",
+    "description": "Um Perfuratroz especializado em combates contra alvos individuais.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Montaria",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 40 Domínio elementar",
+      "+50% de velocidade de movimento"
+    ]
+  },
+  {
+    "id": 20742,
+    "name": "Perfuratroz",
+    "description": "Um Perfuratroz treinado para enfrentar grupos de inimigos.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Montaria",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 40 Domínio elementar",
+      "+50% de velocidade de movimento"
+    ]
+  },
+  {
+    "id": 20743,
+    "name": "Perfuratroz",
+    "description": "Um Perfuratroz especializado em combates a curta distância.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Montaria",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 40 Domínio elementar",
+      "+50% de velocidade de movimento"
+    ]
+  },
+  {
+    "id": 20744,
+    "name": "Perfuratroz",
+    "description": "Um Perfuratroz treinado para combates a distância.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Montaria",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 40 Domínio elementar",
+      "+50% de velocidade de movimento"
+    ]
+  },
+  {
+    "id": 20760,
+    "name": "Dragominus",
+    "description": "Um pequeno Dragão de Precisão Lazurita capaz de sobrevoar pequenos penhascos varridos por ventos estasificados.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Montaria",
+    "effects": [
+      "+50% de velocidade de deslocamento",
+      "[#charac DMG_IN_PERCENT] 40 Domínio elementar"
+    ]
+  },
+  {
+    "id": 20811,
+    "name": "Dragominus",
+    "description": "Um pequeno Dragão de Destruição Lazurita capaz de sobrevoar pequenos penhascos varridos por ventos estasificados.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Montaria",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 40 Domínio elementar",
+      "+50% de velocidade de deslocamento"
+    ]
+  },
+  {
+    "id": 20812,
+    "name": "Dragominus",
+    "description": "Um pequeno Dragão de Curta Distância Lazurita capaz de sobrevoar pequenos penhascos varridos por ventos estasificados.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Montaria",
+    "effects": [
+      "+50% de velocidade de deslocamento",
+      "[#charac DMG_IN_PERCENT] 40 Domínio elementar"
+    ]
+  },
+  {
+    "id": 20813,
+    "name": "Dragominus",
+    "description": "Um pequeno Dragão de Distância Lazurita capaz de sobrevoar pequenos penhascos varridos por ventos estasificados.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Montaria",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 40 Domínio elementar",
+      "+50% de velocidade de deslocamento"
+    ]
+  },
+  {
+    "id": 20916,
+    "name": "Dãogra",
+    "description": "Um grande Dãogra de Precisão capaz de sobrevoar pequenos penhascos varridos por ventos estasificados.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Montaria",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 40 Domínio elementar",
+      "+50% de velocidade de movimento"
+    ]
+  },
+  {
+    "id": 20917,
+    "name": "Dãogra",
+    "description": "Um grande Dãogra de Destruição capaz de sobrevoar pequenos penhascos varridos por ventos estasificados.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Montaria",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 40 Domínio elementar",
+      "+50% de velocidade de movimento"
+    ]
+  },
+  {
+    "id": 20918,
+    "name": "Dãogra",
+    "description": "Um grande Dãogra de Curta Distância capaz de sobrevoar pequenos penhascos varridos por ventos estasificados.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Montaria",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 40 Domínio elementar",
+      "+50% de velocidade de movimento"
+    ]
+  },
+  {
+    "id": 20919,
+    "name": "Dãogra",
+    "description": "Um grande Dãogra de Distância capaz de sobrevoar pequenos penhascos varridos por ventos estasificados.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Montaria",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 40 Domínio elementar",
+      "+50% de velocidade de movimento"
+    ]
+  },
+  {
+    "id": 24161,
+    "name": "Montaria Tofu",
+    "description": "Este Tofu bate as asas tão rápido que poderíamos pensar que estamos voando. Não é nada disso, mas montá-lo vale a pena!",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Montaria",
+    "effects": [
+      "+50% de velocidade de deslocamento",
+      "[#charac DMG_IN_PERCENT] 40 Domínio elementar"
+    ]
+  },
+  {
+    "id": 24162,
+    "name": "Montaria Miaw",
+    "description": "Este Miaw é tão fofo que dá vontade de... montar nele?! Mas que ideia absurda!",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Montaria",
+    "effects": [
+      "+50% de velocidade de deslocamento",
+      "[#charac DMG_IN_PERCENT] 40 Domínio elementar"
+    ]
+  },
+  {
+    "id": 24163,
+    "name": "Montaria Boon",
+    "description": "Boon é o companheiro ideal para as aventuras que aparecem. No entanto, seu cuidado excessivo e suas longas explicações podem acabar sendo cansativos.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Montaria",
+    "effects": [
+      "+50% de velocidade de deslocamento",
+      "[#charac DMG_IN_PERCENT] 40 Domínio elementar"
+    ]
+  },
+  {
+    "id": 24860,
+    "name": "Montaria Gadrão",
+    "description": "Espere sentado: este Gadrão não pode voar. Mas ele pode correr bem rápido com as suas patas musculosas.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Montaria",
+    "effects": [
+      "+50% de velocidade de deslocamento",
+      "[#charac DMG_IN_PERCENT] 40 Domínio elementar"
+    ]
+  },
+  {
+    "id": 26884,
+    "name": "Meka",
+    "description": "Esta joia rara da tecnologia Steamer foi revisitada, ganhando peças mais leves, mas muito resistentes. Renda-se ao charme da montascote Meka, e seus inimigos se renderão assim que virem vocês chegando.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Montaria",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 40 Domínio elementar",
+      "+50% de velocidade de deslocamento"
+    ]
+  }
+]

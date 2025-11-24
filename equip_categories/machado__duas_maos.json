@@ -1,0 +1,1150 @@
+[
+  {
+    "id": 3599,
+    "name": "Machado do chefe de guerra",
+    "description": "Brandir este machado fará você se sentir imediatamente como um verdadeiro líder de tropas. Se necessário, deixe-o cair sobre a cabeça dos rebeldes. Assim, obterá a unanimidade.",
+    "level": 16,
+    "rarity": 2,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 18 Domínio elementar",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac HP] 20 PV",
+      "[#charac RES_IN_PERCENT] 5 Resistência elementar"
+    ]
+  },
+  {
+    "id": 7034,
+    "name": "Machado de Piu",
+    "description": "Um machado para decepar a cabeça de seus inimigos, desde que eles sejam monstrinhos minúsculos e fraquinhos.",
+    "level": 23,
+    "rarity": 1,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac HP] 15 PV",
+      "[#charac DMG_IN_PERCENT] 12 Domínio elementar",
+      "[#charac TACKLE] 7 Bloqueio",
+      "[#charac DODGE] 7 Esquiva"
+    ]
+  },
+  {
+    "id": 9412,
+    "name": "O Astro",
+    "description": "Se você se sente um super-herói por dentro, este é o machado para você. Tudo o que você precisa é de armaduras coloridas pra combinar.",
+    "level": 35,
+    "rarity": 2,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DMG_WATER_PERCENT] 23 Domínio de água",
+      "[#charac HP] 37 PV",
+      "[#charac RES_IN_PERCENT] 7 Resistência elementar",
+      "[#charac TACKLE] 7 Bloqueio",
+      "[#charac DODGE] 7 Esquiva"
+    ]
+  },
+  {
+    "id": 9413,
+    "name": "Devorador de Milicianos",
+    "description": "Este machado não devora milicianos de verdade. Mas ele os deixa com uma consistência de mingau, que dá a impressão de que foram mastigados.",
+    "level": 45,
+    "rarity": 2,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac HP] 44 PV",
+      "[#charac DMG_IN_PERCENT] 19 Domínio elementar",
+      "[#charac TACKLE] 8 Bloqueio",
+      "[#charac DODGE] 8 Esquiva"
+    ]
+  },
+  {
+    "id": 9414,
+    "name": "Belogolpe das Clareiras",
+    "description": "Um machado que pertenceu a Brutus Belogolpe, o famoso lenhador. Esta arma o defendia quando ele saía para cortar florestas inteiras à noite.",
+    "level": 55,
+    "rarity": 2,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac HP] 50 PV",
+      "[#charac RANGED_DMG] 10 Domínio de distância",
+      "[#charac RES_IN_PERCENT] 5 Resistência elementar",
+      "[#charac TACKLE] 18 Bloqueio",
+      "[#charac DMG_IN_PERCENT] 18 Domínio sobre 3 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 9972,
+    "name": "Fatiacéu",
+    "description": "Você pode até dizer que ele corta o céu, mas é desperdício de fôlego.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac HP] 50 PV",
+      "[#charac DMG_IN_PERCENT] 19 Domínio sobre 3 elementos aleatórios",
+      "[#charac HEAL_IN_PERCENT] 3 Domínio de cura",
+      "[#charac DODGE] 7 Esquiva",
+      "[#charac TACKLE] 7 Bloqueio"
+    ]
+  },
+  {
+    "id": 12192,
+    "name": "Makabrachado",
+    "description": "Esta arma antiga e amaldiçoada se separou da alma de seu antigo mestre quando ele foi morto em combate. Será que você tem o que é preciso para libertar todo o poder que ela contém?",
+    "level": 100,
+    "rarity": 3,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac HP] 150 PV",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar",
+      "[#charac AP] 1 PA",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac RANGE] 0 Alcance",
+      "[#charac DODGE] 0 Esquiva",
+      "[#charac TACKLE] 0 Bloqueio"
+    ]
+  },
+  {
+    "id": 12358,
+    "name": "Machacre",
+    "description": "Um machado para aqueles que não deixam nada pela metade, só os inimigos.",
+    "level": 78,
+    "rarity": 3,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac TACKLE] 50 Bloqueio",
+      "[#charac HP] 130 PV",
+      "[#charac RES_IN_PERCENT] 25 Resistência elementar",
+      "[#charac CRITICAL_BONUS] 9 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 38 Domínio sobre 1 elemento aleatório"
+    ]
+  },
+  {
+    "id": 12476,
+    "name": "Machado Papão",
+    "description": "Este machado sempre tem alguma coisa para dizer e seus inimigos provavelmente acabarão com dor de cabeça.",
+    "level": 74,
+    "rarity": 3,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac HP] 120 PV",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac RES_IN_PERCENT] 24 Resistência elementar",
+      "[#charac RANGED_DMG] 20 Domínio de distância",
+      "[#charac CRITICAL_BONUS] 7 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 33 Domínio sobre 3 elementos aleatórios",
+      "[#charac RES_BACKSTAB] 15 Resistência de costas",
+      "[#charac DODGE] 13 Esquiva",
+      "[#charac TACKLE] 13 Bloqueio"
+    ]
+  },
+  {
+    "id": 12592,
+    "name": "O Mutilador",
+    "description": "Sim, ele machuca para valer!",
+    "level": 80,
+    "rarity": 3,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 26 Domínio sobre 1 elemento aleatório",
+      "[#charac HP] 48 PV",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac AP] 1 PA",
+      "[#charac RES_IN_PERCENT] 12 Resistência elementar",
+      "[#charac MELEE_DMG] 12 Domínio de curta distância",
+      "[#charac CRITICAL_BONUS] 5 Domínio de crítico"
+    ]
+  },
+  {
+    "id": 14671,
+    "name": "Wachado",
+    "description": "O machado preferido dos surfistas da rede.",
+    "level": 108,
+    "rarity": 3,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac TACKLE] 40 Bloqueio",
+      "[#charac HP] 144 PV",
+      "[#charac MP] 1 PM",
+      "[#charac RES_IN_PERCENT] 25 Resistência elementar",
+      "[#charac MELEE_DMG] 19 Domínio de curta distância",
+      "[#charac DMG_IN_PERCENT] 61 Domínio sobre 2 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 14672,
+    "name": "Machado de Groso",
+    "description": "Groso achou que este machado o tornaria irresistível para as mulheres. Infelizmente, ele acabou servindo apenas para aparar seus pelos do sovaco.",
+    "level": 95,
+    "rarity": 4,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac HP] 213 PV",
+      "[#charac AP] 1 PA",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac TACKLE] 40 Bloqueio",
+      "[#charac BACKSTAB_BONUS] 13 Domínio de costas",
+      "[#charac DMG_IN_PERCENT] 76 Domínio sobre 3 elementos aleatórios",
+      "[#charac RES_IN_PERCENT]-10 Resistência elementar",
+      "[#charac MELEE_DMG] 24 Domínio de curta distância"
+    ]
+  },
+  {
+    "id": 14879,
+    "name": "Tropicachado",
+    "description": "Depois de uma longa e cansativa briga com o escritório de patentes, este machado finalmente ganhou o direito de usar esse nome. Seu rival foi renomeado Tropilachado e continua sendo o medicamento mais vendido na Ilha Calamari.",
+    "level": 60,
+    "rarity": 3,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac HP] 101 PV",
+      "[#charac FEROCITY] 1% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 38 Domínio sobre 1 elemento aleatório",
+      "[#charac DODGE] 36 Esquiva",
+      "[#charac RES_IN_PERCENT] 19 Resistência elementar",
+      "[#charac MELEE_DMG] 19 Domínio de curta distância"
+    ]
+  },
+  {
+    "id": 15574,
+    "name": "Machado Gluglurado",
+    "description": "Pelas barbas de Netuno! É o melhor machado que eu já vi!",
+    "level": 33,
+    "rarity": 3,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac RANGE] -1 Alcance",
+      "[#charac HP] 50 PV",
+      "[#charac DMG_IN_PERCENT] 31 Domínio elementar",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac DODGE] 7 Esquiva",
+      "[#charac TACKLE] 7 Bloqueio"
+    ]
+  },
+  {
+    "id": 15989,
+    "name": "A Harbra Ziva",
+    "description": "Feita de Tarúdio Puro, esta picareta certamente fará estremecer o coração de Missiz Frizz.",
+    "level": 105,
+    "rarity": 3,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac HP] 210 PV",
+      "[#charac MP] 1 PM",
+      "[#charac BLOCK] 3% de Parada",
+      "[#charac TACKLE] 28 Bloqueio",
+      "[#charac MELEE_DMG] 24 Domínio de curta distância",
+      "[#charac DMG_IN_PERCENT] 51 Domínio sobre 1 elemento aleatório",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar"
+    ]
+  },
+  {
+    "id": 16151,
+    "name": "Serralargh",
+    "description": "Este machado, que funciona ao mesmo tempo como ferramenta e arma, permite que Sylargh imponha sua autoridade e corte lenha enquanto trabalha.",
+    "level": 122,
+    "rarity": 2,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac DODGE] 20 Esquiva",
+      "[#charac TACKLE] 20 Bloqueio",
+      "[#charac HP] 114 PV",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac RES_FIRE_PERCENT] 56 Resistência ao fogo",
+      "[#charac BERSERK_DMG] 24 Domínio de Berserk",
+      "[#charac DMG_IN_PERCENT] 37 Domínio sobre 2 elementos aleatórios",
+      "[#charac RES_EARTH_PERCENT] 56 Resistência à terra"
+    ]
+  },
+  {
+    "id": 16794,
+    "name": "Raquete de Praia",
+    "description": "Para brincar de \"quem fura a bola primeiro\" na beira do mar.",
+    "level": 92,
+    "rarity": 3,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac RANGE] 1 Alcance",
+      "[#charac AP] 1 PA",
+      "[#charac RES_IN_PERCENT] 12 Resistência elementar",
+      "[#charac HEAL_IN_PERCENT] 7 Domínio de cura",
+      "[#charac DMG_IN_PERCENT] 38 Domínio sobre 1 elemento aleatório",
+      "[#charac HP] 113 PV"
+    ]
+  },
+  {
+    "id": 17283,
+    "name": "Machado de Pekewabbit",
+    "description": "Este machado pode ser pequeno e adorável, mas é afiado e cura qualquer dor de garganta em um instante.",
+    "level": 139,
+    "rarity": 3,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac DODGE] 40 Esquiva",
+      "[#charac HP] 211 PV",
+      "[#charac AP] 1 PA",
+      "[#charac CRITICAL_BONUS] 19 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 85 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar"
+    ]
+  },
+  {
+    "id": 17605,
+    "name": "Zurzyr",
+    "description": "Este machado básico não é exatamente lendário.",
+    "level": 2,
+    "rarity": 1,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac HP] 3 PV",
+      "[#charac DMG_IN_PERCENT] 14 Domínio elementar"
+    ]
+  },
+  {
+    "id": 17659,
+    "name": "Descelenha",
+    "description": "Um machado capaz de descer lenha em alguém.",
+    "level": 50,
+    "rarity": 7,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac HP] 105 PV",
+      "[#charac MP] 1 PM",
+      "[#charac BACKSTAB_BONUS] 21 Domínio de costas",
+      "[#charac DMG_IN_PERCENT] 30 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac DODGE] 14 Esquiva"
+    ]
+  },
+  {
+    "id": 18453,
+    "name": "Tranchus Shushu",
+    "description": "Levemente construído, este é o machado ideal para cortar tudo que se move em pedacinhos. É tão resistente, que alguns Enutrofs usam para cortar através das rochas quando estão minerando pedras preciosas.",
+    "level": 155,
+    "rarity": 4,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac HP] 280 PV",
+      "[#charac DMG_IN_PERCENT] 118 Domínio sobre 3 elementos aleatórios",
+      "[#charac CRITICAL_BONUS] 19 Domínio de crítico",
+      "[#charac FEROCITY] 5% de golpe crítico",
+      "[#charac RES_IN_PERCENT] 30 Resistência elementar",
+      "[#charac BACKSTAB_BONUS] 22 Domínio de costas",
+      "[#charac MELEE_DMG] 38 Domínio de curta distância",
+      "[#charac DODGE] 33 Esquiva",
+      "[#charac TACKLE] 33 Bloqueio"
+    ]
+  },
+  {
+    "id": 18558,
+    "name": "Fatiados das Noites sem Estrelas",
+    "description": "Dizem que esta lâmina é mais afiada em uma noite sem estrelas e sem lua. Mas isso é apenas um rumor, porque está escuro demais para perceber qualquer coisa.",
+    "level": 154,
+    "rarity": 3,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac DODGE] 40 Esquiva",
+      "[#charac HP] 233 PV",
+      "[#charac AP] 1 PA",
+      "[#charac CRITICAL_BONUS] 24 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 79 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac RES_IN_PERCENT] 30 Resistência elementar",
+      "[#charac BACKSTAB_BONUS] 29 Domínio de costas"
+    ]
+  },
+  {
+    "id": 20733,
+    "name": "Fatiador Dragontino",
+    "description": "Imitando a asa de um dragão prismático, este machado particularmente afiado será um aliado de peso nos combates épicos e furiosos.",
+    "level": 200,
+    "rarity": 3,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac HP] 541 PV",
+      "[#charac DMG_IN_PERCENT] 305 Domínio sobre 2 elementos aleatórios",
+      "[#charac RES_IN_PERCENT] 40 Resistência elementar",
+      "[#charac FEROCITY] 5% de golpe crítico",
+      "[#charac BLOCK] 5% de Parada"
+    ]
+  },
+  {
+    "id": 21164,
+    "name": "Tchubachado",
+    "description": "Este machado é um verdadeiro achado. É tão eficaz em terra firme como em alto mar.",
+    "level": 55,
+    "rarity": 2,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac HP] 83 PV",
+      "[#charac BLOCK] 2% de Parada",
+      "[#charac DMG_IN_PERCENT] 12 Domínio sobre 2 elementos aleatórios",
+      "[#charac MELEE_DMG] 23 Domínio de curta distância"
+    ]
+  },
+  {
+    "id": 21202,
+    "name": "O Ensanguentado",
+    "description": "O problema deste machado é que ele já vem todo manchado de sangue.",
+    "level": 169,
+    "rarity": 3,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 82 Domínio sobre 3 elementos aleatórios",
+      "[#charac HP] 220 PV",
+      "[#charac TACKLE] 40 Bloqueio",
+      "[#charac RES_AIR_PERCENT] 33 Resistência ao ar",
+      "[#charac RES_EARTH_PERCENT] 33 Resistência à terra",
+      "[#charac MELEE_DMG] 96 Domínio de curta distância",
+      "[#charac RES_WATER_PERCENT] 33 Resistência à água"
+    ]
+  },
+  {
+    "id": 21252,
+    "name": "O Ensanguentado",
+    "description": "O problema deste machado é que ele já vem todo manchado de sangue.",
+    "level": 170,
+    "rarity": 4,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac TACKLE] 40 Bloqueio",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac AP] 1 PA",
+      "[#charac HP] 147 PV",
+      "[#charac RES_WATER_PERCENT] 39 Resistência à água",
+      "[#charac RES_AIR_PERCENT] 39 Resistência ao ar",
+      "[#charac DMG_IN_PERCENT] 94 Domínio sobre 3 elementos aleatórios",
+      "[#charac MELEE_DMG] 138 Domínio de curta distância",
+      "[#charac RES_EARTH_PERCENT] 39 Resistência à terra"
+    ]
+  },
+  {
+    "id": 21439,
+    "name": "Tchubachado",
+    "description": "Este machado é um verdadeiro achado. É tão eficaz em terra firme como em alto mar.",
+    "level": 63,
+    "rarity": 3,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac WP] 1 PW",
+      "[#charac HP] 96 PV",
+      "[#charac MELEE_DMG] 36 Domínio de curta distância",
+      "[#charac RES_WATER_PERCENT] 17 Resistência à água",
+      "[#charac BLOCK] 4% de Parada",
+      "[#charac DMG_IN_PERCENT] 24 Domínio sobre 2 elementos aleatórios",
+      "[#charac RES_EARTH_PERCENT] 17 Resistência à terra",
+      "[#charac RES_AIR_PERCENT] 17 Resistência ao ar"
+    ]
+  },
+  {
+    "id": 21812,
+    "name": "Machadinha Xixe",
+    "description": "Transforme seus inimigos em fumaça tranquilamente.",
+    "level": 199,
+    "rarity": 3,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 141 Domínio sobre 3 elementos aleatórios",
+      "[#charac HP] 499 PV",
+      "[#charac WP] 1 PW",
+      "[#charac AP] 1 PA",
+      "[#charac RES_AIR_PERCENT] 33 Resistência ao ar",
+      "[#charac RES_WATER_PERCENT] 33 Resistência à água",
+      "[#charac CRITICAL_RES] 30 Resistência crítica",
+      "[#charac BERSERK_DMG] 142 Domínio de Berserk",
+      "[#charac RES_EARTH_PERCENT] 33 Resistência à terra"
+    ]
+  },
+  {
+    "id": 22018,
+    "name": "Machadinha Xixe",
+    "description": "Transforme seus inimigos em fumaça tranquilamente.",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac BERSERK_DMG] 215 Domínio de Berserk",
+      "[#charac DMG_IN_PERCENT] 153 Domínio sobre 3 elementos aleatórios",
+      "[#charac HP] 519 PV",
+      "[#charac WP] 1 PW",
+      "[#charac RES_EARTH_PERCENT] 33 Resistência à terra",
+      "[#charac RES_AIR_PERCENT] 33 Resistência ao ar",
+      "[#charac RES_WATER_PERCENT] 33 Resistência à água",
+      "[#charac CRITICAL_RES] 30 Resistência crítica"
+    ]
+  },
+  {
+    "id": 22536,
+    "name": "Fatiador Dragontino",
+    "description": "Imitando a asa de um dragão prismático, este machado particularmente afiado será um aliado de peso nos combates épicos e furiosos.",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac BLOCK] 6% de Parada",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac HP] 542 PV",
+      "[#charac AP] 1 PA",
+      "[#charac RES_IN_PERCENT] 45 Resistência elementar",
+      "[#charac DMG_IN_PERCENT] 348 Domínio sobre 2 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 22626,
+    "name": "Fatiados das Noites sem Estrelas",
+    "description": "Dizem que esta lâmina fica mais afiada nas noites sem estrelas e sem lua. Mas isso é apenas um boato, porque fica escuro demais para perceber qualquer coisa.",
+    "level": 155,
+    "rarity": 4,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac DODGE] 50 Esquiva",
+      "[#charac HP] 256 PV",
+      "[#charac AP] 1 PA",
+      "[#charac BACKSTAB_BONUS] 45 Domínio de costas",
+      "[#charac CRITICAL_BONUS] 38 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 91 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 5% de golpe crítico",
+      "[#charac RES_IN_PERCENT] 33 Resistência elementar"
+    ]
+  },
+  {
+    "id": 22875,
+    "name": "Machado de Pekewabbit",
+    "description": "Este machado pode ser pequeno e adorável, mas é afiado e cura qualquer dor de garganta em um instante.",
+    "level": 140,
+    "rarity": 4,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac DODGE] 60 Esquiva",
+      "[#charac HP] 223 PV",
+      "[#charac AP] 1 PA",
+      "[#charac CRITICAL_BONUS] 26 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 110 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac RES_IN_PERCENT] 25 Resistência elementar"
+    ]
+  },
+  {
+    "id": 23107,
+    "name": "Serralargh",
+    "description": "Este machado, que funciona ao mesmo tempo como ferramenta e arma, permite que Sylargh imponha sua autoridade e corte lenha enquanto trabalha.",
+    "level": 125,
+    "rarity": 4,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac DODGE] 33 Esquiva",
+      "[#charac TACKLE] 33 Bloqueio",
+      "[#charac HP] 147 PV",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac RES_FIRE_PERCENT] 76 Resistência ao fogo",
+      "[#charac BERSERK_DMG] 47 Domínio de Berserk",
+      "[#charac DMG_IN_PERCENT] 61 Domínio sobre 2 elementos aleatórios",
+      "[#charac RES_EARTH_PERCENT] 76 Resistência à terra"
+    ]
+  },
+  {
+    "id": 23108,
+    "name": "Serralargh",
+    "description": "Este machado, que funciona ao mesmo tempo como ferramenta e arma, permite que Sylargh imponha sua autoridade e corte lenha enquanto trabalha.",
+    "level": 125,
+    "rarity": 3,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac HP] 143 PV",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac AP] 1 PA",
+      "[#charac BERSERK_DMG] 34 Domínio de Berserk",
+      "[#charac DMG_IN_PERCENT] 49 Domínio sobre 2 elementos aleatórios",
+      "[#charac DODGE] 25 Esquiva",
+      "[#charac TACKLE] 25 Bloqueio",
+      "[#charac RES_EARTH_PERCENT] 63 Resistência à terra",
+      "[#charac RES_FIRE_PERCENT] 63 Resistência ao fogo"
+    ]
+  },
+  {
+    "id": 23420,
+    "name": "Raquete de Praia",
+    "description": "Para brincar de \"quem fura a bola primeiro\" na beira do mar.",
+    "level": 84,
+    "rarity": 2,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac DODGE] 13 Esquiva",
+      "[#charac TACKLE] 13 Bloqueio",
+      "[#charac DMG_IN_PERCENT] 29 Domínio sobre 1 elemento aleatório",
+      "[#charac HP] 118 PV",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar",
+      "[#charac HEAL_IN_PERCENT] 7 Domínio de cura"
+    ]
+  },
+  {
+    "id": 23859,
+    "name": "O Mutilador ",
+    "description": "Sim, ele machuca para valer!",
+    "level": 80,
+    "rarity": 4,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac HP] 60 PV",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac AP] 1 PA",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar",
+      "[#charac MELEE_DMG] 15 Domínio de curta distância",
+      "[#charac CRITICAL_BONUS] 6 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 38 Domínio sobre 1 elemento aleatório"
+    ]
+  },
+  {
+    "id": 24005,
+    "name": "Machado de Sacrier",
+    "description": "Quando os mártires decidem transformar-se em carrascos, é com esta arma que derramam um sangue que não é o deles.",
+    "level": 200,
+    "rarity": 3,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac HP] 365 PV",
+      "[#charac AP] 1 PA",
+      "[#charac RES_FIRE_PERCENT] 39 Resistência ao fogo",
+      "[#charac BERSERK_DMG] 192 Domínio de Berserk",
+      "[#charac CRITICAL_BONUS] 288 Domínio de crítico",
+      "[#charac FEROCITY] 5% de golpe crítico",
+      "[#charac RES_AIR_PERCENT] 39 Resistência ao ar",
+      "[#charac RES_WATER_PERCENT] 39 Resistência à água"
+    ]
+  },
+  {
+    "id": 24019,
+    "name": "Machado de Sacrier",
+    "description": "Quando os mártires decidem transformar-se em carrascos, é com esta arma que derramam um sangue que não é o deles.",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac HP] 366 PV",
+      "[#charac AP] 1 PA",
+      "[#charac RES_FIRE_PERCENT] 44 Resistência ao fogo",
+      "[#charac BERSERK_DMG] 249 Domínio de Berserk",
+      "[#charac CRITICAL_BONUS] 318 Domínio de crítico",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac RES_AIR_PERCENT] 44 Resistência ao ar",
+      "[#charac RES_WATER_PERCENT] 44 Resistência à água"
+    ]
+  },
+  {
+    "id": 24633,
+    "name": "O Trirreme",
+    "description": "Esse machado é penoso para quem atravessa seu caminho, pois são necessários três golpes para pôr fim ao seu sofrimento.",
+    "level": 80,
+    "rarity": 2,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac RANGED_DMG] 32 Domínio de distância",
+      "[#charac HP] 57 PV"
+    ]
+  },
+  {
+    "id": 24634,
+    "name": "O Trirreme",
+    "description": "Esse machado é penoso para quem atravessa seu caminho, pois são necessários três golpes para pôr fim ao seu sofrimento.",
+    "level": 80,
+    "rarity": 3,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac RANGED_DMG] 40 Domínio de distância",
+      "[#charac HP] 88 PV"
+    ]
+  },
+  {
+    "id": 24650,
+    "name": "O Schek",
+    "description": "Esse machado faz a contagem regressiva de seus inimigos para dominá-los facilmente.",
+    "level": 110,
+    "rarity": 2,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac DODGE] 35 Esquiva",
+      "[#charac TACKLE] 35 Bloqueio",
+      "[#charac HP] 95 PV",
+      "[#charac AP] 1 PA",
+      "[#charac RES_IN_PERCENT] 49 Resistência a 2 elementos aleatórios",
+      "[#charac BERSERK_DMG] 38 Domínio de Berserk"
+    ]
+  },
+  {
+    "id": 24651,
+    "name": "O Schek",
+    "description": "Esse machado faz a contagem regressiva de seus inimigos para dominá-los facilmente.",
+    "level": 110,
+    "rarity": 3,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac HP] 107 PV",
+      "[#charac AP] 1 PA",
+      "[#charac RES_IN_PERCENT] 56 Resistência a 2 elementos aleatórios",
+      "[#charac BERSERK_DMG] 54 Domínio de Berserk",
+      "[#charac DODGE] 40 Esquiva",
+      "[#charac TACKLE] 40 Bloqueio"
+    ]
+  },
+  {
+    "id": 24668,
+    "name": "O Dioro",
+    "description": "Um machado afiado e embebido em ouro para que cada um dos seus golpes fique embebido com sangue dos inimigos.",
+    "level": 140,
+    "rarity": 4,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac HP] 192 PV",
+      "[#charac AP] 1 PA",
+      "[#charac BERSERK_DMG] 29 Domínio de Berserk",
+      "[#charac DMG_IN_PERCENT] 106 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac TACKLE] 40 Bloqueio",
+      "[#charac RES_AIR_PERCENT] 56 Resistência ao ar",
+      "[#charac RES_WATER_PERCENT] 56 Resistência à água"
+    ]
+  },
+  {
+    "id": 24682,
+    "name": "Duplalina",
+    "description": "Com suas duas lâminas, este machado é duas vezes mais temível e duas vezes mais eficaz em rachar cabeças.",
+    "level": 170,
+    "rarity": 2,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac DODGE] 30 Esquiva",
+      "[#charac TACKLE] 30 Bloqueio",
+      "[#charac HP] 232 PV",
+      "[#charac WP] 1 PW",
+      "[#charac RES_IN_PERCENT] 100 Resistência a 1 elemento aleatório",
+      "[#charac BERSERK_DMG] 104 Domínio de Berserk"
+    ]
+  },
+  {
+    "id": 24683,
+    "name": "Duplalina",
+    "description": "Com suas duas lâminas, este machado é duas vezes mais temível e duas vezes mais eficaz em rachar cabeças.",
+    "level": 170,
+    "rarity": 3,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac WP] 1 PW",
+      "[#charac AP] 1 PA",
+      "[#charac BERSERK_DMG] 155 Domínio de Berserk",
+      "[#charac DODGE] 30 Esquiva",
+      "[#charac TACKLE] 30 Bloqueio",
+      "[#charac HP] 249 PV",
+      "[#charac RES_IN_PERCENT] 108 Resistência a 1 elemento aleatório"
+    ]
+  },
+  {
+    "id": 24684,
+    "name": "Duplalina",
+    "description": "Com suas duas lâminas, este machado é duas vezes mais temível e duas vezes mais eficaz em rachar cabeças.",
+    "level": 170,
+    "rarity": 4,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac HP] 264 PV",
+      "[#charac WP] 1 PW",
+      "[#charac AP] 1 PA",
+      "[#charac RES_IN_PERCENT] 108 Resistência a 1 elemento aleatório",
+      "[#charac BERSERK_DMG] 211 Domínio de Berserk",
+      "[#charac DODGE] 40 Esquiva",
+      "[#charac TACKLE] 40 Bloqueio"
+    ]
+  },
+  {
+    "id": 25080,
+    "name": "Dente Navalha",
+    "description": "Um machado com pequeninos dentes afiados que podem rasgar qualquer coisa que você queira.",
+    "level": 200,
+    "rarity": 6,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac BACKSTAB_BONUS] -366 Domínio de costas",
+      "[#charac DMG_IN_PERCENT] 577 Domínio sobre 3 elementos aleatórios",
+      "[#charac HP] 416 PV",
+      "[#charac TACKLE] 120 Bloqueio",
+      "[#charac RES_WATER_PERCENT] 44 Resistência à água",
+      "[#charac RES_AIR_PERCENT] 44 Resistência ao ar",
+      "[#charac RES_FIRE_PERCENT] 44 Resistência ao fogo",
+      "[#charac AP] 1 PA",
+      "[#charac DODGE] 120 Esquiva",
+      "[#charac FEROCITY] 6% de golpe crítico"
+    ]
+  },
+  {
+    "id": 25150,
+    "name": "O Golpe-Voador",
+    "description": "Gire-o em círculos à sua frente como um moinho e você garantirá que nenhuma Musca se aproxime — na verdade, nada ousará cruzar seu caminho.",
+    "level": 42,
+    "rarity": 2,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac HP] 41 PV",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac RANGED_DMG] 26 Domínio de distância",
+      "[#charac RES_IN_PERCENT] 8 Resistência elementar"
+    ]
+  },
+  {
+    "id": 25151,
+    "name": "O Golpe-Voador",
+    "description": "Gire-o em círculos à sua frente como um moinho e você garantirá que nenhuma Musca se aproxime — na verdade, nada ousará cruzar seu caminho.",
+    "level": 50,
+    "rarity": 3,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar",
+      "[#charac HP] 58 PV",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac RANGED_DMG] 36 Domínio de distância"
+    ]
+  },
+  {
+    "id": 25404,
+    "name": "Agride",
+    "description": "Esse machado pode cortar ao meio, de uma só vez, de um Valili a uma Arvraknídeo. Cá entre nós, não é algo que se vê todo dia.",
+    "level": 76,
+    "rarity": 2,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac MP] 1 PM",
+      "[#charac RES_FIRE_PERCENT] 56 Resistência ao fogo",
+      "[#charac RES_AIR_PERCENT] 56 Resistência ao ar",
+      "[#charac HP] 23 PV",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac MELEE_DMG] 28 Domínio de curta distância"
+    ]
+  },
+  {
+    "id": 25405,
+    "name": "Agride",
+    "description": "Esse machado pode cortar ao meio, de uma só vez, de um Valili a uma Arvraknídeo. Cá entre nós, não é algo que se vê todo dia.",
+    "level": 79,
+    "rarity": 3,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac MELEE_DMG] 32 Domínio de curta distância",
+      "[#charac RES_FIRE_PERCENT] 56 Resistência ao fogo",
+      "[#charac RES_AIR_PERCENT] 56 Resistência ao ar",
+      "[#charac MP] 1 PM",
+      "[#charac HP] 42 PV",
+      "[#charac FEROCITY] 4% de golpe crítico"
+    ]
+  },
+  {
+    "id": 25413,
+    "name": "Dente Navalha",
+    "description": "Um machado com pequeninos dentes afiados que podem rasgar o que você quiser.",
+    "level": 80,
+    "rarity": 3,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac MELEE_DMG] 48 Domínio de curta distância",
+      "[#charac RES_WATER_PERCENT] 21 Resistência à água",
+      "[#charac RES_EARTH_PERCENT] 21 Resistência à terra",
+      "[#charac AP] 1 PA",
+      "[#charac HP] 30 PV"
+    ]
+  },
+  {
+    "id": 25760,
+    "name": "Machado de Arvraknídeo",
+    "description": "Cortar madeira com madeira... Meio irônico, não? Não acha?",
+    "level": 131,
+    "rarity": 2,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac HP] 146 PV",
+      "[#charac TACKLE] 25 Bloqueio",
+      "[#charac DODGE] 25 Esquiva",
+      "[#charac RES_WATER_PERCENT] 33 Resistência à água",
+      "[#charac RES_EARTH_PERCENT] 33 Resistência à terra",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac MELEE_DMG] 56 Domínio de curta distância",
+      "[#charac RES_FIRE_PERCENT] 33 Resistência ao fogo"
+    ]
+  },
+  {
+    "id": 25761,
+    "name": "Machado de Arvraknídeo",
+    "description": "Cortar madeira com madeira... Meio irônico, não? Não acha?",
+    "level": 139,
+    "rarity": 3,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac HP] 180 PV",
+      "[#charac MELEE_DMG] 96 Domínio de curta distância",
+      "[#charac RES_FIRE_PERCENT] 33 Resistência ao fogo",
+      "[#charac RES_WATER_PERCENT] 33 Resistência à água",
+      "[#charac RES_EARTH_PERCENT] 33 Resistência à terra",
+      "[#charac TACKLE] 35 Bloqueio",
+      "[#charac DODGE] 35 Esquiva",
+      "[#charac FEROCITY] 3% de golpe crítico"
+    ]
+  },
+  {
+    "id": 25762,
+    "name": "Machado de Arvraknídeo",
+    "description": "Cortar madeira com madeira... Meio irônico, não? Não acha?",
+    "level": 140,
+    "rarity": 4,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac MELEE_DMG] 120 Domínio de curta distância",
+      "[#charac RES_FIRE_PERCENT] 33 Resistência ao fogo",
+      "[#charac AP] 1 PA",
+      "[#charac HP] 233 PV",
+      "[#charac TACKLE] 45 Bloqueio",
+      "[#charac DODGE] 45 Esquiva",
+      "[#charac RES_WATER_PERCENT] 33 Resistência à água",
+      "[#charac RES_EARTH_PERCENT] 33 Resistência à terra"
+    ]
+  },
+  {
+    "id": 27287,
+    "name": "Machado de Razão",
+    "description": "Você finalmente encontrou o lendário machado de um incrível guerreiro Pandawa, chamado Razão.",
+    "level": 198,
+    "rarity": 3,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac TACKLE] 100 Bloqueio",
+      "[#charac DODGE] 100 Esquiva",
+      "[#charac DMG_IN_PERCENT] 219 Domínio sobre 2 elementos aleatórios",
+      "[#charac MELEE_DMG] 240 Domínio de curta distância",
+      "[#charac AP] 1 PA",
+      "[#charac HP] 352 PV",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac RES_IN_PERCENT] 30 Resistência elementar"
+    ]
+  },
+  {
+    "id": 27288,
+    "name": "Machado de Razão",
+    "description": "Você finalmente encontrou o lendário machado de um incrível guerreiro Pandawa, chamado Razão.",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 244 Domínio sobre 2 elementos aleatórios",
+      "[#charac MELEE_DMG] 300 Domínio de curta distância",
+      "[#charac RES_IN_PERCENT] 30 Resistência elementar",
+      "[#charac HP] 476 PV",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac TACKLE] 100 Bloqueio",
+      "[#charac DODGE] 100 Esquiva"
+    ]
+  },
+  {
+    "id": 27373,
+    "name": "Serra Kiotamm",
+    "description": "Kiotamm comentava as ações de seus adversários... e, depois, aproveitava a confusão deles para serrá-los ao meio (literalmente!). Os machados acabaram sendo banidos das competições de Papabol depois disso, o que pôs fim à carreira desse ilustre jogador.",
+    "level": 200,
+    "rarity": 3,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac HP] 256 PV",
+      "[#charac WP] 1 PW",
+      "[#charac MELEE_DMG] 600 Domínio de curta distância",
+      "[#charac BACKSTAB_BONUS] -458 Domínio de costas",
+      "[#charac AP] 1 PA",
+      "[#charac RES_EARTH_PERCENT] 69 Resistência à terra",
+      "[#charac RES_AIR_PERCENT] 69 Resistência ao ar"
+    ]
+  },
+  {
+    "id": 27374,
+    "name": "Serra Kiotamm",
+    "description": "Kiotamm comentava as ações de seus adversários... e, depois, aproveitava a confusão deles para serrá-los ao meio (literalmente!). Os machados acabaram sendo banidos das competições de Papabol depois disso, o que pôs fim à carreira desse ilustre jogador.",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac BACKSTAB_BONUS] -538 Domínio de costas",
+      "[#charac HP] 256 PV",
+      "[#charac RES_AIR_PERCENT] 83 Resistência ao ar",
+      "[#charac MELEE_DMG] 700 Domínio de curta distância",
+      "[#charac WP] 1 PW",
+      "[#charac AP] 1 PA",
+      "[#charac RES_EARTH_PERCENT] 83 Resistência à terra"
+    ]
+  },
+  {
+    "id": 27683,
+    "name": "Relamaxado",
+    "description": "É melhor descansar antes de usar esta arma perigosa.",
+    "level": 213,
+    "rarity": 3,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac DODGE] 47 Esquiva",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 402 Domínio elementar",
+      "[#charac RES_IN_PERCENT] 79 Resistência a 2 elementos aleatórios",
+      "[#charac AP] 1 PA",
+      "[#charac HP] 322 PV",
+      "[#charac TACKLE] 47 Bloqueio"
+    ]
+  },
+  {
+    "id": 27684,
+    "name": "Relamaxado",
+    "description": "É melhor descansar antes de usar esta arma perigosa.",
+    "level": 215,
+    "rarity": 4,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac TACKLE] 47 Bloqueio",
+      "[#charac DODGE] 47 Esquiva",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 504 Domínio elementar",
+      "[#charac AP] 1 PA",
+      "[#charac HP] 363 PV",
+      "[#charac RES_IN_PERCENT] 79 Resistência a 2 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 28303,
+    "name": "Machado do Sumorsa",
+    "description": "Faça amizade com o Sumorsa, mas deixe seu machado sempre à mão.",
+    "level": 210,
+    "rarity": 3,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 293 Domínio sobre 2 elementos aleatórios",
+      "[#charac CRITICAL_BONUS] 126 Domínio de crítico",
+      "[#charac FEROCITY] 7% de golpe crítico",
+      "[#charac RES_FIRE_PERCENT] 69 Resistência ao fogo",
+      "[#charac MP] 1 PM",
+      "[#charac WP] 1 PW",
+      "[#charac HP] 315 PV",
+      "[#charac DODGE] 100 Esquiva",
+      "[#charac RES_EARTH_PERCENT] 69 Resistência à terra"
+    ]
+  },
+  {
+    "id": 28304,
+    "name": "Machado do Sumorsa",
+    "description": "Faça amizade com o Sumorsa, mas deixe seu machado sempre à mão.",
+    "level": 215,
+    "rarity": 4,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac MP] 1 PM",
+      "[#charac CRITICAL_BONUS] 153 Domínio de crítico",
+      "[#charac FEROCITY] 8% de golpe crítico",
+      "[#charac RES_FIRE_PERCENT] 69 Resistência ao fogo",
+      "[#charac RES_EARTH_PERCENT] 69 Resistência à terra",
+      "[#charac WP] 1 PW",
+      "[#charac HP] 362 PV",
+      "[#charac DODGE] 100 Esquiva",
+      "[#charac DMG_IN_PERCENT] 354 Domínio sobre 2 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 29475,
+    "name": "Trincho Abissal",
+    "description": "Este machado pertenceu ao deus da guerra, da violência das trevas e da morte. Sim, tudo isso ao mesmo tempo. Não, não é de Rushu que estamos falando. Estamos falando de uma entidade tão terrível que, em sua presença, a neve volta para as nuvens. Dá para dizer que a neve faz as malas.",
+    "level": 230,
+    "rarity": 3,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac HP] 757 PV",
+      "[#charac DMG_IN_PERCENT] 658 Domínio sobre 3 elementos aleatórios",
+      "[#charac RES_IN_PERCENT] 25 Resistência elementar"
+    ]
+  },
+  {
+    "id": 29476,
+    "name": "Trincho Abissal",
+    "description": "Este machado pertenceu ao deus da guerra, da violência das trevas e da morte. Sim, tudo isso ao mesmo tempo. Não, não é de Rushu que estamos falando. Estamos falando de uma entidade tão terrível que, em sua presença, a neve volta para as nuvens. Dá para dizer que a neve faz as malas.",
+    "level": 230,
+    "rarity": 4,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac HP] 780 PV",
+      "[#charac DMG_IN_PERCENT] 785 Domínio sobre 3 elementos aleatórios",
+      "[#charac RES_IN_PERCENT] 25 Resistência elementar",
+      "[#charac AP] 1 PA"
+    ]
+  },
+  {
+    "id": 29626,
+    "name": "Machado Ancestral",
+    "description": "Esta arma parece ter sido concebida com uma tecnologia bem estranha. É de se perguntar de onde Ogrest a tirou.",
+    "level": 230,
+    "rarity": 3,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac WP] 1 PW",
+      "[#charac AP] 1 PA",
+      "[#charac BERSERK_DMG] 691 Domínio de Berserk",
+      "[#charac HP] 635 PV",
+      "[#charac CRITICAL_RES] -40 Resistência crítica",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar"
+    ]
+  },
+  {
+    "id": 29627,
+    "name": "Machado Ancestral",
+    "description": "Esta arma parece ter sido concebida com uma tecnologia bem estranha. É de se perguntar de onde Ogrest a tirou.",
+    "level": 230,
+    "rarity": 4,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac CRITICAL_RES] -40 Resistência crítica",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac WP] 1 PW",
+      "[#charac AP] 1 PA",
+      "[#charac BERSERK_DMG] 894 Domínio de Berserk",
+      "[#charac HP] 674 PV"
+    ]
+  },
+  {
+    "id": 29830,
+    "name": "Machadus Shushu",
+    "description": "Levíssimo apesar de grande, este machado é perfeito para reduzir a migalhas tudo o que se move. Ele é tão resistente que alguns Enutrofs o usam para quebrar as pedras quando garimpam em busca de pedras preciosas.",
+    "level": 150,
+    "rarity": 3,
+    "slot": "Machado (duas mãos)",
+    "effects": [
+      "[#charac HP] 263 PV",
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 94 Domínio sobre 3 elementos aleatórios",
+      "[#charac RES_IN_PERCENT] 30 Resistência elementar",
+      "[#charac BACKSTAB_BONUS] 11 Domínio de costas",
+      "[#charac CRITICAL_BONUS] 10 Domínio de crítico",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac MELEE_DMG] 23 Domínio de curta distância",
+      "[#charac TACKLE] 28 Bloqueio",
+      "[#charac DODGE] 28 Esquiva"
+    ]
+  }
+]

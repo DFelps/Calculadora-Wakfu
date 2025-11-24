@@ -1,0 +1,1692 @@
+[
+  {
+    "id": 2869,
+    "name": "Espada Masceno",
+    "description": "Masceno, o engolidor de sabres, fabricou esta espada para manter seu hálito sempre fresco e mentolado, em qualquer situação. Infelizmente, ele não viveu o suficiente para descobrir se isso funciona de verdade. ",
+    "level": 80,
+    "rarity": 4,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 59 Domínio elementar",
+      "[#charac HP] 200 PV",
+      "[#charac DMG_IN_PERCENT] 21 Domínio sobre 3 elementos aleatórios",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar",
+      "[#charac TACKLE] 13 Bloqueio",
+      "[#charac DODGE] 13 Esquiva"
+    ]
+  },
+  {
+    "id": 9460,
+    "name": "A Gultar",
+    "description": "A Gultar foi embebida em sangue de Dragão-Porco. Qualquer herói que consiga suportar o fedor que ela exala terá o direito merecido de usá-la em combate.",
+    "level": 50,
+    "rarity": 3,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] -35 Domínio elementar"
+    ]
+  },
+  {
+    "id": 9942,
+    "name": "Lâmina Estrondosa",
+    "description": "Esta lâmina pode não ser tão afiada, mas ela certamente machuca!",
+    "level": 38,
+    "rarity": 1,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac HP] 28 PV",
+      "[#charac MELEE_DMG] 11 Domínio de curta distância",
+      "[#charac DMG_IN_PERCENT] 11 Domínio sobre 2 elementos aleatórios",
+      "[#charac TACKLE] 10 Bloqueio"
+    ]
+  },
+  {
+    "id": 9968,
+    "name": "Lâmina Hoholião",
+    "description": "Dá para reconhecer um Hoholião por sua riqueza, claro, mas também por sua altivez. Leve esta lâmina e estará sempre elegante, mesmo sem um Kama no bolso.",
+    "level": 45,
+    "rarity": 2,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac TACKLE] 19 Bloqueio"
+    ]
+  },
+  {
+    "id": 12191,
+    "name": "Espada Grande Makabra",
+    "description": "Esta arma antiga e amaldiçoada se separou da alma de seu antigo mestre quando ele foi morto em combate. Será que você tem o que é preciso para libertar todo o poder que ela contém?",
+    "level": 100,
+    "rarity": 3,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac HP] 150 PV",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 20 Domínio elementar",
+      "[#charac AP] 1 PA",
+      "[#charac TACKLE] 0 Bloqueio",
+      "[#charac DODGE] 0 Esquiva"
+    ]
+  },
+  {
+    "id": 12489,
+    "name": "Espada do Corvo Negro",
+    "description": "Uma espada preta belissimamente adornada que só os guerreiros mais poderosos do Mundo podem controlar.",
+    "level": 106,
+    "rarity": 3,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac TACKLE] 13 Bloqueio",
+      "[#charac DODGE] 13 Esquiva",
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 49 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac HP] 129 PV",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac RANGED_DMG] 23 Domínio de distância",
+      "[#charac CRITICAL_BONUS] 10 Domínio de crítico"
+    ]
+  },
+  {
+    "id": 13798,
+    "name": "O Moedor",
+    "description": "Esta espada pesada e nada prática é indispensável para quem quer fazer amigos nas lendárias noites de jazz da Taberna Chamuscoteca.",
+    "level": 1,
+    "rarity": 3,
+    "slot": "Espada (duas mãos)",
+    "effects": []
+  },
+  {
+    "id": 14285,
+    "name": "Espada Solar",
+    "description": "Esta espada dourada e luminosa revela seu verdadeiro potencial por volta do meio-dia. Ela representa Solar, o primeiro protetor de Javian. Que o sol ilumine você!",
+    "level": 95,
+    "rarity": 3,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac HP] 136 PV",
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 49 Domínio elementar",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac MELEE_DMG] 23 Domínio de curta distância",
+      "[#charac BERSERK_DMG] 11 Domínio de Berserk",
+      "[#charac RES_IN_PERCENT] 42 Resistência a 2 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 14493,
+    "name": "Psssassassino",
+    "description": "Só de olhar esta espada, os inimigos farão um escândalo.",
+    "level": 125,
+    "rarity": 3,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac MP] 1 PM",
+      "[#charac HP] 177 PV",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 71 Domínio sobre 3 elementos aleatórios",
+      "[#charac DODGE] 58 Esquiva",
+      "[#charac RES_IN_PERCENT] 25 Resistência elementar"
+    ]
+  },
+  {
+    "id": 14666,
+    "name": "Claymore afiado",
+    "description": "Este espada enorme é eficiente para transformar até os maiores inimigos em carne de hambúrguer. Só não faça aquela comemoração brandindo-a no ar em formato de oito. Seus companheiros de equipe agradecem.",
+    "level": 59,
+    "rarity": 2,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac HP] 66 PV",
+      "[#charac DMG_IN_PERCENT] 33 Domínio sobre 1 elemento aleatório",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DODGE] 10 Esquiva",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar"
+    ]
+  },
+  {
+    "id": 14667,
+    "name": "Fatiadora de Shushus",
+    "description": "Uma espada mítica capaz de cortar as almas que passaram muito tempo no nosso mundo.",
+    "level": 109,
+    "rarity": 3,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac HP] 175 PV",
+      "[#charac AP] 1 PA",
+      "[#charac RES_IN_PERCENT] 25 Resistência elementar",
+      "[#charac BACKSTAB_BONUS] 12 Domínio de costas",
+      "[#charac DMG_IN_PERCENT] 61 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 3% de golpe crítico"
+    ]
+  },
+  {
+    "id": 14669,
+    "name": "Espada Enorme de Tot ",
+    "description": "Uma espada imponente que pertenceu a um mítico guerreiro barbado. Há rumores de que ele tinha um T tatuado em cada lado do traseiro.",
+    "level": 95,
+    "rarity": 4,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac TACKLE] 50 Bloqueio",
+      "[#charac HP] 230 PV",
+      "[#charac DMG_IN_PERCENT] 47 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar"
+    ]
+  },
+  {
+    "id": 16030,
+    "name": "Sabre Serrilhado",
+    "description": "Esta arma faz estragos tanto na ida quanto na volta. Também pode ser usada como serra, se necessário.",
+    "level": 106,
+    "rarity": 3,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac HP] 127 PV",
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 35 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DODGE] 45 Esquiva",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac CRITICAL_BONUS] 10 Domínio de crítico"
+    ]
+  },
+  {
+    "id": 16108,
+    "name": "A presa gelada do Fhenris",
+    "description": "Ouvimos seus passos na neve,\nSuas presas congelam o sangue,\nO Mimute solitário está vindo.\n",
+    "level": 110,
+    "rarity": 4,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac HP] 159 PV",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac RES_IN_PERCENT] 17 Resistência elementar",
+      "[#charac CRITICAL_BONUS] 28 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 53 Domínio sobre 3 elementos aleatórios",
+      "[#charac TACKLE] 13 Bloqueio",
+      "[#charac DODGE] 13 Esquiva"
+    ]
+  },
+  {
+    "id": 17288,
+    "name": "Cenouwa Enolme",
+    "description": "Todos que tentaram comê-la quebraram os dentes!",
+    "level": 132,
+    "rarity": 2,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac HP] 173 PV",
+      "[#charac AP] 1 PA",
+      "[#charac BACKSTAB_BONUS] 13 Domínio de costas",
+      "[#charac CRITICAL_BONUS] 11 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 49 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac RES_WATER_PERCENT] 35 Resistência à água",
+      "[#charac RES_FIRE_PERCENT] 35 Resistência ao fogo",
+      "[#charac TACKLE] 27 Bloqueio",
+      "[#charac DODGE] 27 Esquiva"
+    ]
+  },
+  {
+    "id": 17657,
+    "name": "Claymore de Fhenris",
+    "description": "Fhenris ensina aos habitantes do Krosmoz os códigos do glamour e da compostura. É sob a influência dele que as damas monopolizam o banheiro durante horas...",
+    "level": 110,
+    "rarity": 7,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac FEROCITY] 5% de golpe crítico",
+      "[#charac HP] 161 PV",
+      "[#charac AP] 2 PA",
+      "[#charac RES_IN_PERCENT] 42 Resistência a 2 elementos aleatórios",
+      "[#charac DMG_IN_PERCENT] 89 Domínio elementar"
+    ]
+  },
+  {
+    "id": 17745,
+    "name": "Lâmina Onírica",
+    "description": "Coloque seus inimigos para dormir com um só golpe desta maravilhosa lâmina.",
+    "level": 80,
+    "rarity": 3,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac DODGE] 16 Esquiva",
+      "[#charac HP] 75 PV",
+      "[#charac MP] 1 PM",
+      "[#charac DMG_IN_PERCENT] 24 Domínio sobre 2 elementos aleatórios",
+      "[#charac BLOCK] 2% de Parada",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac RES_IN_PERCENT] 12 Resistência elementar",
+      "[#charac BERSERK_DMG] 8 Domínio de Berserk"
+    ]
+  },
+  {
+    "id": 18452,
+    "name": "Claymus Shushu",
+    "description": "Uma vez que tenha acertado o inimigo, a proteção ligada a espada se soltará e irá lançar um Shushu maligno que vai petrificar, pela dor, o alvo.",
+    "level": 155,
+    "rarity": 7,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac HP] 291 PV",
+      "[#charac AP] 1 PA",
+      "[#charac MP] 1 PM",
+      "[#charac CRITICAL_BONUS] 46 Domínio de crítico",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 141 Domínio sobre 3 elementos aleatórios",
+      "[#charac MELEE_DMG] 30 Domínio de curta distância",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac TACKLE] 17 Bloqueio",
+      "[#charac DODGE] 17 Esquiva"
+    ]
+  },
+  {
+    "id": 18565,
+    "name": "Chave das Contas",
+    "description": "Suas contas estão guardadas com tranca e chave, até você decidir vir e sacar um pouco de suas parcas economias.",
+    "level": 155,
+    "rarity": 4,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac BLOCK] 4% de Parada",
+      "[#charac TACKLE] 75 Bloqueio",
+      "[#charac HP] 499 PV",
+      "[#charac WP] 1 PW",
+      "[#charac RES_IN_PERCENT] 55 Resistência elementar",
+      "[#charac BERSERK_DMG] 54 Domínio de Berserk",
+      "[#charac DMG_IN_PERCENT] 140 Domínio sobre 1 elemento aleatório"
+    ]
+  },
+  {
+    "id": 19060,
+    "name": "Espada Milenar",
+    "description": "Esta espada tem mil anos, viu dez mil batalhas e derrotou cem mil adversários.",
+    "level": 170,
+    "rarity": 4,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac HP] 272 PV",
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 212 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac DODGE] 40 Esquiva",
+      "[#charac TACKLE] 40 Bloqueio",
+      "[#charac RES_EARTH_PERCENT] 44 Resistência à terra",
+      "[#charac RES_AIR_PERCENT] 44 Resistência ao ar",
+      "[#charac RES_FIRE_PERCENT] 44 Resistência ao fogo"
+    ]
+  },
+  {
+    "id": 19135,
+    "name": "Espada descontínua",
+    "description": "Capaz de romper o espaço-tempo, assim como a cara de seus adversários, esta espada é uma das mais eficazes no combate.",
+    "level": 167,
+    "rarity": 3,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 110 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac MELEE_DMG] 48 Domínio de curta distância",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac AP] 1 PA",
+      "[#charac HP] 426 PV",
+      "[#charac DODGE] 33 Esquiva",
+      "[#charac TACKLE] 33 Bloqueio"
+    ]
+  },
+  {
+    "id": 19383,
+    "name": "Krachado",
+    "description": "A grande arma dos guardas Krápulas. Esta lâmina é um achado!",
+    "level": 73,
+    "rarity": 3,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac HP] 120 PV",
+      "[#charac RANGED_DMG] 18 Domínio de distância",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 49 Domínio sobre 2 elementos aleatórios",
+      "[#charac DODGE] 17 Esquiva",
+      "[#charac TACKLE] 17 Bloqueio"
+    ]
+  },
+  {
+    "id": 19422,
+    "name": "Espada do Garra de Aço",
+    "description": "Apoderar-se da espada do Garra de Aço é uma façanha da qual pouquíssimos aventureiros podem se gabar!",
+    "level": 170,
+    "rarity": 4,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac HP] 280 PV",
+      "[#charac AP] 1 PA",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac CRITICAL_BONUS] 51 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 159 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac TACKLE] 33 Bloqueio",
+      "[#charac DODGE] 33 Esquiva"
+    ]
+  },
+  {
+    "id": 20385,
+    "name": "Incarlâmina",
+    "description": "Um dos raros objetos de Incarnam que não foram contaminados pela Stasis.",
+    "level": 2,
+    "rarity": 0,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac HP] 4 PV",
+      "[#charac DMG_IN_PERCENT] 13 Domínio elementar",
+      "[#charac DODGE] 4 Esquiva",
+      "[#charac TACKLE] 4 Bloqueio"
+    ]
+  },
+  {
+    "id": 20404,
+    "name": "Espada Conchim",
+    "description": "Uma espada que, segundo uma lenda incerta, teria sido usada como pente pelas Beléfones que viviam perto do mar.",
+    "level": 40,
+    "rarity": 2,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac CRITICAL_BONUS] 9 Domínio de crítico",
+      "[#charac HP] 50 PV",
+      "[#charac CRITICAL_RES] 5 Resistência crítica",
+      "[#charac BACKSTAB_BONUS] 10 Domínio de costas",
+      "[#charac RES_IN_PERCENT] 25 Resistência a 1 elemento aleatório",
+      "[#charac DODGE] 10 Esquiva",
+      "[#charac TACKLE] 10 Bloqueio"
+    ]
+  },
+  {
+    "id": 20566,
+    "name": "Lâmina de Garravino",
+    "description": "Esta lâmina forjada nas chamas da Shukrute queima as mãos, mas vale a pena.",
+    "level": 152,
+    "rarity": 3,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac HP] 255 PV",
+      "[#charac AP] 1 PA",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac DODGE] 37 Esquiva",
+      "[#charac TACKLE] 37 Bloqueio",
+      "[#charac RES_IN_PERCENT] 22 Resistência elementar",
+      "[#charac CRITICAL_BONUS] 52 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 55 Domínio sobre 2 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 20951,
+    "name": "Colhespada",
+    "description": "Você pode usá-la para atacar seus adversários ou tomar uma boa sopa.",
+    "level": 199,
+    "rarity": 3,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac DODGE] 60 Esquiva",
+      "[#charac TACKLE] 60 Bloqueio",
+      "[#charac HP] 416 PV",
+      "[#charac MP] 1 PM",
+      "[#charac RES_IN_PERCENT] 30 Resistência elementar",
+      "[#charac DMG_IN_PERCENT] 224 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 5% de golpe crítico",
+      "[#charac CRITICAL_BONUS] 127 Domínio de crítico"
+    ]
+  },
+  {
+    "id": 21721,
+    "name": "Presa Dissimulada",
+    "description": "Esta espada de duas mãos, que recebeu este nome por seu dom de atacar lá onde dói mais, é muito eficaz, principalmente quando pega o inimigo de surpresa. ",
+    "level": 190,
+    "rarity": 2,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac BLOCK] 3% de Parada",
+      "[#charac HP] 442 PV",
+      "[#charac DODGE] 30 Esquiva",
+      "[#charac RES_FIRE_PERCENT] 39 Resistência ao fogo",
+      "[#charac RES_WATER_PERCENT] 39 Resistência à água",
+      "[#charac DMG_IN_PERCENT] 106 Domínio sobre 3 elementos aleatórios",
+      "[#charac BACKSTAB_BONUS] 94 Domínio de costas",
+      "[#charac RES_EARTH_PERCENT] 39 Resistência à terra"
+    ]
+  },
+  {
+    "id": 21747,
+    "name": "Presa Dissimulada",
+    "description": "Esta espada de duas mãos, que recebeu este nome por seu dom de atacar lá onde dói mais, é muito eficaz, principalmente quando pega o inimigo de surpresa. ",
+    "level": 198,
+    "rarity": 3,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac HP] 451 PV",
+      "[#charac DODGE] 40 Esquiva",
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 129 Domínio sobre 3 elementos aleatórios",
+      "[#charac BACKSTAB_BONUS] 155 Domínio de costas",
+      "[#charac FEROCITY] 5% de golpe crítico",
+      "[#charac BLOCK] 4% de Parada",
+      "[#charac RES_EARTH_PERCENT] 44 Resistência à terra",
+      "[#charac RES_FIRE_PERCENT] 44 Resistência ao fogo",
+      "[#charac RES_WATER_PERCENT] 44 Resistência à água"
+    ]
+  },
+  {
+    "id": 21748,
+    "name": "Presa Dissimulada",
+    "description": "Esta espada de duas mãos, que recebeu este nome por seu dom de atacar lá onde dói mais, é muito eficaz, principalmente quando pega o inimigo de surpresa. ",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac BLOCK] 4% de Parada",
+      "[#charac HP] 471 PV",
+      "[#charac DODGE] 45 Esquiva",
+      "[#charac RES_FIRE_PERCENT] 44 Resistência ao fogo",
+      "[#charac RES_WATER_PERCENT] 44 Resistência à água",
+      "[#charac DMG_IN_PERCENT] 147 Domínio sobre 3 elementos aleatórios",
+      "[#charac BACKSTAB_BONUS] 215 Domínio de costas",
+      "[#charac RES_EARTH_PERCENT] 44 Resistência à terra"
+    ]
+  },
+  {
+    "id": 21866,
+    "name": "Colhespada",
+    "description": "Você pode usá-la para atacar seus adversários ou tomar uma boa sopa.",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac DODGE] 60 Esquiva",
+      "[#charac TACKLE] 60 Bloqueio",
+      "[#charac HP] 474 PV",
+      "[#charac MP] 1 PM",
+      "[#charac RES_IN_PERCENT] 30 Resistência elementar",
+      "[#charac CRITICAL_BONUS] 155 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 271 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 6% de golpe crítico"
+    ]
+  },
+  {
+    "id": 22363,
+    "name": "Espada Milenar",
+    "description": "Esta espada tem mil anos, viu dez mil batalhas e derrotou cem mil adversários.",
+    "level": 164,
+    "rarity": 3,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac HP] 275 PV",
+      "[#charac AP] 1 PA",
+      "[#charac RES_AIR_PERCENT] 33 Resistência ao ar",
+      "[#charac RES_FIRE_PERCENT] 33 Resistência ao fogo",
+      "[#charac RES_EARTH_PERCENT] 33 Resistência à terra",
+      "[#charac DODGE] 50 Esquiva",
+      "[#charac TACKLE] 50 Bloqueio",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 135 Domínio sobre 2 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 22424,
+    "name": "Espada Descontínua",
+    "description": "Capaz de romper o espaço-tempo, assim como a cara de seus adversários, esta espada é uma das mais eficazes no combate.",
+    "level": 170,
+    "rarity": 4,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 110 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac MELEE_DMG] 80 Domínio de curta distância",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac AP] 1 PA",
+      "[#charac HP] 542 PV",
+      "[#charac DODGE] 33 Esquiva",
+      "[#charac TACKLE] 33 Bloqueio"
+    ]
+  },
+  {
+    "id": 22470,
+    "name": "Espada do Garra de Aço",
+    "description": "Apoderar-se da espada do Garra de Aço é uma façanha da qual pouquíssimos aventureiros podem se gabar!",
+    "level": 167,
+    "rarity": 3,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac HP] 275 PV",
+      "[#charac AP] 1 PA",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac CRITICAL_BONUS] 36 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 112 Domínio sobre 3 elementos aleatórios",
+      "[#charac TACKLE] 33 Bloqueio",
+      "[#charac DODGE] 33 Esquiva"
+    ]
+  },
+  {
+    "id": 22645,
+    "name": "Chave das Contas",
+    "description": "Suas contas estão guardadas com tranca e chave, até você decidir vir e sacar um pouco de suas parcas economias.",
+    "level": 155,
+    "rarity": 3,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac TACKLE] 60 Bloqueio",
+      "[#charac HP] 374 PV",
+      "[#charac WP] 1 PW",
+      "[#charac RES_IN_PERCENT] 55 Resistência elementar",
+      "[#charac BERSERK_DMG] 38 Domínio de Berserk",
+      "[#charac DMG_IN_PERCENT] 140 Domínio sobre 1 elemento aleatório",
+      "[#charac BLOCK] 3% de Parada"
+    ]
+  },
+  {
+    "id": 22646,
+    "name": "Chave das Contas",
+    "description": "Suas contas estão guardadas com tranca e chave, até você decidir vir e sacar um pouco de suas parcas economias.",
+    "level": 147,
+    "rarity": 2,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac HP] 301 PV",
+      "[#charac WP] 1 PW",
+      "[#charac BERSERK_DMG] 19 Domínio de Berserk",
+      "[#charac DMG_IN_PERCENT] 115 Domínio sobre 1 elemento aleatório",
+      "[#charac BLOCK] 3% de Parada",
+      "[#charac TACKLE] 40 Bloqueio",
+      "[#charac RES_IN_PERCENT] 50 Resistência elementar"
+    ]
+  },
+  {
+    "id": 22700,
+    "name": "Lâmina de Garravino",
+    "description": "Esta lâmina forjada nas chamas da Shukrute queima as mãos, mas vale a pena.",
+    "level": 155,
+    "rarity": 4,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac DODGE] 47 Esquiva",
+      "[#charac TACKLE] 47 Bloqueio",
+      "[#charac HP] 282 PV",
+      "[#charac AP] 1 PA",
+      "[#charac CRITICAL_BONUS] 74 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 73 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 5% de golpe crítico",
+      "[#charac RES_IN_PERCENT] 25 Resistência elementar"
+    ]
+  },
+  {
+    "id": 22860,
+    "name": "Gwande Cenouwa",
+    "description": "Todos que tentaram comê-la quebraram os dentes!",
+    "level": 140,
+    "rarity": 3,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac HP] 215 PV",
+      "[#charac AP] 1 PA",
+      "[#charac CRITICAL_BONUS] 23 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 61 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac RES_WATER_PERCENT] 42 Resistência à água",
+      "[#charac RES_FIRE_PERCENT] 42 Resistência ao fogo",
+      "[#charac BACKSTAB_BONUS] 27 Domínio de costas",
+      "[#charac TACKLE] 33 Bloqueio",
+      "[#charac DODGE] 33 Esquiva"
+    ]
+  },
+  {
+    "id": 22861,
+    "name": "Gwande Cenouwa",
+    "description": "Todos que tentaram comê-la quebraram os dentes!",
+    "level": 140,
+    "rarity": 4,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 85 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac HP] 218 PV",
+      "[#charac RES_WATER_PERCENT] 49 Resistência à água",
+      "[#charac RES_FIRE_PERCENT] 49 Resistência ao fogo",
+      "[#charac BACKSTAB_BONUS] 37 Domínio de costas",
+      "[#charac CRITICAL_BONUS] 31 Domínio de crítico",
+      "[#charac DODGE] 37 Esquiva",
+      "[#charac TACKLE] 37 Bloqueio"
+    ]
+  },
+  {
+    "id": 23178,
+    "name": "Espada do Corvo Negro ",
+    "description": "Uma espada preta belissimamente adornada que só os guerreiros mais poderosos do Mundo podem controlar.",
+    "level": 110,
+    "rarity": 4,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac DODGE] 20 Esquiva",
+      "[#charac TACKLE] 20 Bloqueio",
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 61 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac HP] 146 PV",
+      "[#charac RES_IN_PERCENT] 25 Resistência elementar",
+      "[#charac RANGED_DMG] 30 Domínio de distância",
+      "[#charac CRITICAL_BONUS] 15 Domínio de crítico"
+    ]
+  },
+  {
+    "id": 23264,
+    "name": "A presa gelada do Fhenris",
+    "description": "Seus passos pode ser ouvidos na neve.\nSuas presas gelam nosso sangue.\nO Mimute solitário está se aproximando...",
+    "level": 110,
+    "rarity": 3,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac HP] 124 PV",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac AP] 1 PA",
+      "[#charac CRITICAL_BONUS] 22 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 41 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar",
+      "[#charac TACKLE] 13 Bloqueio",
+      "[#charac DODGE] 13 Esquiva"
+    ]
+  },
+  {
+    "id": 23651,
+    "name": "Claymore Afiado",
+    "description": "Esta grande espada imponente é capaz de fatiar até os inimigos mais parrudos. Mas tome cuidado ao usá-la, pois ela pode ser uma ameaça a todos que estão à sua volta.",
+    "level": 62,
+    "rarity": 3,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac HP] 119 PV",
+      "[#charac DMG_IN_PERCENT] 47 Domínio sobre 1 elemento aleatório",
+      "[#charac DODGE] 35 Esquiva",
+      "[#charac RES_IN_PERCENT] 26 Resistência elementar",
+      "[#charac FEROCITY] 2% de golpe crítico"
+    ]
+  },
+  {
+    "id": 23780,
+    "name": "Lâmina do Smagador",
+    "description": "Esta lâmina pode não ser tão afiada, mas ela certamente machuca!",
+    "level": 46,
+    "rarity": 2,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac HP] 40 PV",
+      "[#charac MELEE_DMG] 14 Domínio de curta distância",
+      "[#charac DMG_IN_PERCENT] 15 Domínio sobre 2 elementos aleatórios",
+      "[#charac BLOCK] 3% de Parada",
+      "[#charac TACKLE] 15 Bloqueio"
+    ]
+  },
+  {
+    "id": 23781,
+    "name": "Lâmina do Smagador",
+    "description": "Esta lâmina pode não ser tão afiada, mas ela certamente machuca!",
+    "level": 49,
+    "rarity": 3,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 18 Domínio sobre 2 elementos aleatórios",
+      "[#charac BLOCK] 3% de Parada",
+      "[#charac TACKLE] 15 Bloqueio",
+      "[#charac HP] 69 PV",
+      "[#charac MELEE_DMG] 18 Domínio de curta distância"
+    ]
+  },
+  {
+    "id": 24000,
+    "name": "Desencarnador",
+    "description": "Ao brandir esta espada, sentimos que somos capazes de trazer de volta calma e dias de sol ao Monte Zinit.",
+    "level": 200,
+    "rarity": 3,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac MP] -1 PM máx.",
+      "[#charac AP] 2 PA",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar",
+      "[#charac DMG_IN_PERCENT] 324 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 5% de golpe crítico",
+      "[#charac HP] 217 PV"
+    ]
+  },
+  {
+    "id": 24014,
+    "name": "Desencarnador",
+    "description": "Ao brandir esta espada, sentimos que somos capazes de trazer de volta calma e dias de sol ao Monte Zinit.",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac HP] 232 PV",
+      "[#charac MP] -1 PM máx.",
+      "[#charac AP] 2 PA",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar",
+      "[#charac DMG_IN_PERCENT] 388 Domínio sobre 3 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 24307,
+    "name": "Crisalied",
+    "description": "Você vai precisar de mais de dois braços para brandir esta espada.",
+    "level": 48,
+    "rarity": 3,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac HP] 25 PV",
+      "[#charac MP] 1 PM",
+      "[#charac DMG_IN_PERCENT] 24 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] -10% Golpe crítico"
+    ]
+  },
+  {
+    "id": 24325,
+    "name": "Espameralda",
+    "description": "Esta espada pode ser trocada por diversos bens no vilarejo mais próximo.",
+    "level": 123,
+    "rarity": 3,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac FEROCITY] -5% Golpe crítico",
+      "[#charac DODGE] 40 Esquiva",
+      "[#charac HP] 162 PV",
+      "[#charac AP] 1 PA",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac MELEE_DMG] 112 Domínio de curta distância"
+    ]
+  },
+  {
+    "id": 24356,
+    "name": "Espameralda",
+    "description": "Esta espada pode ser trocada por diversos bens no vilarejo mais próximo.",
+    "level": 125,
+    "rarity": 4,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac FEROCITY] -5% Golpe crítico",
+      "[#charac DODGE] 50 Esquiva",
+      "[#charac HP] 225 PV",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac MELEE_DMG] 144 Domínio de curta distância"
+    ]
+  },
+  {
+    "id": 24671,
+    "name": "A Cortante da Batalha",
+    "description": "Essa espada pode cortar qualquer adversário.",
+    "level": 140,
+    "rarity": 3,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac HP] 339 PV",
+      "[#charac MP] 1 PM",
+      "[#charac DMG_IN_PERCENT] 59 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac DODGE] -15 Esquiva",
+      "[#charac RES_AIR_PERCENT] 100 Resistência ao ar",
+      "[#charac CRITICAL_BONUS] 28 Domínio de crítico"
+    ]
+  },
+  {
+    "id": 24672,
+    "name": "A Cortante da Batalha",
+    "description": "Essa espada pode cortar qualquer adversário.",
+    "level": 140,
+    "rarity": 4,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac HP] 351 PV",
+      "[#charac MP] 1 PM",
+      "[#charac DMG_IN_PERCENT] 82 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 7% de golpe crítico",
+      "[#charac DODGE] -15 Esquiva",
+      "[#charac RES_AIR_PERCENT] 125 Resistência ao ar",
+      "[#charac CRITICAL_BONUS] 33 Domínio de crítico"
+    ]
+  },
+  {
+    "id": 24700,
+    "name": "Dianina",
+    "description": "Esta espada foi forjada de forma magistral por um ferreiro sinistro conhecido no mundo todo.",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac HP] 512 PV",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac MP] -1 PM máx.",
+      "[#charac AP] 1 PA",
+      "[#charac RES_EARTH_PERCENT] 56 Resistência à terra",
+      "[#charac RES_WATER_PERCENT] 56 Resistência à água",
+      "[#charac DMG_IN_PERCENT] 447 Domínio sobre 3 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 24720,
+    "name": "Cemiterra",
+    "description": "Uma espada para enterrar todo mundo.",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac DODGE] 75 Esquiva",
+      "[#charac TACKLE] 75 Bloqueio",
+      "[#charac HP] 669 PV",
+      "[#charac AP] 1 PA",
+      "[#charac RES_BACKSTAB] 25 Resistência de costas",
+      "[#charac CRITICAL_RES] 25 Resistência crítica",
+      "[#charac MELEE_DMG] 150 Domínio de curta distância",
+      "[#charac DMG_IN_PERCENT] 235 Domínio sobre 3 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 24731,
+    "name": "Espada Naica",
+    "description": "Esta espada cresceu até atingir dimensões prodigiosas.",
+    "level": 196,
+    "rarity": 3,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 118 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 5% de golpe crítico",
+      "[#charac HP] 405 PV",
+      "[#charac WP] 1 PW",
+      "[#charac RES_EARTH_PERCENT] 56 Resistência à terra",
+      "[#charac RES_AIR_PERCENT] 56 Resistência ao ar",
+      "[#charac MELEE_DMG] 168 Domínio de curta distância"
+    ]
+  },
+  {
+    "id": 24806,
+    "name": "A Gultar",
+    "description": "A Gultar foi embebida em sangue de Dragão-Porco. Qualquer herói que consiga suportar o fedor que ela exala terá o direito merecido de usá-la em combate.",
+    "level": 200,
+    "rarity": 6,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac HP] 447 PV",
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 146 Domínio sobre 2 elementos aleatórios",
+      "[#charac DODGE] 160 Esquiva",
+      "[#charac RES_EARTH_PERCENT] 33 Resistência à terra",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac RANGED_DMG] 240 Domínio de distância",
+      "[#charac RES_WATER_PERCENT] 33 Resistência à água",
+      "[#charac RES_FIRE_PERCENT] 33 Resistência ao fogo"
+    ]
+  },
+  {
+    "id": 24832,
+    "name": "Espada Naica",
+    "description": "Esta espada cresceu até atingir dimensões prodigiosas.",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 118 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac HP] 484 PV",
+      "[#charac WP] 1 PW",
+      "[#charac RES_EARTH_PERCENT] 83 Resistência à terra",
+      "[#charac RES_AIR_PERCENT] 83 Resistência ao ar",
+      "[#charac MELEE_DMG] 168 Domínio de curta distância"
+    ]
+  },
+  {
+    "id": 25124,
+    "name": "Espadubarão",
+    "description": "Esta espada é mais afiada que dente de tubarão.",
+    "level": 48,
+    "rarity": 3,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac HP] 47 PV",
+      "[#charac DMG_IN_PERCENT] 24 Domínio elementar",
+      "[#charac DMG_IN_PERCENT] 19 Domínio sobre 1 elemento aleatório",
+      "[#charac RES_FIRE_PERCENT] 17 Resistência ao fogo",
+      "[#charac RES_WATER_PERCENT] 17 Resistência à água",
+      "[#charac DODGE] 10 Esquiva",
+      "[#charac TACKLE] 10 Bloqueio"
+    ]
+  },
+  {
+    "id": 25477,
+    "name": "Lâmina do Chafer",
+    "description": "Esta lâmina, que foi forjada para cortar ossos, pertencia a Mamitzger, o açougueiro. Um Chafer conseguiu roubá-la e, nas mãos dele, ela foi responsável por inúmeras amputações.",
+    "level": 87,
+    "rarity": 2,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac MELEE_DMG] 40 Domínio de curta distância",
+      "[#charac RES_FIRE_PERCENT] 17 Resistência ao fogo",
+      "[#charac RES_AIR_PERCENT] 17 Resistência ao ar",
+      "[#charac AP] 1 PA",
+      "[#charac HP] 17 PV",
+      "[#charac RES_EARTH_PERCENT] 17 Resistência à terra"
+    ]
+  },
+  {
+    "id": 25478,
+    "name": "Lâmina do Chafer",
+    "description": "Esta lâmina, que foi forjada para cortar ossos, pertencia a Mamitzger, o açougueiro. Um Chafer conseguiu roubá-la e, nas mãos dele, ela foi responsável por inúmeras amputações.",
+    "level": 95,
+    "rarity": 3,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac MELEE_DMG] 56 Domínio de curta distância",
+      "[#charac RES_FIRE_PERCENT] 17 Resistência ao fogo",
+      "[#charac RES_AIR_PERCENT] 17 Resistência ao ar",
+      "[#charac RES_EARTH_PERCENT] 17 Resistência à terra",
+      "[#charac AP] 1 PA",
+      "[#charac HP] 227 PV"
+    ]
+  },
+  {
+    "id": 25557,
+    "name": "Espada Riktus",
+    "description": "Esta espada é dada como prêmio aos Riktus mais corajosos.",
+    "level": 102,
+    "rarity": 2,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac MELEE_DMG] 44 Domínio de curta distância",
+      "[#charac AP] 1 PA",
+      "[#charac HP] 228 PV",
+      "[#charac FEROCITY] 3% de golpe crítico"
+    ]
+  },
+  {
+    "id": 25558,
+    "name": "Espada Riktus",
+    "description": "Esta espada é dada como prêmio aos Riktus mais corajosos.",
+    "level": 110,
+    "rarity": 3,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac HP] 294 PV",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac MELEE_DMG] 64 Domínio de curta distância",
+      "[#charac AP] 1 PA"
+    ]
+  },
+  {
+    "id": 25588,
+    "name": "Espademolidora",
+    "description": "Ela vai quebrar tudo!",
+    "level": 105,
+    "rarity": 2,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac TACKLE] 30 Bloqueio",
+      "[#charac DODGE] 30 Esquiva",
+      "[#charac BERSERK_DMG] 38 Domínio de Berserk",
+      "[#charac RES_WATER_PERCENT] 39 Resistência à água",
+      "[#charac AP] 1 PA",
+      "[#charac HP] 68 PV",
+      "[#charac RES_AIR_PERCENT] 39 Resistência ao ar",
+      "[#charac RES_EARTH_PERCENT] 39 Resistência à terra"
+    ]
+  },
+  {
+    "id": 25589,
+    "name": "Espademolidora",
+    "description": "Ela vai quebrar tudo!",
+    "level": 108,
+    "rarity": 3,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac TACKLE] 40 Bloqueio",
+      "[#charac DODGE] 40 Esquiva",
+      "[#charac BERSERK_DMG] 53 Domínio de Berserk",
+      "[#charac RES_WATER_PERCENT] 39 Resistência à água",
+      "[#charac AP] 1 PA",
+      "[#charac HP] 88 PV",
+      "[#charac RES_AIR_PERCENT] 39 Resistência ao ar",
+      "[#charac RES_EARTH_PERCENT] 39 Resistência à terra"
+    ]
+  },
+  {
+    "id": 25694,
+    "name": "Ezpada",
+    "description": "Com esta espada em forma de bico de Peixezpada, você dominará a arte da esgrimarinha!",
+    "level": 116,
+    "rarity": 2,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac HP] 55 PV",
+      "[#charac RES_BACKSTAB] 40 Resistência de costas",
+      "[#charac TACKLE] 40 Bloqueio",
+      "[#charac DODGE] 40 Esquiva",
+      "[#charac MELEE_DMG] 42 Domínio de curta distância",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar"
+    ]
+  },
+  {
+    "id": 25695,
+    "name": "Ezpada",
+    "description": "Com esta espada em forma de bico de Peixezpada, você dominará a arte da esgrimarinha!",
+    "level": 124,
+    "rarity": 3,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac HP] 107 PV",
+      "[#charac TACKLE] 50 Bloqueio",
+      "[#charac DODGE] 50 Esquiva",
+      "[#charac MELEE_DMG] 66 Domínio de curta distância",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac RES_BACKSTAB] 40 Resistência de costas"
+    ]
+  },
+  {
+    "id": 25696,
+    "name": "Ezpada",
+    "description": "Com esta espada em forma de bico de Peixezpada, você dominará a arte da esgrimarinha!",
+    "level": 125,
+    "rarity": 4,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac HP] 173 PV",
+      "[#charac TACKLE] 60 Bloqueio",
+      "[#charac DODGE] 60 Esquiva",
+      "[#charac MELEE_DMG] 84 Domínio de curta distância",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac RES_BACKSTAB] 40 Resistência de costas"
+    ]
+  },
+  {
+    "id": 25830,
+    "name": "Exstalabur",
+    "description": "Esta espada é mesmo mortal! Você pode usá-la para mostrar a seus inimigos quem é que manda, desde que consiga tirá-la da pedra.",
+    "level": 160,
+    "rarity": 2,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 47 Domínio sobre 3 elementos aleatórios",
+      "[#charac MELEE_DMG] 48 Domínio de curta distância",
+      "[#charac RES_FIRE_PERCENT] 42 Resistência ao fogo",
+      "[#charac HP] 215 PV",
+      "[#charac TACKLE] 30 Bloqueio",
+      "[#charac DODGE] 30 Esquiva",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac RES_WATER_PERCENT] 42 Resistência à água"
+    ]
+  },
+  {
+    "id": 25831,
+    "name": "Exstalabur",
+    "description": "Esta espada é mesmo mortal! Você pode usá-la para mostrar a seus inimigos quem é que manda, desde que consiga tirá-la da pedra.",
+    "level": 168,
+    "rarity": 3,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac DODGE] 50 Esquiva",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 71 Domínio sobre 3 elementos aleatórios",
+      "[#charac AP] 1 PA",
+      "[#charac HP] 266 PV",
+      "[#charac TACKLE] 50 Bloqueio",
+      "[#charac MELEE_DMG] 72 Domínio de curta distância",
+      "[#charac RES_FIRE_PERCENT] 42 Resistência ao fogo",
+      "[#charac RES_WATER_PERCENT] 42 Resistência à água"
+    ]
+  },
+  {
+    "id": 25832,
+    "name": "Exstalabur",
+    "description": "Esta espada é mesmo mortal! Você pode usá-la para mostrar a seus inimigos quem é que manda, desde que consiga tirá-la da pedra.",
+    "level": 170,
+    "rarity": 4,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac HP] 317 PV",
+      "[#charac TACKLE] 60 Bloqueio",
+      "[#charac DODGE] 60 Esquiva",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac AP] 1 PA",
+      "[#charac RES_WATER_PERCENT] 42 Resistência à água",
+      "[#charac DMG_IN_PERCENT] 82 Domínio sobre 3 elementos aleatórios",
+      "[#charac MELEE_DMG] 96 Domínio de curta distância",
+      "[#charac RES_FIRE_PERCENT] 42 Resistência ao fogo"
+    ]
+  },
+  {
+    "id": 25981,
+    "name": "Espada Bonzólios",
+    "description": "Longa, pontuda e dotada de dois gumes, esta arma tem uma eficácia surpreendente e uma maneabilidade excepcional. Apelidada de \"Shushuzinha\", ela abriga um Shushu Menor de quatro olhos. Não se esqueça de limpá-la regularmente, ela detesta ficar com cisco no olho.",
+    "level": 164,
+    "rarity": 2,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 85 Domínio sobre 2 elementos aleatórios",
+      "[#charac CRITICAL_BONUS] 18 Domínio de crítico",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar",
+      "[#charac AP] 1 PA",
+      "[#charac HP] 269 PV",
+      "[#charac DODGE] 40 Esquiva",
+      "[#charac FEROCITY] 6% de golpe crítico"
+    ]
+  },
+  {
+    "id": 25982,
+    "name": "Espada Bonzólios",
+    "description": "Longa, pontuda e dotada de dois gumes, esta arma tem uma eficácia surpreendente e uma maneabilidade excepcional. Apelidada de \"Shushuzinha\", ela abriga um Shushu Menor de quatro olhos. Não se esqueça de limpá-la regularmente, ela detesta ficar com cisco no olho.",
+    "level": 169,
+    "rarity": 3,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 73 Domínio sobre 2 elementos aleatórios",
+      "[#charac CRITICAL_BONUS] 65 Domínio de crítico",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar",
+      "[#charac AP] 1 PA",
+      "[#charac HP] 341 PV",
+      "[#charac DODGE] 60 Esquiva"
+    ]
+  },
+  {
+    "id": 25983,
+    "name": "Espada Bonzólios",
+    "description": "Longa, pontuda e dotada de dois gumes, esta arma tem uma eficácia surpreendente e uma maneabilidade excepcional. Apelidada de \"Shushuzinha\", ela abriga um Shushu Menor de quatro olhos. Não se esqueça de limpá-la regularmente, ela detesta ficar com cisco no olho.",
+    "level": 170,
+    "rarity": 4,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac DODGE] 60 Esquiva",
+      "[#charac FEROCITY] 8% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 98 Domínio sobre 2 elementos aleatórios",
+      "[#charac CRITICAL_BONUS] 93 Domínio de crítico",
+      "[#charac AP] 1 PA",
+      "[#charac HP] 360 PV",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar"
+    ]
+  },
+  {
+    "id": 26058,
+    "name": "Espada Riktus de Elite",
+    "description": "Assim que esta espada se cruza com outra, ela emite um som estridente e metálico de gargalhada.",
+    "level": 165,
+    "rarity": 2,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac TACKLE] 70 Bloqueio",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac MELEE_DMG] 96 Domínio de curta distância",
+      "[#charac AP] 1 PA",
+      "[#charac HP] 170 PV",
+      "[#charac RES_FIRE_PERCENT] 56 Resistência ao fogo",
+      "[#charac RES_AIR_PERCENT] 56 Resistência ao ar"
+    ]
+  },
+  {
+    "id": 26059,
+    "name": "Espada Riktus de Elite",
+    "description": "Assim que esta espada se cruza com outra, ela emite um som estridente e metálico de gargalhada.",
+    "level": 168,
+    "rarity": 3,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac TACKLE] 100 Bloqueio",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac MELEE_DMG] 136 Domínio de curta distância",
+      "[#charac AP] 1 PA",
+      "[#charac HP] 202 PV",
+      "[#charac RES_FIRE_PERCENT] 56 Resistência ao fogo",
+      "[#charac RES_AIR_PERCENT] 56 Resistência ao ar"
+    ]
+  },
+  {
+    "id": 26060,
+    "name": "Espada Riktus de Elite",
+    "description": "Assim que esta espada se cruza com outra, ela emite um som estridente e metálico de gargalhada.",
+    "level": 170,
+    "rarity": 4,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac TACKLE] 100 Bloqueio",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac MELEE_DMG] 160 Domínio de curta distância",
+      "[#charac AP] 1 PA",
+      "[#charac HP] 320 PV",
+      "[#charac RES_FIRE_PERCENT] 56 Resistência ao fogo",
+      "[#charac RES_AIR_PERCENT] 56 Resistência ao ar"
+    ]
+  },
+  {
+    "id": 26267,
+    "name": "Lâmina da Traição",
+    "description": "Não confie nesta espada!",
+    "level": 170,
+    "rarity": 4,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac HP] 256 PV",
+      "[#charac DODGE] 40 Esquiva",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 122 Domínio sobre 2 elementos aleatórios",
+      "[#charac AP] 1 PA",
+      "[#charac RANGED_DMG] 120 Domínio de distância",
+      "[#charac RES_FIRE_PERCENT] 56 Resistência ao fogo",
+      "[#charac RES_AIR_PERCENT] 56 Resistência ao ar"
+    ]
+  },
+  {
+    "id": 26490,
+    "name": "Espada Kyn",
+    "description": "Esta espada é um dos tesouros mais preciosos do Mundo dos Doze, vestígio de um passado em que Ecaflip era apenas um guerreiro e não gostava de jogar.",
+    "level": 170,
+    "rarity": 7,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac MELEE_DMG] 96 Domínio de curta distância",
+      "[#charac RES_FIRE_PERCENT] 33 Resistência ao fogo",
+      "[#charac RES_WATER_PERCENT] 33 Resistência à água",
+      "[#charac RES_AIR_PERCENT] 33 Resistência ao ar",
+      "[#charac AP] 2 PA",
+      "[#charac HP] 307 PV",
+      "[#charac FEROCITY] 7% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 118 Domínio sobre 3 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 26959,
+    "name": "Arma Nhak",
+    "description": "O certo é \"arma DE Nhak\". Qual a dificuldade de entender?",
+    "level": 194,
+    "rarity": 3,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac HP] 272 PV",
+      "[#charac AP] 1 PA",
+      "[#charac DODGE] 50 Esquiva",
+      "[#charac TACKLE] 50 Bloqueio",
+      "[#charac MELEE_DMG] 320 Domínio de curta distância",
+      "[#charac BLOCK] 8% de Parada",
+      "[#charac RES_IN_PERCENT] 25 Resistência elementar",
+      "[#charac FEROCITY] 5% de golpe crítico"
+    ]
+  },
+  {
+    "id": 26960,
+    "name": "Arma Nhak",
+    "description": "O certo é \"arma DE Nhak\". Qual a dificuldade de entender?",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac HP] 284 PV",
+      "[#charac AP] 1 PA",
+      "[#charac DODGE] 60 Esquiva",
+      "[#charac TACKLE] 60 Bloqueio",
+      "[#charac MELEE_DMG] 420 Domínio de curta distância",
+      "[#charac BLOCK] 9% de Parada",
+      "[#charac RES_IN_PERCENT] 25 Resistência elementar",
+      "[#charac FEROCITY] 6% de golpe crítico"
+    ]
+  },
+  {
+    "id": 27685,
+    "name": "Espada do Sonho Nobre",
+    "description": "Todo mundo tem um sonho, mas nem sempre é possível realizá-lo. No entanto, quando nos importamos com algo, devemos buscar fazer um bom trabalho.",
+    "level": 210,
+    "rarity": 3,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac HP] 614 PV",
+      "[#charac AP] 1 PA",
+      "[#charac DODGE] 75 Esquiva",
+      "[#charac TACKLE] 75 Bloqueio",
+      "[#charac RES_FIRE_PERCENT] 52 Resistência ao fogo",
+      "[#charac DMG_IN_PERCENT] 412 Domínio sobre 2 elementos aleatórios",
+      "[#charac RES_EARTH_PERCENT] 52 Resistência à terra",
+      "[#charac RES_WATER_PERCENT] 52 Resistência à água"
+    ]
+  },
+  {
+    "id": 27686,
+    "name": "Espada do Sonho Nobre",
+    "description": "Todo mundo tem um sonho, mas nem sempre é possível realizá-lo. No entanto, quando nos importamos com algo, devemos buscar fazer um bom trabalho.",
+    "level": 215,
+    "rarity": 4,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac HP] 708 PV",
+      "[#charac AP] 1 PA",
+      "[#charac DODGE] 95 Esquiva",
+      "[#charac TACKLE] 95 Bloqueio",
+      "[#charac RES_FIRE_PERCENT] 52 Resistência ao fogo",
+      "[#charac DMG_IN_PERCENT] 507 Domínio sobre 2 elementos aleatórios",
+      "[#charac RES_EARTH_PERCENT] 52 Resistência à terra",
+      "[#charac RES_WATER_PERCENT] 52 Resistência à água"
+    ]
+  },
+  {
+    "id": 28073,
+    "name": "Último Suspiro",
+    "description": "Ela se alimenta dos últimos suspiros dos seus adversários. Você tem duas opções para evitar que ela morra de fome: vencer seus combates ou contar piadas sem graça.",
+    "level": 210,
+    "rarity": 2,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac HP] 484 PV",
+      "[#charac RES_BACKSTAB] 19 Resistência de costas",
+      "[#charac RES_WATER_PERCENT] 53 Resistência à água",
+      "[#charac RES_AIR_PERCENT] 53 Resistência ao ar",
+      "[#charac DMG_IN_PERCENT] 134 Domínio sobre 3 elementos aleatórios",
+      "[#charac CRITICAL_BONUS] 122 Domínio de crítico",
+      "[#charac MELEE_DMG] 143 Domínio de curta distância",
+      "[#charac FEROCITY] 4% de golpe crítico"
+    ]
+  },
+  {
+    "id": 28074,
+    "name": "Último Suspiro",
+    "description": "Ela se alimenta dos últimos suspiros dos seus adversários. Você tem duas opções para evitar que ela morra de fome: vencer seus combates ou contar piadas sem graça.",
+    "level": 213,
+    "rarity": 3,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac RES_BACKSTAB] 19 Resistência de costas",
+      "[#charac RES_WATER_PERCENT] 53 Resistência à água",
+      "[#charac RES_AIR_PERCENT] 53 Resistência ao ar",
+      "[#charac HP] 513 PV",
+      "[#charac DMG_IN_PERCENT] 167 Domínio sobre 3 elementos aleatórios",
+      "[#charac CRITICAL_BONUS] 147 Domínio de crítico",
+      "[#charac MELEE_DMG] 171 Domínio de curta distância"
+    ]
+  },
+  {
+    "id": 28075,
+    "name": "Último Suspiro",
+    "description": "Ela se alimenta dos últimos suspiros dos seus adversários. Você tem duas opções para evitar que ela morra de fome: vencer seus combates ou contar piadas sem graça.",
+    "level": 215,
+    "rarity": 4,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac MELEE_DMG] 213 Domínio de curta distância",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac RES_BACKSTAB] 19 Resistência de costas",
+      "[#charac RES_WATER_PERCENT] 53 Resistência à água",
+      "[#charac AP] 1 PA",
+      "[#charac HP] 544 PV",
+      "[#charac DMG_IN_PERCENT] 201 Domínio sobre 3 elementos aleatórios",
+      "[#charac CRITICAL_BONUS] 183 Domínio de crítico",
+      "[#charac RES_AIR_PERCENT] 53 Resistência ao ar"
+    ]
+  },
+  {
+    "id": 28318,
+    "name": "Espada Pastoral",
+    "description": "Esta espada pertenceu a uma pastora que sempre esquecia de levar seus Paparneiros brancos para o abrigo quando chovia.",
+    "level": 212,
+    "rarity": 3,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac FEROCITY] 5% de golpe crítico",
+      "[#charac MELEE_DMG] 426 Domínio de curta distância",
+      "[#charac RES_IN_PERCENT] 90 Resistência a 2 elementos aleatórios",
+      "[#charac AP] 1 PA",
+      "[#charac TACKLE] 100 Bloqueio",
+      "[#charac HP] 275 PV"
+    ]
+  },
+  {
+    "id": 28319,
+    "name": "Espada Pastoral",
+    "description": "Esta espada pertenceu a uma pastora que sempre esquecia de levar seus Paparneiros brancos para o abrigo quando chovia.",
+    "level": 215,
+    "rarity": 4,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac RES_IN_PERCENT] 97 Resistência a 2 elementos aleatórios",
+      "[#charac TACKLE] 100 Bloqueio",
+      "[#charac HP] 279 PV",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac MELEE_DMG] 512 Domínio de curta distância"
+    ]
+  },
+  {
+    "id": 29477,
+    "name": "Lâmina Misteriosa",
+    "description": "Muitos anos separam a era dos Dofus da do Wakfu. Olhando com atenção, não restou muita coisa dela. Muitas realidades foram transformadas pelo tempo: relatos factuais viraram lendas e ficção.  Porém, de todas essas aventuras, apenas uma é eterna e imutável: a de um Pandawa munido de uma Dora Lagoula. ",
+    "level": 230,
+    "rarity": 3,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac RES_FIRE_PERCENT] 56 Resistência ao fogo",
+      "[#charac RES_EARTH_PERCENT] 56 Resistência à terra",
+      "[#charac HP] 662 PV",
+      "[#charac DMG_IN_PERCENT] 98 Domínio sobre 2 elementos aleatórios",
+      "[#charac MELEE_DMG] 576 Domínio de curta distância"
+    ]
+  },
+  {
+    "id": 29478,
+    "name": "Lâmina Misteriosa",
+    "description": "Muitos anos separam a era dos Dofus da do Wakfu. Olhando com atenção, não restou muita coisa dela. Muitas realidades foram transformadas pelo tempo: relatos factuais viraram lendas e ficção.  Porém, de todas essas aventuras, apenas uma é eterna e imutável: a de um Pandawa munido de uma Dora Lagoula. ",
+    "level": 230,
+    "rarity": 4,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac RES_FIRE_PERCENT] 56 Resistência ao fogo",
+      "[#charac RES_EARTH_PERCENT] 56 Resistência à terra",
+      "[#charac HP] 722 PV",
+      "[#charac DMG_IN_PERCENT] 146 Domínio sobre 2 elementos aleatórios",
+      "[#charac MELEE_DMG] 648 Domínio de curta distância"
+    ]
+  },
+  {
+    "id": 29624,
+    "name": "Grande Lâmina Ancestral",
+    "description": "A potência desta espada é tamanha que dizem que ela já foi responsável por separar e unir dois mundos.",
+    "level": 230,
+    "rarity": 3,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 447 Domínio sobre 3 elementos aleatórios",
+      "[#charac HP] 570 PV",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac CRITICAL_BONUS] 170 Domínio de crítico",
+      "[#charac MP] -1 PM máx.",
+      "[#charac AP] 2 PA",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar"
+    ]
+  },
+  {
+    "id": 29625,
+    "name": "Grande Lâmina Ancestral",
+    "description": "A potência desta espada é tamanha que dizem que ela já foi responsável por separar e unir dois mundos.",
+    "level": 230,
+    "rarity": 4,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac CRITICAL_BONUS] 226 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 494 Domínio sobre 3 elementos aleatórios",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac AP] 2 PA",
+      "[#charac HP] 637 PV",
+      "[#charac MP] -1 PM máx."
+    ]
+  },
+  {
+    "id": 30343,
+    "name": "Lâmina de Uaitgudman",
+    "description": "Ela vai deixar você muito confiante, e também lhe dará uma vontade irresistível de repetir o que as outras pessoas dizem.",
+    "level": 220,
+    "rarity": 2,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac HP] 574 PV",
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 427 Domínio sobre 2 elementos aleatórios",
+      "[#charac TACKLE] 150 Bloqueio",
+      "[#charac RES_IN_PERCENT] 40 Resistência elementar"
+    ]
+  },
+  {
+    "id": 30344,
+    "name": "Lâmina de Uaitgudman",
+    "description": "Ela vai deixar você muito confiante, e também lhe dará uma vontade irresistível de repetir o que as outras pessoas dizem.",
+    "level": 227,
+    "rarity": 3,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac RES_IN_PERCENT] 40 Resistência elementar",
+      "[#charac DMG_IN_PERCENT] 597 Domínio sobre 2 elementos aleatórios",
+      "[#charac AP] 1 PA",
+      "[#charac TACKLE] 180 Bloqueio",
+      "[#charac HP] 624 PV"
+    ]
+  },
+  {
+    "id": 30345,
+    "name": "Lâmina de Uaitgudman",
+    "description": "Ela vai deixar você muito confiante, e também lhe dará uma vontade irresistível de repetir o que as outras pessoas dizem.",
+    "level": 230,
+    "rarity": 4,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac HP] 654 PV",
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 756 Domínio sobre 2 elementos aleatórios",
+      "[#charac TACKLE] 205 Bloqueio",
+      "[#charac RES_IN_PERCENT] 40 Resistência elementar"
+    ]
+  },
+  {
+    "id": 30924,
+    "name": "Gládio Vingativo",
+    "description": "Cada um dos espinhos foi devidamente afiado para aumentar o charme de quem utilizar este item, com o objetivo de finalmente conseguir roubar um beijo sincero de um valente cavaleiro.",
+    "level": 65,
+    "rarity": 4,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac TACKLE] 20 Bloqueio",
+      "[#charac HP] 129 PV",
+      "[#charac BLOCK] 3% de Parada",
+      "[#charac DODGE] 20 Esquiva",
+      "[#charac RES_IN_PERCENT] 40 Resistência elementar",
+      "[#charac DMG_IN_PERCENT] 47 Domínio sobre 3 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 31289,
+    "name": "Lâmina do fim do dia",
+    "description": "O uso excessivo dessa lâmina pode corromper a alma de seu dono. Ele incorpora a dualidade entre a luz e as sombras, como um símbolo lendário que intriga os aventureiros em busca de equilíbrio.",
+    "level": 155,
+    "rarity": 3,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac DODGE] 25 Esquiva",
+      "[#charac TACKLE] 25 Bloqueio",
+      "[#charac RANGED_DMG] 75 Domínio de distância",
+      "[#charac BACKSTAB_BONUS] 75 Domínio de costas",
+      "[#charac HP] 208 PV",
+      "[#charac AP] 1 PA",
+      "[#charac RES_FIRE_PERCENT] 70 Resistência ao fogo",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac RES_EARTH_PERCENT] 70 Resistência à terra"
+    ]
+  },
+  {
+    "id": 31290,
+    "name": "Lâmina do fim do dia",
+    "description": "O uso excessivo dessa lâmina pode corromper a alma de seu dono. Ele incorpora a dualidade entre a luz e as sombras, como um símbolo lendário que intriga os aventureiros em busca de equilíbrio.",
+    "level": 155,
+    "rarity": 4,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac TACKLE] 30 Bloqueio",
+      "[#charac HP] 243 PV",
+      "[#charac BACKSTAB_BONUS] 95 Domínio de costas",
+      "[#charac DODGE] 30 Esquiva",
+      "[#charac AP] 1 PA",
+      "[#charac FEROCITY] 5% de golpe crítico",
+      "[#charac RANGED_DMG] 95 Domínio de distância",
+      "[#charac RES_EARTH_PERCENT] 75 Resistência à terra",
+      "[#charac RES_FIRE_PERCENT] 75 Resistência ao fogo"
+    ]
+  },
+  {
+    "id": 31341,
+    "name": "Peixe-espada de Tal Kasha",
+    "description": "O cabo é muito macio, mas cuidado: se segurá-lo por muito tempo, você pode acabar mergulhando em um sono eterno.",
+    "level": 155,
+    "rarity": 5,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac HP] 422 PV",
+      "[#charac AP] 2 PA",
+      "[#charac FEROCITY] 8% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 210 Domínio sobre 2 elementos aleatórios",
+      "[#charac RES_IN_PERCENT] 25 Resistência elementar"
+    ]
+  },
+  {
+    "id": 31462,
+    "name": "Lâmina do fim do dia",
+    "description": "O uso excessivo dessa lâmina pode corromper a alma de seu dono. Ele incorpora a dualidade entre a luz e as sombras, como um símbolo lendário que intriga os aventureiros em busca de equilíbrio.",
+    "level": 230,
+    "rarity": 6,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac RES_IN_PERCENT] 40 Resistência elementar",
+      "[#charac BACKSTAB_BONUS] 360 Domínio de costas",
+      "[#charac TACKLE] 140 Bloqueio",
+      "[#charac HP] 647 PV",
+      "[#charac DMG_IN_PERCENT] 360 Domínio sobre 2 elementos aleatórios",
+      "[#charac DODGE] 140 Esquiva"
+    ]
+  },
+  {
+    "id": 31523,
+    "name": "Lâmina de Toross",
+    "description": "Ela pode reduzir absolutamente qualquer coisa a nada, exceto talvez a fome de um Necromo.",
+    "level": 230,
+    "rarity": 5,
+    "slot": "Espada (duas mãos)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 800 Domínio sobre 2 elementos aleatórios",
+      "[#charac DODGE] 250 Esquiva",
+      "[#charac RES_EARTH_PERCENT] 60 Resistência à terra",
+      "[#charac RES_FIRE_PERCENT] 60 Resistência ao fogo",
+      "[#charac MP] 1 PM",
+      "[#charac AP] 2 PA",
+      "[#charac HP] 750 PV",
+      "[#charac WP] -3 PW máx."
+    ]
+  }
+]

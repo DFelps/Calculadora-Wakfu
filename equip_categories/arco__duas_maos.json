@@ -1,0 +1,1076 @@
+[
+  {
+    "id": 3601,
+    "name": "Arco Hidsad",
+    "description": "O homem que criou esse arco, um certo Marco Hidsad, nunca descobriu realmente como usá-lo. Ele sempre se machucava tanto quanto seus inimigos.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac HP] 55 PV",
+      "[#charac DMG_IN_PERCENT] 24 Domínio sobre 1 elemento aleatório",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar",
+      "[#charac DODGE] 17 Esquiva",
+      "[#charac BLOCK] 2% de Parada"
+    ]
+  },
+  {
+    "id": 3924,
+    "name": "Arcomando",
+    "description": "Agora que você tem este arco, ele é a coisa mais importante da sua vida. Os inimigos não hesitarão em obedecer ao mestre, é você quem manda...",
+    "level": 35,
+    "rarity": 2,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac HP] 32 PV",
+      "[#charac RES_IN_PERCENT] 4 Resistência elementar",
+      "[#charac DODGE] 8 Esquiva",
+      "[#charac DMG_IN_PERCENT] 18 Domínio elementar"
+    ]
+  },
+  {
+    "id": 5666,
+    "name": "Arco do Rei de Borin",
+    "description": "Esse arco nada convencional foi modelado especificamente para o autoproclamado rei de uma aldeia de camponeses que adorava se gabar atirando duas flechas simultaneamente. ",
+    "level": 60,
+    "rarity": 2,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac DODGE] 20 Esquiva",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac HP] 91 PV",
+      "[#charac RES_IN_PERCENT] 18 Resistência elementar",
+      "[#charac DMG_IN_PERCENT] 37 Domínio sobre 2 elementos aleatórios",
+      "[#charac BACKSTAB_BONUS] 5 Domínio de costas"
+    ]
+  },
+  {
+    "id": 9349,
+    "name": "Corda de Jamato",
+    "description": "A Corda de Jamato já fez mais de um mostro ter taquicardia. Uma arma finamente calibrada, direciona as flechas até o alvo mais escondido.",
+    "level": 61,
+    "rarity": 2,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac HP] 54 PV",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac BLOCK] 5% de Parada",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac TACKLE] 35 Bloqueio",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar",
+      "[#charac DMG_IN_PERCENT] 34 Domínio sobre 2 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 9964,
+    "name": "Arco de Tuta Nodeboi",
+    "description": "Esse suculento arco pode parecer uma delícia, mas mordê-lo o tornará menos efetivo no campo de batalha.",
+    "level": 35,
+    "rarity": 2,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac HP] 30 PV",
+      "[#charac DODGE] 25 Esquiva",
+      "[#charac DMG_EARTH_PERCENT] 21 Domínio de terra",
+      "[#charac DMG_FIRE_PERCENT] 21 Domínio de fogo"
+    ]
+  },
+  {
+    "id": 10287,
+    "name": "Arco Toquestoque",
+    "description": "Feito em um depósito ao norte de Amakna, você mesmo montou esse arco. O desempenho dele dependerá de quão boas são suas habilidades para artesanato.",
+    "level": 43,
+    "rarity": 2,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac HP] 37 PV",
+      "[#charac RANGED_DMG] 8 Domínio de distância",
+      "[#charac RES_IN_PERCENT] 7 Resistência elementar",
+      "[#charac FEROCITY] 1% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 19 Domínio elementar",
+      "[#charac TACKLE] 4 Bloqueio",
+      "[#charac DODGE] 4 Esquiva"
+    ]
+  },
+  {
+    "id": 11614,
+    "name": "Arco de Salgueiro",
+    "description": "Este arco vem na versão 0.5, mas a 0.7, reforçada com madeira de salgueiro, é muito mais confortável.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac DODGE] 15 Esquiva",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac HP] 49 PV",
+      "[#charac RES_IN_PERCENT] 8 Resistência elementar",
+      "[#charac BACKSTAB_BONUS] 4 Domínio de costas",
+      "[#charac DMG_IN_PERCENT] 22 Domínio sobre 1 elemento aleatório"
+    ]
+  },
+  {
+    "id": 12189,
+    "name": "Makabrarco",
+    "description": "Esta arma antiga e amaldiçoada se separou da alma de seu antigo mestre quando ele foi morto em combate. Será que você tem o que é preciso para libertar todo o poder que ela contém?",
+    "level": 100,
+    "rarity": 3,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac HP] 120 PV",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 10 Domínio elementar",
+      "[#charac AP] 1 PA",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac LEADERSHIP] 0 Controle",
+      "[#charac DODGE] 0 Esquiva",
+      "[#charac TACKLE] 0 Bloqueio"
+    ]
+  },
+  {
+    "id": 12625,
+    "name": "Arco do Perdão",
+    "description": "Ele perdoará os inimigos abatidos imediatamente.",
+    "level": 93,
+    "rarity": 3,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac BLOCK] 3% de Parada",
+      "[#charac DODGE] 75 Esquiva",
+      "[#charac HP] 122 PV",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac RANGED_DMG] 43 Domínio de distância",
+      "[#charac DMG_IN_PERCENT] 73 Domínio sobre 2 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 14481,
+    "name": "Arco Chicontoso",
+    "description": "Os Smagadores pela primeira vez tentaram esculpir algumas palavras incompreensíveis neste arco: \"Embora um arco simples...\".",
+    "level": 104,
+    "rarity": 2,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DODGE] 30 Esquiva",
+      "[#charac HP] 94 PV",
+      "[#charac RES_IN_PERCENT] 23 Resistência elementar",
+      "[#charac RANGED_DMG] 40 Domínio de distância"
+    ]
+  },
+  {
+    "id": 14645,
+    "name": "Arco de Legol Ás",
+    "description": "Diz-se que esse arco pertenceu a um arqueiro de elite com icterícia e uma curiosa cabeça quadrada.",
+    "level": 107,
+    "rarity": 3,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac DODGE] 45 Esquiva",
+      "[#charac HP] 125 PV",
+      "[#charac AP] 1 PA",
+      "[#charac RES_IN_PERCENT] 17 Resistência elementar",
+      "[#charac BACKSTAB_BONUS] 9 Domínio de costas",
+      "[#charac DMG_IN_PERCENT] 49 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 3% de golpe crítico"
+    ]
+  },
+  {
+    "id": 14646,
+    "name": "Arco de Freia",
+    "description": "Todos sabem que Xubaca lutava com uma balestra. Um fato menos conhecido é que sua prima Freia era mais ligada aos arcos.",
+    "level": 95,
+    "rarity": 4,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac DODGE] 30 Esquiva",
+      "[#charac HP] 113 PV",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac BACKSTAB_BONUS] 10 Domínio de costas",
+      "[#charac DMG_IN_PERCENT] 47 Domínio sobre 3 elementos aleatórios",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar"
+    ]
+  },
+  {
+    "id": 16062,
+    "name": "Arco de Adourno",
+    "description": "Feito com a melhor liga metálica Meka, esse arco tem foco no essencial, tornando-o mais leve e mais eficiente.",
+    "level": 125,
+    "rarity": 3,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 47 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DODGE] 30 Esquiva",
+      "[#charac HP] 162 PV",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac RANGED_DMG] 32 Domínio de distância"
+    ]
+  },
+  {
+    "id": 17309,
+    "name": "Estilingue",
+    "description": "Mire bem no meio, entre as duas pontas.",
+    "level": 149,
+    "rarity": 2,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac RANGE] 1 Alcance",
+      "[#charac AP] 1 PA",
+      "[#charac RES_WATER_PERCENT] 49 Resistência à água",
+      "[#charac DMG_IN_PERCENT] 53 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac HP] 175 PV",
+      "[#charac RES_AIR_PERCENT] 49 Resistência ao ar"
+    ]
+  },
+  {
+    "id": 17352,
+    "name": "Awco Infectado",
+    "description": "As flechas disseminam a infecção. Na hora que acertam alguém, não há escapatória!",
+    "level": 152,
+    "rarity": 3,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac RANGE] 1 Alcance",
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 65 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac HP] 186 PV",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac CRITICAL_BONUS] 10 Domínio de crítico",
+      "[#charac TACKLE] 13 Bloqueio",
+      "[#charac DODGE] 13 Esquiva"
+    ]
+  },
+  {
+    "id": 17773,
+    "name": "Arco Gasoso",
+    "description": "Ele atira flechas odoríferas e, na verdade, bem nojentas.",
+    "level": 60,
+    "rarity": 2,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac HP] 47 PV",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac DMG_IN_PERCENT] 15 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DODGE] 19 Esquiva",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar",
+      "[#charac RANGED_DMG] 11 Domínio de distância"
+    ]
+  },
+  {
+    "id": 18450,
+    "name": "Arcus Shushu",
+    "description": "A verdadeira arma de ataque a distância que os caçadores usam quando vão caçar na Dimensão Shukrute.",
+    "level": 155,
+    "rarity": 4,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac RANGE] 1 Alcance",
+      "[#charac HP] 245 PV",
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 94 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 5% de golpe crítico",
+      "[#charac RANGED_DMG] 48 Domínio de distância",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac DODGE] 20 Esquiva",
+      "[#charac TACKLE] 20 Bloqueio"
+    ]
+  },
+  {
+    "id": 19133,
+    "name": "A flecha do tempo",
+    "description": "Esta flecha que cruza os ares sempre na mesma direção não é muito útil para atingir seus inimigos.",
+    "level": 169,
+    "rarity": 3,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac RANGE] 1 Alcance",
+      "[#charac AP] 1 PA",
+      "[#charac RANGED_DMG] 48 Domínio de distância",
+      "[#charac DMG_IN_PERCENT] 98 Domínio sobre 2 elementos aleatórios",
+      "[#charac DODGE] 35 Esquiva",
+      "[#charac HP] 219 PV",
+      "[#charac RES_EARTH_PERCENT] 33 Resistência à terra",
+      "[#charac RES_AIR_PERCENT] 33 Resistência ao ar",
+      "[#charac RES_WATER_PERCENT] 33 Resistência à água"
+    ]
+  },
+  {
+    "id": 20729,
+    "name": "Arco Prismático",
+    "description": "Este arco de qualidade extraordinária foi fabricado de uma forma completamente desconhecida. Dizem que ele foi criado pela magia de um dragão do passado.",
+    "level": 200,
+    "rarity": 3,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 247 Domínio sobre 3 elementos aleatórios",
+      "[#charac HP] 353 PV",
+      "[#charac RES_IN_PERCENT] 25 Resistência elementar",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac AP] 1 PA"
+    ]
+  },
+  {
+    "id": 21143,
+    "name": "Moluscularco",
+    "description": "Se você não conseguir lançar flechas com este arco, pode usá-lo como bastão. Bom, só os Iops não saberiam usar um arco...",
+    "level": 65,
+    "rarity": 3,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 38 Domínio sobre 3 elementos aleatórios",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac HP] 129 PV"
+    ]
+  },
+  {
+    "id": 21939,
+    "name": "Arco Enstone",
+    "description": "Este arco brilhante chamará a atenção dos Enutrofs, assim ficará mais fácil de visar.",
+    "level": 198,
+    "rarity": 3,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac FEROCITY] 5% de golpe crítico",
+      "[#charac HP] 303 PV",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac AP] 1 PA",
+      "[#charac RES_AIR_PERCENT] 33 Resistência ao ar",
+      "[#charac RES_WATER_PERCENT] 33 Resistência à água",
+      "[#charac DMG_IN_PERCENT] 266 Domínio sobre 3 elementos aleatórios",
+      "[#charac RES_EARTH_PERCENT] 33 Resistência à terra"
+    ]
+  },
+  {
+    "id": 21940,
+    "name": "Arco Enstone",
+    "description": "Este arco brilhante chamará a atenção dos Enutrofs, assim ficará mais fácil de visar.",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac HP] 322 PV",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac AP] 1 PA",
+      "[#charac RES_WATER_PERCENT] 33 Resistência à água",
+      "[#charac DMG_IN_PERCENT] 332 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac RES_EARTH_PERCENT] 33 Resistência à terra",
+      "[#charac RES_AIR_PERCENT] 33 Resistência ao ar"
+    ]
+  },
+  {
+    "id": 22437,
+    "name": "Flecha do Tempo",
+    "description": "Esta flecha, que cruza os ares sempre na mesma direção, não é muito útil para atingir seus inimigos.",
+    "level": 170,
+    "rarity": 4,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac HP] 244 PV",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac AP] 1 PA",
+      "[#charac RES_WATER_PERCENT] 33 Resistência à água",
+      "[#charac RANGED_DMG] 66 Domínio de distância",
+      "[#charac DMG_IN_PERCENT] 134 Domínio sobre 2 elementos aleatórios",
+      "[#charac DODGE] 50 Esquiva",
+      "[#charac RES_EARTH_PERCENT] 33 Resistência à terra",
+      "[#charac RES_AIR_PERCENT] 33 Resistência ao ar"
+    ]
+  },
+  {
+    "id": 22525,
+    "name": "Arco Prismático",
+    "description": "Este arco de qualidade extraordinária foi fabricado de uma forma completamente desconhecida. Dizem que ele foi criado pela magia de um dragão do passado.",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac RANGE] 1 Alcance",
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 311 Domínio sobre 3 elementos aleatórios",
+      "[#charac HP] 380 PV",
+      "[#charac RES_IN_PERCENT] 25 Resistência elementar",
+      "[#charac FEROCITY] 6% de golpe crítico"
+    ]
+  },
+  {
+    "id": 22729,
+    "name": "Awco Infectado",
+    "description": "As flechas disseminam a infecção. Quando acertam o alvo, não há escapatória!",
+    "level": 155,
+    "rarity": 4,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac RANGE] 1 Alcance",
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 82 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 5% de golpe crítico",
+      "[#charac HP] 204 PV",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac CRITICAL_BONUS] 16 Domínio de crítico",
+      "[#charac TACKLE] 33 Bloqueio",
+      "[#charac DODGE] 33 Esquiva"
+    ]
+  },
+  {
+    "id": 22781,
+    "name": "Estilingue",
+    "description": "Mire bem no meio, entre as duas pontas.",
+    "level": 152,
+    "rarity": 3,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac HP] 181 PV",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac AP] 1 PA",
+      "[#charac RES_AIR_PERCENT] 56 Resistência ao ar",
+      "[#charac RES_WATER_PERCENT] 56 Resistência à água",
+      "[#charac DMG_IN_PERCENT] 82 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 3% de golpe crítico"
+    ]
+  },
+  {
+    "id": 22782,
+    "name": "Estilingue",
+    "description": "Mire bem no meio, entre as duas pontas.",
+    "level": 155,
+    "rarity": 4,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac HP] 213 PV",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac AP] 1 PA",
+      "[#charac RES_AIR_PERCENT] 69 Resistência ao ar",
+      "[#charac RES_WATER_PERCENT] 69 Resistência à água",
+      "[#charac DMG_IN_PERCENT] 106 Domínio sobre 3 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 23092,
+    "name": "Arco de Adourno",
+    "description": "Feito com a melhor liga metálica Meka, esse arco tem foco no essencial, tornando-o mais leve e mais eficiente.",
+    "level": 125,
+    "rarity": 4,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac HP] 181 PV",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 71 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DODGE] 40 Esquiva",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac RANGED_DMG] 40 Domínio de distância"
+    ]
+  },
+  {
+    "id": 23093,
+    "name": "Arco de Adourno",
+    "description": "Feito com a melhor liga metálica Meka, esse arco tem foco no essencial, tornando-o mais leve e mais eficiente.",
+    "level": 117,
+    "rarity": 2,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DODGE] 15 Esquiva",
+      "[#charac HP] 151 PV",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar",
+      "[#charac RANGED_DMG] 24 Domínio de distância",
+      "[#charac DMG_IN_PERCENT] 29 Domínio sobre 3 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 23257,
+    "name": "Arco Smagante",
+    "description": "Os Smagadores tentaram esculpir algumas palavras incompreensíveis neste arco: \"Embora um arco simples...\".",
+    "level": 109,
+    "rarity": 3,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac DODGE] 40 Esquiva",
+      "[#charac HP] 105 PV",
+      "[#charac AP] 1 PA",
+      "[#charac RES_IN_PERCENT] 25 Resistência elementar",
+      "[#charac RANGED_DMG] 56 Domínio de distância"
+    ]
+  },
+  {
+    "id": 23634,
+    "name": "Corda de Jamato",
+    "description": "A Corda de Jamato tocou muitos corações de monstros. É uma boa arma, capaz de apontar a flecha na direção dos locais mais escondidos.",
+    "level": 64,
+    "rarity": 3,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac HP] 71 PV",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac BLOCK] 5% de Parada",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac TACKLE] 45 Bloqueio",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar",
+      "[#charac DMG_IN_PERCENT] 45 Domínio sobre 2 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 23650,
+    "name": "Arco Gasoso",
+    "description": "Ele atira flechas odoríferas e, na verdade, bem nojentas.",
+    "level": 65,
+    "rarity": 3,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac DODGE] 28 Esquiva",
+      "[#charac HP] 56 PV",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac DMG_IN_PERCENT] 20 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac RES_IN_PERCENT] 14 Resistência elementar",
+      "[#charac RANGED_DMG] 16 Domínio de distância"
+    ]
+  },
+  {
+    "id": 24009,
+    "name": "Arco de Cra",
+    "description": "Este arco foi ajustado ao atingir as Mafãs douradas.\nDesde então, não precisamos mais comprovar sua exatidão.",
+    "level": 200,
+    "rarity": 3,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac RES_IN_PERCENT]-20 Resistência elementar",
+      "[#charac HP] 174 PV",
+      "[#charac RANGE] 2 Alcance",
+      "[#charac FEROCITY] 5% de golpe crítico",
+      "[#charac RANGED_DMG] 350 Domínio de distância"
+    ]
+  },
+  {
+    "id": 24023,
+    "name": "Arco de Cra",
+    "description": "Este arco foi ajustado ao atingir as Mafãs douradas.\nDesde então, não precisamos mais comprovar sua exatidão.",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac HP] 212 PV",
+      "[#charac RANGE] 2 Alcance",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac RANGED_DMG] 410 Domínio de distância",
+      "[#charac RES_IN_PERCENT]-20 Resistência elementar"
+    ]
+  },
+  {
+    "id": 24635,
+    "name": "A Balista",
+    "description": "Um arco aterrorizador tanto em tempos de guerra como em tempos de paz.",
+    "level": 80,
+    "rarity": 3,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 45 Domínio sobre 1 elemento aleatório",
+      "[#charac FEROCITY] -5% Golpe crítico",
+      "[#charac RANGE] 1 Alcance"
+    ]
+  },
+  {
+    "id": 24652,
+    "name": "O Mosquete",
+    "description": "Esse arco pode atirar projéteis tão pequenos, mas tão pequenos quanto uma mosquinha.",
+    "level": 110,
+    "rarity": 2,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac RANGE] 1 Alcance",
+      "[#charac AP] 1 PA",
+      "[#charac RANGED_DMG] 36 Domínio de distância",
+      "[#charac HP] 192 PV"
+    ]
+  },
+  {
+    "id": 24653,
+    "name": "O Mosquete",
+    "description": "Esse arco pode atirar projéteis tão pequenos, mas tão pequenos quanto uma mosquinha.",
+    "level": 110,
+    "rarity": 3,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac RANGE] 1 Alcance",
+      "[#charac AP] 1 PA",
+      "[#charac RANGED_DMG] 54 Domínio de distância",
+      "[#charac HP] 216 PV"
+    ]
+  },
+  {
+    "id": 24669,
+    "name": "O Douhast",
+    "description": "Esse arco tem um alcance enorme, tão distante que seus projéteis poderiam atingir o céu.",
+    "level": 140,
+    "rarity": 3,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac RANGE] 1 Alcance",
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 88 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac HP] 166 PV",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar"
+    ]
+  },
+  {
+    "id": 24670,
+    "name": "O Douhast",
+    "description": "Esse arco tem um alcance enorme, tão distante que seus projéteis poderiam atingir o céu.",
+    "level": 140,
+    "rarity": 4,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac RANGE] 1 Alcance",
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 106 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac HP] 238 PV",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar"
+    ]
+  },
+  {
+    "id": 25371,
+    "name": "Arco de Truz",
+    "description": "Um arco eficaz para impedir os inimigos de fugir e voar em cima deles. Aqui, é bem provável que você precise!",
+    "level": 79,
+    "rarity": 3,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac RANGED_DMG] 48 Domínio de distância",
+      "[#charac RES_IN_PERCENT] 25 Resistência elementar",
+      "[#charac HP] 118 PV",
+      "[#charac TACKLE] 30 Bloqueio",
+      "[#charac DODGE] 30 Esquiva",
+      "[#charac FEROCITY] 3% de golpe crítico"
+    ]
+  },
+  {
+    "id": 25470,
+    "name": "Arco dos Nós",
+    "description": "Se você odeia o som de ossos quebrando, esta definitivamente não é a arma certa para você.",
+    "level": 82,
+    "rarity": 1,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac HP] 28 PV",
+      "[#charac DMG_IN_PERCENT] 24 Domínio sobre 3 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 25471,
+    "name": "Arco dos Nós",
+    "description": "Se você odeia o som de ossos quebrando, esta definitivamente não é a arma certa para você.",
+    "level": 90,
+    "rarity": 2,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 38 Domínio sobre 3 elementos aleatórios",
+      "[#charac AP] 1 PA",
+      "[#charac HP] 205 PV"
+    ]
+  },
+  {
+    "id": 25472,
+    "name": "Arco dos Nós",
+    "description": "Se você odeia o som de ossos quebrando, esta definitivamente não é a arma certa para você.",
+    "level": 93,
+    "rarity": 3,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac HP] 238 PV",
+      "[#charac DMG_IN_PERCENT] 55 Domínio sobre 3 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 25553,
+    "name": "Arco de Riktus",
+    "description": "Tenha cuidado ao usar esse arco. Ele pode causar terremotos que ultrapassam a escala Richter.",
+    "level": 102,
+    "rarity": 2,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac RANGE] 1 Alcance",
+      "[#charac HP] 132 PV",
+      "[#charac FEROCITY] -5% Golpe crítico",
+      "[#charac DMG_IN_PERCENT] 43 Domínio sobre 2 elementos aleatórios",
+      "[#charac AP] 1 PA",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar"
+    ]
+  },
+  {
+    "id": 25554,
+    "name": "Arco de Riktus",
+    "description": "Tenha cuidado ao usar esse arco. Ele pode causar terremotos que ultrapassam a escala Richter.",
+    "level": 110,
+    "rarity": 3,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac HP] 209 PV",
+      "[#charac FEROCITY] -5% Golpe crítico",
+      "[#charac DMG_IN_PERCENT] 61 Domínio sobre 2 elementos aleatórios",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar"
+    ]
+  },
+  {
+    "id": 25787,
+    "name": "Arco de Arvraknídeo Ancestral",
+    "description": "Parece que, para colocar a corda neste arco, a Arakne Bordadeira teve de recomeçar o trabalho 59 vezes até que o Arvraknídeo Ancestral ficasse satisfeito com o resultado.",
+    "level": 138,
+    "rarity": 3,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac HP] 330 PV",
+      "[#charac RES_IN_PERCENT] 50 Resistência elementar",
+      "[#charac DODGE] 40 Esquiva",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 147 Domínio sobre 1 elemento aleatório",
+      "[#charac MELEE_DMG] 36 Domínio de curta distância"
+    ]
+  },
+  {
+    "id": 25788,
+    "name": "Arco de Arvraknídeo Ancestral",
+    "description": "Parece que, para colocar a corda neste arco, a Arakne Bordadeira teve de recomeçar o trabalho 59 vezes até que o Arvraknídeo Ancestral ficasse satisfeito com o resultado.",
+    "level": 140,
+    "rarity": 4,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac DODGE] 70 Esquiva",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 191 Domínio sobre 1 elemento aleatório",
+      "[#charac MELEE_DMG] 36 Domínio de curta distância",
+      "[#charac HP] 392 PV",
+      "[#charac RES_IN_PERCENT] 50 Resistência elementar"
+    ]
+  },
+  {
+    "id": 26052,
+    "name": "Arco Riktus de Elite",
+    "description": "Não levante um dedo, essa flecha disparará sozinha!",
+    "level": 166,
+    "rarity": 2,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac HP] 306 PV",
+      "[#charac DMG_IN_PERCENT] 93 Domínio sobre 3 elementos aleatórios",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar",
+      "[#charac AP] 1 PA",
+      "[#charac RANGE] 1 Alcance"
+    ]
+  },
+  {
+    "id": 26053,
+    "name": "Arco Riktus de Elite",
+    "description": "Não levante um dedo, essa flecha disparará sozinha!",
+    "level": 169,
+    "rarity": 3,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac HP] 349 PV",
+      "[#charac DMG_IN_PERCENT] 129 Domínio sobre 3 elementos aleatórios",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar"
+    ]
+  },
+  {
+    "id": 26054,
+    "name": "Arco Riktus de Elite",
+    "description": "Não levante um dedo, essa flecha disparará sozinha!",
+    "level": 170,
+    "rarity": 4,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac HP] 381 PV",
+      "[#charac DMG_IN_PERCENT] 171 Domínio sobre 3 elementos aleatórios",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar"
+    ]
+  },
+  {
+    "id": 26985,
+    "name": "Arco Himedes",
+    "description": "Ideal para empurrar os adversários.",
+    "level": 191,
+    "rarity": 2,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac RES_AIR_PERCENT] 56 Resistência ao ar",
+      "[#charac HP] 332 PV",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 265 Domínio sobre 3 elementos aleatórios",
+      "[#charac RES_WATER_PERCENT] 56 Resistência à água"
+    ]
+  },
+  {
+    "id": 26986,
+    "name": "Arco Himedes",
+    "description": "Ideal para empurrar os adversários.",
+    "level": 199,
+    "rarity": 3,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 360 Domínio sobre 3 elementos aleatórios",
+      "[#charac RES_WATER_PERCENT] 63 Resistência à água",
+      "[#charac RES_AIR_PERCENT] 63 Resistência ao ar",
+      "[#charac AP] 1 PA",
+      "[#charac HP] 366 PV",
+      "[#charac FEROCITY] 5% de golpe crítico"
+    ]
+  },
+  {
+    "id": 26987,
+    "name": "Arco Himedes",
+    "description": "Ideal para empurrar os adversários.",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac HP] 387 PV",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 424 Domínio sobre 3 elementos aleatórios",
+      "[#charac RES_WATER_PERCENT] 69 Resistência à água",
+      "[#charac AP] 1 PA",
+      "[#charac RES_AIR_PERCENT] 69 Resistência ao ar"
+    ]
+  },
+  {
+    "id": 27009,
+    "name": "Mira Abela",
+    "description": "Este arco desprende um delicioso aroma de frutas. É um contraste surpreendente com o resto do seu equipamento.",
+    "level": 194,
+    "rarity": 2,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 183 Domínio sobre 2 elementos aleatórios",
+      "[#charac MELEE_DMG] 120 Domínio de curta distância",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac HP] 328 PV",
+      "[#charac TACKLE] 60 Bloqueio",
+      "[#charac DODGE] 60 Esquiva",
+      "[#charac BLOCK] 5% de Parada"
+    ]
+  },
+  {
+    "id": 27010,
+    "name": "Mira Abela",
+    "description": "Este arco desprende um delicioso aroma de frutas. É um contraste surpreendente com o resto do seu equipamento.",
+    "level": 197,
+    "rarity": 3,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 244 Domínio sobre 2 elementos aleatórios",
+      "[#charac MELEE_DMG] 120 Domínio de curta distância",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac HP] 384 PV",
+      "[#charac TACKLE] 100 Bloqueio",
+      "[#charac DODGE] 100 Esquiva",
+      "[#charac BLOCK] 5% de Parada"
+    ]
+  },
+  {
+    "id": 27011,
+    "name": "Mira Abela",
+    "description": "Este arco desprende um delicioso aroma de frutas. É um contraste surpreendente com o resto do seu equipamento.",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 366 Domínio sobre 2 elementos aleatórios",
+      "[#charac MELEE_DMG] 120 Domínio de curta distância",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac HP] 444 PV",
+      "[#charac TACKLE] 100 Bloqueio",
+      "[#charac DODGE] 100 Esquiva",
+      "[#charac BLOCK] 5% de Parada"
+    ]
+  },
+  {
+    "id": 27745,
+    "name": "O Imaculado",
+    "description": "Suas flechas são tão frias que queimam.",
+    "level": 215,
+    "rarity": 4,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac RANGED_DMG] 166 Domínio de distância",
+      "[#charac RES_FIRE_PERCENT] 65 Resistência ao fogo",
+      "[#charac RES_WATER_PERCENT] 65 Resistência à água",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac HP] 442 PV",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 224 Domínio sobre 3 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 28179,
+    "name": "Arco Hádia",
+    "description": "Ele teria pertencido a Arcas, um jovem herói pretencioso que se considerava filho de um deus.",
+    "level": 215,
+    "rarity": 3,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac WP] 1 PW",
+      "[#charac HP] 487 PV",
+      "[#charac RANGED_DMG] 350 Domínio de distância",
+      "[#charac AP] 1 PA",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar"
+    ]
+  },
+  {
+    "id": 28180,
+    "name": "Arco Hádia",
+    "description": "Ele teria pertencido a Arcas, um jovem herói pretencioso que se considerava filho de um deus.",
+    "level": 215,
+    "rarity": 4,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac HP] 503 PV",
+      "[#charac RANGED_DMG] 440 Domínio de distância",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac AP] 1 PA",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac WP] 1 PW"
+    ]
+  },
+  {
+    "id": 29481,
+    "name": "Avilarco",
+    "description": "Este arco foi forjado por Aviola, mestre músico obcecado pelas festas de Bilbyza. As flechas que ele dispara fazem o alvo dançar sem parar. Alguns morrem de cansaço, mas o efeito pode ser anulado tomando um coquetel.",
+    "level": 230,
+    "rarity": 3,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac RES_WATER_PERCENT] 56 Resistência à água",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac RES_AIR_PERCENT] 56 Resistência ao ar",
+      "[#charac HP] 633 PV",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac RANGED_DMG] 293 Domínio de distância",
+      "[#charac DMG_IN_PERCENT] 200 Domínio sobre 2 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 29482,
+    "name": "Avilarco",
+    "description": "Este arco foi forjado por Aviola, mestre músico obcecado pelas festas de Bilbyza. As flechas que ele dispara fazem o alvo dançar sem parar. Alguns morrem de cansaço, mas o efeito pode ser anulado tomando um coquetel.",
+    "level": 230,
+    "rarity": 4,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac RES_WATER_PERCENT] 42 Resistência à água",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac RES_AIR_PERCENT] 42 Resistência ao ar",
+      "[#charac HP] 758 PV",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac RANGED_DMG] 390 Domínio de distância",
+      "[#charac DMG_IN_PERCENT] 200 Domínio sobre 2 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 29636,
+    "name": "Arco Ancestral",
+    "description": "Ao passar, as flechas deste arco deixam para trás um raio de luz, indispensável para os navegadores mais intrépidos.\t",
+    "level": 230,
+    "rarity": 3,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac RANGE] 1 Alcance",
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 461 Domínio sobre 3 elementos aleatórios",
+      "[#charac HP] 550 PV",
+      "[#charac RES_IN_PERCENT] 25 Resistência elementar",
+      "[#charac FEROCITY] 6% de golpe crítico"
+    ]
+  },
+  {
+    "id": 29637,
+    "name": "Arco Ancestral",
+    "description": "Ao passar, as flechas deste arco deixam para trás um raio de luz, indispensável para os navegadores mais intrépidos.\t",
+    "level": 230,
+    "rarity": 4,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac RANGE] 1 Alcance",
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 530 Domínio sobre 3 elementos aleatórios",
+      "[#charac HP] 644 PV",
+      "[#charac RES_IN_PERCENT] 25 Resistência elementar",
+      "[#charac FEROCITY] 6% de golpe crítico"
+    ]
+  },
+  {
+    "id": 29821,
+    "name": "Arcus Shushu",
+    "description": "A verdadeira arma de ataque a distância que os caçadores usam quando vão caçar na Dimensão Shukrute.",
+    "level": 150,
+    "rarity": 3,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac RANGED_DMG] 24 Domínio de distância",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac HP] 220 PV",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac DMG_IN_PERCENT] 71 Domínio sobre 3 elementos aleatórios",
+      "[#charac TACKLE] 17 Bloqueio",
+      "[#charac DODGE] 17 Esquiva"
+    ]
+  },
+  {
+    "id": 32333,
+    "name": "Arco de Freyrr",
+    "description": "É de conhecimento geral que Chowboca lutava com balestra. Poucos sabem, porém, que seu primo Freyrr preferia o arco.",
+    "level": 245,
+    "rarity": 6,
+    "slot": "Arco (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac HP] 702 PV",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac RANGED_DMG] 350 Domínio de distância",
+      "[#charac DMG_IN_PERCENT] 475 Domínio sobre 2 elementos aleatórios",
+      "[#charac RES_EARTH_PERCENT] 70 Resistência à terra",
+      "[#charac RES_WATER_PERCENT] 70 Resistência à água"
+    ]
+  }
+]
