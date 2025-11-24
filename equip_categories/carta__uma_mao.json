@@ -1,0 +1,1082 @@
+[
+  {
+    "id": 3812,
+    "name": "Papacartas",
+    "description": "Para garantir uma melhor pegada, as beiradas destas cartas foram cobertas com lã de Papatudo. São fofas, mas incrivelmente fedorentas.",
+    "level": 15,
+    "rarity": 2,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 12 Domínio elementar",
+      "[#charac HP] 6 PV",
+      "[#charac TACKLE] 3 Bloqueio",
+      "[#charac DODGE] 3 Esquiva"
+    ]
+  },
+  {
+    "id": 3833,
+    "name": "Cartas da Lealdade",
+    "description": "As Ecaflips usam estas cartas para se vingar de parceiros infiéis... decepando uma parte do corpo... devem ser as mãos, sem dúvida. ",
+    "level": 25,
+    "rarity": 2,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac HP] 10 PV",
+      "[#charac TACKLE] 8 Bloqueio",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DMG_EARTH_PERCENT] 15 Domínio de terra"
+    ]
+  },
+  {
+    "id": 3941,
+    "name": "Cartas de graveto",
+    "description": "Belas cartas talhadas em madeira, o suficiente para fazer um Tofu morrer de medo!",
+    "level": 10,
+    "rarity": 2,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 12 Domínio elementar",
+      "[#charac HP] 5 PV",
+      "[#charac DODGE] 3 Esquiva",
+      "[#charac TACKLE] 3 Bloqueio"
+    ]
+  },
+  {
+    "id": 6556,
+    "name": "À La Cartas",
+    "description": "Estas cartas deixam você escolher que partes do seu inimigo quer para o jantar.",
+    "level": 51,
+    "rarity": 3,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac HP] 20 PV",
+      "[#charac DMG_IN_PERCENT] 20 Domínio sobre 2 elementos aleatórios",
+      "[#charac RANGED_DMG] 7 Domínio de distância",
+      "[#charac TACKLE] 5 Bloqueio",
+      "[#charac DODGE] 5 Esquiva"
+    ]
+  },
+  {
+    "id": 9243,
+    "name": "Cartas Poke",
+    "description": "No passado, estas cartas faziam parte de um jogo muito famoso no Mundo dos Doze. Hoje em dia, elas são armas poderosas.",
+    "level": 30,
+    "rarity": 2,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac FEROCITY] 1% de golpe crítico",
+      "[#charac HP] 10 PV",
+      "[#charac DODGE] 11 Esquiva",
+      "[#charac DMG_FIRE_PERCENT] 13 Domínio de fogo",
+      "[#charac DMG_WATER_PERCENT] 13 Domínio de água"
+    ]
+  },
+  {
+    "id": 9963,
+    "name": "Cartas Katastro",
+    "description": "Estas cartas são desastres ambulantes. Atire algumas nos inimigos para instaurar o caos!",
+    "level": 40,
+    "rarity": 2,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac HP] 13 PV",
+      "[#charac TACKLE] 6 Bloqueio",
+      "[#charac DMG_AIR_PERCENT] 15 Domínio de ar",
+      "[#charac DMG_EARTH_PERCENT] 15 Domínio de terra",
+      "[#charac DODGE] 6 Esquiva",
+      "[#charac FEROCITY] 2% de golpe crítico"
+    ]
+  },
+  {
+    "id": 12187,
+    "name": "Makartabras",
+    "description": "Esta arma antiga e amaldiçoada se separou da alma de seu antigo mestre quando ele foi morto em combate. Será que você tem o que é preciso para libertar todo o poder que ela contém?",
+    "level": 100,
+    "rarity": 3,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac HP] 75 PV",
+      "[#charac DMG_IN_PERCENT] 10 Domínio elementar",
+      "[#charac AP] 1 PA",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac DODGE] 0 Esquiva",
+      "[#charac TACKLE] 0 Bloqueio"
+    ]
+  },
+  {
+    "id": 12836,
+    "name": "Cartas Felpudas",
+    "description": "Estas cartas são felpudinhas, felpudinhas estas cartas são... Se usá-las direito, você pode deixar o inimigo na maior confusão.",
+    "level": 7,
+    "rarity": 2,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac HP] 3 PV",
+      "[#charac DODGE] 4 Esquiva",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 13 Domínio elementar"
+    ]
+  },
+  {
+    "id": 14279,
+    "name": "Raio",
+    "description": "Este raio não cai duas vezes no mesmo lugar.",
+    "level": 95,
+    "rarity": 3,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac TACKLE] 7 Bloqueio",
+      "[#charac DODGE] 7 Esquiva",
+      "[#charac AP] 1 PA",
+      "[#charac HP] 47 PV",
+      "[#charac DMG_IN_PERCENT] 51 Domínio sobre 1 elemento aleatório",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar",
+      "[#charac CRITICAL_BONUS] 8 Domínio de crítico"
+    ]
+  },
+  {
+    "id": 14656,
+    "name": "Cartas de Hush",
+    "description": "Dizem que o poderoso nobre Bontariano Ushoa Gatosh amaldiçoou estas cartas e agora todos que as usam acabam viciados em apostas.",
+    "level": 95,
+    "rarity": 7,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac MP] 1 PM",
+      "[#charac FEROCITY] -5% Golpe crítico",
+      "[#charac HP] 82 PV",
+      "[#charac DODGE] 40 Esquiva",
+      "[#charac DMG_IN_PERCENT] 59 Domínio sobre 3 elementos aleatórios",
+      "[#charac BACKSTAB_BONUS] 10 Domínio de costas"
+    ]
+  },
+  {
+    "id": 14881,
+    "name": "Cartas Algáceas",
+    "description": "Um baralho de cartas feitas de conchas. Perfeito para jogar na praia e cortar uma garganta ou outra quando você perder.",
+    "level": 65,
+    "rarity": 3,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 25 Domínio sobre 3 elementos aleatórios",
+      "[#charac HP] 56 PV",
+      "[#charac DODGE] 15 Esquiva",
+      "[#charac RES_IN_PERCENT] 16 Resistência elementar",
+      "[#charac RANGED_DMG] 14 Domínio de distância"
+    ]
+  },
+  {
+    "id": 15031,
+    "name": "Cartas do Caos",
+    "description": "Todos os piratas têm muito tempo livre para jogar cartas. Este baralho é O BARALHO da sorte, o que talvez tenha relação com o fato de que ele tem no mínimo 9 ases.",
+    "level": 55,
+    "rarity": 2,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac BLOCK] 2% de Parada",
+      "[#charac HP] 20 PV",
+      "[#charac DODGE] 8 Esquiva",
+      "[#charac DMG_IN_PERCENT] 12 Domínio sobre 2 elementos aleatórios",
+      "[#charac CRITICAL_BONUS] 2 Domínio de crítico"
+    ]
+  },
+  {
+    "id": 16119,
+    "name": "Cartas Gelobom",
+    "description": "Você precisará de uma faca quente para cortar o baralho, mas com certeza vencerá o jogo!",
+    "level": 121,
+    "rarity": 2,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac CRITICAL_BONUS] 27 Domínio de crítico",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac HP] 75 PV",
+      "[#charac AP] 1 PA",
+      "[#charac RES_EARTH_PERCENT] 28 Resistência à terra",
+      "[#charac RES_FIRE_PERCENT] 28 Resistência ao fogo"
+    ]
+  },
+  {
+    "id": 16821,
+    "name": "Cartas Praianas",
+    "description": "Seus amigos ficarão tão impressionados com o design destas belas cartas que nem notarão as fichas que você roubou.",
+    "level": 100,
+    "rarity": 2,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac HP] 36 PV",
+      "[#charac AP] 1 PA",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar",
+      "[#charac BACKSTAB_BONUS] 4 Domínio de costas",
+      "[#charac CRITICAL_BONUS] 3 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 38 Domínio sobre 1 elemento aleatório"
+    ]
+  },
+  {
+    "id": 17243,
+    "name": "Konaldos",
+    "description": "Por causa do pelo grosso na parte de cima, ninguém suspeitará do incrível poder de corte destas cartas.",
+    "level": 135,
+    "rarity": 3,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac RES_WATER_PERCENT] 11 Resistência à água",
+      "[#charac DMG_IN_PERCENT] 41 Domínio sobre 3 elementos aleatórios",
+      "[#charac HP] 40 PV",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac RES_EARTH_PERCENT] 11 Resistência à terra"
+    ]
+  },
+  {
+    "id": 17347,
+    "name": "Caltas Podles",
+    "description": "Nós não estamos trapaceando, é você que tem uma sorte podle.",
+    "level": 153,
+    "rarity": 3,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac DODGE] 25 Esquiva",
+      "[#charac HP] 68 PV",
+      "[#charac AP] 1 PA",
+      "[#charac RES_WATER_PERCENT] 17 Resistência à água",
+      "[#charac RES_FIRE_PERCENT] 17 Resistência ao fogo",
+      "[#charac CRITICAL_BONUS] 20 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 47 Domínio sobre 3 elementos aleatórios",
+      "[#charac RES_AIR_PERCENT] 17 Resistência ao ar"
+    ]
+  },
+  {
+    "id": 17733,
+    "name": "Cartas Icônicas",
+    "description": "Estas cartas são muito apreciadas pelos monges, que as colecionam nos monastérios.",
+    "level": 92,
+    "rarity": 2,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac HP] 108 PV",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac BERSERK_DMG] 30 Domínio de Berserk",
+      "[#charac DMG_IN_PERCENT] 38 Domínio sobre 1 elemento aleatório",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac RES_IN_PERCENT] 18 Resistência elementar",
+      "[#charac DODGE] 17 Esquiva",
+      "[#charac TACKLE] 17 Bloqueio"
+    ]
+  },
+  {
+    "id": 18448,
+    "name": "Cartus Shushu",
+    "description": "Quando estas cartas são lançadas, novas aparecem imediatamente na mão de seu dono. Com prática, você também será capaz de usá-las para transformar seus inimigos em pequenos pedados.",
+    "level": 155,
+    "rarity": 4,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac HP] 85 PV",
+      "[#charac DMG_IN_PERCENT] 82 Domínio sobre 3 elementos aleatórios",
+      "[#charac CRITICAL_BONUS] 27 Domínio de crítico",
+      "[#charac FEROCITY] 5% de golpe crítico",
+      "[#charac BACKSTAB_BONUS] 31 Domínio de costas",
+      "[#charac RES_IN_PERCENT] 14 Resistência elementar",
+      "[#charac DODGE] 20 Esquiva",
+      "[#charac TACKLE] 20 Bloqueio"
+    ]
+  },
+  {
+    "id": 18561,
+    "name": "Cartão de Crédito",
+    "description": "Tendo apenas recentemente feito sua aparição no Mundo dos Doze, agora está amplamente em uso. Agora você pode conseguir Kamas de quase qualquer um, sem ter que ir ao banco.",
+    "level": 155,
+    "rarity": 3,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac AP] 1 PA",
+      "[#charac CRITICAL_BONUS] 20 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 61 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac HP] 76 PV",
+      "[#charac RES_EARTH_PERCENT] 28 Resistência à terra",
+      "[#charac RES_AIR_PERCENT] 28 Resistência ao ar"
+    ]
+  },
+  {
+    "id": 19141,
+    "name": "Mapa das maravilhas",
+    "description": "Vá em busca de aventura com este mapa na mão e encontre maravilhas. Pelo menos é o que dizem!",
+    "level": 164,
+    "rarity": 3,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac MP] 1 PM",
+      "[#charac DMG_IN_PERCENT] 91 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac DODGE] 40 Esquiva",
+      "[#charac HP] 111 PV",
+      "[#charac RES_FIRE_PERCENT] 33 Resistência ao fogo",
+      "[#charac RANGED_DMG] 36 Domínio de distância"
+    ]
+  },
+  {
+    "id": 19246,
+    "name": "As Cartas do Mar Roto",
+    "description": "Com estas cartas, ninguém vai ouvir você murmurar \"Malfeito feito!\".",
+    "level": 110,
+    "rarity": 2,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac DODGE] 7 Esquiva",
+      "[#charac TACKLE] 7 Bloqueio",
+      "[#charac HP] 81 PV",
+      "[#charac AP] 1 PA",
+      "[#charac BACKSTAB_BONUS] 15 Domínio de costas",
+      "[#charac CRITICAL_BONUS] 13 Domínio de crítico",
+      "[#charac FEROCITY] 4% de golpe crítico"
+    ]
+  },
+  {
+    "id": 19454,
+    "name": "Pastilhas de freio",
+    "description": "Estas pastilhas são usadas no Korbot para que ele possa desacelerar e frear sozinho quando anda por aí. Elas parecem novas, deve ter vindo de um estoque suplementar.",
+    "level": 90,
+    "rarity": 3,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac AP] 1 PA",
+      "[#charac HP] 75 PV",
+      "[#charac DMG_IN_PERCENT] 24 Domínio sobre 3 elementos aleatórios",
+      "[#charac BACKSTAB_BONUS] 6 Domínio de costas",
+      "[#charac DODGE] 7 Esquiva",
+      "[#charac TACKLE] 7 Bloqueio"
+    ]
+  },
+  {
+    "id": 20198,
+    "name": "As Cartashians",
+    "description": "Dizem que, antigamente, estas cartas possuíam belos cabelos negros e carcarejavam perto de outro jogo de cartas, os Vwest, sussurrando coisas do gênero... “Ô, Kannye! Kannye! Por que sois um Kannye? Renegai vosso pai e abdicai vosso nome. Ou, se não quiserdes, jurai de me amar, e eu não serei mais uma Capuleto!” Ou algo assim bem apaixonado.",
+    "level": 185,
+    "rarity": 4,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac HP] 242 PV",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac RANGED_DMG] 60 Domínio de distância",
+      "[#charac DMG_IN_PERCENT] 94 Domínio sobre 3 elementos aleatórios",
+      "[#charac DODGE] 20 Esquiva",
+      "[#charac TACKLE] 20 Bloqueio"
+    ]
+  },
+  {
+    "id": 20222,
+    "name": "Cartas de presas",
+    "description": "Cartas que sabem morder!",
+    "level": 185,
+    "rarity": 4,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 118 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac HP] 213 PV",
+      "[#charac CRITICAL_BONUS] 36 Domínio de crítico",
+      "[#charac DODGE] 13 Esquiva",
+      "[#charac TACKLE] 13 Bloqueio"
+    ]
+  },
+  {
+    "id": 20978,
+    "name": "Cartas Turbilárias",
+    "description": "Estas cartas são tão bonitas e vistosas que algumas pessoas ficam horas só embaralhando-as.",
+    "level": 114,
+    "rarity": 2,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac HP] 73 PV",
+      "[#charac DODGE] 10 Esquiva",
+      "[#charac AP] 1 PA",
+      "[#charac MELEE_DMG] 32 Domínio de curta distância"
+    ]
+  },
+  {
+    "id": 21169,
+    "name": "Cartas Ensanguentadas",
+    "description": "Estas cartas ainda têm o cheiro delicioso do sangue das suas vítimas. Hum...",
+    "level": 62,
+    "rarity": 3,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac HP] 71 PV",
+      "[#charac TACKLE] 15 Bloqueio",
+      "[#charac DMG_IN_PERCENT] 12 Domínio sobre 3 elementos aleatórios",
+      "[#charac BERSERK_DMG] 15 Domínio de Berserk",
+      "[#charac DODGE] 15 Esquiva",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac RES_FIRE_PERCENT] 22 Resistência ao fogo",
+      "[#charac RES_EARTH_PERCENT] 22 Resistência à terra",
+      "[#charac RES_WATER_PERCENT] 22 Resistência à água"
+    ]
+  },
+  {
+    "id": 21480,
+    "name": "Cartas Turbilárias",
+    "description": "Estas cartas são tão bonitas e vistosas que algumas pessoas ficam horas só embaralhando-as.",
+    "level": 124,
+    "rarity": 3,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac HP] 49 PV",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac TACKLE] 10 Bloqueio",
+      "[#charac DODGE] 10 Esquiva",
+      "[#charac MELEE_DMG] 48 Domínio de curta distância",
+      "[#charac RES_IN_PERCENT] 28 Resistência a 2 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 21497,
+    "name": "Cartas Turbilárias",
+    "description": "Estas cartas são tão bonitas e vistosas que algumas pessoas ficam horas só embaralhando-as.",
+    "level": 125,
+    "rarity": 4,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac TACKLE] 15 Bloqueio",
+      "[#charac DODGE] 15 Esquiva",
+      "[#charac AP] 1 PA",
+      "[#charac HP] 98 PV",
+      "[#charac MELEE_DMG] 64 Domínio de curta distância",
+      "[#charac RES_IN_PERCENT] 14 Resistência a 2 elementos aleatórios",
+      "[#charac FEROCITY] 4% de golpe crítico"
+    ]
+  },
+  {
+    "id": 21928,
+    "name": "Uru Kartas",
+    "description": "Cartas imundas marcadas com uma mão branca... Por onde será que elas andaram?",
+    "level": 189,
+    "rarity": 2,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac HP] 298 PV",
+      "[#charac DMG_IN_PERCENT] 153 Domínio sobre 3 elementos aleatórios",
+      "[#charac TACKLE] 17 Bloqueio",
+      "[#charac DODGE] 17 Esquiva"
+    ]
+  },
+  {
+    "id": 21929,
+    "name": "Uru Kartas",
+    "description": "Cartas imundas marcadas com uma mão branca... Por onde será que elas andaram?",
+    "level": 197,
+    "rarity": 3,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac HP] 318 PV",
+      "[#charac DMG_IN_PERCENT] 212 Domínio sobre 3 elementos aleatórios",
+      "[#charac DODGE] 60 Esquiva"
+    ]
+  },
+  {
+    "id": 21930,
+    "name": "Uru Kartas",
+    "description": "Cartas imundas marcadas com uma mão branca... Por onde será que elas andaram?",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 224 Domínio sobre 3 elementos aleatórios",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac HP] 192 PV"
+    ]
+  },
+  {
+    "id": 22243,
+    "name": "As Cartashians",
+    "description": "Dizem que, antigamente, estas cartas possuíam belos cabelos negros e carcarejavam perto de outro jogo de cartas, os Vwest, sussurrando coisas do gênero... “Ô, Kannye! Kannye! Por que sois um Kannye? Renegai vosso pai e abdicai vosso nome. Ou, se não quiserdes, jurai de me amar, e eu não serei mais uma Capuleto!” Ou algo assim bem apaixonado.",
+    "level": 183,
+    "rarity": 3,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 71 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac HP] 236 PV",
+      "[#charac RANGED_DMG] 30 Domínio de distância",
+      "[#charac TACKLE] 20 Bloqueio",
+      "[#charac DODGE] 20 Esquiva"
+    ]
+  },
+  {
+    "id": 22246,
+    "name": "Cartas com Presas",
+    "description": "Cartas que sabem morder!",
+    "level": 184,
+    "rarity": 3,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac HP] 202 PV",
+      "[#charac AP] 1 PA",
+      "[#charac CRITICAL_BONUS] 23 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 94 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 5% de golpe crítico",
+      "[#charac DODGE] 13 Esquiva",
+      "[#charac TACKLE] 13 Bloqueio"
+    ]
+  },
+  {
+    "id": 22394,
+    "name": "Carta das Maravilhas",
+    "description": "Vá em busca de aventura com este mapa na mão e encontre maravilhas. Pelo menos é o que dizem!",
+    "level": 170,
+    "rarity": 4,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac FEROCITY] 5% de golpe crítico",
+      "[#charac DODGE] 50 Esquiva",
+      "[#charac HP] 143 PV",
+      "[#charac MP] 1 PM",
+      "[#charac RES_FIRE_PERCENT] 50 Resistência ao fogo",
+      "[#charac RANGED_DMG] 36 Domínio de distância",
+      "[#charac DMG_IN_PERCENT] 122 Domínio sobre 2 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 22662,
+    "name": "Cartão de Crédito",
+    "description": "Ele surgiu recentemente no Mundo dos Doze, mas já está sendo amplamente usado. Agora, você pode tirar kamas à força de qualquer coisa e qualquer um.",
+    "level": 155,
+    "rarity": 4,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac AP] 1 PA",
+      "[#charac CRITICAL_BONUS] 24 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 85 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac HP] 93 PV",
+      "[#charac RES_EARTH_PERCENT] 35 Resistência à terra",
+      "[#charac RES_AIR_PERCENT] 35 Resistência ao ar"
+    ]
+  },
+  {
+    "id": 22663,
+    "name": "Cartão de Crédito",
+    "description": "Ele surgiu recentemente no Mundo dos Doze, mas já está sendo amplamente usado. Agora, você pode tirar kamas à força de qualquer coisa e qualquer um.",
+    "level": 152,
+    "rarity": 2,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac AP] 1 PA",
+      "[#charac CRITICAL_BONUS] 11 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 49 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac HP] 72 PV",
+      "[#charac RES_EARTH_PERCENT] 21 Resistência à terra",
+      "[#charac RES_AIR_PERCENT] 21 Resistência ao ar"
+    ]
+  },
+  {
+    "id": 22719,
+    "name": "Cawtas Woubadas",
+    "description": "Nós não estamos trapaceando, é você que tem uma sowte podwe.",
+    "level": 155,
+    "rarity": 4,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac DODGE] 35 Esquiva",
+      "[#charac HP] 73 PV",
+      "[#charac AP] 1 PA",
+      "[#charac RES_FIRE_PERCENT] 18 Resistência ao fogo",
+      "[#charac CRITICAL_BONUS] 32 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 59 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 5% de golpe crítico",
+      "[#charac RES_AIR_PERCENT] 18 Resistência ao ar",
+      "[#charac RES_WATER_PERCENT] 18 Resistência à água"
+    ]
+  },
+  {
+    "id": 22720,
+    "name": "Cawtas Woubadas",
+    "description": "Nós não estamos trapaceando, é você que tem uma sowte podwe.",
+    "level": 145,
+    "rarity": 2,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 35 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac DODGE] 20 Esquiva",
+      "[#charac HP] 66 PV",
+      "[#charac RES_AIR_PERCENT] 11 Resistência ao ar",
+      "[#charac RES_WATER_PERCENT] 11 Resistência à água",
+      "[#charac RES_FIRE_PERCENT] 11 Resistência ao fogo",
+      "[#charac CRITICAL_BONUS] 9 Domínio de crítico"
+    ]
+  },
+  {
+    "id": 22910,
+    "name": "Konaldos",
+    "description": "Por causa do pelo grosso na parte de cima, ninguém suspeitará do incrível poder de corte destas cartas.",
+    "level": 140,
+    "rarity": 4,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac HP] 62 PV",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac AP] 1 PA",
+      "[#charac RES_EARTH_PERCENT] 14 Resistência à terra",
+      "[#charac RES_WATER_PERCENT] 14 Resistência à água",
+      "[#charac DMG_IN_PERCENT] 65 Domínio sobre 3 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 23071,
+    "name": "Cartas Gelobom",
+    "description": "Você precisará de uma faca quente para cortar o baralho, mas com certeza vencerá o jogo!",
+    "level": 125,
+    "rarity": 4,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac CRITICAL_BONUS] 65 Domínio de crítico",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac HP] 84 PV",
+      "[#charac AP] 1 PA",
+      "[#charac RES_EARTH_PERCENT] 28 Resistência à terra",
+      "[#charac RES_FIRE_PERCENT] 28 Resistência ao fogo"
+    ]
+  },
+  {
+    "id": 23072,
+    "name": "Cartas Gelobom",
+    "description": "Você precisará de uma faca quente para cortar o baralho, mas com certeza vencerá o jogo!",
+    "level": 124,
+    "rarity": 3,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac HP] 80 PV",
+      "[#charac AP] 1 PA",
+      "[#charac RES_EARTH_PERCENT] 28 Resistência à terra",
+      "[#charac RES_FIRE_PERCENT] 28 Resistência ao fogo",
+      "[#charac CRITICAL_BONUS] 42 Domínio de crítico",
+      "[#charac FEROCITY] 3% de golpe crítico"
+    ]
+  },
+  {
+    "id": 23300,
+    "name": "Cartas Praianas",
+    "description": "Seus amigos ficarão tão impressionados com o design destas belas cartas que nem notarão as fichas que você roubou.",
+    "level": 108,
+    "rarity": 3,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac HP] 44 PV",
+      "[#charac AP] 1 PA",
+      "[#charac BACKSTAB_BONUS] 7 Domínio de costas",
+      "[#charac CRITICAL_BONUS] 6 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 51 Domínio sobre 1 elemento aleatório",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac RES_IN_PERCENT] 14 Resistência elementar"
+    ]
+  },
+  {
+    "id": 23353,
+    "name": "Cartas Icônicas",
+    "description": "Estas cartas são muito apreciadas pelos monges, que as colecionam nos monastérios.",
+    "level": 95,
+    "rarity": 3,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac DODGE] 20 Esquiva",
+      "[#charac TACKLE] 20 Bloqueio",
+      "[#charac HP] 109 PV",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac BERSERK_DMG] 36 Domínio de Berserk",
+      "[#charac DMG_IN_PERCENT] 51 Domínio sobre 1 elemento aleatório",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar"
+    ]
+  },
+  {
+    "id": 24010,
+    "name": "Cartas de Ecaflip",
+    "description": "Do flush ao par, da trinca à quadra, essas cartas ganham todas as partidas e você pode ter certeza de sempre ter um ás na manga.",
+    "level": 200,
+    "rarity": 3,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac HP] 53 PV",
+      "[#charac AP] 1 PA",
+      "[#charac CRITICAL_BONUS] 283 Domínio de crítico",
+      "[#charac FEROCITY] 6% de golpe crítico"
+    ]
+  },
+  {
+    "id": 24024,
+    "name": "Cartas de Ecaflip",
+    "description": "Do flush ao par, da trinca à quadra, essas cartas ganham todas as partidas e você pode ter certeza de sempre ter um ás na manga.",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac HP] 91 PV",
+      "[#charac AP] 1 PA",
+      "[#charac CRITICAL_BONUS] 311 Domínio de crítico",
+      "[#charac FEROCITY] 8% de golpe crítico"
+    ]
+  },
+  {
+    "id": 24631,
+    "name": "Mecanas",
+    "description": "Estas cartas possuem um mecanismo sofisticado de relojoaria.",
+    "level": 80,
+    "rarity": 2,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac DODGE] 25 Esquiva",
+      "[#charac TACKLE] 25 Bloqueio",
+      "[#charac HP] 68 PV",
+      "[#charac RES_IN_PERCENT] 28 Resistência a 2 elementos aleatórios",
+      "[#charac BERSERK_DMG] 19 Domínio de Berserk",
+      "[#charac FEROCITY] 2% de golpe crítico"
+    ]
+  },
+  {
+    "id": 24632,
+    "name": "Mecanas",
+    "description": "Estas cartas possuem um mecanismo sofisticado de relojoaria.",
+    "level": 80,
+    "rarity": 3,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac TACKLE] 25 Bloqueio",
+      "[#charac HP] 89 PV",
+      "[#charac BERSERK_DMG] 24 Domínio de Berserk",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac DODGE] 25 Esquiva",
+      "[#charac RES_IN_PERCENT] 28 Resistência a 2 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 24649,
+    "name": "As Cartas do Mar Roto",
+    "description": "Com estas cartas, ninguém vai ouvir você murmurar \"Malfeito feito!\".",
+    "level": 110,
+    "rarity": 3,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac DODGE] 8 Esquiva",
+      "[#charac TACKLE] 8 Bloqueio",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac HP] 97 PV",
+      "[#charac AP] 1 PA",
+      "[#charac BACKSTAB_BONUS] 21 Domínio de costas",
+      "[#charac CRITICAL_BONUS] 18 Domínio de crítico"
+    ]
+  },
+  {
+    "id": 24692,
+    "name": "Octarinas",
+    "description": "No fundo, estas cartas suntuosas são tudo o que você sempre sonhou.",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac HP] 338 PV",
+      "[#charac AP] 1 PA",
+      "[#charac CRITICAL_BONUS] 71 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 177 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 6% de golpe crítico"
+    ]
+  },
+  {
+    "id": 24693,
+    "name": "As Krtas",
+    "description": "As Krtas são Kpazes de tudo e têm muito Krisma.",
+    "level": 200,
+    "rarity": 3,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac DODGE] 33 Esquiva",
+      "[#charac TACKLE] 33 Bloqueio",
+      "[#charac HP] 78 PV",
+      "[#charac AP] 1 PA",
+      "[#charac RES_AIR_PERCENT] 51 Resistência ao ar",
+      "[#charac RES_FIRE_PERCENT] 51 Resistência ao fogo",
+      "[#charac DMG_IN_PERCENT] 218 Domínio sobre 3 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 24694,
+    "name": "As Krtas",
+    "description": "As Krtas são Kpazes de tudo e têm muito Krisma.",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac DODGE] 33 Esquiva",
+      "[#charac TACKLE] 33 Bloqueio",
+      "[#charac AP] 1 PA",
+      "[#charac RES_FIRE_PERCENT] 56 Resistência ao fogo",
+      "[#charac DMG_IN_PERCENT] 265 Domínio sobre 3 elementos aleatórios",
+      "[#charac HP] 92 PV",
+      "[#charac RES_AIR_PERCENT] 56 Resistência ao ar"
+    ]
+  },
+  {
+    "id": 25326,
+    "name": "Página de Sexta-feira",
+    "description": "Estas cartas são na verdade partes de um mapa do tesouro. Infelizmente, a página de segunda-feira está faltando.",
+    "level": 64,
+    "rarity": 3,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac RANGE] -2 Alcance"
+    ]
+  },
+  {
+    "id": 25403,
+    "name": "Cartas Truzescas",
+    "description": "Por que odeia que os outros critiquem você, mas assim que tem a chance, arrasa com todo mundo?",
+    "level": 78,
+    "rarity": 3,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 31 Domínio sobre 3 elementos aleatórios",
+      "[#charac RANGED_DMG] -120 Domínio de distância"
+    ]
+  },
+  {
+    "id": 25458,
+    "name": "Cartáveres",
+    "description": "Estas cartas são feitas de restos de cadáveres, o que as torna bastante maleáveis.",
+    "level": 90,
+    "rarity": 3,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac HP] 62 PV",
+      "[#charac RES_AIR_PERCENT] 11 Resistência ao ar",
+      "[#charac RES_EARTH_PERCENT] 11 Resistência à terra",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 13 Domínio sobre 1 elemento aleatório",
+      "[#charac RES_WATER_PERCENT] 11 Resistência à água",
+      "[#charac TACKLE] 13 Bloqueio",
+      "[#charac DODGE] 13 Esquiva"
+    ]
+  },
+  {
+    "id": 26988,
+    "name": "Carta Trosy",
+    "description": "Mire nas articulações!",
+    "level": 190,
+    "rarity": 2,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac HP] 139 PV",
+      "[#charac DMG_IN_PERCENT] 98 Domínio sobre 2 elementos aleatórios",
+      "[#charac MELEE_DMG] 72 Domínio de curta distância",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar",
+      "[#charac TACKLE] 33 Bloqueio",
+      "[#charac DODGE] 33 Esquiva"
+    ]
+  },
+  {
+    "id": 26989,
+    "name": "Carta Trosy",
+    "description": "Mire nas articulações!",
+    "level": 198,
+    "rarity": 3,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac HP] 214 PV",
+      "[#charac DMG_IN_PERCENT] 122 Domínio sobre 2 elementos aleatórios",
+      "[#charac MELEE_DMG] 96 Domínio de curta distância",
+      "[#charac AP] 1 PA",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar",
+      "[#charac DODGE] 53 Esquiva",
+      "[#charac TACKLE] 53 Bloqueio"
+    ]
+  },
+  {
+    "id": 26990,
+    "name": "Carta Trosy",
+    "description": "Mire nas articulações!",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 171 Domínio sobre 2 elementos aleatórios",
+      "[#charac MELEE_DMG] 96 Domínio de curta distância",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar",
+      "[#charac AP] 1 PA",
+      "[#charac HP] 297 PV",
+      "[#charac DODGE] 53 Esquiva",
+      "[#charac TACKLE] 53 Bloqueio"
+    ]
+  },
+  {
+    "id": 27299,
+    "name": "Mapas do Mundo",
+    "description": "Inicialmente, eles eram bem desenhados... Infelizmente, foram manchados pelos Pandarides.",
+    "level": 197,
+    "rarity": 3,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac HP] 168 PV",
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 120 Domínio sobre 3 elementos aleatórios",
+      "[#charac DODGE] 80 Esquiva",
+      "[#charac FEROCITY] 5% de golpe crítico",
+      "[#charac RANGED_DMG] 185 Domínio de distância",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar"
+    ]
+  },
+  {
+    "id": 27300,
+    "name": "Mapas do Mundo",
+    "description": "Inicialmente, eles eram bem desenhados... Infelizmente, foram manchados pelos Pandarides.",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac DODGE] 80 Esquiva",
+      "[#charac HP] 192 PV",
+      "[#charac RANGED_DMG] 225 Domínio de distância",
+      "[#charac DMG_IN_PERCENT] 160 Domínio sobre 3 elementos aleatórios",
+      "[#charac AP] 1 PA",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar",
+      "[#charac FEROCITY] 6% de golpe crítico"
+    ]
+  },
+  {
+    "id": 27377,
+    "name": "Cartands",
+    "description": "Foi por causa desta arma que as cartas foram banidas das competições de Papabol. O dono delas, Art’And, era um driblador de primeira. Tanto que vivia driblando suas responsabilidades e quase nunca ia ao estádio.",
+    "level": 195,
+    "rarity": 3,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac MP] 1 PM",
+      "[#charac RANGED_DMG] 160 Domínio de distância",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac HP] 184 PV",
+      "[#charac FEROCITY] 5% de golpe crítico"
+    ]
+  },
+  {
+    "id": 27378,
+    "name": "Cartands",
+    "description": "Foi por causa desta arma que as cartas foram banidas das competições de Papabol. O dono delas, Art’And, era um driblador de primeira. Tanto que vivia driblando suas responsabilidades e quase nunca ia ao estádio.",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac MP] 1 PM",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac HP] 221 PV",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac RANGED_DMG] 200 Domínio de distância"
+    ]
+  },
+  {
+    "id": 27741,
+    "name": "Cartas Afiadas",
+    "description": "Alguns Ladinos usam estas cartas para jogar, pois é impossível trapacear com elas. De fato, é muito difícil escondê-las na manga ou nas luvas sem sangrar.",
+    "level": 213,
+    "rarity": 3,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac HP] 232 PV",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 212 Domínio sobre 3 elementos aleatórios",
+      "[#charac CRITICAL_BONUS] 86 Domínio de crítico"
+    ]
+  },
+  {
+    "id": 27742,
+    "name": "Cartas Afiadas",
+    "description": "Alguns Ladinos usam estas cartas para jogar, pois é impossível trapacear com elas. De fato, é muito difícil escondê-las na manga ou nas luvas sem sangrar.",
+    "level": 215,
+    "rarity": 4,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac HP] 280 PV",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 246 Domínio sobre 3 elementos aleatórios",
+      "[#charac CRITICAL_BONUS] 113 Domínio de crítico"
+    ]
+  },
+  {
+    "id": 29638,
+    "name": "Cartas Ancestrais",
+    "description": "Estas cartas mágicas são tão poderosas que você não precisará mais roubar para ganhar as partidas.",
+    "level": 230,
+    "rarity": 3,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac HP] 285 PV",
+      "[#charac AP] 1 PA",
+      "[#charac CRITICAL_BONUS] 184 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 235 Domínio sobre 3 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 29639,
+    "name": "Cartas Ancestrais",
+    "description": "Estas cartas mágicas são tão poderosas que você não precisará mais roubar para ganhar as partidas.",
+    "level": 230,
+    "rarity": 4,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 282 Domínio sobre 3 elementos aleatórios",
+      "[#charac HP] 316 PV",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac CRITICAL_BONUS] 212 Domínio de crítico"
+    ]
+  },
+  {
+    "id": 29823,
+    "name": "Cartus Shushu",
+    "description": "Assim que essas cartas são jogadas, outras novas aparecem nas mãos do proprietário. Com um pouco de prática, dá pra cortar os adversários em fatias bem fininhas.",
+    "level": 150,
+    "rarity": 3,
+    "slot": "Carta (uma mão)",
+    "effects": [
+      "[#charac CRITICAL_BONUS] 14 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 65 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac BACKSTAB_BONUS] 17 Domínio de costas",
+      "[#charac AP] 1 PA",
+      "[#charac HP] 79 PV",
+      "[#charac RES_IN_PERCENT] 14 Resistência elementar",
+      "[#charac DODGE] 19 Esquiva",
+      "[#charac TACKLE] 19 Bloqueio"
+    ]
+  }
+]

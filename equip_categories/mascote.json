@@ -1,0 +1,1423 @@
+[
+  {
+    "id": 12127,
+    "name": "Miaw Angorá",
+    "description": "Há quem diga que o Miaw Angorá gosta de água. No entanto, podemos garantir que não é o caso: a água faz ele parecer um Awaw molhado.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac INIT] 60 Iniciativa",
+      "[#charac HP] 90 PV"
+    ]
+  },
+  {
+    "id": 12128,
+    "name": "Miaw",
+    "description": "Este Miaw é praticamente perfeito! Ele é um pouquinho menos rabugento, egoísta e preguiçoso que a maioria dos Miaws. Considere-se com sorte!",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac TACKLE] 60 Bloqueio",
+      "[#charac HP] 90 PV"
+    ]
+  },
+  {
+    "id": 12129,
+    "name": "Tofu",
+    "description": "Um Tofuzinho tão fofinho que dá até vontade de morder!",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 60 Domínio elementar",
+      "[#charac HP] 30 PV"
+    ]
+  },
+  {
+    "id": 12130,
+    "name": "Tofu Felpudo",
+    "description": "Este Tofu trava-língua foi muito útil em aulas de dicção para os Iops deste mundo.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac DODGE] 60 Esquiva",
+      "[#charac HP] 90 PV"
+    ]
+  },
+  {
+    "id": 12131,
+    "name": "Miaw Rajado",
+    "description": "Os Miaws Rajados são fruto do cruzamento entre diversas espécies de Miaws. Parece que eles são mais inteligentes e temerários que os outros!",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac HP] 180 PV"
+    ]
+  },
+  {
+    "id": 12237,
+    "name": "Dot",
+    "description": "Este Geminho é cheio de vida e muito turbulento. Como a Vovó Dindin não é mais tão nova, ela o confiou a você para que ele o acompanhe em suas aventuras.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac HP] 120 PV"
+    ]
+  },
+  {
+    "id": 12804,
+    "name": "Bebê Vermudo",
+    "description": "A Rainha Vermuda renegou um de seus muitos filhos.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac DODGE] 60 Esquiva",
+      "[#charac TACKLE] 60 Bloqueio"
+    ]
+  },
+  {
+    "id": 13637,
+    "name": "Quaquá",
+    "description": "Existe uma criatura que ultrapassa o Tofu, o Papatudo e até o Iop em idiotice: o Quaquá. ",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac BACKSTAB_BONUS] 100 Domínio de costas",
+      "[#charac HP] 60 PV"
+    ]
+  },
+  {
+    "id": 14147,
+    "name": "Milimulobo",
+    "description": "Tão fofinho e adorável e Milimulobo!",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac BLOCK] 5% de Parada",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac HP] 60 PV"
+    ]
+  },
+  {
+    "id": 14152,
+    "name": "Arakne",
+    "description": "Essa pequena Arakne desviará rapidamente dos seus ablaços.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac ARMOR_RECEIVED] 10% de armadura recebida",
+      "[#charac HP] 30 PV"
+    ]
+  },
+  {
+    "id": 14157,
+    "name": "Garrô",
+    "description": "Mais leal que uma mascote de verdade, o Garrô seguirá você para qualquer lugar que vá.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 30 Domínio elementar",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar",
+      "[#charac HP] 30 PV"
+    ]
+  },
+  {
+    "id": 14335,
+    "name": "Krosmunster de Água",
+    "description": "Krosmunster é uma mascote de origem controlada! Seus bônus são poderosos, mas ele exala um cheirinho peculiar...",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac DMG_WATER_PERCENT] 106 Domínio de água"
+    ]
+  },
+  {
+    "id": 14525,
+    "name": "Krosmunster de Terra",
+    "description": "Krosmunster é uma mascote de origem controlada! Seus bônus são poderosos, mas ele exala um cheirinho peculiar...",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac DMG_EARTH_PERCENT] 106 Domínio de terra"
+    ]
+  },
+  {
+    "id": 14526,
+    "name": "Krosmunster de Ar",
+    "description": "Krosmunster é uma mascote de origem controlada! Seus bônus são poderosos, mas ele exala um cheirinho peculiar...",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac DMG_AIR_PERCENT] 106 Domínio de ar"
+    ]
+  },
+  {
+    "id": 14527,
+    "name": "Krosmunster de Fogo",
+    "description": "Krosmunster é uma mascote de origem controlada! Seus bônus são poderosos, mas ele exala um cheirinho peculiar...",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac DMG_FIRE_PERCENT] 106 Domínio de fogo"
+    ]
+  },
+  {
+    "id": 14887,
+    "name": "Maugrasno",
+    "description": "Mesmo que fale demais, este Maugrasno acompanhará você para qualquer lugar o mais discretamente que conseguir!",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 60 Domínio elementar",
+      "[#charac HP] 30 PV"
+    ]
+  },
+  {
+    "id": 15098,
+    "name": "Snufle",
+    "description": "Este Snufle é digno, honesto e leal. Mesmo assim, é melhor manter as Bolsas escondidas quando ele estiver por perto.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "50% de quantidade de colheita para Mineiro"
+    ]
+  },
+  {
+    "id": 15099,
+    "name": "Lepowide",
+    "description": "Ainda bem que as Cenouwas ainda estão pwesentes no Mundo dos Doze... Caso contwáwio, o Lepowide não tewia uma apawência tão boa.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac HP] 140 PV",
+      "[#charac LEADERSHIP] 1 Controle"
+    ]
+  },
+  {
+    "id": 15100,
+    "name": "Musca",
+    "description": "Esta Musca é muito afável, desde que você a mantenha sempre próxima a coisas que foram digeridas pelo menos uma vez. Cuide dela como achar melhor.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 40 Domínio elementar",
+      "[#charac FEROCITY] 3% de golpe crítico"
+    ]
+  },
+  {
+    "id": 15388,
+    "name": "Pernas de Chafer",
+    "description": "Às vezes, Pernas de Chafer que foram separadas à força de seus donos originais se apegam a aventureiros que estão de passagem e os usam para apostar corridas de três pernas contra a sua vontade.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac HP] 60 PV",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac INIT] 20 Iniciativa"
+    ]
+  },
+  {
+    "id": 15818,
+    "name": "Miaw das Neves",
+    "description": "Este pequeno Miaw nasceu em Frigost e sua pelagem adquiriu este tom de límpido azul-gelo para resistir melhor ao frio. Esse atributo também funciona como camuflagem em meio ao gelo. Os Miaws podem ter sido importados para Amakna durante a era dos Dofus para combater a proliferação de Wabbits, mas esta subespécie parece nunca ter vivido em terra firme!",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac HEAL_IN_PERCENT] 100 Domínio de cura",
+      "[#charac HP] 60 PV"
+    ]
+  },
+  {
+    "id": 15819,
+    "name": "Araknomeka",
+    "description": "Pode ser pequena, mas faz um barulho tremendo devido a sua maquinaria pouco lubrificada!",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac HP] 60 PV",
+      "[#charac BLOCK] 5% de Parada",
+      "[#charac TACKLE] 50 Bloqueio"
+    ]
+  },
+  {
+    "id": 15820,
+    "name": "Yech'Ti'Wawa",
+    "description": "Você ficará rodando igual uma galinha sem cabeça atrás desse pestinha. E ele fará você comer poeira!",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac CRITICAL_BONUS] 90 Domínio de crítico",
+      "[#charac HP] 60 PV"
+    ]
+  },
+  {
+    "id": 16697,
+    "name": "Cracote",
+    "description": "Um amigo novinho para diversões dos tempos da pedra lascada.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac DMG_EARTH_PERCENT] 106 Domínio de terra"
+    ]
+  },
+  {
+    "id": 16708,
+    "name": "Kid Porquito",
+    "description": "Que ideia porca é essa?",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac DMG_AIR_PERCENT] 106 Domínio de ar"
+    ]
+  },
+  {
+    "id": 16719,
+    "name": "Scaramosca",
+    "description": "Esta adorável mascote alegrará seus dias presenteando você com bolas de excremento!",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac DMG_FIRE_PERCENT] 106 Domínio de fogo"
+    ]
+  },
+  {
+    "id": 16730,
+    "name": "Surimi",
+    "description": "Lembre-se de colocar uma coleira nele quando for passear pela feira ou acabará com um bicho de estimação a menos.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac DMG_WATER_PERCENT] 106 Domínio de água"
+    ]
+  },
+  {
+    "id": 16736,
+    "name": "Fotasma",
+    "description": "Você não tem medo de nenhum Fotasma! Além do  mais é um pequeno adorável.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac DODGE] 100 Esquiva"
+    ]
+  },
+  {
+    "id": 16850,
+    "name": "Cracote de ouro",
+    "description": "Mesmo sendo pequeno, este Cracote pesa uma tonelada e vale seu peso em ouro!",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac HP] 30 PV",
+      "[#charac DMG_EARTH_PERCENT] 62 Domínio de terra",
+      "[#charac INIT] 20 Iniciativa",
+      "[#charac DMG_AIR_PERCENT] 62 Domínio de ar"
+    ]
+  },
+  {
+    "id": 16852,
+    "name": "Scaramosca de ouro",
+    "description": "É bem raro ver um Scaramosca de ouro por estas partes! Você está com sorte!",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac HP] 30 PV",
+      "[#charac DMG_AIR_PERCENT] 62 Domínio de ar",
+      "[#charac DMG_FIRE_PERCENT] 62 Domínio de fogo",
+      "[#charac INIT] 20 Iniciativa"
+    ]
+  },
+  {
+    "id": 16854,
+    "name": "Kid Porquito de ouro",
+    "description": "Um cofrinho ambulante! Colocar o dinheiro é mais fácil do que recuperá-lo...",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac HP] 30 PV",
+      "[#charac DMG_AIR_PERCENT] 62 Domínio de ar",
+      "[#charac INIT] 20 Iniciativa",
+      "[#charac DMG_WATER_PERCENT] 62 Domínio de água"
+    ]
+  },
+  {
+    "id": 16855,
+    "name": "Surimi de ouro",
+    "description": "É bom, é fresco, é GRANDE!",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac HP] 30 PV",
+      "[#charac DMG_FIRE_PERCENT] 62 Domínio de fogo",
+      "[#charac INIT] 20 Iniciativa",
+      "[#charac DMG_EARTH_PERCENT] 62 Domínio de terra"
+    ]
+  },
+  {
+    "id": 16929,
+    "name": "Awaw",
+    "description": "Este mascote adorável será leal a você, mesmo nas suas mais loucas aventuras!",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 30 Domínio elementar",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar",
+      "[#charac HP] 30 PV"
+    ]
+  },
+  {
+    "id": 17021,
+    "name": "Bilby",
+    "description": "Esta gelatinazinha seguirá você aonde quer que vá, trazendo um pouco de cor para a sua vida monótona.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac WILLPOWER] 20 Vontade",
+      "[#charac FEROCITY] 3% de golpe crítico"
+    ]
+  },
+  {
+    "id": 17026,
+    "name": "Crão",
+    "description": "Este bichinho lembra um balão de chumbo.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac HP] 30 PV",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar"
+    ]
+  },
+  {
+    "id": 17037,
+    "name": "Draguna",
+    "description": "Um companheiro fantástico que fará tudo ao seu alcance  para ajudá-lo a ver o mundo através de óculos cor-de-rosa...",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac WILLPOWER] 20 Vontade",
+      "[#charac DMG_IN_PERCENT] 30 Domínio elementar"
+    ]
+  },
+  {
+    "id": 17051,
+    "name": "Crum Dourado",
+    "description": "Nada como ter um soldado obediente ao seu lado – mesmo que a cor fantástica dele denuncie onde você se escondeu.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac HP] 60 PV",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac TACKLE] 30 Bloqueio"
+    ]
+  },
+  {
+    "id": 17577,
+    "name": "Fênix",
+    "description": "A lenda diz que a Fênix queima e renasce das cinzas, mas que vive tanto tempo que você nunca verá isso acontecer.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 60 Domínio elementar",
+      "[#charac HP] 30 PV"
+    ]
+  },
+  {
+    "id": 18049,
+    "name": "Abominação Domesticada",
+    "description": "É mais fofo que tudo... mas morde!",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 35 Domínio elementar",
+      "[#charac HP] 60 PV",
+      "[#charac LEADERSHIP] 1 Controle"
+    ]
+  },
+  {
+    "id": 18389,
+    "name": "Paparneiro",
+    "description": "Você poderá brincar de pular Paparneiro com sua mascote.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac TACKLE] 20 Bloqueio",
+      "[#charac DMG_IN_PERCENT] 40 Domínio elementar",
+      "[#charac HP] 60 PV"
+    ]
+  },
+  {
+    "id": 18736,
+    "name": "Miaw de ouro",
+    "description": "Um verdadeiro Miaw de ouro, porque você vale muito!",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac DMG_WATER_PERCENT] 62 Domínio de água",
+      "[#charac HP] 30 PV",
+      "[#charac INIT] 20 Iniciativa",
+      "[#charac DMG_EARTH_PERCENT] 62 Domínio de terra"
+    ]
+  },
+  {
+    "id": 18737,
+    "name": "Awaw de ouro",
+    "description": "Mas que gracinha este Awaw adourado!",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac DMG_FIRE_PERCENT] 62 Domínio de fogo",
+      "[#charac HP] 30 PV",
+      "[#charac INIT] 20 Iniciativa",
+      "[#charac DMG_WATER_PERCENT] 62 Domínio de água"
+    ]
+  },
+  {
+    "id": 19111,
+    "name": "Drakomparsa",
+    "description": "Seu amigo mais fiel!",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac BLOCK] 10% de Parada",
+      "[#charac HP] 60 PV"
+    ]
+  },
+  {
+    "id": 19266,
+    "name": "Corvoc",
+    "description": "Um pequeno Corvoc que irá acompanhá-lo aonde quer que você vá!",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac BACKSTAB_BONUS] 60 Domínio de costas"
+    ]
+  },
+  {
+    "id": 19577,
+    "name": "Borcego",
+    "description": "Este pequeno Borcego o seguirá por onde você derramar o sangue dos seus inimigos!",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac RANGED_DMG] 60 Domínio de distância",
+      "[#charac FEROCITY] 3% de golpe crítico"
+    ]
+  },
+  {
+    "id": 19739,
+    "name": "Aboon",
+    "description": "Mais malicioso que inteligente, este macaquinho vai pintar o sete com você.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac TACKLE] 60 Bloqueio",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar"
+    ]
+  },
+  {
+    "id": 20045,
+    "name": "Pupulga",
+    "description": null,
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac MELEE_DMG] 60 Domínio de curta distância",
+      "[#charac FEROCITY] 3% de golpe crítico"
+    ]
+  },
+  {
+    "id": 20274,
+    "name": "Tirubim",
+    "description": "Ti bunitinho!",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac HP] 30 PV",
+      "[#charac DMG_IN_PERCENT] 30 Domínio elementar"
+    ]
+  },
+  {
+    "id": 20548,
+    "name": "Pequeno Aboborado",
+    "description": "Uma bala ou uma cara aboborada?",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 60 Domínio elementar",
+      "[#charac HP] 30 PV"
+    ]
+  },
+  {
+    "id": 20809,
+    "name": "Dragunga Loragran",
+    "description": "Esta espécie muito estimada de Draguna foi batizada assim pela sua semelhança com Grugaloragran, não pelos seus poderes. Esperamos que isso seja suficiente para impressionar seus adversários!",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac HEAL_IN_PERCENT] 100 Domínio de cura",
+      "[#charac FEROCITY] 3% de golpe crítico"
+    ]
+  },
+  {
+    "id": 22034,
+    "name": "Dógui",
+    "description": "O Dógui será fiel a você durante toda a sua aventura.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac BERSERK_DMG] 100 Domínio de Berserk"
+    ]
+  },
+  {
+    "id": 22551,
+    "name": "Komekom",
+    "description": "Este Komekom achou que você era o Osamodas dele!",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "50% de quantidade de colheita para Caçador"
+    ]
+  },
+  {
+    "id": 23881,
+    "name": "Noxina",
+    "description": "O que pode ser essa estranha criatura mecânica? Ela parece sentir uma atração por tudo que se mexe. Uma gra-ci-nha!",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "25% de quantidade de colheita para Mineiro",
+      "25% de quantidade de colheita para Herborista",
+      "25% de quantidade de colheita para Lenhador",
+      "25% de quantidade de colheita para Fazendeiro",
+      "25% de quantidade de colheita para Pescador",
+      "25% de quantidade de colheita para Caçador"
+    ]
+  },
+  {
+    "id": 23886,
+    "name": "Tofu Comedido",
+    "description": "Comportado, coerente com a supervisão que você lhe deu. Percebe-se que foi um sucesso e tanto!",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac MELEE_DMG] 60 Domínio de curta distância",
+      "[#charac FEROCITY] 3% de golpe crítico"
+    ]
+  },
+  {
+    "id": 23887,
+    "name": "Tofu Barrigudo",
+    "description": "Parece que você exagerou um pouquinho na comida do seu Tofu...",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac BERSERK_DMG] 100 Domínio de Berserk"
+    ]
+  },
+  {
+    "id": 23888,
+    "name": "Tofu Viscoso",
+    "description": "Seu Tofu teve um baita azar... de ter um dono como você!",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac DODGE] 100 Esquiva",
+      "[#charac HP] 90 PV"
+    ]
+  },
+  {
+    "id": 23889,
+    "name": "Tofu Bontariano",
+    "description": "Que Tofu mais nobre você tem aí.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac HEAL_IN_PERCENT] 100 Domínio de cura"
+    ]
+  },
+  {
+    "id": 23890,
+    "name": "Tofu Charmoso",
+    "description": "Seu Tofu é uma diva! Não canta, mas é um encanto só!",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac RANGED_DMG] 60 Domínio de distância"
+    ]
+  },
+  {
+    "id": 23891,
+    "name": "Tofu Brakmariano",
+    "description": "Rabugento e mal-amado, seu Tofu deve ter tido uma infância péssima.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac TACKLE] 100 Bloqueio",
+      "[#charac HP] 90 PV"
+    ]
+  },
+  {
+    "id": 23892,
+    "name": "Miaw Comedido",
+    "description": "O desenvolvimento do seu Miaw correu muito bem, tudo graças à sua supervisão eficaz.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac HP] 30 PV",
+      "[#charac DMG_IN_PERCENT] 60 Domínio elementar"
+    ]
+  },
+  {
+    "id": 23893,
+    "name": "Miaw Barrigudo",
+    "description": "Um Miaw enorme desse jeito não tem lado bom. Na verdade, ele não tem lado nenhum. É uma bola.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac WILLPOWER] 20 Vontade",
+      "[#charac DMG_IN_PERCENT] 30 Domínio elementar"
+    ]
+  },
+  {
+    "id": 23894,
+    "name": "Miaw Viscoso",
+    "description": "Você foi muito cruel e negligenciou completamente a higiene do seu Miaw. Que feio.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac WILLPOWER] 20 Vontade",
+      "[#charac HP] 60 PV"
+    ]
+  },
+  {
+    "id": 23895,
+    "name": "Miaw Bontariano",
+    "description": "Seu Miaw é comportado e justo, o reflexo perfeito da educação que você lhe deu.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 60 Domínio elementar",
+      "[#charac LEADERSHIP] 1 Controle"
+    ]
+  },
+  {
+    "id": 23896,
+    "name": "Miaw Charmoso",
+    "description": "Seu Miaw tem um charme e um carisma excepcional que vão balançar todas as Miaws.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac WP] 1 PW",
+      "[#charac HP] 60 PV"
+    ]
+  },
+  {
+    "id": 23897,
+    "name": "Miaw Brakmariano",
+    "description": "Um dos Miaws mais ariscos que há por aí. Que peste!",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac BACKSTAB_BONUS] 100 Domínio de costas",
+      "[#charac HP] 60 PV"
+    ]
+  },
+  {
+    "id": 23898,
+    "name": "Boon Comedido",
+    "description": "Você mostrou uma grande habilidade na evolução do seu Boon.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac HP] 60 PV",
+      "[#charac CRITICAL_RES] 50 Resistência crítica"
+    ]
+  },
+  {
+    "id": 23899,
+    "name": "Boon Barrigudo",
+    "description": "Pode-se dizer que o seu Boon tem a barriga maior que o olho.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac RES_AIR_PERCENT] 50 Resistência ao ar",
+      "[#charac HP] 60 PV"
+    ]
+  },
+  {
+    "id": 23900,
+    "name": "Boon Viscoso",
+    "description": "Não é culpa sua se o seu Boon é alérgico a limpeza!",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac RES_EARTH_PERCENT] 50 Resistência à terra",
+      "[#charac HP] 60 PV"
+    ]
+  },
+  {
+    "id": 23901,
+    "name": "Boon Bontariano",
+    "description": "Seu Boon está sempre feliz de ver você, mas não o abandone nem por um instante.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac RES_WATER_PERCENT] 50 Resistência à água",
+      "[#charac HP] 60 PV"
+    ]
+  },
+  {
+    "id": 23902,
+    "name": "Boon Charmoso",
+    "description": "Quem diria que um Boon pudesse ser tão fofo.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac RES_BACKSTAB] 50 Resistência de costas",
+      "[#charac HP] 60 PV"
+    ]
+  },
+  {
+    "id": 23903,
+    "name": "Boon Brakmariano",
+    "description": "Um Boon ranzinza mas independente, praticamente um Dedéu.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac RES_FIRE_PERCENT] 50 Resistência ao fogo",
+      "[#charac HP] 60 PV"
+    ]
+  },
+  {
+    "id": 23958,
+    "name": "Bebê Perfuratroz",
+    "description": "Este bebê Perfuratroz é tão animado que não para de procurar tesouros para o seu dono.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac TACKLE] 100 Bloqueio"
+    ]
+  },
+  {
+    "id": 24031,
+    "name": "Yugofu, o Tofugo",
+    "description": "Yu-Go-Fu! É hora do du... de andar por quilômetros com seus amigos para pegar todos os Tofus!",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 60 Domínio elementar",
+      "[#charac HP] 30 PV"
+    ]
+  },
+  {
+    "id": 24245,
+    "name": "Pingwii",
+    "description": "Este Pingwii é tão fresco!",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac DODGE] 40 Esquiva",
+      "[#charac DMG_IN_PERCENT] 30 Domínio elementar",
+      "[#charac HP] 60 PV"
+    ]
+  },
+  {
+    "id": 24259,
+    "name": "Gadrão Charmoso",
+    "description": "Um Gadrão tão charmoso que poderia até ser um príncipe!",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac HEAL_IN_PERCENT] 50 Domínio de cura",
+      "[#charac MELEE_DMG] 60 Domínio de curta distância",
+      "[#charac HP] 30 PV"
+    ]
+  },
+  {
+    "id": 24260,
+    "name": "Gadrão Bontariano",
+    "description": "Este Gadrão não vigia nenhum calabouço, mas mantém a ordem e a tranquilidade.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac RANGED_DMG] 60 Domínio de distância",
+      "[#charac HP] 30 PV"
+    ]
+  },
+  {
+    "id": 24261,
+    "name": "Gadrão Brakmariano",
+    "description": "Este Gadrão não sabe só morder: ele também arranha e cospe fogo. Um verdadeiro furor!",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac BERSERK_DMG] 50 Domínio de Berserk",
+      "[#charac MELEE_DMG] 60 Domínio de curta distância",
+      "[#charac HP] 30 PV"
+    ]
+  },
+  {
+    "id": 24262,
+    "name": "Gadrão Comedido",
+    "description": "Este Gadrão não tem nada de especial, mas, graças a você, ele é mansinho!",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar",
+      "[#charac DMG_IN_PERCENT] 30 Domínio elementar",
+      "[#charac HP] 30 PV"
+    ]
+  },
+  {
+    "id": 24263,
+    "name": "Gadrão Viscoso",
+    "description": "Por causa da sua companhia, este Gadrão adotou... maus hábitos!",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac HP] 30 PV",
+      "[#charac DODGE] 30 Esquiva",
+      "[#charac MELEE_DMG] 60 Domínio de curta distância"
+    ]
+  },
+  {
+    "id": 24264,
+    "name": "Gadrão Barrigudo",
+    "description": "Se você não o tivesse alimentado, este Gadrão teria ido se servir um petisco de qualquer forma!",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac HP] 30 PV",
+      "[#charac TACKLE] 30 Bloqueio",
+      "[#charac MELEE_DMG] 60 Domínio de curta distância"
+    ]
+  },
+  {
+    "id": 24837,
+    "name": "Tofu Nantamorto",
+    "description": "Este Tofu era a mascote de uma grande banda chamada Zumbi te Mato.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac BERSERK_DMG] 100 Domínio de Berserk",
+      "[#charac HP] 30 PV"
+    ]
+  },
+  {
+    "id": 24859,
+    "name": "Cocodrilo",
+    "description": "Esta mascote não é muito esperta. Felizmente ela não é grande suficiente para morder o próprio rabo.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac CRITICAL_BONUS] 80 Domínio de crítico"
+    ]
+  },
+  {
+    "id": 25051,
+    "name": "Pequenistro",
+    "description": "Você perderá bem menos tempo com este minissinistro do que com um verdadeiro, mas, mesmo assim, ele exige muita atenção e cuidados.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac WILLPOWER] 20 Vontade",
+      "[#charac HP] 60 PV"
+    ]
+  },
+  {
+    "id": 25052,
+    "name": "Teleflix",
+    "description": "Este monte de parafusos adoráveis vai seguir você para repetir a abertura das suas séries preferidas sem parar. Isso é que é amor!",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac BACKSTAB_BONUS] 60 Domínio de costas"
+    ]
+  },
+  {
+    "id": 26284,
+    "name": "Shushu Menor",
+    "description": "Desespero, morte, mau humor! Este shushu da carnificina vai precisar da sua ajuda se quiser destruir alguma coisa.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac HP] 30 PV",
+      "[#charac MELEE_DMG] 75 Domínio de curta distância"
+    ]
+  },
+  {
+    "id": 26382,
+    "name": "Drathrosk",
+    "description": "Nem bem esse dragãozinho fofinho saiu do ovo, já está brincando com fogo! Se você não resistir à vontade de fazer um carinho nele, vai acabar com os dedos queimados.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac MELEE_DMG] 75 Domínio de curta distância",
+      "[#charac HP] 30 PV"
+    ]
+  },
+  {
+    "id": 26673,
+    "name": "Geminho Combatente",
+    "description": "Seu Geminho evoluiu observando você lutar. Dotado de uma nova cor alaranjada, ele parece bem mais seguro de si e resistente do que antes, o que também dará mais força a você.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac RES_IN_PERCENT] 19 Resistência elementar",
+      "[#charac HP] 90 PV",
+      "[#charac MELEE_DMG] 35 Domínio de curta distância"
+    ]
+  },
+  {
+    "id": 26674,
+    "name": "Geminho Curador",
+    "description": "Seu Geminho evoluiu observando você lutar. Dotado de uma nova cor arroxeada, ele parece capaz de ajudar você a concentrar seus poderes curativos.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac HP] 105 PV",
+      "[#charac HEAL_IN_PERCENT] 110 Domínio de cura"
+    ]
+  },
+  {
+    "id": 26675,
+    "name": "Geminho Caçador",
+    "description": "Seu Geminho evoluiu observando você lutar. Dotado de uma nova cor azulada, ele tem uma acuidade visual incrível, o que ajudará você a mirar seus feitiços com mais precisão.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac RANGED_DMG] 50 Domínio de distância",
+      "[#charac HP] 35 PV",
+      "[#charac CRITICAL_BONUS] 35 Domínio de crítico"
+    ]
+  },
+  {
+    "id": 26676,
+    "name": "Geminho Berserker",
+    "description": "Seu Geminho evoluiu observando você lutar. Dotado de uma nova cor avermelhada, ele parece estar possuído por uma raiva profunda que reforça o seu poder destruidor. ",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac HP] 35 PV",
+      "[#charac BERSERK_DMG] 90 Domínio de Berserk"
+    ]
+  },
+  {
+    "id": 26677,
+    "name": "Geminho Aventureiro",
+    "description": "Seu Geminho evoluiu observando você lutar. Dotado de uma nova cor esverdeada, ele presta muita atenção no ambiente e não deixe você perder nenhum detalhe por onde passa. ",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac HP] 35 PV",
+      "[#charac DMG_IN_PERCENT] 35 Domínio elementar",
+      "[#charac RES_IN_PERCENT] 19 Resistência elementar"
+    ]
+  },
+  {
+    "id": 26716,
+    "name": "Kometh",
+    "description": "Uma mascote fabulosa, fiel e afetuosa.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac HP] 30 PV",
+      "[#charac RANGED_DMG] 75 Domínio de distância"
+    ]
+  },
+  {
+    "id": 27077,
+    "name": "Kokulto",
+    "description": "Esta criaturinha é mais resistente do que parece. Tome cuidado, pois você não será a última pessoa a quebrar os dedos do pé tentando chutá-la...",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac BLOCK] 5% de Parada",
+      "[#charac WILLPOWER] 20 Vontade"
+    ]
+  },
+  {
+    "id": 27205,
+    "name": "Bebê Pandawa",
+    "description": "Este adorável bebê Pandawa vai adorar acompanhá-lo por aí para descobrir o mundo com esses olhões.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac CRITICAL_BONUS] 60 Domínio de crítico",
+      "[#charac RANGED_DMG] 30 Domínio de distância"
+    ]
+  },
+  {
+    "id": 27206,
+    "name": "Minithar",
+    "description": "Um dia, ele se tornará um maligno Shushu, que ficará atormentando sem parar as almas dos aventureiros do Mundo dos Doze. Mas, por enquanto, é uma linda criaturinha indefesa.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac CRITICAL_BONUS] 60 Domínio de crítico",
+      "[#charac MELEE_DMG] 30 Domínio de curta distância"
+    ]
+  },
+  {
+    "id": 27207,
+    "name": "Paparogoneto",
+    "description": "Parece que ele confundiu você com a mãe dele.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac HP] 40 PV",
+      "[#charac RES_FIRE_PERCENT] 30 Resistência ao fogo",
+      "[#charac RES_AIR_PERCENT] 30 Resistência ao ar",
+      "[#charac RES_EARTH_PERCENT] 30 Resistência à terra"
+    ]
+  },
+  {
+    "id": 27208,
+    "name": "Ticham",
+    "description": "É fácil confundir os Tichans com ratos por causa de sua cauda, suas longas orelhas e seus corpos sem pelos, mas basta adotar um deles para perceber que o pequeno predador não tem nada a ver com um roedor. Carinhoso como ele só, ele lamberá seu rosto o tempo todo e você descobrirá, então, que não, os Tichans não são completamente pelados.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac HEAL_IN_PERCENT] 40 Domínio de cura",
+      "[#charac WILLPOWER] 20 Vontade"
+    ]
+  },
+  {
+    "id": 27310,
+    "name": "Aljaspic",
+    "description": "Esta espécie de Prespic domesticado foi selecionada pelos discípulos de Cra para servir de aljava ambulante.\nSe ficar muito caro alimentá-lo, ele pode virar alvo de treinamento.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "50% de quantidade de colheita para Lenhador"
+    ]
+  },
+  {
+    "id": 27311,
+    "name": "Geist",
+    "description": "As compridas mãos dele farão cócegas em você durante a noite, arranharão a sua pele enquanto você estiver tirando um cochilo de dia e beliscarão o seu corpo no resto do tempo.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "50% de quantidade de colheita para Fazendeiro"
+    ]
+  },
+  {
+    "id": 27540,
+    "name": "Kalypsor",
+    "description": "Talvez ele seja obrigado a devorar seu proprietário para sobreviver ao fim do Mundo dos Doze.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "50% de quantidade de colheita para Pescador"
+    ]
+  },
+  {
+    "id": 27541,
+    "name": "Sakolla",
+    "description": "Esta boneca de tricô pode ser lavada à mão em uma temperatura de até 40ºC.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "50% de quantidade de colheita para Herborista"
+    ]
+  },
+  {
+    "id": 27895,
+    "name": "Gerbichon",
+    "description": "É proibido usá-lo como projétil.\nExceto para se defender.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac MELEE_DMG] 60 Domínio de curta distância"
+    ]
+  },
+  {
+    "id": 27896,
+    "name": "Kralupido",
+    "description": "É difícil determinar se ele é viscoso, gelatinoso, pegajoso, grudento ou simplesmente melequento.\nAqueles que o morderam o consideram mucilaginoso.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac RANGED_DMG] 60 Domínio de distância",
+      "[#charac FEROCITY] 3% de golpe crítico"
+    ]
+  },
+  {
+    "id": 27897,
+    "name": "Sengwassa",
+    "description": "Esta bolinha de pelos arrogante vai olhar torto para você mesmo quando você olhar direto nos olhos dela.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac BACKSTAB_BONUS] 60 Domínio de costas",
+      "[#charac FEROCITY] 3% de golpe crítico"
+    ]
+  },
+  {
+    "id": 27898,
+    "name": "Carniçauro",
+    "description": "Esta criaturinha rochosa vai amolecer seu coração de pedra.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 55 Domínio elementar",
+      "[#charac FEROCITY] 3% de golpe crítico"
+    ]
+  },
+  {
+    "id": 27899,
+    "name": "Ratraste",
+    "description": "Antes mal acompanhado do que sem mascote.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac BERSERK_DMG] 100 Domínio de Berserk",
+      "[#charac FEROCITY] 3% de golpe crítico"
+    ]
+  },
+  {
+    "id": 27972,
+    "name": "Kaninus",
+    "description": "Com sua pelagem brilhosa e seus dentes afiados, esta criaturinha tem mesmo tudo para agradar.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac HP] 60 PV",
+      "[#charac WP] 1 PW"
+    ]
+  },
+  {
+    "id": 27973,
+    "name": "Salar",
+    "description": "Este dragãozinho às vezes tem ideias sombrias.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac HP] 60 PV",
+      "[#charac RES_FIRE_PERCENT] 50 Resistência ao fogo"
+    ]
+  },
+  {
+    "id": 27974,
+    "name": "Rafal",
+    "description": "Um dragão com penas e um bico... Aquele vendedor do mercado deve ter passado a perna em você.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac HP] 60 PV",
+      "[#charac RES_AIR_PERCENT] 50 Resistência ao ar"
+    ]
+  },
+  {
+    "id": 27975,
+    "name": "Brial",
+    "description": "Este dragão ciclope dorme com um olho aberto.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac HP] 60 PV",
+      "[#charac RES_WATER_PERCENT] 50 Resistência à água"
+    ]
+  },
+  {
+    "id": 27976,
+    "name": "Dakal",
+    "description": "Fofo demais para ser verdade, este espécime de dragão provavelmente esconde um terrível segredo, como uma paixão pela costura ou uma coleção de cartões postais.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac HP] 60 PV",
+      "[#charac RES_EARTH_PERCENT] 50 Resistência à terra"
+    ]
+  },
+  {
+    "id": 27977,
+    "name": "Kurial",
+    "description": "O cérebro deste dragão se parece muito com o de um galináceo.\nCom ele ao seu lado, o seu QI vai dobrar.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac HP] 60 PV",
+      "[#charac RES_BACKSTAB] 50 Resistência de costas"
+    ]
+  },
+  {
+    "id": 27978,
+    "name": "Mikhal",
+    "description": "O olhar dele diz tudo. Mas sobre o quê?\nCabe a você descobrir.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac HP] 60 PV",
+      "[#charac CRITICAL_RES] 50 Resistência crítica"
+    ]
+  },
+  {
+    "id": 28368,
+    "name": "Borrasca",
+    "description": "Pelo menos você não corre o risco de ficar sem ar.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac DMG_AIR_PERCENT] 106 Domínio de ar"
+    ]
+  },
+  {
+    "id": 28369,
+    "name": "Bloco de Pedra",
+    "description": "Uma baita pedra no seu sapato.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac DMG_EARTH_PERCENT] 106 Domínio de terra"
+    ]
+  },
+  {
+    "id": 28370,
+    "name": "Aguaceiro",
+    "description": "Não precisa fazer tempestade em copo d’água.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac DMG_WATER_PERCENT] 106 Domínio de água"
+    ]
+  },
+  {
+    "id": 28371,
+    "name": "Fornalha",
+    "description": "Você sente uma vontade ardente de domesticar esta criatura.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Mascote",
+    "effects": [
+      "[#charac DMG_FIRE_PERCENT] 106 Domínio de fogo"
+    ]
+  }
+]

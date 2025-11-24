@@ -1,0 +1,1418 @@
+[
+  {
+    "id": 2058,
+    "name": "Bastão de Papatudette",
+    "description": "É uma versão melhorada do Bastão do Pastor. Este bastão tem mais jeitos de mandar seu rebanho retalhar o inimigo.",
+    "level": 17,
+    "rarity": 2,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac DODGE] 4 Esquiva",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac HP] 8 PV",
+      "[#charac DMG_IN_PERCENT] 12 Domínio elementar"
+    ]
+  },
+  {
+    "id": 5197,
+    "name": "Varinha Espanador",
+    "description": "Essa varinha está por trás da emancipação das donas de casa Eniripsas. É excelente para se livrar tanto de monstros quanto da poeira. Prática, não é? ",
+    "level": 40,
+    "rarity": 2,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac HEAL_IN_PERCENT] 1 Domínio de cura",
+      "[#charac DMG_FIRE_PERCENT] 15 Domínio de fogo",
+      "[#charac HP] 14 PV",
+      "[#charac DMG_WATER_PERCENT] 15 Domínio de água",
+      "[#charac RES_IN_PERCENT] 4 Resistência elementar",
+      "[#charac TACKLE] 5 Bloqueio",
+      "[#charac DODGE] 5 Esquiva"
+    ]
+  },
+  {
+    "id": 6571,
+    "name": "Varinha de Tofu",
+    "description": "Essa varinha combinará muito bem com os penachos coloridos das suas roupas íntimas. Ah, não se faça de inocente! ",
+    "level": 16,
+    "rarity": 2,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 12 Domínio elementar",
+      "[#charac HP] 8 PV"
+    ]
+  },
+  {
+    "id": 7041,
+    "name": "Varinha de Piu",
+    "description": "Bom, o que foi? Olhe para ela. É uma varinha. Não é muito científico!",
+    "level": 30,
+    "rarity": 2,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac HP] 16 PV",
+      "[#charac RES_IN_PERCENT] 5 Resistência elementar",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac HEAL_IN_PERCENT] 7 Domínio de cura"
+    ]
+  },
+  {
+    "id": 9274,
+    "name": "Varinha de Kafé",
+    "description": "Você sabe, como a bebida, mas escrita diferente.",
+    "level": 55,
+    "rarity": 2,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac HP] 20 PV",
+      "[#charac DMG_IN_PERCENT] 15 Domínio sobre 2 elementos aleatórios",
+      "[#charac RANGED_DMG] 5 Domínio de distância",
+      "[#charac FEROCITY] 1% de golpe crítico",
+      "[#charac RES_IN_PERCENT] 4 Resistência elementar",
+      "[#charac DODGE] 4 Esquiva",
+      "[#charac TACKLE] 4 Bloqueio"
+    ]
+  },
+  {
+    "id": 9354,
+    "name": "Varinha da Hora",
+    "description": "Feita pela Eniripsa Mie Dopan, essa varinha é capaz de voltar no tempo para evitar lutas. Normalmente, ela termina enfiada no olho de algum demônio.",
+    "level": 15,
+    "rarity": 2,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac DODGE] 11 Esquiva",
+      "[#charac HP] 5 PV",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac HEAL_IN_PERCENT] 7 Domínio de cura",
+      "[#charac BLOCK] 2% de Parada"
+    ]
+  },
+  {
+    "id": 9359,
+    "name": "Varinha Esquisita",
+    "description": "Dadas suas capacidades limitadas, você provavelmente estaria melhor usando essa varinha para coçar as costas.",
+    "level": 47,
+    "rarity": 3,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac TACKLE] 15 Bloqueio",
+      "[#charac HP] 18 PV",
+      "[#charac DMG_IN_PERCENT] 23 Domínio sobre 2 elementos aleatórios",
+      "[#charac BLOCK] 2% de Parada"
+    ]
+  },
+  {
+    "id": 9362,
+    "name": "Varinha de Pão",
+    "description": "Só porque foi cozida em um forno de pão, não significa que essa varinha seja comestível. Mas o cheiro persistente de fermento enganará os Iops mais famintos.",
+    "level": 55,
+    "rarity": 2,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac TACKLE] 9 Bloqueio",
+      "[#charac BLOCK] 2% de Parada",
+      "[#charac HP] 18 PV",
+      "[#charac RES_IN_PERCENT] 4 Resistência elementar",
+      "[#charac DMG_IN_PERCENT] 17 Domínio sobre 1 elemento aleatório",
+      "[#charac MELEE_DMG] 5 Domínio de curta distância"
+    ]
+  },
+  {
+    "id": 9966,
+    "name": "Varinha da Coragem",
+    "description": "Essa varinha é para todos aqueles que fogem da briga continuamente. Com ela, você não terá mais coragem, mas correrá mais rápido!",
+    "level": 30,
+    "rarity": 2,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac HP] 10 PV",
+      "[#charac DODGE] 11 Esquiva",
+      "[#charac HEAL_IN_PERCENT] 1 Domínio de cura",
+      "[#charac DMG_WATER_PERCENT] 13 Domínio de água",
+      "[#charac FEROCITY] 1% de golpe crítico"
+    ]
+  },
+  {
+    "id": 10264,
+    "name": "Varinha Sufocante",
+    "description": "Essa varinha pode se apertar em volta do seu pescoço para estrangular você. Uma forma notável de matar aqueles pelos quais você tem um pouco de respeito.",
+    "level": 15,
+    "rarity": 3,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac HP] 15 PV",
+      "[#charac RES_IN_PERCENT] 5 Resistência elementar",
+      "[#charac DODGE] 5 Esquiva",
+      "[#charac HEAL_IN_PERCENT] 12 Domínio de cura"
+    ]
+  },
+  {
+    "id": 10564,
+    "name": "Bastão Cordial",
+    "description": "Parta-o no meio e terá um enfeite para seu amor e um palito de dente para você.",
+    "level": 40,
+    "rarity": 2,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac DODGE] 8 Esquiva",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac HP] 14 PV",
+      "[#charac DMG_EARTH_PERCENT] 15 Domínio de terra",
+      "[#charac RES_IN_PERCENT] 3 Resistência elementar"
+    ]
+  },
+  {
+    "id": 12185,
+    "name": "Varinha Makabra",
+    "description": "Esta arma antiga e amaldiçoada se separou da alma de seu antigo mestre quando ele foi morto em combate. Será que você tem o que é preciso para libertar todo o poder que ela contém?",
+    "level": 100,
+    "rarity": 3,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac HP] 75 PV",
+      "[#charac HEAL_IN_PERCENT] 20 Domínio de cura",
+      "[#charac AP] 1 PA",
+      "[#charac TACKLE] 0 Bloqueio",
+      "[#charac DODGE] 0 Esquiva",
+      "[#charac RANGE] 2 Alcance",
+      "[#charac RANGE] 1 Alcance"
+    ]
+  },
+  {
+    "id": 12624,
+    "name": "Espanador de Plumas",
+    "description": "Alcança até os cantos mais difíceis e sujos.",
+    "level": 94,
+    "rarity": 3,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac HP] 81 PV",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DODGE] 42 Esquiva",
+      "[#charac TACKLE] 42 Bloqueio",
+      "[#charac RES_IN_PERCENT] 18 Resistência elementar",
+      "[#charac RANGED_DMG] 24 Domínio de distância",
+      "[#charac DMG_IN_PERCENT] 64 Domínio sobre 1 elemento aleatório"
+    ]
+  },
+  {
+    "id": 12637,
+    "name": "Varinha Grosseira de Splinter",
+    "description": "Aparentemente, o último dono dessa varinha a deixou cair porque não tinha mais dedo nenhum sobrando.",
+    "level": 72,
+    "rarity": 2,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac DODGE] 28 Esquiva",
+      "[#charac HP] 60 PV",
+      "[#charac HEAL_IN_PERCENT] 5 Domínio de cura",
+      "[#charac BACKSTAB_BONUS] 3 Domínio de costas",
+      "[#charac DMG_IN_PERCENT] 26 Domínio sobre 1 elemento aleatório",
+      "[#charac FEROCITY] 1% de golpe crítico",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar"
+    ]
+  },
+  {
+    "id": 12896,
+    "name": "Varinha Vampírica",
+    "description": "No crepúsculo, você pode usar esta varinha para garfar os olhos dos seus inimigos. Quando a lua nova aparecer, eles farão isso por conta própria. ",
+    "level": 94,
+    "rarity": 3,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac BLOCK] 1% de Parada",
+      "[#charac HP] 100 PV",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac RES_IN_PERCENT] 25 Resistência elementar",
+      "[#charac HEAL_IN_PERCENT] 10 Domínio de cura",
+      "[#charac DMG_IN_PERCENT] 51 Domínio sobre 1 elemento aleatório",
+      "[#charac TACKLE] 12 Bloqueio",
+      "[#charac DODGE] 12 Esquiva"
+    ]
+  },
+  {
+    "id": 14120,
+    "name": "Varinha do Mago Cinza",
+    "description": "Essa varinha é detentora da chama de futum. Ela pertencia a um poderoso mago e se quebrou durante seu combate épico com um Paparog.",
+    "level": 110,
+    "rarity": 4,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 35 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac HP] 57 PV",
+      "[#charac AP] 1 PA",
+      "[#charac RES_EARTH_PERCENT] 28 Resistência à terra",
+      "[#charac RES_AIR_PERCENT] 28 Resistência ao ar",
+      "[#charac HEAL_IN_PERCENT] 22 Domínio de cura"
+    ]
+  },
+  {
+    "id": 14281,
+    "name": "Rosavistosa",
+    "description": "Aquilo que chamamos de rosa, com outro nome, teria igual perfume... Mas essa tem um nome bem idiota!",
+    "level": 95,
+    "rarity": 3,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac RANGE] 1 Alcance",
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 38 Domínio sobre 1 elemento aleatório",
+      "[#charac HP] 42 PV",
+      "[#charac RES_IN_PERCENT] 5 Resistência elementar"
+    ]
+  },
+  {
+    "id": 14647,
+    "name": "Varinha de Náuseas",
+    "description": "Esta varinha pertencia a um Eniripsa tão talentoso e conhecido que deixaria você com vontade de vomitar.",
+    "level": 80,
+    "rarity": 3,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac DODGE] 30 Esquiva",
+      "[#charac HP] 74 PV",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac HEAL_IN_PERCENT] 7 Domínio de cura",
+      "[#charac DMG_IN_PERCENT] 37 Domínio sobre 2 elementos aleatórios",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar"
+    ]
+  },
+  {
+    "id": 14648,
+    "name": "Varinha Gugu Dadá",
+    "description": "Esta varinha pertencia a um feiticeiro poderoso que podia invocar terríveis demônios feitos de marshmallow.",
+    "level": 90,
+    "rarity": 3,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac DODGE] 13 Esquiva",
+      "[#charac TACKLE] 13 Bloqueio",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac HP] 120 PV",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac BLOCK] 2% de Parada",
+      "[#charac RANGED_DMG] 40 Domínio de distância",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar"
+    ]
+  },
+  {
+    "id": 14649,
+    "name": "Bastão Tádjibôa",
+    "description": "Um achado maravilhoso para aqueles que brincam em serviço... Serviços escusos, isso sim!",
+    "level": 95,
+    "rarity": 4,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac RANGE] 1 Alcance",
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 18 Domínio sobre 3 elementos aleatórios",
+      "[#charac HP] 61 PV",
+      "[#charac RES_IN_PERCENT] 6 Resistência elementar",
+      "[#charac HEAL_IN_PERCENT] 11 Domínio de cura"
+    ]
+  },
+  {
+    "id": 14880,
+    "name": "Varinha Comestrela",
+    "description": "Não sabemos muito sobre esta varinha além do fato de que os habitantes de sua terra falam um dialeto incompreensível conhecido como \"Chavês\".",
+    "level": 67,
+    "rarity": 2,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac DODGE] 10 Esquiva",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac HP] 55 PV",
+      "[#charac TACKLE] 10 Bloqueio",
+      "[#charac RANGED_DMG] 11 Domínio de distância",
+      "[#charac RES_IN_PERCENT] 16 Resistência elementar",
+      "[#charac DMG_IN_PERCENT] 26 Domínio sobre 1 elemento aleatório"
+    ]
+  },
+  {
+    "id": 15212,
+    "name": "A Supernova",
+    "description": "Quando usada, esta varinha libera belas centelhas de diferentes cores. Não é bom para o planeta, mas o efeito é tão fofo!",
+    "level": 72,
+    "rarity": 2,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac DODGE] 21 Esquiva",
+      "[#charac HP] 60 PV",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac RES_IN_PERCENT] 14 Resistência elementar",
+      "[#charac HEAL_IN_PERCENT] 7 Domínio de cura",
+      "[#charac DMG_IN_PERCENT] 24 Domínio sobre 1 elemento aleatório",
+      "[#charac FEROCITY] 1% de golpe crítico"
+    ]
+  },
+  {
+    "id": 16038,
+    "name": "Fragmental",
+    "description": "Uma pequena mordida na Fragmental lançará partículas de gelo no ar!",
+    "level": 122,
+    "rarity": 2,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac RANGE] 1 Alcance",
+      "[#charac DMG_IN_PERCENT] 49 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac HP] 82 PV",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar",
+      "[#charac HEAL_IN_PERCENT] 16 Domínio de cura",
+      "[#charac DODGE] 13 Esquiva",
+      "[#charac TACKLE] 13 Bloqueio"
+    ]
+  },
+  {
+    "id": 16773,
+    "name": "Agitador Real",
+    "description": "Bebidas ficam melhores batidas, não agitadas, mas desde quando você entende alguma coisa de bom gosto?",
+    "level": 103,
+    "rarity": 2,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac RANGE] 1 Alcance",
+      "[#charac DMG_IN_PERCENT] 37 Domínio sobre 2 elementos aleatórios",
+      "[#charac DODGE] 28 Esquiva",
+      "[#charac HP] 98 PV",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac CRITICAL_BONUS] 5 Domínio de crítico"
+    ]
+  },
+  {
+    "id": 17284,
+    "name": "Bastão de Cenouwa",
+    "description": "A melhor maneira de atrair o adversário? Enfie uma Cenouwa no seu nariz e eles virão correndo!",
+    "level": 135,
+    "rarity": 2,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac HP] 161 PV",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac RANGED_DMG] 24 Domínio de distância",
+      "[#charac DMG_IN_PERCENT] 64 Domínio sobre 1 elemento aleatório",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac RES_IN_PERCENT] 30 Resistência elementar",
+      "[#charac TACKLE] 27 Bloqueio",
+      "[#charac DODGE] 27 Esquiva"
+    ]
+  },
+  {
+    "id": 18180,
+    "name": "Portobello",
+    "description": "Agite-me! E esporos cairão!",
+    "level": 140,
+    "rarity": 3,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DODGE] 20 Esquiva",
+      "[#charac HP] 59 PV",
+      "[#charac AP] 1 PA",
+      "[#charac RES_WATER_PERCENT] 19 Resistência à água",
+      "[#charac RES_FIRE_PERCENT] 19 Resistência ao fogo",
+      "[#charac HEAL_IN_PERCENT] 22 Domínio de cura",
+      "[#charac DMG_IN_PERCENT] 64 Domínio sobre 1 elemento aleatório",
+      "[#charac RES_AIR_PERCENT] 19 Resistência ao ar"
+    ]
+  },
+  {
+    "id": 18446,
+    "name": "Tigus Shushu",
+    "description": "Uma vez que você tenha dominado o uso deste anel, a energia que o liga a seu dono faz com que ele possa ser usado como bumerangue.",
+    "level": 155,
+    "rarity": 4,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac DMG_IN_PERCENT] 65 Domínio sobre 3 elementos aleatórios",
+      "[#charac RANGED_DMG] 36 Domínio de distância",
+      "[#charac HP] 85 PV",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar"
+    ]
+  },
+  {
+    "id": 19061,
+    "name": "Fenocaule",
+    "description": "Ele é realmente fenomenal.",
+    "level": 170,
+    "rarity": 4,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac HP] 73 PV",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac AP] 1 PA",
+      "[#charac RES_EARTH_PERCENT] 28 Resistência à terra",
+      "[#charac RES_FIRE_PERCENT] 28 Resistência ao fogo",
+      "[#charac DMG_IN_PERCENT] 104 Domínio sobre 2 elementos aleatórios",
+      "[#charac TACKLE] 13 Bloqueio",
+      "[#charac DODGE] 13 Esquiva"
+    ]
+  },
+  {
+    "id": 19242,
+    "name": "Encristada",
+    "description": "Uma bela agulha dotada de um orbe cristalino, do qual ela extrai seu poder.",
+    "level": 170,
+    "rarity": 4,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac AP] 1 PA",
+      "[#charac HEAL_IN_PERCENT] 102 Domínio de cura"
+    ]
+  },
+  {
+    "id": 20200,
+    "name": "A Crocovara",
+    "description": "Uma varinha leve e de fácil manejo que facilitará o trabalho de precisão.",
+    "level": 185,
+    "rarity": 4,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac HP] 241 PV",
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 179 Domínio sobre 3 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 20224,
+    "name": "A Recsseneta",
+    "description": "Seu coração de aparência dura na verdade é tão grande quanto o poder contido nesta arma. Manuseie com cuidado.",
+    "level": 185,
+    "rarity": 4,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac HEAL_IN_PERCENT] 49 Domínio de cura",
+      "[#charac DMG_IN_PERCENT] 65 Domínio sobre 3 elementos aleatórios",
+      "[#charac HP] 136 PV",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar"
+    ]
+  },
+  {
+    "id": 20567,
+    "name": "Varinha Crânia",
+    "description": "O poder desta varinha é satisfatório, mas uma pergunta não quer calar: a quem pertencia este crânio?",
+    "level": 152,
+    "rarity": 3,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac DODGE] 40 Esquiva",
+      "[#charac HP] 126 PV",
+      "[#charac AP] 1 PA",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar",
+      "[#charac RANGED_DMG] 36 Domínio de distância",
+      "[#charac DMG_IN_PERCENT] 49 Domínio sobre 2 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 20988,
+    "name": "Varinha Turbilhonante",
+    "description": "Quando usada, esta varinha faz brilhar luzinhas coloridas que têm um cheiro forte de chocolate!",
+    "level": 120,
+    "rarity": 2,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac MP] 1 PM",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac HP] 89 PV",
+      "[#charac DMG_IN_PERCENT] 35 Domínio sobre 2 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 21204,
+    "name": "Vara Verão",
+    "description": "Eeeepa! Olha lá como você fala sobre esta varinha, hein, pois ela não leva desaforo para casa!",
+    "level": 164,
+    "rarity": 3,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 71 Domínio sobre 3 elementos aleatórios",
+      "[#charac HEAL_IN_PERCENT] 21 Domínio de cura",
+      "[#charac HP] 118 PV",
+      "[#charac DODGE] 30 Esquiva",
+      "[#charac RES_EARTH_PERCENT] 22 Resistência à terra",
+      "[#charac RES_FIRE_PERCENT] 22 Resistência ao fogo",
+      "[#charac RES_WATER_PERCENT] 22 Resistência à água"
+    ]
+  },
+  {
+    "id": 21254,
+    "name": "Vara Verão",
+    "description": "Eeeepa! Olha lá como você fala sobre esta varinha, hein, pois ela não leva desaforo para casa!",
+    "level": 170,
+    "rarity": 4,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac RANGE] 1 Alcance",
+      "[#charac HP] 79 PV",
+      "[#charac AP] 1 PA",
+      "[#charac HEAL_IN_PERCENT] 25 Domínio de cura",
+      "[#charac RES_FIRE_PERCENT] 11 Resistência ao fogo",
+      "[#charac DODGE] 20 Esquiva",
+      "[#charac DMG_IN_PERCENT] 71 Domínio sobre 3 elementos aleatórios",
+      "[#charac RES_WATER_PERCENT] 11 Resistência à água",
+      "[#charac RES_EARTH_PERCENT] 11 Resistência à terra"
+    ]
+  },
+  {
+    "id": 21487,
+    "name": "Varinha Turbilhonante",
+    "description": "Quando usada, esta varinha faz brilhar luzinhas coloridas que têm um cheiro forte de chocolate!",
+    "level": 123,
+    "rarity": 3,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac RANGE] 1 Alcance",
+      "[#charac HP] 95 PV",
+      "[#charac MP] 1 PM",
+      "[#charac BLOCK] 4% de Parada",
+      "[#charac DMG_IN_PERCENT] 49 Domínio sobre 2 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 21507,
+    "name": "Varinha Turbilhonante",
+    "description": "Quando usada, esta varinha faz brilhar luzinhas coloridas que têm um cheiro forte de chocolate!",
+    "level": 125,
+    "rarity": 4,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac MP] 1 PM",
+      "[#charac DMG_IN_PERCENT] 61 Domínio sobre 2 elementos aleatórios",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac HP] 97 PV",
+      "[#charac RES_WATER_PERCENT] 28 Resistência à água",
+      "[#charac RES_EARTH_PERCENT] 28 Resistência à terra",
+      "[#charac DODGE] 5 Esquiva",
+      "[#charac TACKLE] 5 Bloqueio"
+    ]
+  },
+  {
+    "id": 21807,
+    "name": "Cachimbinha",
+    "description": "De tanto fumar este cachimbo, um músico famoso estragou seu relacionamento e destruiu sua carreira.",
+    "level": 188,
+    "rarity": 1,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac HP] 155 PV",
+      "[#charac AP] 1 PA",
+      "[#charac RES_IN_PERCENT] 11 Resistência a 3 elementos aleatórios",
+      "[#charac HEAL_IN_PERCENT] 120 Domínio de cura",
+      "[#charac FEROCITY] 2% de golpe crítico"
+    ]
+  },
+  {
+    "id": 21992,
+    "name": "Cachimbinha",
+    "description": "De tanto fumar este cachimbo, um músico famoso estragou seu relacionamento e destruiu sua carreira.",
+    "level": 196,
+    "rarity": 2,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac HP] 115 PV",
+      "[#charac AP] 1 PA",
+      "[#charac RES_IN_PERCENT] 14 Resistência a 3 elementos aleatórios",
+      "[#charac HEAL_IN_PERCENT] 163 Domínio de cura"
+    ]
+  },
+  {
+    "id": 21993,
+    "name": "Cachimbinha",
+    "description": "De tanto fumar este cachimbo, um músico famoso estragou seu relacionamento e destruiu sua carreira.",
+    "level": 199,
+    "rarity": 3,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac HEAL_IN_PERCENT] 212 Domínio de cura",
+      "[#charac FEROCITY] 5% de golpe crítico",
+      "[#charac HP] 167 PV",
+      "[#charac AP] 1 PA",
+      "[#charac RES_IN_PERCENT] 16 Resistência a 3 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 21994,
+    "name": "Cachimbinha",
+    "description": "De tanto fumar este cachimbo, um músico famoso estragou seu relacionamento e destruiu sua carreira.",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac HEAL_IN_PERCENT] 254 Domínio de cura",
+      "[#charac HP] 175 PV",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac AP] 1 PA",
+      "[#charac RES_IN_PERCENT] 17 Resistência a 3 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 22244,
+    "name": "Crocovara",
+    "description": "Uma varinha leve e de fácil manejo, que facilitará trabalhos de precisão.",
+    "level": 182,
+    "rarity": 3,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac HP] 235 PV",
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 134 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 3% de golpe crítico"
+    ]
+  },
+  {
+    "id": 22247,
+    "name": "Recsseneta",
+    "description": "Seu coração de aparência dura na verdade é tão grande quanto o poder contido nesta arma. Manuseie com cuidado.",
+    "level": 184,
+    "rarity": 3,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac HP] 123 PV",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac AP] 1 PA",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar",
+      "[#charac HEAL_IN_PERCENT] 34 Domínio de cura",
+      "[#charac DMG_IN_PERCENT] 47 Domínio sobre 3 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 22362,
+    "name": "Fenocaule",
+    "description": "Ele é realmente fenomenal.",
+    "level": 168,
+    "rarity": 3,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 77 Domínio sobre 2 elementos aleatórios",
+      "[#charac HP] 66 PV",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac RES_EARTH_PERCENT] 21 Resistência à terra",
+      "[#charac RES_FIRE_PERCENT] 21 Resistência ao fogo",
+      "[#charac TACKLE] 7 Bloqueio",
+      "[#charac DODGE] 7 Esquiva"
+    ]
+  },
+  {
+    "id": 22695,
+    "name": "Craninha",
+    "description": "O poder desta varinha é satisfatório, mas uma pergunta não quer calar: a quem pertencia este crânio?",
+    "level": 155,
+    "rarity": 4,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac DODGE] 55 Esquiva",
+      "[#charac HP] 148 PV",
+      "[#charac AP] 1 PA",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar",
+      "[#charac RANGED_DMG] 48 Domínio de distância",
+      "[#charac DMG_IN_PERCENT] 73 Domínio sobre 2 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 22696,
+    "name": "Craninha",
+    "description": "O poder desta varinha é satisfatório, mas uma pergunta não quer calar: a quem pertencia este crânio?",
+    "level": 149,
+    "rarity": 2,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 37 Domínio sobre 2 elementos aleatórios",
+      "[#charac DODGE] 30 Esquiva",
+      "[#charac HP] 92 PV",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar",
+      "[#charac RANGED_DMG] 24 Domínio de distância"
+    ]
+  },
+  {
+    "id": 22839,
+    "name": "Portobello",
+    "description": "Sacuda-o! E esporos cairão!",
+    "level": 140,
+    "rarity": 4,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 77 Domínio sobre 1 elemento aleatório",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac DODGE] 20 Esquiva",
+      "[#charac HP] 62 PV",
+      "[#charac RES_AIR_PERCENT] 20 Resistência ao ar",
+      "[#charac RES_WATER_PERCENT] 20 Resistência à água",
+      "[#charac RES_FIRE_PERCENT] 20 Resistência ao fogo",
+      "[#charac HEAL_IN_PERCENT] 37 Domínio de cura"
+    ]
+  },
+  {
+    "id": 22840,
+    "name": "Portobello",
+    "description": "Sacuda-o! E esporos cairão!",
+    "level": 137,
+    "rarity": 2,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac DODGE] 15 Esquiva",
+      "[#charac HP] 58 PV",
+      "[#charac AP] 1 PA",
+      "[#charac RES_FIRE_PERCENT] 13 Resistência ao fogo",
+      "[#charac HEAL_IN_PERCENT] 10 Domínio de cura",
+      "[#charac DMG_IN_PERCENT] 51 Domínio sobre 1 elemento aleatório",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac RES_AIR_PERCENT] 13 Resistência ao ar",
+      "[#charac RES_WATER_PERCENT] 13 Resistência à água"
+    ]
+  },
+  {
+    "id": 22873,
+    "name": "Bastão de Cenouwa",
+    "description": "Como atrair seus adversários? Enfie uma Cenouwa no seu nariz e eles virão correndo!",
+    "level": 138,
+    "rarity": 3,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac DMG_IN_PERCENT] 89 Domínio sobre 1 elemento aleatório",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac HP] 196 PV",
+      "[#charac RES_IN_PERCENT] 35 Resistência elementar",
+      "[#charac RANGED_DMG] 24 Domínio de distância",
+      "[#charac DODGE] 27 Esquiva",
+      "[#charac TACKLE] 27 Bloqueio"
+    ]
+  },
+  {
+    "id": 22874,
+    "name": "Bastão de Cenouwa",
+    "description": "Como atrair seus adversários? Enfie uma Cenouwa no seu nariz e eles virão correndo!",
+    "level": 140,
+    "rarity": 4,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac HP] 235 PV",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac RES_IN_PERCENT] 40 Resistência elementar",
+      "[#charac RANGED_DMG] 36 Domínio de distância",
+      "[#charac DMG_IN_PERCENT] 102 Domínio sobre 1 elemento aleatório",
+      "[#charac TACKLE] 33 Bloqueio",
+      "[#charac DODGE] 33 Esquiva"
+    ]
+  },
+  {
+    "id": 23007,
+    "name": "Fragmental",
+    "description": "Uma pequena mordida na Fragmental lançará partículas de gelo no ar!",
+    "level": 125,
+    "rarity": 4,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac HP] 112 PV",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac RES_IN_PERCENT] 17 Resistência elementar",
+      "[#charac HEAL_IN_PERCENT] 31 Domínio de cura",
+      "[#charac DMG_IN_PERCENT] 73 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac DODGE] 23 Esquiva",
+      "[#charac TACKLE] 23 Bloqueio"
+    ]
+  },
+  {
+    "id": 23008,
+    "name": "Fragmental",
+    "description": "Uma pequena mordida na Fragmental lançará partículas de gelo no ar!",
+    "level": 125,
+    "rarity": 3,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac HP] 99 PV",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac HEAL_IN_PERCENT] 20 Domínio de cura",
+      "[#charac DMG_IN_PERCENT] 61 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac RES_IN_PERCENT] 17 Resistência elementar",
+      "[#charac DODGE] 20 Esquiva",
+      "[#charac TACKLE] 20 Bloqueio"
+    ]
+  },
+  {
+    "id": 23009,
+    "name": "Fragmental",
+    "description": "Uma pequena mordida na Fragmental lançará partículas de gelo no ar!",
+    "level": 114,
+    "rarity": 1,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac HP] 68 PV",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar",
+      "[#charac HEAL_IN_PERCENT] 13 Domínio de cura",
+      "[#charac DMG_IN_PERCENT] 30 Domínio sobre 2 elementos aleatórios",
+      "[#charac TACKLE] 13 Bloqueio",
+      "[#charac DODGE] 13 Esquiva"
+    ]
+  },
+  {
+    "id": 23189,
+    "name": "Varinha do Mago Cinza",
+    "description": "Essa varinha é detentora da chama de futum. Ela pertencia a um poderoso mago e se quebrou durante seu combate épico com um Paparog.",
+    "level": 109,
+    "rarity": 3,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac HEAL_IN_PERCENT] 13 Domínio de cura",
+      "[#charac DMG_IN_PERCENT] 29 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac HP] 53 PV",
+      "[#charac RES_EARTH_PERCENT] 25 Resistência à terra",
+      "[#charac RES_AIR_PERCENT] 25 Resistência ao ar"
+    ]
+  },
+  {
+    "id": 23320,
+    "name": "Agitador Real",
+    "description": "Bebidas ficam melhores batidas, não agitadas, mas desde quando você entende alguma coisa de bom gosto?",
+    "level": 108,
+    "rarity": 3,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac DODGE] 34 Esquiva",
+      "[#charac HP] 105 PV",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac RES_IN_PERCENT] 22 Resistência elementar",
+      "[#charac CRITICAL_BONUS] 5 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 55 Domínio sobre 2 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 23365,
+    "name": "Varinha Vampírica",
+    "description": "No crepúsculo, você pode usar esta varinha para garfar os olhos dos seus inimigos. Quando a lua nova aparecer, eles farão isso por conta própria.",
+    "level": 86,
+    "rarity": 2,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac HP] 41 PV",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac RES_IN_PERCENT] 8 Resistência elementar",
+      "[#charac HEAL_IN_PERCENT] 3 Domínio de cura",
+      "[#charac DMG_IN_PERCENT] 26 Domínio sobre 1 elemento aleatório",
+      "[#charac BLOCK] 1% de Parada",
+      "[#charac TACKLE] 7 Bloqueio",
+      "[#charac DODGE] 7 Esquiva"
+    ]
+  },
+  {
+    "id": 23530,
+    "name": "Varinha Grosseira de Splinter",
+    "description": "Aparentemente, o último dono dessa varinha a deixou cair porque não tinha mais dedo nenhum sobrando.",
+    "level": 80,
+    "rarity": 3,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac DODGE] 30 Esquiva",
+      "[#charac HP] 86 PV",
+      "[#charac HEAL_IN_PERCENT] 7 Domínio de cura",
+      "[#charac BACKSTAB_BONUS] 6 Domínio de costas",
+      "[#charac DMG_IN_PERCENT] 31 Domínio sobre 1 elemento aleatório",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar"
+    ]
+  },
+  {
+    "id": 23568,
+    "name": "A Supernova",
+    "description": "Quando usada, esta varinha libera belas centelhas de diferentes cores. Não é bom para o planeta, mas o efeito é tão fofo!",
+    "level": 80,
+    "rarity": 3,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac DODGE] 30 Esquiva",
+      "[#charac HP] 61 PV",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar",
+      "[#charac HEAL_IN_PERCENT] 9 Domínio de cura",
+      "[#charac DMG_IN_PERCENT] 32 Domínio sobre 1 elemento aleatório",
+      "[#charac FEROCITY] 2% de golpe crítico"
+    ]
+  },
+  {
+    "id": 24012,
+    "name": "Varinha de Eniripsa",
+    "description": "Foi a Deusa Eniripsa quem a agitou, mas, na verdade, a varinha foi criada por Eni Nooni.",
+    "level": 200,
+    "rarity": 3,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac RANGE] 1 Alcance",
+      "[#charac AP] 1 PA",
+      "[#charac HEAL_IN_PERCENT] 57 Domínio de cura",
+      "[#charac DMG_IN_PERCENT] 100 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 5% de golpe crítico",
+      "[#charac HP] 66 PV"
+    ]
+  },
+  {
+    "id": 24026,
+    "name": "Varinha de Eniripsa",
+    "description": "Foi a Deusa Eniripsa quem a agitou, mas, na verdade, a varinha foi criada por Eni Nooni.",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac HP] 71 PV",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac AP] 1 PA",
+      "[#charac HEAL_IN_PERCENT] 71 Domínio de cura",
+      "[#charac DMG_IN_PERCENT] 118 Domínio sobre 3 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 24626,
+    "name": "A Charmosa",
+    "description": "Com sua beleza, ela encanta o inimigo. Mas, com um golpe, ela o esfarela.",
+    "level": 80,
+    "rarity": 2,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac HP] 52 PV",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac HEAL_IN_PERCENT] 10 Domínio de cura",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac DODGE] 13 Esquiva"
+    ]
+  },
+  {
+    "id": 24627,
+    "name": "A Charmosa",
+    "description": "Com sua beleza, ela encanta o inimigo. Mas, com um golpe, ela o esfarela.",
+    "level": 80,
+    "rarity": 3,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac DODGE] 15 Esquiva",
+      "[#charac HP] 58 PV",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac HEAL_IN_PERCENT] 14 Domínio de cura",
+      "[#charac FEROCITY] 4% de golpe crítico"
+    ]
+  },
+  {
+    "id": 24644,
+    "name": "O Soberano",
+    "description": "Um bastão de aparência majestosa e realidade cruel.",
+    "level": 110,
+    "rarity": 2,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac HEAL_IN_PERCENT] 17 Domínio de cura",
+      "[#charac DODGE] 7 Esquiva",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac AP] 1 PA"
+    ]
+  },
+  {
+    "id": 24645,
+    "name": "O Soberano",
+    "description": "Um bastão de aparência majestosa e realidade cruel.",
+    "level": 110,
+    "rarity": 3,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac HEAL_IN_PERCENT] 27 Domínio de cura",
+      "[#charac DODGE] 10 Esquiva",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac AP] 1 PA"
+    ]
+  },
+  {
+    "id": 24660,
+    "name": "A Azul",
+    "description": "Seja você um jovem recruta ou um combatente obstinado, essa varinha serve para todos.",
+    "level": 140,
+    "rarity": 3,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac HP] 71 PV",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 35 Domínio sobre 3 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 24661,
+    "name": "A Azul",
+    "description": "Seja você um jovem recruta ou um combatente obstinado, essa varinha serve para todos.",
+    "level": 140,
+    "rarity": 4,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac HP] 100 PV",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 53 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 2% de golpe crítico"
+    ]
+  },
+  {
+    "id": 24724,
+    "name": "Companheira de Agonia",
+    "description": "Uma poderosa varinha que pertenceu a uma das maiores necromantes.",
+    "level": 200,
+    "rarity": 7,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac AP] 2 PA",
+      "[#charac RES_EARTH_PERCENT] 28 Resistência à terra",
+      "[#charac RES_WATER_PERCENT] 28 Resistência à água",
+      "[#charac DMG_IN_PERCENT] 402 Domínio sobre 2 elementos aleatórios",
+      "[#charac HP] 131 PV"
+    ]
+  },
+  {
+    "id": 25330,
+    "name": "Astrobastão de Batalha",
+    "description": "Junte-se à Elite! Escolha um Astrobastão de Batalha.",
+    "level": 78,
+    "rarity": 3,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac BERSERK_DMG] -11 Domínio de Berserk",
+      "[#charac MP] 1 PM",
+      "[#charac RANGE] 1 Alcance"
+    ]
+  },
+  {
+    "id": 25372,
+    "name": "Varinha Travesseiro",
+    "description": "Além de ser mágica, esta varinha manterá sua cabeça quente e confortável durante aquelas longas noites de inverno.",
+    "level": 78,
+    "rarity": 3,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac BERSERK_DMG] 11 Domínio de Berserk",
+      "[#charac RES_WATER_PERCENT] -20 Resistência à água"
+    ]
+  },
+  {
+    "id": 25391,
+    "name": "Sangue de Truz",
+    "description": "Esta varinha pertenceu a Jônatas Eduardo. Você pode usá-la para ler a mente dos Truzes. Não é de todo mau.",
+    "level": 70,
+    "rarity": 2,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac WP] 1 PW",
+      "[#charac BACKSTAB_BONUS] -53 Domínio de costas"
+    ]
+  },
+  {
+    "id": 25392,
+    "name": "Sangue de Truz",
+    "description": "Esta varinha pertenceu a Jônatas Eduardo. Você pode usá-la para ler a mente dos Truzes. Não é de todo mau.",
+    "level": 78,
+    "rarity": 3,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac WP] 1 PW",
+      "[#charac BACKSTAB_BONUS] -27 Domínio de costas"
+    ]
+  },
+  {
+    "id": 25497,
+    "name": "A Hildegarde",
+    "description": "Esta varinha foi criada há muitos anos nas forjas flamejantes de Durodem Athar. Eu já aviso para ter por perto um balde d'água para controlar o mini-inferno.",
+    "level": 93,
+    "rarity": 3,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac HP] 22 PV",
+      "[#charac TACKLE] 15 Bloqueio",
+      "[#charac DODGE] 15 Esquiva",
+      "[#charac DMG_IN_PERCENT] 37 Domínio sobre 2 elementos aleatórios",
+      "[#charac RES_WATER_PERCENT] 28 Resistência à água",
+      "[#charac RES_EARTH_PERCENT] 28 Resistência à terra"
+    ]
+  },
+  {
+    "id": 25665,
+    "name": "Varinha Peshnagua",
+    "description": "Com este item, você poderá pescar sem se sentir excluído.",
+    "level": 120,
+    "rarity": 3,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac RANGE] 1 Alcance",
+      "[#charac HP] 42 PV",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 38 Domínio sobre 1 elemento aleatório",
+      "[#charac MP] 1 PM",
+      "[#charac RES_WATER_PERCENT] 21 Resistência à água",
+      "[#charac RES_AIR_PERCENT] 21 Resistência ao ar"
+    ]
+  },
+  {
+    "id": 25666,
+    "name": "Varinha Peshnagua",
+    "description": "Com este item, você poderá pescar sem se sentir excluído.",
+    "level": 125,
+    "rarity": 4,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac HP] 79 PV",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 64 Domínio sobre 1 elemento aleatório",
+      "[#charac RES_WATER_PERCENT] 21 Resistência à água",
+      "[#charac MP] 1 PM",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac RES_AIR_PERCENT] 21 Resistência ao ar"
+    ]
+  },
+  {
+    "id": 26265,
+    "name": "Varinha do Mago Vermelho",
+    "description": "Taí uma varinha que detém o poder do fogo e das chamas.",
+    "level": 110,
+    "rarity": 4,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac WP] 1 PW",
+      "[#charac DMG_IN_PERCENT] 61 Domínio sobre 2 elementos aleatórios",
+      "[#charac RES_FIRE_PERCENT] 75 Resistência ao fogo"
+    ]
+  },
+  {
+    "id": 26295,
+    "name": "Prendedor de Cabelo",
+    "description": "Trata-se de um dos prendedores de cabelo da Presanegra.",
+    "level": 200,
+    "rarity": 3,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac HP] 153 PV",
+      "[#charac HEAL_IN_PERCENT] 424 Domínio de cura",
+      "[#charac RES_IN_PERCENT] 11 Resistência a 3 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 26316,
+    "name": "Prendedor de Cabelo",
+    "description": "Trata-se de um dos prendedores de cabelo da Presanegra.",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac HP] 161 PV",
+      "[#charac HEAL_IN_PERCENT] 495 Domínio de cura",
+      "[#charac RES_IN_PERCENT] 17 Resistência a 3 elementos aleatórios",
+      "[#charac AP] 1 PA"
+    ]
+  },
+  {
+    "id": 26545,
+    "name": "Varinha Pró-C",
+    "description": "Esta varinha deixará todos os Frililis loucos por você.\nVocê terá dezenas de monstrinhos a seus pés!\n",
+    "level": 104,
+    "rarity": 2,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac MP] 1 PM",
+      "[#charac HP] 55 PV",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 24 Domínio sobre 2 elementos aleatórios",
+      "[#charac RANGED_DMG] 24 Domínio de distância",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar",
+      "[#charac TACKLE] 7 Bloqueio",
+      "[#charac DODGE] 7 Esquiva"
+    ]
+  },
+  {
+    "id": 26546,
+    "name": "Varinha Pró-C",
+    "description": "Esta varinha deixará todos os Frililis loucos por você.\nVocê terá dezenas de monstrinhos a seus pés!\n",
+    "level": 107,
+    "rarity": 3,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac MP] 1 PM",
+      "[#charac HP] 75 PV",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 30 Domínio sobre 2 elementos aleatórios",
+      "[#charac RANGED_DMG] 30 Domínio de distância",
+      "[#charac TACKLE] 10 Bloqueio",
+      "[#charac DODGE] 10 Esquiva"
+    ]
+  },
+  {
+    "id": 27022,
+    "name": "Anel Spumante",
+    "description": "Para você comemorar no fim do ano.",
+    "level": 200,
+    "rarity": 3,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar",
+      "[#charac HP] 205 PV",
+      "[#charac TACKLE] 45 Bloqueio",
+      "[#charac DMG_IN_PERCENT] 110 Domínio sobre 2 elementos aleatórios",
+      "[#charac BERSERK_DMG] 147 Domínio de Berserk"
+    ]
+  },
+  {
+    "id": 27023,
+    "name": "Anel Spumante",
+    "description": "Para você comemorar no fim do ano.",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac HP] 235 PV",
+      "[#charac TACKLE] 45 Bloqueio",
+      "[#charac DMG_IN_PERCENT] 134 Domínio sobre 2 elementos aleatórios",
+      "[#charac BERSERK_DMG] 183 Domínio de Berserk",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar"
+    ]
+  },
+  {
+    "id": 27743,
+    "name": "Colher de Sorvete",
+    "description": "De todos os utensílios que você poderia ter trazido consigo, por que foi escolher justamente uma colher de sorvete? Talvez quisesse nos lembrar de um fabuloso herói que derrotou o mal com uma arma original...",
+    "level": 210,
+    "rarity": 3,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac HEAL_IN_PERCENT] 130 Domínio de cura",
+      "[#charac RES_FIRE_PERCENT] 13 Resistência ao fogo",
+      "[#charac RES_EARTH_PERCENT] 13 Resistência à terra",
+      "[#charac AP] 1 PA",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac HP] 124 PV",
+      "[#charac DMG_IN_PERCENT] 89 Domínio sobre 3 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 27744,
+    "name": "Colher de Sorvete",
+    "description": "De todos os utensílios que você poderia ter trazido consigo, por que foi escolher justamente uma colher de sorvete? Talvez quisesse nos lembrar de um fabuloso herói que derrotou o mal com uma arma original...",
+    "level": 215,
+    "rarity": 4,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 112 Domínio sobre 3 elementos aleatórios",
+      "[#charac HEAL_IN_PERCENT] 161 Domínio de cura",
+      "[#charac RES_FIRE_PERCENT] 13 Resistência ao fogo",
+      "[#charac RES_EARTH_PERCENT] 13 Resistência à terra",
+      "[#charac AP] 1 PA",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac HP] 170 PV"
+    ]
+  },
+  {
+    "id": 29640,
+    "name": "Varinha Ancestral",
+    "description": "Esta varinha possui uma característica fascinante. Se você utilizá-la como palitinho para mexer o Makafé, sua bebida ficará mais gostosa e virá com um desenho feito de creme, como por exemplo, um coração, uma estrela ou até mesmo uma cabeça de Piu. Um item indispensável para todos os baristas.",
+    "level": 230,
+    "rarity": 3,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac HP] 206 PV",
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 235 Domínio sobre 3 elementos aleatórios",
+      "[#charac DODGE] 120 Esquiva",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar",
+      "[#charac HEAL_IN_PERCENT] 148 Domínio de cura"
+    ]
+  },
+  {
+    "id": 29641,
+    "name": "Varinha Ancestral",
+    "description": "Esta varinha possui uma característica fascinante. Se você utilizá-la como palitinho para mexer o Makafé, sua bebida ficará mais gostosa e virá com um desenho feito de creme, como por exemplo, um coração, uma estrela ou até mesmo uma cabeça de Piu. Um item indispensável para todos os baristas.",
+    "level": 230,
+    "rarity": 4,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 265 Domínio sobre 3 elementos aleatórios",
+      "[#charac DODGE] 140 Esquiva",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar",
+      "[#charac HEAL_IN_PERCENT] 170 Domínio de cura",
+      "[#charac HP] 270 PV",
+      "[#charac AP] 1 PA"
+    ]
+  },
+  {
+    "id": 29829,
+    "name": "Varus Shushu",
+    "description": "Uma vez que você tenha dominado o uso deste anel, a energia que o liga a seu dono faz com que ele possa ser usado como bumerangue.",
+    "level": 150,
+    "rarity": 3,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac HP] 60 PV",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac RANGED_DMG] 24 Domínio de distância",
+      "[#charac DMG_IN_PERCENT] 47 Domínio sobre 3 elementos aleatórios",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar",
+      "[#charac FEROCITY] 2% de golpe crítico"
+    ]
+  },
+  {
+    "id": 30913,
+    "name": "Varinha Felpuda",
+    "description": "Ela pode ser usada para cutucar o que você quiser sem se sujar.",
+    "level": 65,
+    "rarity": 4,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac RANGED_DMG] 36 Domínio de distância",
+      "[#charac HP] 52 PV",
+      "[#charac MP] -1 PM máx.",
+      "[#charac AP] 1 PA"
+    ]
+  },
+  {
+    "id": 32335,
+    "name": "Varinha do Mago Cinza",
+    "description": "Essa varinha é detentora da chama de futum. Ela pertencia a um poderoso mago e se quebrou durante seu combate épico com um Paparog.",
+    "level": 245,
+    "rarity": 6,
+    "slot": "Varinha (uma mão)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac TACKLE] 100 Bloqueio",
+      "[#charac HP] 303 PV",
+      "[#charac RES_EARTH_PERCENT] 20 Resistência à terra",
+      "[#charac DMG_IN_PERCENT] 520 Domínio sobre 3 elementos aleatórios",
+      "[#charac DODGE] 100 Esquiva",
+      "[#charac RES_WATER_PERCENT] 20 Resistência à água",
+      "[#charac RES_FIRE_PERCENT] 20 Resistência ao fogo"
+    ]
+  }
+]

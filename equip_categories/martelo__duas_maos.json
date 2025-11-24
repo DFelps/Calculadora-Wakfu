@@ -1,0 +1,1398 @@
+[
+  {
+    "id": 2027,
+    "name": "Papartelo",
+    "description": "Este martelo não só esmaga coisas, ele também morte. E, se você acredita nisso, precisa prestar atenção...",
+    "level": 7,
+    "rarity": 1,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac DMG_IN_PERCENT] 14 Domínio elementar",
+      "[#charac HP] 8 PV",
+      "[#charac FEROCITY] 2% de golpe crítico"
+    ]
+  },
+  {
+    "id": 2676,
+    "name": "Martelo Maluco",
+    "description": "Quem poderia imaginar que um Tofu preso no próprio esterco conseguiria fazer um martelo tão forte? Quem poderia imaginar que ele conseguiria fazer qualquer martelo? ",
+    "level": 17,
+    "rarity": 2,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac HP] 24 PV",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 16 Domínio elementar"
+    ]
+  },
+  {
+    "id": 7048,
+    "name": "Martelo Piu",
+    "description": "Quem não gosta de violência pode usá-lo para martelar pregos. Quem adora violência pode usá-lo para martelar pregos no crânio dos inimigos. ",
+    "level": 33,
+    "rarity": 3,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar",
+      "[#charac HP] 35 PV",
+      "[#charac DMG_IN_PERCENT] 38 Domínio sobre 3 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 9253,
+    "name": "Papartelo Real",
+    "description": "Não dá para acreditar, mas ele machuca o mesmo tanto que fede!",
+    "level": 13,
+    "rarity": 2,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac HP] 15 PV",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac DMG_IN_PERCENT] 20 Domínio elementar",
+      "[#charac DODGE] 3 Esquiva",
+      "[#charac TACKLE] 3 Bloqueio"
+    ]
+  },
+  {
+    "id": 9422,
+    "name": "Maça Andy Junho",
+    "description": "Se você ouvir de perto, perceberá que esta maça fica cantarolando sem parar uma musiquinha que não sai da sua cabeça desde que você era criança.",
+    "level": 30,
+    "rarity": 2,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac HP] 31 PV",
+      "[#charac DODGE] 13 Esquiva",
+      "[#charac DMG_EARTH_PERCENT] 21 Domínio de terra",
+      "[#charac RES_IN_PERCENT] 5 Resistência elementar",
+      "[#charac BLOCK] 2% de Parada",
+      "[#charac DMG_AIR_PERCENT] 21 Domínio de ar"
+    ]
+  },
+  {
+    "id": 9424,
+    "name": "Martelo de Otto",
+    "description": "O Grandioso Bwork Otto encomendou estes temíveis martelos de uma aldeia de Xelores, prometendo poupar os aldeões se eles fossem feitos. Quando os recebeu, ele destruiu a aldeia. Afinal, precisava testar as novas armas.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac TACKLE] 17 Bloqueio",
+      "[#charac BLOCK] 2% de Parada",
+      "[#charac HP] 54 PV",
+      "[#charac DMG_IN_PERCENT] 24 Domínio sobre 1 elemento aleatório",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar"
+    ]
+  },
+  {
+    "id": 9974,
+    "name": "Martelo Esmagador",
+    "description": "Um martelo criado pela senhorita Diná Mity, que o usava para esmagar o sorriso no rosto dos inimigos.",
+    "level": 50,
+    "rarity": 2,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac DODGE] 18 Esquiva",
+      "[#charac BLOCK] 2% de Parada",
+      "[#charac HP] 50 PV",
+      "[#charac DMG_IN_PERCENT] 22 Domínio sobre 2 elementos aleatórios",
+      "[#charac RES_IN_PERCENT] 8 Resistência elementar"
+    ]
+  },
+  {
+    "id": 10265,
+    "name": "Sargaço  ",
+    "description": "Sargaço pertencia a uma criança com poderes terríveis. Ninguém sabe o que aconteceu com essa arma desde que ela foi trocada por um saco de bolas de gude.",
+    "level": 17,
+    "rarity": 3,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac DODGE] 15 Esquiva",
+      "[#charac DMG_IN_PERCENT] 42 Domínio sobre 3 elementos aleatórios",
+      "[#charac RANGE] -1 Alcance",
+      "[#charac HP] 22 PV"
+    ]
+  },
+  {
+    "id": 12193,
+    "name": "Makabrartelo",
+    "description": "Esta arma antiga e amaldiçoada se separou da alma de seu antigo mestre quando ele foi morto em combate. Será que você tem o que é preciso para libertar todo o poder que ela contém?",
+    "level": 100,
+    "rarity": 3,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac HP] 150 PV",
+      "[#charac DMG_IN_PERCENT] 20 Domínio elementar",
+      "[#charac AP] 1 PA",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac LEADERSHIP] 0 Controle",
+      "[#charac DODGE] 0 Esquiva",
+      "[#charac TACKLE] 0 Bloqueio"
+    ]
+  },
+  {
+    "id": 12381,
+    "name": "Clava Demente",
+    "description": "Um golpe desta clava é o bastante para decapitar um Trool. Mas será que você é forte o suficiente para levantá-la?",
+    "level": 91,
+    "rarity": 3,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac TACKLE] 20 Bloqueio",
+      "[#charac DODGE] 20 Esquiva",
+      "[#charac HP] 154 PV",
+      "[#charac MP] 1 PM",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac DMG_IN_PERCENT] 55 Domínio sobre 2 elementos aleatórios",
+      "[#charac BLOCK] 2% de Parada",
+      "[#charac FEROCITY] 2% de golpe crítico"
+    ]
+  },
+  {
+    "id": 12445,
+    "name": "Martelo Pedregoso",
+    "description": "Este martelo pega pesado com os inimigos e com os seus braços.",
+    "level": 42,
+    "rarity": 2,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac BLOCK] 3% de Parada",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac HP] 33 PV",
+      "[#charac RES_IN_PERCENT] 8 Resistência elementar",
+      "[#charac MELEE_DMG] 13 Domínio de curta distância",
+      "[#charac DMG_IN_PERCENT] 13 Domínio sobre 2 elementos aleatórios",
+      "[#charac DODGE] 3 Esquiva",
+      "[#charac TACKLE] 3 Bloqueio"
+    ]
+  },
+  {
+    "id": 12477,
+    "name": "Martelo de Osamodas",
+    "description": "Muito útil para Osamodas e outros... Mas tenha cuidado com os dedos.",
+    "level": 81,
+    "rarity": 2,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac DODGE] 45 Esquiva",
+      "[#charac HP] 112 PV",
+      "[#charac DMG_IN_PERCENT] 38 Domínio sobre 1 elemento aleatório",
+      "[#charac RANGED_DMG] 16 Domínio de distância",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar"
+    ]
+  },
+  {
+    "id": 12606,
+    "name": "Martelo de Abade",
+    "description": "Este martelo pode ser usado para fazer soar os sinos da igreja ou a cabeça de seus inimigos.",
+    "level": 90,
+    "rarity": 2,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac HP] 145 PV",
+      "[#charac DMG_IN_PERCENT] 64 Domínio sobre 1 elemento aleatório",
+      "[#charac TACKLE] 60 Bloqueio",
+      "[#charac RES_IN_PERCENT] 30 Resistência elementar",
+      "[#charac MELEE_DMG] 23 Domínio de curta distância"
+    ]
+  },
+  {
+    "id": 12862,
+    "name": "Martelo Lapidar",
+    "description": "Você achou que este martelo tinha esse nome por ser muito bem polido e não porque ficaria melhor em um cemitério.",
+    "level": 89,
+    "rarity": 3,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac HP] 120 PV",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac RES_IN_PERCENT] 17 Resistência elementar",
+      "[#charac DMG_IN_PERCENT] 35 Domínio sobre 3 elementos aleatórios",
+      "[#charac BLOCK] 2% de Parada",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac TACKLE] 17 Bloqueio",
+      "[#charac DODGE] 17 Esquiva"
+    ]
+  },
+  {
+    "id": 14286,
+    "name": "Martelo de Dez Toneladas",
+    "description": "Este martelo simboliza o poder de Menandro, o centauro guerreiro e primeiro protetor de Martalo.",
+    "level": 95,
+    "rarity": 3,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac HP] 120 PV",
+      "[#charac AP] 1 PA",
+      "[#charac DODGE] 23 Esquiva",
+      "[#charac TACKLE] 23 Bloqueio",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 51 Domínio sobre 2 elementos aleatórios",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar",
+      "[#charac MELEE_DMG] 32 Domínio de curta distância"
+    ]
+  },
+  {
+    "id": 14480,
+    "name": "Martelo do Cascalho",
+    "description": "Este martelo bom para cascalho será uma pedra no sapato e na cabeça dos inimigos.",
+    "level": 107,
+    "rarity": 3,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac HP] 143 PV",
+      "[#charac AP] 1 PA",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac DMG_IN_PERCENT] 59 Domínio elementar",
+      "[#charac BLOCK] 2% de Parada",
+      "[#charac TACKLE] 30 Bloqueio"
+    ]
+  },
+  {
+    "id": 14540,
+    "name": "Maça Veio",
+    "description": "Esta maça entra em ressonância com música pop norte-americana. Deve ser o bastante até para acordar o Smagador mais sonolento.",
+    "level": 95,
+    "rarity": 4,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac TACKLE] 20 Bloqueio",
+      "[#charac DODGE] 20 Esquiva",
+      "[#charac HP] 170 PV",
+      "[#charac AP] 1 PA",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 75 Domínio sobre 3 elementos aleatórios",
+      "[#charac BLOCK] 3% de Parada",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar"
+    ]
+  },
+  {
+    "id": 14664,
+    "name": "Maça do Guardião Ancestral",
+    "description": "Os escritos dizem que só o maior guardião do Mundo dos Doze ganhará o direito de empunhar esta arma.",
+    "level": 108,
+    "rarity": 3,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac BLOCK] 2% de Parada",
+      "[#charac TACKLE] 40 Bloqueio",
+      "[#charac HP] 173 PV",
+      "[#charac MP] 1 PM",
+      "[#charac RES_IN_PERCENT] 25 Resistência elementar",
+      "[#charac DMG_IN_PERCENT] 64 Domínio sobre 3 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 14665,
+    "name": "Martelo Saidarena",
+    "description": "Um martelo capaz de enviar o alvo para outra dimensão.",
+    "level": 95,
+    "rarity": 4,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac WP] 1 PW",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac HP] 151 PV",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac DMG_IN_PERCENT] 59 Domínio sobre 3 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 15034,
+    "name": "Martelo Tócsiko",
+    "description": "Quando este martelo acerta o chão, um fedor repugnante se espalha ao seu redor. É bom que você aprenda rápido como lutar à distância!",
+    "level": 65,
+    "rarity": 4,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac TACKLE] 20 Bloqueio",
+      "[#charac HP] 120 PV",
+      "[#charac DMG_IN_PERCENT] 58 Domínio sobre 1 elemento aleatório",
+      "[#charac BLOCK] 3% de Parada",
+      "[#charac CRITICAL_RES] 10 Resistência crítica",
+      "[#charac RES_IN_PERCENT] 25 Resistência elementar"
+    ]
+  },
+  {
+    "id": 15401,
+    "name": "Revirador de Estômagos",
+    "description": "As instruções na caixa dizem que, se você golpear o inimigo no lugar certo, algumas partes do corpo dele estourarão! Mas quais...? Fica a pergunta. ",
+    "level": 71,
+    "rarity": 2,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac DODGE] 20 Esquiva",
+      "[#charac TACKLE] 20 Bloqueio",
+      "[#charac HP] 111 PV",
+      "[#charac CRITICAL_BONUS] 8 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 24 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar"
+    ]
+  },
+  {
+    "id": 16891,
+    "name": "Maça Trool",
+    "description": "Pesada como uma perna de Trool adulto, esta maça fará você suar.",
+    "level": 85,
+    "rarity": 2,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac DODGE] 30 Esquiva",
+      "[#charac HP] 122 PV",
+      "[#charac BACKSTAB_BONUS] 20 Domínio de costas",
+      "[#charac DMG_IN_PERCENT] 31 Domínio sobre 1 elemento aleatório",
+      "[#charac BLOCK] 2% de Parada",
+      "[#charac RES_IN_PERCENT] 22 Resistência elementar"
+    ]
+  },
+  {
+    "id": 17315,
+    "name": "Estlela da Manhã de Guawda",
+    "description": "Esta clava é muito perigosa, até mesmo para quem a está usando. Melhor manter uma distância segura para não esmagar as partes mais sensíveis do seu corpo.",
+    "level": 154,
+    "rarity": 3,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac HP] 257 PV",
+      "[#charac AP] 1 PA",
+      "[#charac RES_IN_PERCENT] 30 Resistência elementar",
+      "[#charac DMG_IN_PERCENT] 117 Domínio sobre 2 elementos aleatórios",
+      "[#charac BLOCK] 4% de Parada",
+      "[#charac DODGE] 17 Esquiva",
+      "[#charac TACKLE] 17 Bloqueio"
+    ]
+  },
+  {
+    "id": 17740,
+    "name": "Martelo da Morte",
+    "description": "Dizem que este martelo mata quem já está morto, de novo.",
+    "level": 89,
+    "rarity": 2,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac TACKLE] 25 Bloqueio",
+      "[#charac HP] 131 PV",
+      "[#charac WP] 1 PW",
+      "[#charac RES_IN_PERCENT] 25 Resistência elementar",
+      "[#charac MELEE_DMG] 24 Domínio de curta distância",
+      "[#charac BLOCK] 2% de Parada",
+      "[#charac FEROCITY] 2% de golpe crítico"
+    ]
+  },
+  {
+    "id": 17758,
+    "name": "Martelo da Selvageria",
+    "description": "Com este martelo, você só terá um desejo: esmagar, esmagar e ESMAGAR!",
+    "level": 62,
+    "rarity": 2,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 38 Domínio sobre 1 elemento aleatório",
+      "[#charac DODGE] 25 Esquiva",
+      "[#charac HP] 103 PV",
+      "[#charac RES_IN_PERCENT] 24 Resistência elementar",
+      "[#charac HEAL_IN_PERCENT] 6 Domínio de cura"
+    ]
+  },
+  {
+    "id": 17815,
+    "name": "Martelo de Throll",
+    "description": "Símbolo do poder do orgulhoso Bwork, este martelo contém uma energia ancestral mais antiga que o Caos de Ogrest. Chamado de martelo-relâmpago, esta arma é capaz de projetar raios ao redor de seu portador e, às vezes, sobre ele, se for mal utilizado. Isso sempre acontece com o Throll.",
+    "level": 63,
+    "rarity": 3,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac TACKLE] 20 Bloqueio",
+      "[#charac HP] 90 PV",
+      "[#charac AP] 1 PA",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar",
+      "[#charac MELEE_DMG] 11 Domínio de curta distância",
+      "[#charac DMG_IN_PERCENT] 24 Domínio sobre 2 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 18177,
+    "name": "Chop-chop",
+    "description": "Para manter todos os seus membros, seus inimigos irão fugir da sua frente, chop chop!",
+    "level": 125,
+    "rarity": 4,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac TACKLE] 40 Bloqueio",
+      "[#charac HP] 218 PV",
+      "[#charac AP] 1 PA",
+      "[#charac RES_IN_PERCENT] 22 Resistência elementar",
+      "[#charac DMG_IN_PERCENT] 96 Domínio sobre 3 elementos aleatórios",
+      "[#charac BLOCK] 3% de Parada"
+    ]
+  },
+  {
+    "id": 18454,
+    "name": "Martus Shushu",
+    "description": "Aqueles que notam a onda de choque que é emitida a cada acerto não tendem a viver o tempo suficiente para contar a história. Mas alguns dos observadores mais inteligentes também usam para pescar e coletar de frutos das árvores.",
+    "level": 155,
+    "rarity": 4,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac HP] 300 PV",
+      "[#charac DODGE] 55 Esquiva",
+      "[#charac AP] 1 PA",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac DMG_IN_PERCENT] 100 Domínio sobre 3 elementos aleatórios",
+      "[#charac BACKSTAB_BONUS] 22 Domínio de costas",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac BLOCK] 4% de Parada",
+      "[#charac MELEE_DMG] 45 Domínio de curta distância",
+      "[#charac RES_IN_PERCENT] 30 Resistência elementar"
+    ]
+  },
+  {
+    "id": 19051,
+    "name": "Manhartelo",
+    "description": "Para começar a bater na cabeça dos outros bem cedinho!",
+    "level": 168,
+    "rarity": 3,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac HP] 257 PV",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac AP] 1 PA",
+      "[#charac RES_WATER_PERCENT] 47 Resistência à água",
+      "[#charac RES_FIRE_PERCENT] 47 Resistência ao fogo",
+      "[#charac DMG_IN_PERCENT] 144 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac RES_AIR_PERCENT] 47 Resistência ao ar",
+      "[#charac TACKLE] 33 Bloqueio",
+      "[#charac DODGE] 33 Esquiva"
+    ]
+  },
+  {
+    "id": 19251,
+    "name": "Parte-Reis",
+    "description": "Com esta arma, você poderá derrubar todos esses supostos eleitos do poleiro deles.",
+    "level": 170,
+    "rarity": 3,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac AP] 1 PA",
+      "[#charac RES_EARTH_PERCENT] 22 Resistência à terra",
+      "[#charac RES_WATER_PERCENT] 22 Resistência à água",
+      "[#charac DODGE] 45 Esquiva",
+      "[#charac HP] 437 PV",
+      "[#charac RES_FIRE_PERCENT] 22 Resistência ao fogo",
+      "[#charac DMG_IN_PERCENT] 138 Domínio sobre 3 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 19339,
+    "name": "O espírito Orrok",
+    "description": "A comunhão do povo Krápula com seus ancestrais o torna poderoso em diversos domínios.",
+    "level": 80,
+    "rarity": 3,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac TACKLE] 35 Bloqueio",
+      "[#charac HP] 145 PV",
+      "[#charac RES_IN_PERCENT] 25 Resistência elementar",
+      "[#charac MELEE_DMG] 24 Domínio de curta distância",
+      "[#charac DMG_IN_PERCENT] 37 Domínio sobre 2 elementos aleatórios",
+      "[#charac BLOCK] 2% de Parada"
+    ]
+  },
+  {
+    "id": 19882,
+    "name": "Malho Poró",
+    "description": "Uma ferramenta bastante útil. Ela tem tudo o que você precisa.",
+    "level": 185,
+    "rarity": 4,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac DODGE] 80 Esquiva",
+      "[#charac TACKLE] 80 Bloqueio",
+      "[#charac HP] 312 PV",
+      "[#charac RES_IN_PERCENT] 28 Resistência a 3 elementos aleatórios",
+      "[#charac CRITICAL_BONUS] 45 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 165 Domínio elementar",
+      "[#charac FEROCITY] 6% de golpe crítico"
+    ]
+  },
+  {
+    "id": 19897,
+    "name": "Martelo do lírio",
+    "description": "Você pode começar uma nova vida com este martelo.",
+    "level": 185,
+    "rarity": 4,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac RES_IN_PERCENT] 30 Resistência elementar",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac HP] 268 PV",
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 176 Domínio sobre 3 elementos aleatórios",
+      "[#charac TACKLE] 150 Bloqueio"
+    ]
+  },
+  {
+    "id": 20279,
+    "name": "Martelo do Fu Moon",
+    "description": "Assim como o Martelo de Moon, esta arma encerra um surpreendente poder mágico.",
+    "level": 185,
+    "rarity": 4,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac HP] 189 PV",
+      "[#charac TACKLE] 50 Bloqueio",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac RES_IN_PERCENT] 30 Resistência elementar",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 141 Domínio sobre 3 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 20568,
+    "name": "Martelo-barril",
+    "description": "Este martelo vem cheio de vinho para provocar uma boa ressaca nos seus adversários.",
+    "level": 154,
+    "rarity": 3,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac HP] 264 PV",
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 130 Domínio sobre 2 elementos aleatórios",
+      "[#charac TACKLE] 80 Bloqueio",
+      "[#charac RES_IN_PERCENT] 25 Resistência elementar"
+    ]
+  },
+  {
+    "id": 20791,
+    "name": "Aperta-parafuso do Nemótilus",
+    "description": "Não há nada melhor para apertar os parafusos do Nemótilus. Pena que não é seu...",
+    "level": 45,
+    "rarity": 2,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac FEROCITY] 1% de golpe crítico",
+      "[#charac HP] 43 PV",
+      "[#charac RES_IN_PERCENT] 6 Resistência elementar",
+      "[#charac MELEE_DMG] 6 Domínio de curta distância",
+      "[#charac DMG_IN_PERCENT] 26 Domínio elementar",
+      "[#charac TACKLE] 8 Bloqueio",
+      "[#charac DODGE] 8 Esquiva"
+    ]
+  },
+  {
+    "id": 21144,
+    "name": "Desfibrilatelo",
+    "description": "Se você conseguir atingir seu inimigo com este martelo, não importa o que faça, não bata de novo! Ele pode voltar à vida, mais irado e forte que nunca!",
+    "level": 63,
+    "rarity": 3,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac HP] 127 PV",
+      "[#charac DMG_IN_PERCENT] 53 Domínio sobre 3 elementos aleatórios",
+      "[#charac RES_EARTH_PERCENT] 35 Resistência à terra",
+      "[#charac TACKLE] 10 Bloqueio",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac RES_AIR_PERCENT] 35 Resistência ao ar"
+    ]
+  },
+  {
+    "id": 21538,
+    "name": "Martelo da Autoridade",
+    "description": "Um martelo para um líder de verdade.",
+    "level": 134,
+    "rarity": 2,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac HP] 340 PV",
+      "[#charac TACKLE] 25 Bloqueio",
+      "[#charac AP] 1 PA",
+      "[#charac BERSERK_DMG] 52 Domínio de Berserk",
+      "[#charac DODGE] 25 Esquiva",
+      "[#charac FEROCITY] 2% de golpe crítico"
+    ]
+  },
+  {
+    "id": 21565,
+    "name": "Martelo da Autoridade",
+    "description": "Um martelo para um líder de verdade.",
+    "level": 137,
+    "rarity": 3,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac TACKLE] 35 Bloqueio",
+      "[#charac DODGE] 35 Esquiva",
+      "[#charac AP] 1 PA",
+      "[#charac HP] 355 PV",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac BERSERK_DMG] 83 Domínio de Berserk"
+    ]
+  },
+  {
+    "id": 21586,
+    "name": "Martelo da Autoridade",
+    "description": "Um martelo para um líder de verdade.",
+    "level": 140,
+    "rarity": 4,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac DODGE] 50 Esquiva",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac HP] 365 PV",
+      "[#charac TACKLE] 50 Bloqueio",
+      "[#charac BERSERK_DMG] 125 Domínio de Berserk"
+    ]
+  },
+  {
+    "id": 21808,
+    "name": "Fumartelo",
+    "description": "Gire esta arma para criar uma nuvem de fumaça ao redor do seu adversário.",
+    "level": 190,
+    "rarity": 2,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac HP] 457 PV",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac AP] 1 PA",
+      "[#charac RES_FIRE_PERCENT] 33 Resistência ao fogo",
+      "[#charac DMG_IN_PERCENT] 192 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac RES_AIR_PERCENT] 33 Resistência ao ar",
+      "[#charac RES_WATER_PERCENT] 33 Resistência à água",
+      "[#charac TACKLE] 20 Bloqueio",
+      "[#charac DODGE] 20 Esquiva"
+    ]
+  },
+  {
+    "id": 21999,
+    "name": "Fumartelo",
+    "description": "Gire esta arma para criar uma nuvem de fumaça ao redor do seu adversário.",
+    "level": 198,
+    "rarity": 3,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 245 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 5% de golpe crítico",
+      "[#charac HP] 523 PV",
+      "[#charac RES_AIR_PERCENT] 44 Resistência ao ar",
+      "[#charac RES_WATER_PERCENT] 44 Resistência à água",
+      "[#charac RES_FIRE_PERCENT] 44 Resistência ao fogo",
+      "[#charac TACKLE] 33 Bloqueio",
+      "[#charac DODGE] 33 Esquiva"
+    ]
+  },
+  {
+    "id": 22000,
+    "name": "Fumartelo",
+    "description": "Gire esta arma para criar uma nuvem de fumaça ao redor do seu adversário.",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac HP] 550 PV",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac AP] 1 PA",
+      "[#charac RES_FIRE_PERCENT] 44 Resistência ao fogo",
+      "[#charac DMG_IN_PERCENT] 308 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac RES_AIR_PERCENT] 44 Resistência ao ar",
+      "[#charac RES_WATER_PERCENT] 44 Resistência à água",
+      "[#charac DODGE] 33 Esquiva",
+      "[#charac TACKLE] 33 Bloqueio"
+    ]
+  },
+  {
+    "id": 22167,
+    "name": "Malho Poró",
+    "description": "Dá um gostinho especial na surra!",
+    "level": 182,
+    "rarity": 3,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac DODGE] 63 Esquiva",
+      "[#charac TACKLE] 63 Bloqueio",
+      "[#charac HP] 306 PV",
+      "[#charac AP] 1 PA",
+      "[#charac CRITICAL_BONUS] 30 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 135 Domínio elementar",
+      "[#charac FEROCITY] 5% de golpe crítico",
+      "[#charac RES_IN_PERCENT] 22 Resistência a 3 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 22169,
+    "name": "Martelo do Lírio",
+    "description": "Você pode começar uma nova vida com este martelo.",
+    "level": 184,
+    "rarity": 3,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac HP] 282 PV",
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 155 Domínio sobre 3 elementos aleatórios",
+      "[#charac TACKLE] 120 Bloqueio",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac FEROCITY] 5% de golpe crítico"
+    ]
+  },
+  {
+    "id": 22381,
+    "name": "Manhartelo",
+    "description": "Para começar a bater na cabeça dos outros bem cedinho!",
+    "level": 170,
+    "rarity": 4,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac FEROCITY] 5% de golpe crítico",
+      "[#charac HP] 303 PV",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac RES_AIR_PERCENT] 47 Resistência ao ar",
+      "[#charac RES_WATER_PERCENT] 47 Resistência à água",
+      "[#charac RES_FIRE_PERCENT] 47 Resistência ao fogo",
+      "[#charac DMG_IN_PERCENT] 183 Domínio sobre 2 elementos aleatórios",
+      "[#charac TACKLE] 40 Bloqueio",
+      "[#charac DODGE] 40 Esquiva"
+    ]
+  },
+  {
+    "id": 22382,
+    "name": "Manhartelo",
+    "description": "Para começar a bater na cabeça dos outros bem cedinho!",
+    "level": 160,
+    "rarity": 2,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac HP] 218 PV",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac AP] 1 PA",
+      "[#charac RES_FIRE_PERCENT] 33 Resistência ao fogo",
+      "[#charac DMG_IN_PERCENT] 98 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac RES_AIR_PERCENT] 33 Resistência ao ar",
+      "[#charac RES_WATER_PERCENT] 33 Resistência à água",
+      "[#charac DODGE] 27 Esquiva",
+      "[#charac TACKLE] 27 Bloqueio"
+    ]
+  },
+  {
+    "id": 22447,
+    "name": "Martelo do Fu Moon",
+    "description": "Assim como o Martelo de Moon, esta arma encerra um surpreendente poder mágico.",
+    "level": 181,
+    "rarity": 3,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac RANGE] 1 Alcance",
+      "[#charac AP] 1 PA",
+      "[#charac FEROCITY] 5% de golpe crítico",
+      "[#charac TACKLE] 40 Bloqueio",
+      "[#charac HP] 183 PV",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac RES_IN_PERCENT] 21 Resistência elementar",
+      "[#charac DMG_IN_PERCENT] 118 Domínio sobre 3 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 22682,
+    "name": "Martelo-barril",
+    "description": "Este martelo vem cheio de vinho para provocar uma boa ressaca nos seus adversários.",
+    "level": 155,
+    "rarity": 4,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 166 Domínio sobre 2 elementos aleatórios",
+      "[#charac TACKLE] 100 Bloqueio",
+      "[#charac RES_IN_PERCENT] 30 Resistência elementar",
+      "[#charac HP] 305 PV",
+      "[#charac AP] 1 PA"
+    ]
+  },
+  {
+    "id": 22683,
+    "name": "Martelo-barril",
+    "description": "Este martelo vem cheio de vinho para provocar uma boa ressaca nos seus adversários.",
+    "level": 146,
+    "rarity": 2,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac HP] 200 PV",
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 100 Domínio sobre 2 elementos aleatórios",
+      "[#charac TACKLE] 45 Bloqueio",
+      "[#charac RES_IN_PERCENT] 22 Resistência elementar"
+    ]
+  },
+  {
+    "id": 22784,
+    "name": "Clava Mowtal",
+    "description": "Esta arma é muito perigosa, até mesmo para quem a usa. É melhor manter uma distância segura para não esmagar as partes mais sensíveis do seu corpo.",
+    "level": 155,
+    "rarity": 4,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac HP] 299 PV",
+      "[#charac AP] 1 PA",
+      "[#charac RES_IN_PERCENT] 30 Resistência elementar",
+      "[#charac DMG_IN_PERCENT] 150 Domínio sobre 2 elementos aleatórios",
+      "[#charac BLOCK] 6% de Parada",
+      "[#charac FEROCITY] 5% de golpe crítico",
+      "[#charac TACKLE] 20 Bloqueio",
+      "[#charac DODGE] 20 Esquiva"
+    ]
+  },
+  {
+    "id": 23140,
+    "name": "Chop-chop",
+    "description": "Para manter todos os seus membros, seus inimigos irão fugir da sua frente, chop chop!",
+    "level": 122,
+    "rarity": 3,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac TACKLE] 30 Bloqueio",
+      "[#charac HP] 185 PV",
+      "[#charac AP] 1 PA",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac DMG_IN_PERCENT] 69 Domínio sobre 3 elementos aleatórios",
+      "[#charac BLOCK] 2% de Parada"
+    ]
+  },
+  {
+    "id": 23352,
+    "name": "Martelo de Abade",
+    "description": "Este martelo pode ser usado para fazer soar os sinos da igreja ou a cabeça de seus inimigos.",
+    "level": 93,
+    "rarity": 3,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac TACKLE] 80 Bloqueio",
+      "[#charac HP] 158 PV",
+      "[#charac MELEE_DMG] 34 Domínio de curta distância",
+      "[#charac DMG_IN_PERCENT] 77 Domínio sobre 1 elemento aleatório",
+      "[#charac RES_IN_PERCENT] 30 Resistência elementar"
+    ]
+  },
+  {
+    "id": 23372,
+    "name": "Martelo da Morte",
+    "description": "Dizem que este martelo mata quem já está morto, de novo.",
+    "level": 92,
+    "rarity": 3,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac TACKLE] 40 Bloqueio",
+      "[#charac HP] 131 PV",
+      "[#charac WP] 1 PW",
+      "[#charac RES_IN_PERCENT] 30 Resistência elementar",
+      "[#charac MELEE_DMG] 84 Domínio de curta distância",
+      "[#charac BLOCK] 2% de Parada",
+      "[#charac FEROCITY] 2% de golpe crítico"
+    ]
+  },
+  {
+    "id": 23401,
+    "name": "Maça de Trool",
+    "description": "Pesada como uma perna de Trool adulto, esta maça fará você suar.",
+    "level": 93,
+    "rarity": 3,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac DODGE] 50 Esquiva",
+      "[#charac HP] 159 PV",
+      "[#charac BACKSTAB_BONUS] 33 Domínio de costas",
+      "[#charac DMG_IN_PERCENT] 77 Domínio sobre 1 elemento aleatório",
+      "[#charac BLOCK] 2% de Parada",
+      "[#charac RES_IN_PERCENT] 35 Resistência elementar"
+    ]
+  },
+  {
+    "id": 23516,
+    "name": "Espírito Orrok",
+    "description": "A comunhão do povo Krápula com seus ancestrais o torna poderoso em diversos domínios.",
+    "level": 77,
+    "rarity": 2,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 30 Domínio sobre 2 elementos aleatórios",
+      "[#charac BLOCK] 2% de Parada",
+      "[#charac TACKLE] 25 Bloqueio",
+      "[#charac HP] 121 PV",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac MELEE_DMG] 20 Domínio de curta distância"
+    ]
+  },
+  {
+    "id": 23531,
+    "name": "Revirador de Estômagos",
+    "description": "As instruções na caixa dizem que, se você golpear o inimigo no lugar certo, algumas partes do corpo dele estourarão! Mas quais...? Boa pergunta... ",
+    "level": 79,
+    "rarity": 3,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac DODGE] 28 Esquiva",
+      "[#charac TACKLE] 28 Bloqueio",
+      "[#charac HP] 144 PV",
+      "[#charac CRITICAL_BONUS] 9 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 35 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar"
+    ]
+  },
+  {
+    "id": 23643,
+    "name": "Martelo da Selvageria",
+    "description": "Com este martelo, você só terá um desejo: esmagar, esmagar e ESMAGAR!",
+    "level": 65,
+    "rarity": 3,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac DODGE] 29 Esquiva",
+      "[#charac HP] 126 PV",
+      "[#charac RES_IN_PERCENT] 26 Resistência elementar",
+      "[#charac HEAL_IN_PERCENT] 8 Domínio de cura",
+      "[#charac DMG_IN_PERCENT] 51 Domínio sobre 1 elemento aleatório"
+    ]
+  },
+  {
+    "id": 23644,
+    "name": "Martelo da Selvageria",
+    "description": "Com este martelo, você só terá um desejo: esmagar, esmagar e ESMAGAR!",
+    "level": 54,
+    "rarity": 1,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac HEAL_IN_PERCENT] 1 Domínio de cura",
+      "[#charac DMG_IN_PERCENT] 19 Domínio sobre 1 elemento aleatório",
+      "[#charac DODGE] 15 Esquiva",
+      "[#charac HP] 44 PV",
+      "[#charac RES_IN_PERCENT] 9 Resistência elementar"
+    ]
+  },
+  {
+    "id": 23669,
+    "name": "Martelo Tócsiko",
+    "description": "Quando este martelo acerta o chão, um fedor repugnante se espalha ao seu redor. É bom que você aprenda rápido como lutar à distância!",
+    "level": 63,
+    "rarity": 3,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac HP] 119 PV",
+      "[#charac RES_IN_PERCENT] 25 Resistência elementar",
+      "[#charac DMG_IN_PERCENT] 56 Domínio sobre 1 elemento aleatório",
+      "[#charac BLOCK] 2% de Parada",
+      "[#charac TACKLE] 30 Bloqueio",
+      "[#charac CRITICAL_RES] 12 Resistência crítica"
+    ]
+  },
+  {
+    "id": 23782,
+    "name": "Martelo Pedregoso",
+    "description": "Este martelo pega pesado com os inimigos e com os seus braços.",
+    "level": 50,
+    "rarity": 3,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac HP] 40 PV",
+      "[#charac DMG_IN_PERCENT] 18 Domínio sobre 2 elementos aleatórios",
+      "[#charac BLOCK] 3% de Parada",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar",
+      "[#charac MELEE_DMG] 18 Domínio de curta distância",
+      "[#charac DODGE] 7 Esquiva",
+      "[#charac TACKLE] 7 Bloqueio"
+    ]
+  },
+  {
+    "id": 23848,
+    "name": "Clava Demente",
+    "description": "Um golpe desta clava é suficiente para decapitar um Trool. Mas será que você é forte o suficiente para levantá-la?",
+    "level": 95,
+    "rarity": 4,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac HP] 160 PV",
+      "[#charac MP] 1 PM",
+      "[#charac RES_IN_PERCENT] 30 Resistência elementar",
+      "[#charac DMG_IN_PERCENT] 79 Domínio sobre 2 elementos aleatórios",
+      "[#charac BLOCK] 2% de Parada",
+      "[#charac TACKLE] 23 Bloqueio",
+      "[#charac DODGE] 23 Esquiva"
+    ]
+  },
+  {
+    "id": 24008,
+    "name": "Martelo de Osamodas",
+    "description": "Quando o chicote não é mais suficiente para domar as criaturas mais agressivas, Osamodas decide usar o martelo.",
+    "level": 200,
+    "rarity": 3,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac FEROCITY] 5% de golpe crítico",
+      "[#charac HP] 422 PV",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac AP] 1 PA",
+      "[#charac RES_AIR_PERCENT] 33 Resistência ao ar",
+      "[#charac RES_FIRE_PERCENT] 33 Resistência ao fogo",
+      "[#charac CRITICAL_BONUS] 346 Domínio de crítico",
+      "[#charac RES_EARTH_PERCENT] 33 Resistência à terra"
+    ]
+  },
+  {
+    "id": 24022,
+    "name": "Martelo de Osamodas",
+    "description": "Quando o chicote não é mais suficiente para domar as criaturas mais agressivas, Osamodas decide usar o martelo.",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac HP] 422 PV",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac AP] 1 PA",
+      "[#charac RES_FIRE_PERCENT] 39 Resistência ao fogo",
+      "[#charac CRITICAL_BONUS] 408 Domínio de crítico",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac RES_EARTH_PERCENT] 39 Resistência à terra",
+      "[#charac RES_AIR_PERCENT] 39 Resistência ao ar"
+    ]
+  },
+  {
+    "id": 24685,
+    "name": "Parte-Reis",
+    "description": "Com esta arma, você poderá derrubar todos esses supostos eleitos do poleiro deles.",
+    "level": 170,
+    "rarity": 4,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac RES_WATER_PERCENT] 44 Resistência à água",
+      "[#charac RES_FIRE_PERCENT] 44 Resistência ao fogo",
+      "[#charac RES_EARTH_PERCENT] 44 Resistência à terra",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 183 Domínio sobre 3 elementos aleatórios",
+      "[#charac HP] 479 PV"
+    ]
+  },
+  {
+    "id": 24695,
+    "name": "Hoshin",
+    "description": "Cuidado para não agitar muito, você fará mais estragos do que imagina.",
+    "level": 200,
+    "rarity": 3,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac MP] 1 PM",
+      "[#charac DODGE] 75 Esquiva",
+      "[#charac TACKLE] 75 Bloqueio",
+      "[#charac HP] 424 PV",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac RES_FIRE_PERCENT] 39 Resistência ao fogo",
+      "[#charac RANGED_DMG] 301 Domínio de distância",
+      "[#charac FEROCITY] 5% de golpe crítico",
+      "[#charac RES_EARTH_PERCENT] 39 Resistência à terra",
+      "[#charac RES_WATER_PERCENT] 39 Resistência à água"
+    ]
+  },
+  {
+    "id": 24696,
+    "name": "Hoshin",
+    "description": "Cuidado para não agitar muito, você fará mais estragos do que imagina.",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac MP] 1 PM",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac DODGE] 80 Esquiva",
+      "[#charac TACKLE] 80 Bloqueio",
+      "[#charac HP] 457 PV",
+      "[#charac RES_WATER_PERCENT] 41 Resistência à água",
+      "[#charac RES_FIRE_PERCENT] 41 Resistência ao fogo",
+      "[#charac RANGED_DMG] 360 Domínio de distância",
+      "[#charac RES_EARTH_PERCENT] 41 Resistência à terra"
+    ]
+  },
+  {
+    "id": 25164,
+    "name": "Bastão Mugrr",
+    "description": "O nome deste martelo foi dado por um bando de Iops que adoraram o som que os inimigos faziam quando ele os atingia na boca estômago.",
+    "level": 48,
+    "rarity": 3,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac HP] 49 PV",
+      "[#charac DMG_IN_PERCENT] 42 Domínio elementar",
+      "[#charac RES_IN_PERCENT] 33 Resistência a 1 elemento aleatório",
+      "[#charac TACKLE] 3 Bloqueio",
+      "[#charac DODGE] 3 Esquiva"
+    ]
+  },
+  {
+    "id": 25332,
+    "name": "Martelo de Toh'Lo",
+    "description": "Você gosta de animais? O Toh'Lo também. Inclusive, ele dedicou a vida a eles. Este martelo conta um pouco a sua história: uma grande comunhão com as criaturas...",
+    "level": 75,
+    "rarity": 3,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac HP] 66 PV",
+      "[#charac BACKSTAB_BONUS] 27 Domínio de costas",
+      "[#charac RES_IN_PERCENT] 28 Resistência a 2 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 25374,
+    "name": "Batedor de Falanges",
+    "description": "Em Amakna, eles batem nas falanges das crianças que não se comportam com este martelo. Você deve ter notado que os dedos dos Iops são bastante achatados.",
+    "level": 76,
+    "rarity": 3,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac RES_AIR_PERCENT] 17 Resistência ao ar",
+      "[#charac RES_EARTH_PERCENT] 17 Resistência à terra",
+      "[#charac MP] 1 PM",
+      "[#charac HP] 79 PV",
+      "[#charac RANGED_DMG] 48 Domínio de distância",
+      "[#charac RES_WATER_PERCENT] 17 Resistência à água"
+    ]
+  },
+  {
+    "id": 25456,
+    "name": "Maça Iandando",
+    "description": "Segundo a lenda, esta maça não costuma se ater a um lugar. Assim, recomendamos que você a mantenha firmemente presa ao seu punho o tempo todo para não correr o risco de perdê-la.",
+    "level": 95,
+    "rarity": 3,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac HP] 120 PV",
+      "[#charac DMG_IN_PERCENT] 61 Domínio sobre 2 elementos aleatórios",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar",
+      "[#charac AP] 1 PA",
+      "[#charac WP] 1 PW"
+    ]
+  },
+  {
+    "id": 25863,
+    "name": "Estalagmartelo",
+    "description": "O grande martelo do Estalagpai, que a Estalagmãe guardava com tanto carinho...",
+    "level": 168,
+    "rarity": 3,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac RANGED_DMG] 128 Domínio de distância",
+      "[#charac WP] 1 PW",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac HP] 454 PV",
+      "[#charac FEROCITY] 4% de golpe crítico"
+    ]
+  },
+  {
+    "id": 25864,
+    "name": "Estalagmartelo",
+    "description": "O grande martelo do Estalagpai, que a Estalagmãe guardava com tanto carinho...",
+    "level": 170,
+    "rarity": 4,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac RANGED_DMG] 160 Domínio de distância",
+      "[#charac AP] 1 PA",
+      "[#charac WP] 1 PW",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac HP] 527 PV"
+    ]
+  },
+  {
+    "id": 26532,
+    "name": "Martelo Cornudo",
+    "description": "Este martelo seria ótimo para quebrar o gelo se não fosse tão gelado. ",
+    "level": 100,
+    "rarity": 2,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac TACKLE] 50 Bloqueio",
+      "[#charac HP] 149 PV",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 53 Domínio sobre 3 elementos aleatórios",
+      "[#charac RES_IN_PERCENT] 45 Resistência elementar"
+    ]
+  },
+  {
+    "id": 26533,
+    "name": "Martelo Cornudo",
+    "description": "Este martelo seria ótimo para quebrar o gelo se não fosse tão gelado. ",
+    "level": 108,
+    "rarity": 3,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac RES_IN_PERCENT] 45 Resistência elementar",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac HP] 168 PV",
+      "[#charac DMG_IN_PERCENT] 80 Domínio sobre 3 elementos aleatórios",
+      "[#charac TACKLE] 65 Bloqueio"
+    ]
+  },
+  {
+    "id": 27803,
+    "name": "Martelo de Osamodas",
+    "description": "Usado pelo próprio deus Osamodas. Bom, na verdade, era um martelinho assim, usado principalmente para cravar estacas.",
+    "level": 215,
+    "rarity": 4,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 408 Domínio sobre 3 elementos aleatórios",
+      "[#charac RES_IN_PERCENT] 28 Resistência elementar",
+      "[#charac AP] 1 PA",
+      "[#charac WP] 1 PW",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac HP] 518 PV"
+    ]
+  },
+  {
+    "id": 28305,
+    "name": "Martelo do Sumorsa",
+    "description": "Os dois dentes do Sumorsa permitem que este martelo seja usado como pé de cabra, mas, para isso, é preciso ter a força de um Plantíguarda.",
+    "level": 215,
+    "rarity": 3,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac RANGED_DMG] 360 Domínio de distância",
+      "[#charac FEROCITY] 5% de golpe crítico",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac AP] 1 PA",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac HP] 526 PV"
+    ]
+  },
+  {
+    "id": 28306,
+    "name": "Martelo do Sumorsa",
+    "description": "Os dois dentes do Sumorsa permitem que este martelo seja usado como pé de cabra, mas, para isso, é preciso ter a força de um Plantíguarda.",
+    "level": 215,
+    "rarity": 4,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac RANGED_DMG] 440 Domínio de distância",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac AP] 1 PA",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac HP] 543 PV"
+    ]
+  },
+  {
+    "id": 29632,
+    "name": "Martelo Ancestral",
+    "description": "De acordo com uma lenda de outro mundo, este martelo mágico é uma arma divina superpoderosa. Ele é utilizado para proteger o universo do caos e, principalmente, dos gigantes. Não seria uma má ideia para dar uma lição no Ogrest, mas para isso seria necessário conseguir levantá-lo.",
+    "level": 230,
+    "rarity": 3,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac HP] 899 PV",
+      "[#charac DODGE] 150 Esquiva",
+      "[#charac TACKLE] 150 Bloqueio",
+      "[#charac RES_IN_PERCENT] 45 Resistência elementar",
+      "[#charac MELEE_DMG] 800 Domínio de curta distância"
+    ]
+  },
+  {
+    "id": 29633,
+    "name": "Martelo Ancestral",
+    "description": "De acordo com uma lenda de outro mundo, este martelo mágico é uma arma divina superpoderosa. Ele é utilizado para proteger o universo do caos e, principalmente, dos gigantes. Não seria uma má ideia para dar uma lição no Ogrest, mas para isso seria necessário conseguir levantá-lo.",
+    "level": 230,
+    "rarity": 4,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac MELEE_DMG] 950 Domínio de curta distância",
+      "[#charac DODGE] 150 Esquiva",
+      "[#charac RES_IN_PERCENT] 45 Resistência elementar",
+      "[#charac TACKLE] 150 Bloqueio",
+      "[#charac HP] 1000 PV"
+    ]
+  },
+  {
+    "id": 29827,
+    "name": "Martus Shushu",
+    "description": "Aqueles que percebem a onda de choque que é emitida a cada golpe tendem a não viver tempo suficiente para contar a história. Mas os mais espertos também o usam para pescar e derrubar frutas das árvores.",
+    "level": 150,
+    "rarity": 3,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac AP] 1 PA",
+      "[#charac DODGE] 42 Esquiva",
+      "[#charac HP] 238 PV",
+      "[#charac RES_IN_PERCENT] 30 Resistência elementar",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 76 Domínio sobre 3 elementos aleatórios",
+      "[#charac BLOCK] 3% de Parada",
+      "[#charac MELEE_DMG] 33 Domínio de curta distância",
+      "[#charac BACKSTAB_BONUS] 15 Domínio de costas"
+    ]
+  },
+  {
+    "id": 29864,
+    "name": "Bastão do Delgado ",
+    "description": "Precisando de um pouco de agito na vida? Dê uma cajadada na cabeça de alguém! Você vai gostar.",
+    "level": 110,
+    "rarity": 3,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 102 Domínio sobre 2 elementos aleatórios",
+      "[#charac HP] 202 PV",
+      "[#charac RES_FIRE_PERCENT] 28 Resistência ao fogo",
+      "[#charac AP] 1 PA",
+      "[#charac RES_EARTH_PERCENT] 28 Resistência à terra"
+    ]
+  },
+  {
+    "id": 30427,
+    "name": "Martelo Amargo",
+    "description": "Este martelo confere a seu portador uma determinação perniciosa.",
+    "level": 55,
+    "rarity": 2,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac HP] 22 PV",
+      "[#charac BERSERK_DMG] 8 Domínio de Berserk",
+      "[#charac DMG_IN_PERCENT] 12 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 1% de golpe crítico"
+    ]
+  },
+  {
+    "id": 30428,
+    "name": "Martelo Amargo",
+    "description": "Este martelo confere a seu portador uma determinação perniciosa.",
+    "level": 65,
+    "rarity": 3,
+    "slot": "Martelo (duas mãos)",
+    "effects": [
+      "[#charac BERSERK_DMG] 11 Domínio de Berserk",
+      "[#charac DMG_IN_PERCENT] 18 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac HP] 26 PV"
+    ]
+  }
+]

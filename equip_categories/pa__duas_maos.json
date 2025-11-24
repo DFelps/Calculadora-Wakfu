@@ -1,0 +1,1360 @@
+[
+  {
+    "id": 5899,
+    "name": "Pá Trufada",
+    "description": "A Pá Trufada fará as pessoas à sua volta rirem. Rirem de você, não com você.",
+    "level": 30,
+    "rarity": 2,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DMG_WATER_PERCENT] 22 Domínio de água",
+      "[#charac HP] 28 PV",
+      "[#charac DMG_EARTH_PERCENT] 22 Domínio de terra",
+      "[#charac RES_IN_PERCENT] 4 Resistência elementar",
+      "[#charac TACKLE] 7 Bloqueio",
+      "[#charac DODGE] 7 Esquiva"
+    ]
+  },
+  {
+    "id": 6572,
+    "name": "Pá de Tofu",
+    "description": "O processo para aplanar o bico do Tofu é um mistério. Tudo o que sabemos é que tivemos muita ajuda de Mama Bworka. ",
+    "level": 15,
+    "rarity": 2,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac HP] 15 PV",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac DMG_IN_PERCENT] 14 Domínio elementar",
+      "[#charac RES_IN_PERCENT] 5 Resistência elementar"
+    ]
+  },
+  {
+    "id": 9467,
+    "name": "Pagunça",
+    "description": "Com esta pá, você não só retirará ervas daninhas das margaridas, como também garantirá que os inimigos não as destruam.",
+    "level": 45,
+    "rarity": 2,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac DODGE] 21 Esquiva",
+      "[#charac HP] 40 PV",
+      "[#charac DMG_IN_PERCENT] 19 Domínio elementar"
+    ]
+  },
+  {
+    "id": 9470,
+    "name": "Pá Monstro",
+    "description": "Uma boa pá do leste. É feita com leite de Mugrr, o que explica o perfume delicado.",
+    "level": 55,
+    "rarity": 2,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac RANGE] -1 Alcance",
+      "[#charac HP] 42 PV",
+      "[#charac MP] 1 PM",
+      "[#charac DMG_IN_PERCENT] 27 Domínio sobre 1 elemento aleatório",
+      "[#charac TACKLE] 5 Bloqueio",
+      "[#charac DODGE] 5 Esquiva"
+    ]
+  },
+  {
+    "id": 9471,
+    "name": "Pá de Mekba",
+    "description": "Esta pá não é usada pelos Enutrofs apenas para colher frutas, é também é uma arma maravilhosa.",
+    "level": 60,
+    "rarity": 2,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac DODGE] 24 Esquiva",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac HP] 89 PV",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac DMG_IN_PERCENT] 38 Domínio sobre 1 elemento aleatório",
+      "[#charac BERSERK_DMG] 6 Domínio de Berserk"
+    ]
+  },
+  {
+    "id": 9948,
+    "name": "Poda Pata",
+    "description": "Se um inimigo não consegue tirar as patas de você, então esta pá ajudará a apará-lo um pouco.",
+    "level": 10,
+    "rarity": 1,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac HP] 8 PV",
+      "[#charac DMG_WATER_PERCENT] 22 Domínio de água",
+      "[#charac RES_IN_PERCENT] 3 Resistência elementar",
+      "[#charac TACKLE] 4 Bloqueio",
+      "[#charac DODGE] 4 Esquiva"
+    ]
+  },
+  {
+    "id": 9970,
+    "name": "Pá Raifái",
+    "description": "Esta arma foi inventada por um ferreiro que estava cansado daqueles graves tonitruantes que bombavam na casa do vizinho. Ele usou essa criação para deixar a fonte do comportamento antissocial dele em pedaços.",
+    "level": 55,
+    "rarity": 2,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac HP] 54 PV",
+      "[#charac BLOCK] 2% de Parada",
+      "[#charac DMG_IN_PERCENT] 18 Domínio sobre 3 elementos aleatórios",
+      "[#charac DODGE] 12 Esquiva",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac CRITICAL_BONUS] 4 Domínio de crítico",
+      "[#charac RES_IN_PERCENT] 5 Resistência elementar"
+    ]
+  },
+  {
+    "id": 10581,
+    "name": "Domacion",
+    "description": "Domacion ficou muito famoso por seu trabalho na fazenda mais famosa da região. Ele não ficou muito tempo, mas deixou esta pá como recordação.",
+    "level": 40,
+    "rarity": 2,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac DMG_EARTH_PERCENT] 24 Domínio de terra",
+      "[#charac RES_IN_PERCENT] 7 Resistência elementar",
+      "[#charac HP] 40 PV",
+      "[#charac DODGE] 8 Esquiva",
+      "[#charac TACKLE] 8 Bloqueio"
+    ]
+  },
+  {
+    "id": 12194,
+    "name": "Pá Makabra",
+    "description": "Esta arma antiga e amaldiçoada se separou da alma de seu antigo mestre quando ele foi morto em combate. Será que você tem o que é preciso para libertar todo o poder que ela contém?",
+    "level": 100,
+    "rarity": 3,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac HP] 150 PV",
+      "[#charac DMG_IN_PERCENT] 15 Domínio elementar",
+      "[#charac AP] 1 PA",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac RANGE] 0 Alcance",
+      "[#charac DODGE] 0 Esquiva",
+      "[#charac TACKLE] 0 Bloqueio"
+    ]
+  },
+  {
+    "id": 12448,
+    "name": "Pá a Vapor",
+    "description": "Ótima para desenterrar grandes pedras e seixos.",
+    "level": 44,
+    "rarity": 2,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac BLOCK] 2% de Parada",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac HP] 55 PV",
+      "[#charac RES_IN_PERCENT] 19 Resistência a 2 elementos aleatórios",
+      "[#charac MELEE_DMG] 20 Domínio de curta distância"
+    ]
+  },
+  {
+    "id": 12591,
+    "name": "Pá Tradicional",
+    "description": "Essa pá é útil para desenterrar todo o tipo de partes e pedaços.",
+    "level": 80,
+    "rarity": 3,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac TACKLE] 13 Bloqueio",
+      "[#charac DODGE] 13 Esquiva",
+      "[#charac HP] 107 PV",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar",
+      "[#charac DMG_IN_PERCENT] 45 Domínio sobre 1 elemento aleatório",
+      "[#charac FEROCITY] 2% de golpe crítico"
+    ]
+  },
+  {
+    "id": 12628,
+    "name": "Escova",
+    "description": "Você dará conta de todos os seus inimigos com uma varrida dessa escova.",
+    "level": 85,
+    "rarity": 2,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac BLOCK] 2% de Parada",
+      "[#charac FEROCITY] 1% de golpe crítico",
+      "[#charac DODGE] 30 Esquiva",
+      "[#charac HP] 132 PV",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac BERSERK_DMG] 22 Domínio de Berserk",
+      "[#charac DMG_IN_PERCENT] 29 Domínio sobre 2 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 13058,
+    "name": "Pá tumular",
+    "description": "Para os narcolépticos e saqueadores de túmulos.",
+    "level": 85,
+    "rarity": 3,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 37 Domínio sobre 2 elementos aleatórios",
+      "[#charac MELEE_DMG] 18 Domínio de curta distância",
+      "[#charac HP] 100 PV",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar"
+    ]
+  },
+  {
+    "id": 14040,
+    "name": "Pá O'Basan",
+    "description": "Dizem que os Enutrofs nascem com uma colher de ouro na boca. Filhos da mãe!",
+    "level": 46,
+    "rarity": 2,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac DODGE] 27 Esquiva",
+      "[#charac HP] 42 PV",
+      "[#charac DMG_FIRE_PERCENT] 23 Domínio de fogo",
+      "[#charac RES_IN_PERCENT] 5 Resistência elementar"
+    ]
+  },
+  {
+    "id": 14673,
+    "name": "Pá de Bolo ",
+    "description": "Sabe do que eu mais gosto? Pá de Bolo!",
+    "level": 75,
+    "rarity": 2,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac RANGE] 1 Alcance",
+      "[#charac DMG_IN_PERCENT] 24 Domínio sobre 2 elementos aleatórios",
+      "[#charac HP] 69 PV",
+      "[#charac DODGE] 33 Esquiva",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar",
+      "[#charac CRITICAL_BONUS] 11 Domínio de crítico"
+    ]
+  },
+  {
+    "id": 14675,
+    "name": "Pá Ancestral de Eli",
+    "description": "Este Enutrof não era só conhecido pela ganância. Ele também era um ferreiro extraordinário que criou muitos moldes.",
+    "level": 95,
+    "rarity": 4,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac RANGE] 1 Alcance",
+      "[#charac MP] 1 PM",
+      "[#charac DODGE] 40 Esquiva",
+      "[#charac HP] 151 PV",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac BACKSTAB_BONUS] 6 Domínio de costas",
+      "[#charac DMG_IN_PERCENT] 53 Domínio sobre 3 elementos aleatórios",
+      "[#charac RES_IN_PERCENT] 15 Resistência elementar"
+    ]
+  },
+  {
+    "id": 15040,
+    "name": "Pá Ágis",
+    "description": "Muitos Enutrofs juram lealdade a esta pá porque pensam que ela os ajudará a encontrar os tesouros. Mas parece que tudo o que ela desenterra são cuecas sujas. Será que a fé é tão cega assim?",
+    "level": 56,
+    "rarity": 2,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 28 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac HP] 57 PV",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac CRITICAL_RES] 5 Resistência crítica",
+      "[#charac RES_IN_PERCENT] 10 Resistência elementar"
+    ]
+  },
+  {
+    "id": 15217,
+    "name": "Cavadora Livre",
+    "description": "Não diga a esta pá onde cavar! Ela não é um número de série, ela é uma pá livre!",
+    "level": 80,
+    "rarity": 2,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 59 Domínio sobre 1 elemento aleatório",
+      "[#charac DODGE] 23 Esquiva",
+      "[#charac RES_IN_PERCENT] 25 Resistência elementar",
+      "[#charac HP] 153 PV"
+    ]
+  },
+  {
+    "id": 15406,
+    "name": "Ancinho Ratto",
+    "description": "Quando a Sra. Silvestre inventou esta ferramenta, para recolher folhas mortas, o Sr. Matador não hesitou em pegá-la para fazer o mesmo com os cadáveres dos inimigos. Cada um na sua.",
+    "level": 77,
+    "rarity": 2,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac TACKLE] 20 Bloqueio",
+      "[#charac HP] 114 PV",
+      "[#charac DMG_IN_PERCENT] 43 Domínio sobre 1 elemento aleatório",
+      "[#charac BLOCK] 2% de Parada",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DODGE] 20 Esquiva",
+      "[#charac RES_IN_PERCENT] 18 Resistência elementar",
+      "[#charac RANGED_DMG] 10 Domínio de distância"
+    ]
+  },
+  {
+    "id": 16083,
+    "name": "Pá de Gelo",
+    "description": "Esta pá tem a habilidade de cortar o aço como se fosse manteiga, mas não é recomendada se você for cair em um buraco de gelo!",
+    "level": 119,
+    "rarity": 2,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac MP] 1 PM",
+      "[#charac DMG_IN_PERCENT] 67 Domínio sobre 2 elementos aleatórios",
+      "[#charac BLOCK] 2% de Parada",
+      "[#charac DODGE] 30 Esquiva",
+      "[#charac HP] 170 PV",
+      "[#charac RES_IN_PERCENT] 25 Resistência elementar"
+    ]
+  },
+  {
+    "id": 16801,
+    "name": "Pá Burlesca",
+    "description": "Você adora provocar os inimigos com ela e nem se importa que eles não achem engraçado!",
+    "level": 91,
+    "rarity": 3,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac HP] 137 PV",
+      "[#charac AP] 1 PA",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac CRITICAL_BONUS] 7 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 55 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 2% de golpe crítico"
+    ]
+  },
+  {
+    "id": 17214,
+    "name": "Zumbido",
+    "description": "Ele nos move com suas batidas subterrâneas e nos faz exercitar. Por causa das suas curvas irregulares, só traz benefícios para quem o carrega.",
+    "level": 138,
+    "rarity": 3,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac TACKLE] 70 Bloqueio",
+      "[#charac HP] 240 PV",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 160 Domínio sobre 2 elementos aleatórios",
+      "[#charac RES_IN_PERCENT] 50 Resistência elementar"
+    ]
+  },
+  {
+    "id": 18456,
+    "name": "Excavatus Shushu",
+    "description": "Útil para cavar a cova de seus inimigos, as vezes, só a visão desta pá é o suficiente para convencer seus inimigos a cavar a própria cova.",
+    "level": 155,
+    "rarity": 4,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac MP] 1 PM",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac HP] 240 PV",
+      "[#charac DODGE] 70 Esquiva",
+      "[#charac BACKSTAB_BONUS] 22 Domínio de costas",
+      "[#charac RANGED_DMG] 45 Domínio de distância",
+      "[#charac BLOCK] 3% de Parada",
+      "[#charac DMG_IN_PERCENT] 94 Domínio sobre 3 elementos aleatórios",
+      "[#charac RES_IN_PERCENT] 24 Resistência elementar"
+    ]
+  },
+  {
+    "id": 18562,
+    "name": "A Debitadora",
+    "description": "A Debitadora permite quitar débitos ou causar danos cuja soma será debitada a longo prazo.",
+    "level": 155,
+    "rarity": 3,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 91 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac DODGE] 50 Esquiva",
+      "[#charac HP] 228 PV",
+      "[#charac RES_IN_PERCENT] 30 Resistência elementar",
+      "[#charac CRITICAL_BONUS] 13 Domínio de crítico"
+    ]
+  },
+  {
+    "id": 18567,
+    "name": "A Pá Pessoal",
+    "description": "Esta pá é colocada a sua disposição sob a condição de que você reúna uma imensa quantidade de Kamas durante sua vida.",
+    "level": 155,
+    "rarity": 4,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac TACKLE] 53 Bloqueio",
+      "[#charac HP] 182 PV",
+      "[#charac WP] 1 PW",
+      "[#charac DMG_IN_PERCENT] 141 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 5% de golpe crítico",
+      "[#charac DODGE] 53 Esquiva",
+      "[#charac RES_EARTH_PERCENT] 118 Resistência à terra",
+      "[#charac RES_FIRE_PERCENT] 118 Resistência ao fogo",
+      "[#charac BERSERK_DMG] 39 Domínio de Berserk",
+      "[#charac CRITICAL_BONUS] 34 Domínio de crítico"
+    ]
+  },
+  {
+    "id": 19252,
+    "name": "Ocultadora",
+    "description": "Esta pá vai cavar num instante a cova dos seus inimigos.",
+    "level": 170,
+    "rarity": 3,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac DODGE] 60 Esquiva",
+      "[#charac HP] 153 PV",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac MP] 1 PM",
+      "[#charac RES_WATER_PERCENT] 49 Resistência à água",
+      "[#charac RANGED_DMG] 48 Domínio de distância",
+      "[#charac DMG_IN_PERCENT] 94 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac RES_EARTH_PERCENT] 49 Resistência à terra"
+    ]
+  },
+  {
+    "id": 19455,
+    "name": "A Sucubela",
+    "description": "Ao segurá-la por muito tempo, esta espada deixa o corpo exausto e extrai toda a sua energia vital. Este artigo, considerado muito perigoso, não é vendido em lojas.",
+    "level": 90,
+    "rarity": 3,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac HP] 140 PV",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac TACKLE] 15 Bloqueio",
+      "[#charac DMG_IN_PERCENT] 47 Domínio sobre 3 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 20403,
+    "name": "As pás do mär",
+    "description": "\"Lá, tudo é paz e rigor, Bälderneiro, Bäldis e langor. C. Baldelér",
+    "level": 39,
+    "rarity": 3,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac DODGE] 20 Esquiva",
+      "[#charac DMG_IN_PERCENT] 30 Domínio sobre 2 elementos aleatórios",
+      "[#charac HP] 60 PV"
+    ]
+  },
+  {
+    "id": 20406,
+    "name": "Pá do Bäldi Äguäfria",
+    "description": "Segure-a com força, senão ela pode escorregar das suas mãos!",
+    "level": 50,
+    "rarity": 3,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac HP] 80 PV",
+      "[#charac BERSERK_DMG] 13 Domínio de Berserk",
+      "[#charac RES_IN_PERCENT] 17 Resistência a 3 elementos aleatórios",
+      "[#charac TACKLE] 20 Bloqueio",
+      "[#charac CRITICAL_BONUS] 14 Domínio de crítico"
+    ]
+  },
+  {
+    "id": 21131,
+    "name": "Pá Mexilhão",
+    "description": "Muito útil para abrir mexilhões sem se machucar.",
+    "level": 55,
+    "rarity": 2,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac HP] 50 PV",
+      "[#charac DMG_IN_PERCENT] 22 Domínio sobre 2 elementos aleatórios",
+      "[#charac RANGED_DMG] 7 Domínio de distância",
+      "[#charac DODGE] 10 Esquiva",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac RES_WATER_PERCENT] 11 Resistência à água",
+      "[#charac RES_FIRE_PERCENT] 11 Resistência ao fogo",
+      "[#charac RES_EARTH_PERCENT] 11 Resistência à terra"
+    ]
+  },
+  {
+    "id": 21386,
+    "name": "Pá Mexilhão",
+    "description": "Muito útil para abrir mexilhões sem se machucar.",
+    "level": 63,
+    "rarity": 3,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac RANGE] 1 Alcance",
+      "[#charac HP] 82 PV",
+      "[#charac RANGED_DMG] 17 Domínio de distância",
+      "[#charac RES_FIRE_PERCENT] 17 Resistência ao fogo",
+      "[#charac DODGE] 10 Esquiva",
+      "[#charac DMG_IN_PERCENT] 30 Domínio sobre 2 elementos aleatórios",
+      "[#charac RES_WATER_PERCENT] 17 Resistência à água",
+      "[#charac RES_EARTH_PERCENT] 17 Resistência à terra"
+    ]
+  },
+  {
+    "id": 21728,
+    "name": "Pá de Mel",
+    "description": "Esta pá é mesmo um doce.",
+    "level": 194,
+    "rarity": 2,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac DODGE] 25 Esquiva",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac HP] 447 PV",
+      "[#charac TACKLE] 25 Bloqueio",
+      "[#charac RES_FIRE_PERCENT] 39 Resistência ao fogo",
+      "[#charac RES_EARTH_PERCENT] 39 Resistência à terra",
+      "[#charac DMG_IN_PERCENT] 94 Domínio sobre 3 elementos aleatórios",
+      "[#charac MELEE_DMG] 138 Domínio de curta distância",
+      "[#charac RES_AIR_PERCENT] 39 Resistência ao ar"
+    ]
+  },
+  {
+    "id": 21765,
+    "name": "Pá de Mel",
+    "description": "Esta pá é mesmo um doce.",
+    "level": 197,
+    "rarity": 3,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac HP] 469 PV",
+      "[#charac TACKLE] 30 Bloqueio",
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 118 Domínio sobre 3 elementos aleatórios",
+      "[#charac MELEE_DMG] 180 Domínio de curta distância",
+      "[#charac DODGE] 30 Esquiva",
+      "[#charac FEROCITY] 5% de golpe crítico",
+      "[#charac RES_AIR_PERCENT] 44 Resistência ao ar",
+      "[#charac RES_FIRE_PERCENT] 44 Resistência ao fogo",
+      "[#charac RES_EARTH_PERCENT] 44 Resistência à terra"
+    ]
+  },
+  {
+    "id": 21766,
+    "name": "Pá de Mel",
+    "description": "Esta pá é mesmo um doce.",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac DODGE] 30 Esquiva",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac HP] 510 PV",
+      "[#charac TACKLE] 30 Bloqueio",
+      "[#charac RES_FIRE_PERCENT] 44 Resistência ao fogo",
+      "[#charac RES_EARTH_PERCENT] 44 Resistência à terra",
+      "[#charac DMG_IN_PERCENT] 141 Domínio sobre 3 elementos aleatórios",
+      "[#charac MELEE_DMG] 240 Domínio de curta distância",
+      "[#charac RES_AIR_PERCENT] 44 Resistência ao ar"
+    ]
+  },
+  {
+    "id": 22629,
+    "name": "A Pá Pessoal",
+    "description": "Esta pá é colocada a sua disposição sob a condição de que você reúna uma imensa quantidade de Kamas durante sua vida.",
+    "level": 152,
+    "rarity": 3,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac HP] 164 PV",
+      "[#charac WP] 1 PW",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac DODGE] 47 Esquiva",
+      "[#charac TACKLE] 47 Bloqueio",
+      "[#charac RES_FIRE_PERCENT] 111 Resistência ao fogo",
+      "[#charac BERSERK_DMG] 28 Domínio de Berserk",
+      "[#charac CRITICAL_BONUS] 24 Domínio de crítico",
+      "[#charac DMG_IN_PERCENT] 106 Domínio sobre 3 elementos aleatórios",
+      "[#charac RES_EARTH_PERCENT] 111 Resistência à terra"
+    ]
+  },
+  {
+    "id": 22639,
+    "name": "A Debitadora",
+    "description": "A Debitadora permite quitar débitos ou causar danos cuja soma será debitada a longo prazo.",
+    "level": 155,
+    "rarity": 4,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 122 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 5% de golpe crítico",
+      "[#charac DODGE] 60 Esquiva",
+      "[#charac HP] 239 PV",
+      "[#charac RES_IN_PERCENT] 30 Resistência elementar",
+      "[#charac CRITICAL_BONUS] 28 Domínio de crítico"
+    ]
+  },
+  {
+    "id": 22640,
+    "name": "A Debitadora",
+    "description": "A Debitadora permite quitar débitos ou causar danos cuja soma será debitada a longo prazo.",
+    "level": 152,
+    "rarity": 2,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 73 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac DODGE] 30 Esquiva",
+      "[#charac HP] 193 PV",
+      "[#charac RES_IN_PERCENT] 25 Resistência elementar",
+      "[#charac CRITICAL_BONUS] 14 Domínio de crítico"
+    ]
+  },
+  {
+    "id": 22641,
+    "name": "A Debitadora",
+    "description": "A Debitadora permite quitar débitos ou causar danos cuja soma será debitada a longo prazo.",
+    "level": 144,
+    "rarity": 1,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 49 Domínio sobre 2 elementos aleatórios",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DODGE] 20 Esquiva",
+      "[#charac HP] 161 PV",
+      "[#charac RES_IN_PERCENT] 23 Resistência elementar",
+      "[#charac CRITICAL_BONUS] 10 Domínio de crítico"
+    ]
+  },
+  {
+    "id": 23027,
+    "name": "Pá de Gelo",
+    "description": "Esta pá tem a habilidade de cortar o aço como se fosse manteiga, mas não é recomendada se você for cair em um buraco de gelo!",
+    "level": 125,
+    "rarity": 4,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac MP] 1 PM",
+      "[#charac RES_IN_PERCENT] 25 Resistência elementar",
+      "[#charac DMG_IN_PERCENT] 104 Domínio sobre 2 elementos aleatórios",
+      "[#charac HP] 259 PV",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac BLOCK] 5% de Parada",
+      "[#charac DODGE] 70 Esquiva"
+    ]
+  },
+  {
+    "id": 23028,
+    "name": "Pá de Gelo",
+    "description": "Esta pá tem a habilidade de cortar o aço como se fosse manteiga, mas não é recomendada se você for cair em um buraco de gelo!",
+    "level": 122,
+    "rarity": 3,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac HP] 196 PV",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac MP] 1 PM",
+      "[#charac RES_IN_PERCENT] 25 Resistência elementar",
+      "[#charac DMG_IN_PERCENT] 94 Domínio sobre 2 elementos aleatórios",
+      "[#charac BLOCK] 3% de Parada",
+      "[#charac DODGE] 40 Esquiva"
+    ]
+  },
+  {
+    "id": 23346,
+    "name": "Vassoura",
+    "description": "Você dará conta de todos os seus inimigos com uma varrida dessa escova.",
+    "level": 93,
+    "rarity": 3,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac BLOCK] 2% de Parada",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DODGE] 50 Esquiva",
+      "[#charac HP] 132 PV",
+      "[#charac RES_IN_PERCENT] 40 Resistência elementar",
+      "[#charac BERSERK_DMG] 40 Domínio de Berserk",
+      "[#charac DMG_IN_PERCENT] 61 Domínio sobre 2 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 23537,
+    "name": "Ancinho Ratto",
+    "description": "Quando a Sra. Silvestre inventou esta ferramenta, para recolher folhas mortas, o Sr. Matador não hesitou em pegá-la para fazer o mesmo com os cadáveres dos inimigos. Cada um na sua.",
+    "level": 80,
+    "rarity": 3,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac TACKLE] 25 Bloqueio",
+      "[#charac HP] 123 PV",
+      "[#charac DMG_IN_PERCENT] 57 Domínio sobre 1 elemento aleatório",
+      "[#charac BLOCK] 2% de Parada",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DODGE] 25 Esquiva",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac RANGED_DMG] 18 Domínio de distância"
+    ]
+  },
+  {
+    "id": 23664,
+    "name": "Pá Ágis",
+    "description": "Esta era a pá preferida dos Enutrofs piratas, pois ela é equipada com um sensor de tesouros. Não é muito eficaz, tendo em vista o número de cuecas usadas encontradas graças a ela...",
+    "level": 64,
+    "rarity": 3,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac DODGE] 15 Esquiva",
+      "[#charac TACKLE] 15 Bloqueio",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 47 Domínio sobre 2 elementos aleatórios",
+      "[#charac HP] 117 PV",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac CRITICAL_RES] 10 Resistência crítica",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar"
+    ]
+  },
+  {
+    "id": 23790,
+    "name": "Pá a Vapor",
+    "description": "Ótima para desenterrar grandes pedras e seixos.",
+    "level": 47,
+    "rarity": 3,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac HP] 70 PV",
+      "[#charac RES_IN_PERCENT] 22 Resistência a 2 elementos aleatórios",
+      "[#charac MELEE_DMG] 30 Domínio de curta distância",
+      "[#charac BLOCK] 2% de Parada"
+    ]
+  },
+  {
+    "id": 23858,
+    "name": "Pá Tradicional ",
+    "description": "Essa pá é útil para desenterrar todo o tipo de partes e pedaços.",
+    "level": 80,
+    "rarity": 4,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac RANGE] 1 Alcance",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac HP] 132 PV",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac RES_IN_PERCENT] 18 Resistência elementar",
+      "[#charac DMG_IN_PERCENT] 64 Domínio sobre 1 elemento aleatório",
+      "[#charac DODGE] 13 Esquiva",
+      "[#charac TACKLE] 13 Bloqueio"
+    ]
+  },
+  {
+    "id": 23865,
+    "name": "Zumbido",
+    "description": "Ele nos move com suas batidas subterrâneas e nos faz exercitar. Por causa de suas curvas irregulares, só traz benefícios para quem o carrega.",
+    "level": 140,
+    "rarity": 4,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac RES_IN_PERCENT] 50 Resistência elementar",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac HP] 292 PV",
+      "[#charac DMG_IN_PERCENT] 210 Domínio sobre 2 elementos aleatórios",
+      "[#charac TACKLE] 90 Bloqueio"
+    ]
+  },
+  {
+    "id": 24002,
+    "name": "Pá de Enutrof",
+    "description": "A pá desenterra os tesouros mais inestimáveis, a chave fecha os cofres mais seguros, a arma dissuade os loucos de aproximarem-se.",
+    "level": 200,
+    "rarity": 3,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac FEROCITY] 5% de golpe crítico",
+      "[#charac MELEE_DMG] 350 Domínio de curta distância",
+      "[#charac RES_EARTH_PERCENT] 69 Resistência à terra",
+      "[#charac RES_WATER_PERCENT] 69 Resistência à água",
+      "[#charac MP] 1 PM",
+      "[#charac DODGE] 100 Esquiva",
+      "[#charac HP] 489 PV"
+    ]
+  },
+  {
+    "id": 24016,
+    "name": "Pá de Enutrof",
+    "description": "A pá desenterra os tesouros mais inestimáveis, a chave fecha os cofres mais seguros, a arma dissuade os loucos de aproximarem-se.",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac RES_WATER_PERCENT] 69 Resistência à água",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac RES_EARTH_PERCENT] 69 Resistência à terra",
+      "[#charac HP] 504 PV",
+      "[#charac MP] 1 PM",
+      "[#charac MELEE_DMG] 440 Domínio de curta distância",
+      "[#charac DODGE] 100 Esquiva"
+    ]
+  },
+  {
+    "id": 24636,
+    "name": "A Chamada",
+    "description": "Essa pá nunca faltará ao chamado!",
+    "level": 80,
+    "rarity": 2,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac WP] 1 PW",
+      "[#charac DMG_IN_PERCENT] 37 Domínio sobre 2 elementos aleatórios",
+      "[#charac DODGE] 12 Esquiva",
+      "[#charac TACKLE] 12 Bloqueio",
+      "[#charac HP] 109 PV",
+      "[#charac MELEE_DMG] 18 Domínio de curta distância"
+    ]
+  },
+  {
+    "id": 24637,
+    "name": "A Chamada",
+    "description": "Essa pá nunca faltará ao chamado!",
+    "level": 80,
+    "rarity": 3,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac WP] 1 PW",
+      "[#charac DODGE] 15 Esquiva",
+      "[#charac TACKLE] 15 Bloqueio",
+      "[#charac HP] 139 PV",
+      "[#charac LEADERSHIP] 1 Controle",
+      "[#charac MELEE_DMG] 24 Domínio de curta distância",
+      "[#charac DMG_IN_PERCENT] 43 Domínio sobre 2 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 24686,
+    "name": "Ocultadora",
+    "description": "Esta pá vai cavar num instante a cova dos seus inimigos.",
+    "level": 170,
+    "rarity": 4,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac HP] 175 PV",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac MP] 1 PM",
+      "[#charac RANGED_DMG] 72 Domínio de distância",
+      "[#charac DMG_IN_PERCENT] 106 Domínio sobre 3 elementos aleatórios",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac DODGE] 70 Esquiva",
+      "[#charac RES_EARTH_PERCENT] 49 Resistência à terra",
+      "[#charac RES_WATER_PERCENT] 49 Resistência à água"
+    ]
+  },
+  {
+    "id": 25125,
+    "name": "Âncora",
+    "description": "Não use esta pá para cavar, pois ela pode ficar enterrada no solo...",
+    "level": 49,
+    "rarity": 3,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac WP] 1 PW",
+      "[#charac HP] 61 PV",
+      "[#charac FEROCITY] 2% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 32 Domínio sobre 1 elemento aleatório"
+    ]
+  },
+  {
+    "id": 25320,
+    "name": "Pá Koko",
+    "description": "Algumas pessoas têm a habilidade de colher Kokos com esta pá. Mas a maioria a usa para fazer torta de chocolate.",
+    "level": 60,
+    "rarity": 2,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac RANGE] 1 Alcance",
+      "[#charac HP] 62 PV",
+      "[#charac DODGE] 20 Esquiva",
+      "[#charac RANGED_DMG] 25 Domínio de distância",
+      "[#charac RES_IN_PERCENT] 33 Resistência a 1 elemento aleatório"
+    ]
+  },
+  {
+    "id": 25321,
+    "name": "Pá Koko",
+    "description": "Algumas pessoas têm a habilidade de colher Kokos com esta pá. Mas a maioria a usa para fazer torta de chocolate.",
+    "level": 63,
+    "rarity": 3,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac RANGE] 1 Alcance",
+      "[#charac HP] 92 PV",
+      "[#charac DODGE] 20 Esquiva",
+      "[#charac RANGED_DMG] 37 Domínio de distância",
+      "[#charac RES_IN_PERCENT] 33 Resistência a 1 elemento aleatório"
+    ]
+  },
+  {
+    "id": 25499,
+    "name": "Pá Nabi",
+    "description": "Dizem que esta pá dá um bônus por matar Lepowides... mas provavelmente é besteira.",
+    "level": 92,
+    "rarity": 3,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac HP] 55 PV",
+      "[#charac RES_EARTH_PERCENT] 56 Resistência à terra",
+      "[#charac FEROCITY] 3% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 65 Domínio sobre 3 elementos aleatórios",
+      "[#charac RES_AIR_PERCENT] 56 Resistência ao ar"
+    ]
+  },
+  {
+    "id": 25555,
+    "name": "Pá dos Riktus",
+    "description": "Seu sorriso cresce a cada tesouro que você desenterra!",
+    "level": 102,
+    "rarity": 2,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac DMG_IN_PERCENT] 51 Domínio sobre 1 elemento aleatório",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac AP] 1 PA",
+      "[#charac HP] 160 PV",
+      "[#charac FEROCITY] 4% de golpe crítico"
+    ]
+  },
+  {
+    "id": 25556,
+    "name": "Pá dos Riktus",
+    "description": "Seu sorriso cresce a cada tesouro que você desenterra!",
+    "level": 110,
+    "rarity": 3,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac HP] 231 PV",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 75 Domínio sobre 1 elemento aleatório",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar"
+    ]
+  },
+  {
+    "id": 25586,
+    "name": "Rizoma Dourado",
+    "description": "Esta pá de jardinagem é usada para cortar os rizomas de ervas daninhas. Também é uma arma excelente quando usada para cortar outras coisas.",
+    "level": 107,
+    "rarity": 2,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac HP] 95 PV",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac RANGED_DMG] 62 Domínio de distância",
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac AP] 1 PA"
+    ]
+  },
+  {
+    "id": 25587,
+    "name": "Rizoma Dourado",
+    "description": "Esta pá de jardinagem é usada para cortar os rizomas de ervas daninhas. Também é uma arma excelente quando usada para cortar outras coisas.",
+    "level": 110,
+    "rarity": 3,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac RES_IN_PERCENT] 20 Resistência elementar",
+      "[#charac AP] 1 PA",
+      "[#charac HP] 131 PV",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac RANGED_DMG] 84 Domínio de distância"
+    ]
+  },
+  {
+    "id": 25625,
+    "name": "Pá para Poça",
+    "description": "Sempre tenha esta pá à mão para tirar aquelas poças nojentas do caminho em frente à casa.",
+    "level": 116,
+    "rarity": 2,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac MELEE_DMG] 48 Domínio de curta distância",
+      "[#charac RES_IN_PERCENT] 100 Resistência a 1 elemento aleatório",
+      "[#charac WP] 1 PW",
+      "[#charac HP] 105 PV",
+      "[#charac FEROCITY] 2% de golpe crítico"
+    ]
+  },
+  {
+    "id": 25626,
+    "name": "Pá para Poça",
+    "description": "Sempre tenha esta pá à mão para tirar aquelas poças nojentas do caminho em frente à casa.",
+    "level": 124,
+    "rarity": 3,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac MELEE_DMG] 72 Domínio de curta distância",
+      "[#charac RES_IN_PERCENT] 117 Resistência a 1 elemento aleatório",
+      "[#charac AP] 1 PA",
+      "[#charac WP] 1 PW",
+      "[#charac HP] 129 PV",
+      "[#charac FEROCITY] 3% de golpe crítico"
+    ]
+  },
+  {
+    "id": 25627,
+    "name": "Pá para Poça",
+    "description": "Sempre tenha esta pá à mão para tirar aquelas poças nojentas do caminho em frente à casa.",
+    "level": 125,
+    "rarity": 4,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac MELEE_DMG] 96 Domínio de curta distância",
+      "[#charac RES_IN_PERCENT] 117 Resistência a 1 elemento aleatório",
+      "[#charac AP] 1 PA",
+      "[#charac WP] 1 PW",
+      "[#charac HP] 170 PV"
+    ]
+  },
+  {
+    "id": 26300,
+    "name": "Pá Risonha",
+    "description": "Mesmo sendo meio chata por rir o tempo todo, esta pá será uma boa companheira de viagem.",
+    "level": 200,
+    "rarity": 3,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac FEROCITY] 5% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 306 Domínio sobre 3 elementos aleatórios",
+      "[#charac RES_IN_PERCENT] 45 Resistência elementar",
+      "[#charac AP] 1 PA",
+      "[#charac HP] 481 PV",
+      "[#charac TACKLE] 50 Bloqueio",
+      "[#charac DODGE] 50 Esquiva"
+    ]
+  },
+  {
+    "id": 26319,
+    "name": "Pá Risonha",
+    "description": "Mesmo sendo meio chata por rir o tempo todo, esta pá será uma boa companheira de viagem.",
+    "level": 200,
+    "rarity": 4,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac DMG_IN_PERCENT] 341 Domínio sobre 3 elementos aleatórios",
+      "[#charac RES_IN_PERCENT] 50 Resistência elementar",
+      "[#charac HP] 520 PV",
+      "[#charac TACKLE] 60 Bloqueio",
+      "[#charac DODGE] 60 Esquiva",
+      "[#charac FEROCITY] 6% de golpe crítico"
+    ]
+  },
+  {
+    "id": 26607,
+    "name": "Pá Mecânica",
+    "description": "Esta pá é ideal para os preguiçosos. Basta apertar o botão para que ela faça o trabalho em seu lugar. Só que, até agora, ninguém conseguiu encontrá-lo...",
+    "level": 164,
+    "rarity": 2,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac DODGE] 50 Esquiva",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 98 Domínio sobre 2 elementos aleatórios",
+      "[#charac RES_IN_PERCENT] 30 Resistência elementar",
+      "[#charac AP] 1 PA",
+      "[#charac HP] 222 PV"
+    ]
+  },
+  {
+    "id": 26608,
+    "name": "Pá Mecânica",
+    "description": "Esta pá é ideal para os preguiçosos. Basta apertar o botão para que ela faça o trabalho em seu lugar. Só que, até agora, ninguém conseguiu encontrá-lo...",
+    "level": 169,
+    "rarity": 3,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac HP] 343 PV",
+      "[#charac DODGE] 50 Esquiva",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 140 Domínio sobre 2 elementos aleatórios",
+      "[#charac RES_IN_PERCENT] 30 Resistência elementar"
+    ]
+  },
+  {
+    "id": 26664,
+    "name": "Pá Mecânica",
+    "description": "Esta pá é ideal para os preguiçosos. Basta apertar o botão para que ela faça o trabalho em seu lugar. Só que, até agora, ninguém conseguiu encontrá-lo...",
+    "level": 170,
+    "rarity": 4,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac HP] 410 PV",
+      "[#charac DODGE] 50 Esquiva",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 177 Domínio sobre 2 elementos aleatórios",
+      "[#charac RES_IN_PERCENT] 30 Resistência elementar"
+    ]
+  },
+  {
+    "id": 26806,
+    "name": "Pá Lixir",
+    "description": "Besuntada de xarope e álcool, ela atrai moscas e aborrecimentos.",
+    "level": 151,
+    "rarity": 2,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac RANGE] 1 Alcance",
+      "[#charac HP] 141 PV",
+      "[#charac TACKLE] 20 Bloqueio",
+      "[#charac DODGE] 20 Esquiva",
+      "[#charac MP] 1 PM",
+      "[#charac DMG_IN_PERCENT] 76 Domínio sobre 3 elementos aleatórios",
+      "[#charac RES_IN_PERCENT] 30 Resistência elementar"
+    ]
+  },
+  {
+    "id": 26807,
+    "name": "Pá Lixir",
+    "description": "Besuntada de xarope e álcool, ela atrai moscas e aborrecimentos.",
+    "level": 154,
+    "rarity": 3,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac MP] 1 PM",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac HP] 149 PV",
+      "[#charac TACKLE] 40 Bloqueio",
+      "[#charac DODGE] 40 Esquiva",
+      "[#charac DMG_IN_PERCENT] 106 Domínio sobre 3 elementos aleatórios",
+      "[#charac RES_IN_PERCENT] 30 Resistência elementar"
+    ]
+  },
+  {
+    "id": 26808,
+    "name": "Pá Lixir",
+    "description": "Besuntada de xarope e álcool, ela atrai moscas e aborrecimentos.",
+    "level": 155,
+    "rarity": 4,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac MP] 1 PM",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac HP] 171 PV",
+      "[#charac TACKLE] 40 Bloqueio",
+      "[#charac DODGE] 40 Esquiva",
+      "[#charac DMG_IN_PERCENT] 149 Domínio sobre 3 elementos aleatórios",
+      "[#charac RES_IN_PERCENT] 35 Resistência elementar"
+    ]
+  },
+  {
+    "id": 27796,
+    "name": "Pá Dimensional",
+    "description": "Siga onde vão seus pés.",
+    "level": 209,
+    "rarity": 2,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac HP] 402 PV",
+      "[#charac DODGE] 71 Esquiva",
+      "[#charac FEROCITY] 4% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 234 Domínio sobre 3 elementos aleatórios",
+      "[#charac AP] 1 PA",
+      "[#charac MELEE_DMG] 85 Domínio de curta distância",
+      "[#charac RES_FIRE_PERCENT] 42 Resistência ao fogo",
+      "[#charac RES_WATER_PERCENT] 42 Resistência à água",
+      "[#charac RES_AIR_PERCENT] 42 Resistência ao ar"
+    ]
+  },
+  {
+    "id": 27797,
+    "name": "Pá Dimensional",
+    "description": "Siga onde vão seus pés.",
+    "level": 212,
+    "rarity": 3,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac DODGE] 76 Esquiva",
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 279 Domínio sobre 3 elementos aleatórios",
+      "[#charac MELEE_DMG] 125 Domínio de curta distância",
+      "[#charac AP] 1 PA",
+      "[#charac HP] 429 PV",
+      "[#charac RES_FIRE_PERCENT] 42 Resistência ao fogo",
+      "[#charac RES_WATER_PERCENT] 42 Resistência à água",
+      "[#charac RES_AIR_PERCENT] 42 Resistência ao ar"
+    ]
+  },
+  {
+    "id": 27798,
+    "name": "Pá Dimensional",
+    "description": "Siga onde vão seus pés.",
+    "level": 215,
+    "rarity": 4,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac FEROCITY] 6% de golpe crítico",
+      "[#charac DMG_IN_PERCENT] 335 Domínio sobre 3 elementos aleatórios",
+      "[#charac MELEE_DMG] 170 Domínio de curta distância",
+      "[#charac RES_FIRE_PERCENT] 42 Resistência ao fogo",
+      "[#charac AP] 1 PA",
+      "[#charac HP] 470 PV",
+      "[#charac DODGE] 95 Esquiva",
+      "[#charac RES_WATER_PERCENT] 42 Resistência à água",
+      "[#charac RES_AIR_PERCENT] 42 Resistência ao ar"
+    ]
+  },
+  {
+    "id": 28242,
+    "name": "Pá do Corajurso",
+    "description": "Uma bela pazada para refrescar a memória dos seus adversários.",
+    "level": 215,
+    "rarity": 3,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac MELEE_DMG] 563 Domínio de curta distância",
+      "[#charac RES_IN_PERCENT] 83 Resistência a 2 elementos aleatórios",
+      "[#charac AP] 1 PA",
+      "[#charac HP] 334 PV"
+    ]
+  },
+  {
+    "id": 28243,
+    "name": "Pá do Corajurso",
+    "description": "Uma bela pazada para refrescar a memória dos seus adversários.",
+    "level": 215,
+    "rarity": 4,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac AP] 1 PA",
+      "[#charac HP] 368 PV",
+      "[#charac MELEE_DMG] 678 Domínio de curta distância",
+      "[#charac RES_IN_PERCENT] 83 Resistência a 2 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 29479,
+    "name": "Vylus Shushu",
+    "description": "Dizem que esta pá era usada sobretudo para dar umas pauladas em criança levada. Ela foi forjada por um Ecaflip de comportamento imprevisível. Às vezes ele é muito simpático, mas tem alguns hábitos discutíveis, como amarrar seus servos no aquecedor.\nNão era um grande guerreiro, mas sua imprevisibilidade mítica ficou na memória. A lenda diz que, certa vez, sozinho e cercado por guerreiros temíveis, ele derrubou cinco adversários antes de sucumbir aos ferimentos.",
+    "level": 230,
+    "rarity": 3,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac MP] 1 PM",
+      "[#charac RES_IN_PERCENT] 40 Resistência elementar",
+      "[#charac HP] 706 PV",
+      "[#charac TACKLE] 120 Bloqueio",
+      "[#charac DODGE] 120 Esquiva",
+      "[#charac DMG_IN_PERCENT] 566 Domínio sobre 3 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 29480,
+    "name": "Vylus Shushu",
+    "description": "Dizem que esta pá era usada sobretudo para dar umas pauladas em criança levada. Ela foi forjada por um Ecaflip de comportamento imprevisível. Às vezes ele é muito simpático, mas tem alguns hábitos discutíveis, como amarrar seus servos no aquecedor.\nNão era um grande guerreiro, mas sua imprevisibilidade mítica ficou na memória. A lenda diz que, certa vez, sozinho e cercado por guerreiros temíveis, ele derrubou cinco adversários antes de sucumbir aos ferimentos.",
+    "level": 230,
+    "rarity": 4,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac MP] 1 PM",
+      "[#charac HP] 801 PV",
+      "[#charac TACKLE] 140 Bloqueio",
+      "[#charac DODGE] 140 Esquiva",
+      "[#charac DMG_IN_PERCENT] 647 Domínio sobre 3 elementos aleatórios",
+      "[#charac RES_IN_PERCENT] 40 Resistência elementar"
+    ]
+  },
+  {
+    "id": 29628,
+    "name": "Pá Ancestral",
+    "description": "Esta pá tem dupla função: cavar uma pequena cova para os seus inimigos e fazer com que eles descansem ali para sempre.",
+    "level": 230,
+    "rarity": 3,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac TACKLE] 210 Bloqueio",
+      "[#charac HP] 639 PV",
+      "[#charac BLOCK] 6% de Parada",
+      "[#charac DODGE] 210 Esquiva",
+      "[#charac MP] 2 PM",
+      "[#charac AP] -1 PA máx.",
+      "[#charac RES_IN_PERCENT] 50 Resistência elementar",
+      "[#charac DMG_IN_PERCENT] 400 Domínio sobre 3 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 29629,
+    "name": "Pá Ancestral",
+    "description": "Esta pá tem dupla função: cavar uma pequena cova para os seus inimigos e fazer com que eles descansem ali para sempre.",
+    "level": 230,
+    "rarity": 4,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac TACKLE] 280 Bloqueio",
+      "[#charac HP] 687 PV",
+      "[#charac BLOCK] 6% de Parada",
+      "[#charac DODGE] 280 Esquiva",
+      "[#charac MP] 2 PM",
+      "[#charac AP] -1 PA máx.",
+      "[#charac RES_IN_PERCENT] 50 Resistência elementar",
+      "[#charac DMG_IN_PERCENT] 435 Domínio sobre 3 elementos aleatórios"
+    ]
+  },
+  {
+    "id": 29824,
+    "name": "Excavatus Shushu",
+    "description": "Útil para cavar a cova de seus inimigos, as vezes, só a mera visão desta pá já é o suficiente para convencer seus inimigos a cavar a própria cova.",
+    "level": 150,
+    "rarity": 3,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac DODGE] 57 Esquiva",
+      "[#charac DMG_IN_PERCENT] 59 Domínio sobre 3 elementos aleatórios",
+      "[#charac BLOCK] 3% de Parada",
+      "[#charac MP] 1 PM",
+      "[#charac HP] 230 PV",
+      "[#charac RANGE] 1 Alcance",
+      "[#charac RANGED_DMG] 30 Domínio de distância",
+      "[#charac BACKSTAB_BONUS] 14 Domínio de costas",
+      "[#charac RES_IN_PERCENT] 24 Resistência elementar",
+      "[#charac FEROCITY] 3% de golpe crítico"
+    ]
+  },
+  {
+    "id": 32331,
+    "name": "Pá Ancestral de Eli",
+    "description": "Este Enutrof não era só conhecido pela ganância. Ele também era um ferreiro extraordinário que criou muitos moldes.",
+    "level": 245,
+    "rarity": 6,
+    "slot": "Pá (duas mãos)",
+    "effects": [
+      "[#charac WP] 1 PW",
+      "[#charac AP] 1 PA",
+      "[#charac TACKLE] 80 Bloqueio",
+      "[#charac HP] 755 PV",
+      "[#charac RES_EARTH_PERCENT] 50 Resistência à terra",
+      "[#charac MELEE_DMG] 350 Domínio de curta distância",
+      "[#charac DMG_IN_PERCENT] 475 Domínio sobre 2 elementos aleatórios",
+      "[#charac RES_AIR_PERCENT] 50 Resistência ao ar",
+      "[#charac RES_WATER_PERCENT] 50 Resistência à água"
+    ]
+  }
+]
